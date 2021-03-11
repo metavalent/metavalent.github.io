@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: It's About
 permalink: /about/
 ---
 
-It's time.
+... time.
 
 ### Moving in Progress
 
