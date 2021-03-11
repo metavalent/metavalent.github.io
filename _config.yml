@@ -21,7 +21,7 @@
 title: Metavalent Stigmergy
 email: stigmergy+jekyll@metavalent.com
 description: >- # this means to ignore newlines until "baseurl:"
-How Consensus Realities Instantiate.
+  How Consensus Realities Instantiate.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "metavalent.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metavalent
