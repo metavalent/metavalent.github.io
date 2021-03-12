@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: It's About
 permalink: /about/
 ---
 
-Some information about you!
+... time.
 
-### More Information
+### Moving in Progress
 
-A place to include any other types of information that you'd like to include about yourself.
+Import from [metavalent.tumblr.com](metavalent.tumblr.com) ...
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
