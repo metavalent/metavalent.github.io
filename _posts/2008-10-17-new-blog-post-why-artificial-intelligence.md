@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-10-17T12:21:51-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/55079488/new-blog-post-why-artificial-intelligence

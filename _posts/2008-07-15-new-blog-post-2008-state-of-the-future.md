@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-07-15T04:03:35-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/42331388/new-blog-post-2008-state-of-the-future

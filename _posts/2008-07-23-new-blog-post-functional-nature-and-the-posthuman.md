@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-07-23T00:58:45-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/43246992/new-blog-post-functional-nature-and-the-posthuman

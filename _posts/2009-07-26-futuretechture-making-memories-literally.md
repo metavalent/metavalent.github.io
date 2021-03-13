@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2009-07-26T10:18:54-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/149641087/futuretechture-making-memories-literally

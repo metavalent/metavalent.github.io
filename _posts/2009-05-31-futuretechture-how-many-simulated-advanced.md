@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2009-05-31T07:00:20-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/115814538/futuretechture-how-many-simulated-advanced

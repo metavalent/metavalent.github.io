@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2009-09-25T14:08:39-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/196987222/futuretechture-bci-games-cots-brain-computer

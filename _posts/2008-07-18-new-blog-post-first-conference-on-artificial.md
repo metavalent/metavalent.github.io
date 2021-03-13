@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-07-18T17:49:38-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/42780736/new-blog-post-first-conference-on-artificial

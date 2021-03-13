@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-08-15T22:57:16-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/46175096/new-blog-post-bye-bye-blogger

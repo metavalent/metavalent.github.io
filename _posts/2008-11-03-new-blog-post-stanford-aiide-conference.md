@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-11-03T21:12:58-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/57864768/new-blog-post-stanford-aiide-conference

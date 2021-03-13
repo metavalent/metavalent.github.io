@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2009-07-14T17:57:25-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/141874109/futuretechture-a-semantic-network-representation

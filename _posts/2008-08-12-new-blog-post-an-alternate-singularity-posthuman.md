@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-08-12T11:52:48-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/45723587/new-blog-post-an-alternate-singularity-posthuman

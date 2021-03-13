@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: tumblr_import
 date: '2008-08-14T13:21:47-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/46003442/new-blog-post-teaching-matlab-in-7th-grade
