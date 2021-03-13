@@ -110,8 +110,8 @@ img {
   max-width: 100%;
 }
 
-// Rename fork button to "home" and add about button
-/*
+// Button positions
+
   .home {
     position:fixed;
     left:50%;
@@ -126,14 +126,14 @@ img {
   .about {
     position:fixed;
     left:50%;
-    margin-left:-308px;
+    margin-left:-250px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
     background-color: #FFE788;
   }
-*/
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
