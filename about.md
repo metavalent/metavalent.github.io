@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It's About
+title: "We're Inquiring, Together"
 permalink: /about/
 ---
 
