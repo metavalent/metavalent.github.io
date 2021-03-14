@@ -4,7 +4,7 @@ title: A Post-Automation Era Pie Day
 published: true
 ---
 
-## A Post-Automation Era Pie Day
+## Let's celebrate with the post-pandemic Share-the-Pie Act of 2021
 
 The fact that I'm writing in this space, using these tools, and that you are reading this text, by way of the affordances of your tools, is all the empirical evidence required to demonstrate beyond a shadow of a doubt, that we have successfully achieved a great deal of the Star Trek technology that all Americans have grown up with, beginning with late Boomers and Gen-X.
 
