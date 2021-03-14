@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tumblr_import
+title: #futuretechture The Neuro Revolution
 date: '2009-08-23T05:15:23-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/169704619/futuretechture-the-neuro-revolution-tonight-on

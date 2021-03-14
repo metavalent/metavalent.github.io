@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tumblr_import
+title: #singularityu team project demo on car-sharing
 date: '2009-08-19T13:26:31-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/166857631/rt-salimismail-just-saw-a-singularityu-team

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tumblr_import
+title: #futuretechture Asimo Controlled by BCI
 date: '2009-03-31T14:22:34-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/91730172/futuretechture-asimo-controlled-by-bci
