@@ -8,5 +8,5 @@ permalink: /about/
 
 ### Moving in Progress
 
-Import from [metavalent.tumblr.com](metavalent.tumblr.com) ...
+Import from [https://metavalent.tumblr.com](metavalent.tumblr.com) ...
 
