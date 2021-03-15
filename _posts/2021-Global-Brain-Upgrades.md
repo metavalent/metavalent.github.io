@@ -8,4 +8,4 @@ As [Cal Newport was saying](https://youtu.be/uNVXzs0HuTo) ...
 
 Re: Is a [Big Tech Quake](https://twitter.com/Pan_Quake/status/1371295085682380800) at hand?
 
-![](images/Screenshot_20210315-111639.png)
+![](/images/Screenshot_20210315-111639.png)
