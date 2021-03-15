@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Subliminal Probing for Private Information via EEG-Based BCI Devices
+published: true
 date: 2013-12-23 12:49
 author: metavalent
 comments: true

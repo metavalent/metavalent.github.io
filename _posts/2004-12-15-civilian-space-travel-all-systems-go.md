@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Civilian Space Travel: All Systems Go
+published: true
 date: 2004-12-15 10:14
 author: metavalent
 comments: true
