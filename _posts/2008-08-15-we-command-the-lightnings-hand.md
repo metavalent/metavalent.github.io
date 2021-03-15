@@ -1,12 +1,20 @@
 ---
 layout: post
-title: We Command the Lightning’s Hand
-date: '2008-08-15T11:32:19-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/46123610/we-command-the-lightnings-hand
+title: We Command the Lightning's Hand
+date: 2008-08-15 13:17
+author: metavalent
+comments: true
+categories: [metavalent, physics, science friday]
 ---
-[We Command the Lightning’s Hand](http://metavalent.com/?p=896)  
+A little Science Friday fun for those Trailing Boomers who might recall that dreaded Kansas epic anthem. 
 
-A little Science Friday fun for those Trailing Boomers who recall the dreaded Kansas epic:  
-<embed src="http://www.sciencefriday.com/tools/players/mediaplayer.swf" width="320" height="255" allowfullscreen="true" wmode="opaque" flashvars="&amp;file=http://www.podtrac.com/pts/redirect.flv?http://media.libsyn.com/media/sciencefriday/lightning-081508.flv&amp;height=255ℑ=http://www.sciencefriday.com/video/videoicon/lightningicon.jpg&amp;callback=http://www.sciencefriday.com/test/vidstats.php&amp;id=10139&amp;width=320&amp;frontcolor=0xffffff&amp;backcolor=0xeeeecc&amp;lightcolor=0xFFFFFF&amp;showdigits=false&amp;autostart=false&amp;showicons=false&amp;usefullscreen=true&amp;wmode=opaque"></embed>
 
+
+<em>Duly noted: sometimes only the top half of the first video frame is loading on initial page load. If video is started, launched to full screen, then returned to embed; that fixes it. But will try to track down whatever is encumbering intial page load. Thanks for patience with life's perpetual beta test.
+</em>
+
+UPDATE: Can anyone help me to understand what THIS char is?<div align="center" style="font-size:200%;">ℑ</div> It's included in the embed string for the SciFri embedded player, above, apparently in service to stats server. Like this:
+
+<code>redirect.flv?http://media.libsyn.com/media/sciencefriday/lightning-081508.flv&amp;height=255<strong>ℑ</strong>=http://www.sciencefriday.com/video</code>
+
+Is that char right, or a typo? Thanks!

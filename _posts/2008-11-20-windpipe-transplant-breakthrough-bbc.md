@@ -1,15 +1,9 @@
 ---
 layout: post
 title: Windpipe transplant breakthrough [BBC]
-date: '2008-11-20T15:41:38-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/60781021/windpipe-transplant-breakthrough-bbc
+date: 2008-11-20 16:42
+author: metavalent
+comments: true
+categories: [biohacking, metavalent, war on aging]
 ---
-[Windpipe transplant breakthrough [BBC]](http://metavalent.com/?p=974)  
-
-BBC [reporting](http://news.bbc.co.uk/2/hi/health/7735696.stm):
-
-> Scientists have successfully carried out the [world’s first tissue-engineered whole organ transplant](http://news.bbc.co.uk/1/hi/health/7736549.stm), without the need for anti-rejection drugs.
-
-Full journal text available…
-
+BBC <a href="http://news.bbc.co.uk/2/hi/health/7735696.stm">reporting</a>:<blockquote>Scientists have successfully carried out the <a href="http://news.bbc.co.uk/1/hi/health/7736549.stm">world's first tissue-engineered whole organ transplant</a>, without the need for anti-rejection drugs.</blockquote>Full journal text available at <a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)61599-8/fulltext">The Lancet: Tissue-engineered airway replacement</a>.

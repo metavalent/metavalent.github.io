@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Rapamycin & Caloric Restriction Findings
-date: '2009-07-10T07:32:06-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/139146087/rapamycin-caloric-restriction-findings
+date: 2009-07-10 08:25
+author: metavalent
+comments: true
+categories: [biohacking, metavalent, war on aging]
 ---
-[Rapamycin & Caloric Restriction Findings](http://metavalent.com/?p=1064)  
+As reported in <a href="http://online.wsj.com/article/SB124709861851715333.html">WSJ</a> and <a href="http://www.technologyreview.com/biomedicine/22974/">Technology Review</a>:<blockquote>A study published Wednesday found that rapamycin, a drug used in organ transplants, increased the life span of mice by 9% to 14%, the first definitive case in which a chemical has been shown to extend the life span of normal mammals.
 
-As reported in [WSJ](http://online.wsj.com/article/SB124709861851715333.html) and [Technology Review](http://www.technologyreview.com/biomedicine/22974/):
+Anti-aging researchers also expect a second study, to be released this week, will show that sharply cutting the calorie intake of monkeys extends their lives substantially. The experiment is said to be the first technique shown to retard aging in primates. SOURCE: WSJ</blockquote>
 
-> A study published Wednesday found that rapamycin, a drug used in organ transplants, increased the life span of mice by 9% to 14%, the first…
 

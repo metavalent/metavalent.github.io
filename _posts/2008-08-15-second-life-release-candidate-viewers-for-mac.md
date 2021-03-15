@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Second Life Release Candidate Viewers for Mac
-date: '2008-08-15T16:32:30-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/46148634/second-life-release-candidate-viewers-for-mac
+date: 2008-08-15 17:40
+author: metavalent
+comments: true
+categories: [metavalent]
 ---
-[Second Life Release Candidate Viewers for Mac](http://metavalent.com/?p=902)  
-
-Might help any SL friends who bother to come back after this afternoon’s abysmal slashdotting of my servers. Ug. Wish could afford more bandwidth, but in the meantime, thanks for patience and…
-
+Might help any SL friends who bother to come back after <a href="http://www.dreamhoststatus.com/2008/08/15/networkrouter-problems/">this afternoon's network issues</a>. Ug, always at the most inconvenient time, huh? Wish we could justify more bandwidth or a dedicated server, but until some kind of revenue model justifies that, I can only thank you for the patience and hope <a href="http://metavalent.com/jing/SL.RCviewer.2008-08-15_1315.swf">this SWF</a> helps to illustrate where to get the RC SL Viewer described in-world today. Feel free to post a comment if any questions.

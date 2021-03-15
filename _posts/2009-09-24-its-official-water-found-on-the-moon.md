@@ -1,15 +1,9 @@
 ---
 layout: post
-title: 'It’s Official: Water Found on the Moon'
-date: '2009-09-24T10:40:58-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/196043324/its-official-water-found-on-the-moon
+title: It's Official: Water Found on the Moon
+date: 2009-09-24 08:12
+author: metavalent
+comments: true
+categories: [metavalent, Moons, space, Technology/Internet]
 ---
-[It’s Official: Water Found on the Moon](http://metavalent.com/?p=1118)  
-
-[![](http://api.tweetmeme.com/imagebutton.gif?url=http%3A%2F%2Fmetavalent.com%2F%3Fp%3D1118)](http://api.tweetmeme.com/share?url=http%3A%2F%2Fmetavalent.com%2F%3Fp%3D1118)
-
-I know you know. But [this is just too momentous](http://www.space.com/scienceastronomy/090923-moon-water-discovery.html) to escape personal archives.
-
-> Since man first touched the moon and brought pieces of it back to Earth, scientists have thought that…
-
+I know you know. But <a href="http://www.space.com/scienceastronomy/090923-moon-water-discovery.html">this is just too momentous</a> to escape personal archives.<blockquote>Since man first touched the moon and brought pieces of it back to Earth, scientists have thought that the lunar surface was bone dry. But new observations from three different spacecraft have put this notion to rest with what has been called "unambiguous evidence" of water across the surface of the moon.</blockquote>"Humanity may be granted an unexpected giant step to the stars. But we must have the guts to actually take it." <a href="http://www.space.com/common/media/show/player.php?show_id=37&amp;ep=1">Video</a> Credit: Thomas Lucas &amp; Dave Brody
