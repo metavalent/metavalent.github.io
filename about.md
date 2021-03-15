@@ -4,7 +4,7 @@ title: "We're Inquiring, Together"
 permalink: /about/
 ---
 
-What is Metavalent Stigmergy? I propose that Metavalent Stigmergy is the process by which new default consensus realities instantiate.
+What is Metavalent Stigmergy? I propose that [Metavalent Stigmergy](https://patreon.com/metavalent) is the process by which new default consensus realities instantiate.
 
 If Picasso worked with words and non-symbolic concepts instead of paint, and had access to a kind of fledgling global brain, of sorts, what might h have created? Am I arrogantly equating myself to Picasso with such a question? Maybe. Or, I'm acknowledging some kinds of similar afflictions of perception and interaction with my environment, a lifelong schizoid kind of desire for some semblance of a space within which I can hear my own thoughts; or what appears to subjective consciousness as "one's own creative voice," as distinct from the overwhelming invasion of demanding thoughts of all of the humans surrounding me. 
 
@@ -24,10 +24,10 @@ If you've read this far, I'm deeply impressed and honored. Thank you for your in
 
 So, perhaps some the best things we can attempt as interstitial guerilla-wordfare-uplift-agents and interdimensional negativity-counter-insurgents is to practice:
 
-Holding Digital & Physical Space with SERENITY
-Removing Online & Offline Obstacles with KINDNESS
-Reading and Listening Deeply with UNDERSTANDING
-Seeing and Responding Clearly with COMPASSION
+* Holding Digital & Physical Space with SERENITY\
+* Removing Online & Offline Obstacles with KINDNESS\
+* Reading and Listening Deeply with UNDERSTANDING\
+* Seeing and Responding Clearly with COMPASSION
 
 But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest ANXIETY and deepest DENIAL, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to die with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
 
