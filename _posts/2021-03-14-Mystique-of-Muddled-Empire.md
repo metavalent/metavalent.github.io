@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mystique of Muddle Empire
+title: Mystique of Muddled Empire
 published: true
 ---
 ![](/images/image_85388203-b172-4c83-ba24-6347830d8d0c20210314_203650.jpg)
