@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You've got to find what you love, Jobs says
-date - 2005-11-21 12:58
+date: 2005-11-21 12:58
 author: metavalent
 comments: true
 categories: [Uncategorized]

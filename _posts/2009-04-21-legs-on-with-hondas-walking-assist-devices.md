@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legs-on with Honda's walking-assist devices
-date - 2009-04-21 06:56
+date: 2009-04-21 06:56
 author: metavalent
 comments: true
 categories: [futurism, metavalent, Image]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RE-Imagining the Internet
-date - 2006-09-26 18:09
+date: 2006-09-26 18:09
 author: metavalent
 comments: true
 categories: [futurism, Uncategorized]

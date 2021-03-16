@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Word - $299 vs ajaxWrite: $0
+title: Microsoft Word $299 vs ajaxWrite $0
 date: 2006-03-30 21:32
 author: metavalent
 comments: true

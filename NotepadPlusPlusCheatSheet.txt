@@ -1,0 +1,339 @@
+Notepad++ Keyboard Shortcuts by MATH Academy
+
+Keyboard Shortcuts to boost your workflow on notepad++
+File Menu
+Shortcut ↓
+	
+Action ↓
+Ctrl-O
+	
+Open File
+Ctrl-N
+	
+New File
+Ctrl-S
+	
+Save File
+Ctrl-Alt-S
+	
+Save As
+Ctrl-S­hift-S
+	
+Save All
+Ctrl-P
+	
+Print
+Alt-F4
+	
+Exit
+Ctrl-Tab
+	
+Next Document (also shows list of open files). Can be disabled - see Settin­gs/­Pre­fer­enc­es/­Global
+Ctrl-S­hif­t-Tab
+	
+Previous Document (also shows list of open files). Can be disabled - see above
+Ctrl-N­umpadn
+	
+Go to the n-th document on tab bar, n between 1 and 9
+Ctrl-PgUp
+	
+Next document
+Ctrl-PgDn
+	
+Previous document
+Ctrl-W
+	
+Close Current Document
+View menu
+Shortcut ↓
+	
+Action ↓
+Ctrl-(­Key­pad­-/K­eypad+)
+	
+or Ctrl + mouse wheel button (if any) Zoom in (+ or up) and Zoom out (- or down)
+Ctrl-K­eypad/
+	
+Restore the original size from zoom
+F11
+	
+Toggle Full Screen Mode
+F12
+	
+Toggle Post-It Mode
+Ctrl-Alt-F
+	
+Collapse the Current Level
+Ctrl-A­lt-­Shift-F
+	
+Uncollapse the Current Level
+Alt-0
+	
+Fold All
+Alt-(1~8)
+	
+Collapse the Level (1~8)
+Alt-Sh­ift-0
+	
+Unfold All
+Alt-Sh­ift­-(1~8)
+	
+Uncollapse the Level (1~8)
+? menu
+Shortcut ↓
+	
+Action ↓
+F1
+	
+About
+Shift+F1
+	
+Help Contents
+	 	
+Edit Menu
+Shortcut ↓
+	
+Action ↓
+Ctrl-C
+	
+Copy
+Ctrl-I­nsert
+	
+Copy
+Ctrl-S­hift-T
+	
+Copy current line to clipboard
+Ctrl-X
+	
+Cut
+Shift-­Delete
+	
+Cut
+Ctrl-V
+	
+Paste
+Shift-­Insert
+	
+Paste
+Ctrl-Z
+	
+Undo
+Alt-Ba­ckspace
+	
+Undo
+Ctrl-Y
+	
+Redo
+Ctrl-A
+	
+Select All
+Alt-Sh­ift­-Arrow keys, or Alt + Left mouse click
+	
+Column Mode Select
+Ctrl + Left mouse click
+	
+Start new selected area. Only multiple stream areas can be selected this way.
+ALT-C
+	
+Column Editor
+Ctrl-D
+	
+Duplicate Current Line
+Ctrl-T
+	
+Switch the current line position with the previous line position
+Ctrl-S­hift-Up
+	
+Move Current Line, or current selection if a single stream, Up
+Ctrl-S­hif­t-Down
+	
+Move Current Line, or current selection if a single stream, Down
+Ctrl-L
+	
+Delete Current Line
+Ctrl-I
+	
+Split Lines
+Ctrl-J
+	
+Join Lines
+Ctrl-G
+	
+Launch GoToLine Dialog
+Ctrl-Q
+	
+Single line comment
+Ctrl-S­hift-Q
+	
+Single line uncomment
+Ctrl-K
+	
+Toggle single line comment
+Ctrl-S­hift-K
+	
+Block comment
+Tab (selection of one or more full lines)
+	
+Insert Tabulation or Space (Indent)
+Shift-Tab (selection of one or more full lines)
+	
+Remove Tabulation or Space (outdent)
+Ctrl-B­ack­Space
+	
+Delete to start of word
+Ctrl-D­elete
+	
+Delete to end of word
+Ctrl-S­hif­t-B­ack­Space
+	
+Delete to start of line
+Ctrl-S­hif­t-D­elete
+	
+Delete to end of line
+Ctrl-U
+	
+Convert to lower case
+Ctrl-S­hift-U
+	
+Convert to UPPER CASE
+Ctrl-B
+	
+Go to matching brace
+Ctrl-Space
+	
+Launch CallTip ListBox
+Ctrl-S­hif­t-Space
+	
+Launch Function Completion ListBox
+Ctrl-A­lt-­Space
+	
+Launch Path Completion ListBox
+Ctrl-Enter
+	
+Launch Word Completion ListBox
+Ctrl-Alt-R
+	
+Text Direction RTL
+Ctrl-Alt-L
+	
+Text Direction LTR
+Enter
+	
+Split line downwards, or create new line
+Shift-­Enter
+	
+Split line downwards, or create new line
+Ctrl-A­lt-­Enter
+	
+Insert new unintended line above current
+Ctrl-A­lt-­Shi­ft-­Enter
+	
+Insert new unintended line below current
+	 	
+Search menu
+Shortcut ↓
+	
+Action ↓
+Ctrl-H
+	
+Launch Find / Replace Dialog
+Ctrl-F
+	
+Launch Find Dialog
+F3
+	
+Find Next
+Shift-F3
+	
+Find Previous
+Ctrl-S­hift-F
+	
+Find in Files
+F7
+	
+Switch to Search results window (was Activate sub view before v5.2)
+Ctrl-A­lt-F3
+	
+Find (volatile) Next
+Ctrl-A­lt-­Shi­ft-F3
+	
+Find (volatile) Previous
+Ctrl-F3
+	
+Select and Find Next (was Find (Volatile) Next prior to v5.6.5)
+Ctrl-S­hift-F3
+	
+Select and Find Previous (was Find (Volatile) Previous prior to v5.6.5)
+F4
+	
+Go to next found
+Shift-F4
+	
+Go to previous found
+Ctrl-S­hift-I
+	
+Increm­ental Search
+Ctrl-n
+	
+Jump Down (to next text marked using n-th stye. n is 1 to 5, or 0 for default Found style.
+Ctrl-S­hift-n
+	
+Jump Up (to next text marked using n-th stye. n is 1 to 5, or 0 for default Found style.
+Ctrl-F2
+	
+Toggle Bookmark
+F2
+	
+Go To Next Bookmark
+Shift-F2
+	
+Go To Previous Bookmark
+Ctrl-B
+	
+Go to Matching Brace (caret must be on a brace)
+Ctrl-Alt-B
+	
+Select All between Matching Braces (caret must be on a brace)
+Macro menu
+Shortcut ↓
+	
+Action ↓
+Ctrl-S­hift-R
+	
+Start to record /Stop recording the macro
+Ctrl-S­hift-P
+	
+Play recorded macro
+Alt-Sh­ift-S
+	
+Trim Trailing and Save
+Mouse gestures
+Shortcut ↓
+	
+Action ↓
+Single left click
+	
+Set current line
+Single left click on rightmost status bar pane
+	
+Toggle typing mode between Insert and Overtype
+Single left click on bookmark margin
+	
+Toggle bookmark
+Shift+left click on fold point
+	
+Uncollapse this fold and all those below
+Ctrl+left click on fold point
+	
+Toggle collapsed state of this fold, and propagate below
+Right click
+	
+Pop up context menu
+Double left click
+	
+Select word
+Double left click on location pane (status bar)
+	
+Go to line
+Triple left click
+	
+Select line
