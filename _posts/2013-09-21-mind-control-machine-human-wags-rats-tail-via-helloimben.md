@@ -8,3 +8,5 @@ categories: [metavalent]
 ---
 
 [Behold.](https://www.youtube.com/watch?v=pL0FzHHrQv8)
+
+![](/images/one.small.twitch.for.a.man.png)
