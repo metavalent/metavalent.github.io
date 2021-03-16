@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banished Words List  -: 2006
+title: Banished Words List 2006
 date: 2006-01-03 17:58
 author: metavalent
 comments: true

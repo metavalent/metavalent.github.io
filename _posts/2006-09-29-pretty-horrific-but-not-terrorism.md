@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pretty Horrific' but Not Terrorism
+title: Pretty Horrific, but Not Terrorism
 date - 2006-09-29 08:27
 author: metavalent
 comments: true

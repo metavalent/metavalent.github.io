@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'shrooms may ease end-of-life anxiety
+title: shrooms may ease end-of-life anxiety
 date - 2010-09-08 06:30
 author: metavalent
 comments: true

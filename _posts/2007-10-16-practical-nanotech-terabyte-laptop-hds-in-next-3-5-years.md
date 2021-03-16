@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Practical Nanotech: Terabyte Laptop HD's in next 3-5 years
+title: Practical Nanotech - Terabyte Laptop HD's in next 3-5 years
 date: 2007-10-16 06:07
 author: metavalent
 comments: true

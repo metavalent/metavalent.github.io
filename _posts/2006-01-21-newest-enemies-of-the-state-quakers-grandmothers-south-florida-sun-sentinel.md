@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newest Enemies of the State - Quakers, grandmothers: South Florida Sun-Sentinel
+title: Newest Enemies of the State - Quakers, grandmothers
 date: 2006-01-21 11:04
 author: metavalent
 comments: true
