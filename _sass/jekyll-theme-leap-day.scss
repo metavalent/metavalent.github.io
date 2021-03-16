@@ -294,20 +294,9 @@ header {
     top:7px;
     display: block;
     // background: url(../images/octocat-logo.svg);
-	background: url(https://metavalent.com/images/Digital-Patreon-Logo_FieryCoral.png);
+	// override logo in style.scss
   }
   
-  #patreon_logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    right:7px;
-    top:7px;
-    display: block;
-	background: url(/images/Digital-Patreon-Logo_FieryCoral.png)
-	// background: url('/assets/Patreon Logo/PNG/Digital-Patreon-Logo_FieryCoral.png');
-	// background: url(/assets/Patreon Wordmark/JPG/Digital-Patreon-Wordmark_FieryCoralOnWhite-Sm.jpg); 
-  }
 }
 
 section {
