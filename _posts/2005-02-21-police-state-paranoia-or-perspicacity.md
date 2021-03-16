@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Police State: Paranoia or Perspicacity?
+title: Police State - Paranoia or Perspicacity?
 date: 2005-02-21 06:13
 author: metavalent
 comments: true

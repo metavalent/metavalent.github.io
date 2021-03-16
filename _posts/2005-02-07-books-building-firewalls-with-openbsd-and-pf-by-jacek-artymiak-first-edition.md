@@ -1,6 +1,6 @@
 ---
 layout: post
-title: books : Building Firewalls with OpenBSD and PF by Jacek Artymiak, First Edition
+title: books - Building Firewalls with OpenBSD and PF by Jacek Artymiak, First Edition
 date: 2005-02-07 21:41
 author: metavalent
 comments: true
