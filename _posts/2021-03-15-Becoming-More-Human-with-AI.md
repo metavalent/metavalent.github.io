@@ -1,5 +1,6 @@
 ---
-published: false
+title: Becoming More Human with AI
+published: true
 ---
 ## Becoming More Human with AI
 
