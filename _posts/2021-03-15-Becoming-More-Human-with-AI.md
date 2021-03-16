@@ -1,4 +1,4 @@
---
+---
 title: Becoming More Human with AI
 published: true
 ---
