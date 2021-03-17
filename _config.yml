@@ -34,15 +34,17 @@ avatar: https://avatars.githubusercontent.com/u/5589526?s=200&v=4
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: facebook.com/metavalent
   flickr:
   github: metavalent
-  instagram:
+  instagram: metavalent
   linkedin:
-  pinterest:
+  medium: medium.com/@metavalent
+  pinterest: 
   rss: rss # just type anything here for a working RSS icon
   twitter: metavalent
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  substack: metavalent.substack.com
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
