@@ -220,17 +220,6 @@ header {
       background-color: #ffeca0;
     }
   }
-  
-// override default github logo 
-#patreon_logo {
-  position:absolute;
-  height: 36px;
-  width: 36px;
-  right:7px;
-  top:7px;
-  display: block;
-  background: url(/images/Digital-Patreon-Logo_FieryCoral.png);
-
 
 // Customize buttons
 
@@ -305,7 +294,7 @@ header {
     top:7px;
     display: block;
     // background: url(../images/octocat-logo.svg);
-	// override logo in style.scss
+	// override logo below in #banner section
   }
   
 }
@@ -426,6 +415,7 @@ footer {
 
     #logo {
       margin-right: 15px;
+	  background: url(/images/Digital-Patreon-Logo_FieryCoral.png);
     }
   }
 
