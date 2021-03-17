@@ -220,6 +220,17 @@ header {
       background-color: #ffeca0;
     }
   }
+  
+// override default github logo 
+#patreon_logo {
+  position:absolute;
+  height: 36px;
+  width: 36px;
+  right:7px;
+  top:7px;
+  display: block;
+  background: url(/images/Digital-Patreon-Logo_FieryCoral.png);
+
 
 // Customize buttons
 
