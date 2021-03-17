@@ -41,6 +41,6 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 ---
 ### Footnotes
 
-[[1]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/), so there may be some gaps and broken links to tend to. Also, still have an old [metavalent.wordpress.com](https://metavalent.wordpress.com) site to import, and the focus is on new content, moving forward. Thank you for your [support](https://patreon.com/metavalent/)!
+[[1]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to, and the focus is on new content, moving forward. Thank you for following the guidance of your intuitive curiosity and [support](https://patreon.com/metavalent/) that helps completes the circuit, so that we can continue following our guidance, in service, as well.
 
 
