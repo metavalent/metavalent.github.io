@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Eyeborg, Redux
-date: '2009-04-08T10:57:38-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/94277540/eyeborg-redux
+date: 2009-04-08 12:03
+author: metavalent
+comments: true
+categories: [bci, biohacking, metavalent, neuro-cogno, posthuman]
 ---
-[Eyeborg, Redux](http://metavalent.com/?p=1003)  
-
-This was [metafiltered](http://www.metafilter.com/77406/Eyeborg) and reported by [Wired](http://blog.wired.com/gadgets/2008/12/eye-spy-filmmak.html) over four months ago. Today, [CNN](http://www.cnn.com/2009/HEALTH/04/08/bionic.body/index.html) is apparently defining an exciting and innovative new emerging trend for “news regifting” in mainstream media….
+<p>This was <a href="http://www.metafilter.com/77406/Eyeborg">metafiltered</a> and reported by <a href="http://blog.wired.com/gadgets/2008/12/eye-spy-filmmak.html">Wired</a> over four months ago. Today, <a href="http://www.cnn.com/2009/HEALTH/04/08/bionic.body/index.html">CNN</a> is apparently defining an exciting and innovative new emerging trend for &quot;news regifting&quot; in mainstream media. As this human-computer symbiosis accelerates, external sources of information (TV's, iPhones, anything not <a href="http://metavalent.com/?p=969">jacked straight in</a>) will become increasingly irrelevant. Or possibly repurposed in the short to mid term for reaching and conditioning The Outsiders who are not yet tuned in to the Global Cognition Hivemind.</p>
+<p><a href="http://www.metafilter.com/77406/Eyeborg"><img height="438" border="0" style="margin:5px;" width="400" alt="Eyeborg" src="http://metavalent.com/images/eyeborg_660x.jpg" /></a></p>
 

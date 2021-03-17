@@ -1,11 +1,25 @@
 ---
 layout: post
-title: 'Oversimplifying the Singularity: Summit 3.0'
-date: '2008-10-25T03:55:33-10:00'
-tags: []
-tumblr_url: https://metavalent.tumblr.com/post/56282432/oversimplifying-the-singularity-summit-30
+title: Oversimplifying the Singularity - Summit 3.0
+date: 2008-10-25 04:57
+author: metavalent
+comments: true
+categories: [futurism, metavalent, society]
 ---
-[Oversimplifying the Singularity: Summit 3.0](http://metavalent.com/?p=949)  
+After greatly enjoying the first two Singularity Summits, I'm not attending <a href="http://www.singularitysummit.com/program">today's 3.0 version</a>. One reason is that I think I understand all the basic principles sufficiently that I need to focus on <i>contributing</i> rather than flocking and following. Another is the price tag. I'm confident enough in my own existence now that I just don't need to pay the $500 self-validation fee. If I haven't created something worthy of an invitation to the stage yet, then I need to keep working until I do. I don't consider it good enough to just be a groupie to <i>any</i> set of human beings. I expect more of myself. I expect myself to innovate, create, collaborate, and contribute. Isn't that the primary objective of this whole movement, anyway? Uplift and Inclusion? I should hope so. If not, I may soon find myself an apostate, once again. Don't read this wrongly, I have not done anything sufficiently noteworthy this year to have earned my way into the club. I'm not complaining, I'm motivating myself to do more and do better so as to achieve something worthwhile to the cause of human betterment.
 
-After greatly enjoying the first two Singularity Summits, I’m not attending [today’s 3.0 version](http://www.singularitysummit.com/program). One reason is that I think I understand all the basic principles sufficiently that I need to…
+All that said, I'm fairly confident that over simplifications such as <a href="http://www.spectrum.ieee.org/jun08/6311">Waiting for the Rapture</a> by Glenn Zorpette essentially miss the point: <blockquote>Across cultures, classes, and aeons, people have yearned to transcend death.
 
+Bear that history in mind as you consider the creed of the singularitarians. Many of them fervently believe that in the next several decades we’ll have computers into which you’ll be able to upload your consciousness—the mysterious thing that makes you you. Then, with your consciousness able to go from mechanical body to mechanical body, or virtual paradise to virtual paradise, you’ll never need to face death, illness, bad food, or poor cellphone reception.
+
+Now you know why the singularity has also been called the rapture of the geeks.
+
+The singularity is supposed to begin shortly after engineers build the first computer with greater-than-human intelligence.</blockquote>This introduction jumps right in with two major mischaracterizations: 1.) The singularity is somehow about cheating death, and 2.) The singularity will spontaneously blossom at a specific point in time and possibly from a specific single machine.
+
+Both mischaracterizations reveal either a lack of understanding by Mr. Zorpette or some other Death Ennobling agenda that uncritically and unhelpfully conflates Vernor Vinge's work with Aubrey de Grey's:<blockquote>Death from old age has always been an inescapable reality, and as such, people had to make peace with it by deeming it unavoidable, ennobling, and even necessary. These comforting yet illogical rationalizations constitute a “<a href="http://www.betterhumans.com/blogs/proyas/archive/2008/07/22/Starting-to-make-SENS.aspx">pro-aging trance</a>,” and when someone like de Grey seriously suggests that science may provide a way to end aging and prolong life indefinitely, he unwittingly assaults deeply ingrained beliefs and is attacked in kind.</blockquote>Zorpette then goes on to a cheap and easy "emperor with no clothing" polemic that continually reveals his utter lack of familiarity with the irrefutable underlying premise of Accelerating Change; that's what the singularity is really about, Future Shock, The Next Generation. And I don't see anyone dressing down Toffler, do you?
+
+Zorpette goes on to proclaim our work as "wildly ambitious," apparently as an explanation as to why we should utterly dismiss the accelerating changes that are palpably happening all around us, every day. Yeah, we don't want any of that "wildy ambitious" stuff going on ... that stuff led to antibiotics and airplanes and iphones for goodness sake! Imagine suggesting to a Zorpette in 1985 that virtually every human on the planet would be interconnected into a single computing grid within 20 years. That too would have labeled you "wildly ambitious." Meanwhile, some of us just kept on BUILDING IT. So we're used to this by now, along with the disingenuous follow-on demand to, "GIVE ALL YOUR GOODIES after the fact, you arrogant creatives!"
+
+Zorpette plays that same old tune note for note, backpedaling in the end, "Still, if you encounter my uploaded consciousness in a virtual paradise 50 years from now, feel free to tell me, “I told you so.”" In other words, "you guys are all a bunch of nut cases, but if you do succeed, I want all the same benefits that enthusiastic supporters enjoy." Sure thing Glenn, I'll keep your reservation right here ... in the circular file.
+
+@chrismorrison probably summed it up best with a single tweet:<blockquote>#ss08 emerging tech workshop: buzzkills vs. dreamers</blockquote>Still, if you honestly want to understand the singularity, and singularitarians like us, then I'd suggest my dear reader <a href="http://en.wikipedia.org/wiki/Vernor_Vinge">start here</a>. Then think about the kind of world YOU would like your future self, children, and grand children to live in and start working on THAT. Because whatever that actually turns out to become -- because of and in spite of our efforts -- it's what we actually mean by the singularity: accelerating change at a pace that we can't predict what comes next. Nothing more, nothing less. Certainly none of us is waiting on any Flying Spaghetti Monster to save us from death, disease, famine, and human ignorance.

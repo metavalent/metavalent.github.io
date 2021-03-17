@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fusion of Nanocircuits, Bio-membranes: Toward a Hybrid Cell Wall?'
+title: 'Fusion of Nanocircuits, Bio-membranes - Toward a Hybrid Cell Wall?'
 date: '2009-08-28T07:33:12-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/174020760/fusion-of-nanocircuits-bio-membranes-toward-a

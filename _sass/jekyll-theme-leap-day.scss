@@ -1,6 +1,9 @@
 /*
 Leap Day for GitHub Pages
 by Matt Graham
+
+Customized for metavalent.com
+by Metavalent
 */
 
 @import "normalize";
@@ -290,8 +293,8 @@ header {
     right:7px;
     top:7px;
     display: block;
-    background: url(../images/octocat-logo.svg);
-  }
+    // background: url(../images/octocat-logo.svg);
+  }  
 }
 
 section {
