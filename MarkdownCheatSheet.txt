@@ -1,65 +1,115 @@
-Markdown Cheat Sheet
+Github Flavored Markdown Cheat Sheet
+https://github.github.com/gfm/
 
-A lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML
+Markdown is a way to style text on the web. You control the display of the document; formatting words as
+bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly,
+Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-Headers
-# Heading
-H1
-## Heading
-H2
-### Heading
-H3
-#### Heading
-H4
-##### Heading
-H5
-###### Heading
-H6
-Emphasis
-_Text_
-Displays text in italics
-**Text**
-Displays the text in bold
-**_Text_**
-Displays the text in bold and italics
-~~Text~~
-Adds strikethrough effect to the text
-Lists
-1. item1
-First ordered list item
-2. item2
-Second ordered list item
-⋅⋅1. Item
-Ordered sub-list item
-* Item
-Unordered list item
-⋅⋅* Item
-Unordered sub-list item
-Links
-[text link](https://duckduckgo.com)
-Inline-style link
-[text link with title](https://duckduckgo.com "DDG Home")
-Inline-style link with title
-[Reference-style link][Arbitrary case-insensitive reference text]
-Reference style link
-[Use numbers for reference-style link definitions][1]
-Links with a reference number. The number needs to be defined as [1]: http://slashdot.org
-Images
-![alt text](https://github.com/n48.png "Logo Title")
-Inline style
-[alt text][logo]
-The reference style. Reference need to be declared as [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-Code and Syntax Highlighting
-`code`
-Inline code has back-ticks around it
-``` Code blocks ```
-Blocks of code are either fenced by lines with three back-ticks or are indented with four spaces
-Blockquotes
-> Blockquotes
-Blockquotes are very handy in email to emulate reply text
-Inline HTML
-<ul>list</ul>
-You can use the raw HTML in your Markdown
-Horizontal Rule
----
-You can get a horizontal rule by typing three or more hyphens (-), asterisks (*) or underscore (_)
+GitHub.com uses its own version of the Markdown syntax, GFM, that provides an additional set of useful
+features, many of which make it easier to work with content on GitHub.com.
+
+LISTS
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+
+HEADERS
+BLOCKQUOTES
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
+
+IMAGES
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+LINKS
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+LISTS
+Ordered / Unordered
+1. Item 1
+2. Item 2
+3. Item 3
+* Item 3a
+* Item 3b
+
+BACKSLASH ESCAPES
+Markdown allows you to use backslash escapes to generate literal characters which
+would otherwise have special meaning in Markdown’s formatting syntax.
+Markdown provides backslash escapes for the following characters:
+
+\ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
+
+EMPHASIS
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+\*literal asterisks\*
+
+
+USERNAME / MENTIONS
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment.
+
+This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
+
+ISSUE REFERENCES
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+TASK LISTS
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+
+FENCED CODE BLOCKS
+Markdown coverts text with four leading spaces into a code block; with GFM you can
+wrap your code with ``` to create a code block without the leading spaces. Add an
+optional language identifier and your code will get syntax highlighting.
+
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+```
+
+TABLES
+You can create tables by assembling a list of words and dividing them with hyphens - 
+(for the first row), and then separating each column with a pipe | :
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+
+EMOJI
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
+
+To see a list of every image we support, check out www.emoji-cheat-sheet.com

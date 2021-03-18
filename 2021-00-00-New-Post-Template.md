@@ -1,8 +1,12 @@
 ---
 layout: post
 published: true
-modified: null
+
+title: null
+
+categories: null
 tags: null
+modified: null
 created: null
 ---
 
