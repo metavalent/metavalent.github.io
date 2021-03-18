@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### What is Metavalent Stigmergy?
-Since the early 2000's I've proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[1](#footnotes)</sup> as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
+Since the early 2000's I've proposed [Metavalent Stigmergy](https://patreon.com/metavalent)[^1] as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
 Maybe not too many readers will be able to understand this, but to me, there's just about nothing more fun in life than to explore the fringes of possibility and probability and discover something new, useful, and just plain true. That, for this writer, is as thrilling as any roller coaster. Although I'm hoping to still live just long enough to see if a ride into Earth orbit doesn't top it. It might get down to the wire, but if progress continues at the current pace, we just might make it. That'd make for a pretty nice Earth movie ending for a kid born within months of the first human being being launched into space, to get that same glimpse, for oneself, yeah? Not a bad movie ending at all.
 
@@ -41,6 +41,6 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 ---
 ### Footnotes
 
-[[1]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to, and the focus is on new content, moving forward. Thank you for following the guidance of your intuitive curiosity and [support](https://patreon.com/metavalent/) that helps completes the circuit, so that we can continue following our guidance, in service, as well.
+[^1] Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to, and the focus is on new content, moving forward. Thank you for following the guidance of your intuitive curiosity and [support](https://patreon.com/metavalent/) that helps completes the circuit, so that we can continue following our guidance, in service, as well.
 
 
