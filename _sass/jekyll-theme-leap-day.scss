@@ -221,7 +221,7 @@ header {
     }
   }
 
-// Customize buttons
+// Customize buttons & search div positioning
 
   .home {
     position:fixed;
@@ -238,6 +238,17 @@ header {
     position:fixed;
     left:50%;
     margin-left:-250px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    background-color: #FFE788;
+  }
+  
+  .search {
+    position:fixed;
+    left:50%;
+    margin-left:-175px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
