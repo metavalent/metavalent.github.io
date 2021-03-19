@@ -13,9 +13,19 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+	<!-- Display a page load progress bar -->
+	<!-- already loaded above, I think <script src="jquery.js" type="text/javascript"></script> -->
+	<script src="js/progress.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="_sass/progress_style.scss">
+
   </head>
   <body>
-
+	<!-- Display a page load progress bar -->
+	<div class='progress' id="progress_div">
+		<div class='bar' id='bar1'></div>
+		<div class='percent' id='percent1'></div>
+	</div>
+  
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
@@ -67,6 +77,13 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+	<!-- Include jQuery for dynamic pagination -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="js/scripts.js"></script>
+
+	<!-- Progress bar width -->
+	<input type="hidden" id="progress_width" value="0">
 	
   </body>
 </html> 
