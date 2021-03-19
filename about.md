@@ -52,6 +52,6 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 
 [[1]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to. Focus is on new content here, moving forward. Thank you for following the guidance of your intuitive curiosity and [supporting our art](https://patreon.com/metavalent/). It helps completes the circuit, so that we can continue following our creative muse, in service, just as you do. :pray:
 
-[2] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/). 
+[2] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
 
