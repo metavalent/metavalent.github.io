@@ -59,4 +59,5 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 
 [2] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
+[3] [RSS feed](https://metavalent.com/feed).
 
