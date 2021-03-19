@@ -2,10 +2,11 @@
 layout: post
 published: false
 title: new post
+comments: true
 categories: metavalent
 tags: metavalent
-created: null
-modified: null
+created: 
+modified: 
 ---
 
 
