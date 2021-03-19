@@ -1,9 +1,9 @@
 ---
 layout: post
-published: true
-title: 
+published: false
 categories: metavalent
 tags: metavalent
-created: 
-modified: 
+modified: null
+created: null
 ---
+
