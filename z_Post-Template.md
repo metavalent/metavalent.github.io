@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: title
+title: template
 categories: metavalent
 tags: metavalent
 modified: null
