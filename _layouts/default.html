@@ -13,14 +13,14 @@
     <![endif]-->
 
 	<!-- Display a page load progress bar -->
-	<script src="/js/progress.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="/_sass/progress_style.scss">
+	<script src="/js/progress.js" type="text/javascript"></script>
 	
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
   <body>
-	<!-- Display a page load progress bar -->
+	<!-- Display a page load progress bar (needs debugging) -->
 	<div class='progress' id="progress_div">
 		<div class='bar' id='bar1'></div>
 		<div class='percent' id='percent1'></div>
@@ -36,6 +36,7 @@
 
         <a href="https://{{ site.url }}" class="button home"><strong>. home .</strong></a>
         <a href="https://{{ site.url }}/about/" class="button about"><strong>. about .</strong></a>
+		<div class="search"><iframe src="https://duckduckgo.com/search.html?width=233&kh=1&site=metavalent.com&prefill=(beta) index pending &focus=yes" style="overflow:hidden;margin:0;padding:0;width:291px;height:34px;" frameborder="0"></iframe></div>
 
         {% if site.show_downloads %}
           <div class="downloads">
