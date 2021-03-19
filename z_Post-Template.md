@@ -1,11 +1,11 @@
 ---
 layout: post
 published: false
+title: title
 categories: metavalent
 tags: metavalent
 modified: null
 created: null
 ---
 
-https://youtube.com/shorts/_STR-vGhOWk
 
