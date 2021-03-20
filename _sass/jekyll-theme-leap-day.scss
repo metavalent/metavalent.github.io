@@ -90,7 +90,7 @@ blockquote {
 }
 
 code {
-  font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Segoe UI Emoji, lTerminal;
   font-size:13px;
   color:#efefef;
   text-shadow: 0px 1px 0px #000;
@@ -305,6 +305,10 @@ header {
     top: 11px; // adjusted for banner search-box height
     display: block; 
     // background: url(../images/octocat-logo.svg);
+	
+	    span {
+		  float:left;
+		}
 	
 		/* Image containers (use 25% for four, 33% for three, 50% for two, etc) */
 		.column {
