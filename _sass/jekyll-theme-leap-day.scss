@@ -303,7 +303,7 @@ header {
     width: 36px;
     right: 7px;
     top: 11px; // adjusted for banner search-box height
-    display: block;
+    display: inline-block; // for side-by-side icons
     // background: url(../images/octocat-logo.svg);
   }  
 }
