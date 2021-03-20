@@ -32,19 +32,24 @@
       </header>
 
       <div id="banner">
-        <span id="logo">
+        <a href="https://{{ site.url }}" class="button home"><strong>. home .</strong></a>
+        <a href="https://{{ site.url }}/about/" class="button about"><strong>. about .</strong></a>
+		<div class="search"><iframe src="https://duckduckgo.com/search.html?width=233&kh=1&site=metavalent.com&prefill=search (beta) index pending &focus=yes" style="overflow:hidden;margin:0;padding:0;width:291px;height:34px;" frameborder="0"></iframe></div>
+
+		<span id="logo><a href="https://metavalent.com/feed" target="_blank"><img src="https://metavalent.com/images/rss-icon.png" alt="Subscribe with RSS" width="36" height="36" /></a>
+	
+		<a href="https://patreon.com/metavalent" target="_blank"><img src="https://metavalent.com/images/Digital-Patreon-Logo_FieryCoral.png" alt="Subscribe with Patreon" width="36" height="36" /></a></span>
+	
+	<!--	
+	<span id="logo">
 		<div class="row">
 		<div class="column">
 		<a href="https://metavalent.com/feed" target="_blank"><img src="https://metavalent.com/images/rss-icon.png" alt="Subscribe with RSS" width="36" height="36" /></a></div>
 		<div class="column">		
 		<a href="https://patreon.com/metavalent" target="_blank"><img src="https://metavalent.com/images/Digital-Patreon-Logo_FieryCoral.png" alt="Subscribe with Patreon" width="36" height="36" /></a>
 		</div></div>
-		</span>
-
-        <a href="https://{{ site.url }}" class="button home"><strong>. home .</strong></a>
-        <a href="https://{{ site.url }}/about/" class="button about"><strong>. about .</strong></a>
-		<div class="search"><iframe src="https://duckduckgo.com/search.html?width=233&kh=1&site=metavalent.com&prefill=search (beta) index pending &focus=yes" style="overflow:hidden;margin:0;padding:0;width:291px;height:34px;" frameborder="0"></iframe></div>
-
+	</span>
+	-->
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -55,9 +60,6 @@
           </div>
         {% endif %}
       </div><!-- end banner -->
-	  
-		<!-- status notice. uncomment as needed -->	
-		<!-- <p>Wheee! Wordpress import created a catastrophe! Workin' on it.</p> -->
 		
     <div class="wrapper">
       <nav>
