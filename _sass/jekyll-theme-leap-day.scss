@@ -304,10 +304,11 @@ header {
     right: 7px;
     top: 11px; // adjusted for banner search-box height
     display: block; 
+	float: left; // try adding float here to make columns & rows work
     // background: url(../images/octocat-logo.svg);
 	
 	    span {
-		  float:left;
+		  float:left; // try another float context
 		}
 	
 		/* Image containers (use 25% for four, 33% for three, 50% for two, etc) */
