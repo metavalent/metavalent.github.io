@@ -300,29 +300,12 @@ header {
   #logos {
     position: absolute; 
     height: 36px;
-    width: 84px;
+    width: 77px;
+	padding: 5px
     top: 11px; // adjusted for banner search-box height
     display: block; 
-	right: 7px;
+	right: 5px;
     // background: url(../images/octocat-logo.svg); // replaced with Patreon logo in default.html because didn't seem to work doing it here
-	
-	    span {
-		  float: left; // try another float context
-		}
-	
-		/* Image containers (use 25% for four, 33% for three, 50% for two, etc) */
-		.column {
-		  float: left;
-		  width: 50%;
-		  padding: 5px;
-		}
-
-		/* Clear floats after image containers */
-		.row::after {
-		  content: "";
-		  clear: both;
-		  display: table;
-		} 
 	}
 }	
 /* End banner section */  
