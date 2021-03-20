@@ -298,12 +298,12 @@ header {
   }
 
   #logo {
-    //position: absolute;
-	float: left; // try adding float here to make columns & rows work
+    // position: absolute;
+	// right: 7px;
+	float: right; // try adding float here to make columns & rows work
 	padding: 5px; // space between logos, hopefully
     height: 36px;
     width: 36px;
-    right: 7px;
     top: 11px; // adjusted for banner search-box height
     display: block;
     // background: url(../images/octocat-logo.svg); // replaced with Patreon logo in default.html because didn't seem to work doing it here
