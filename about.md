@@ -1,17 +1,21 @@
 ---
 layout: page
 published: true
-title: "We're Inquiring, Together"
+title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-03-03T15:01:00-07:00
+modified: 2021-03-21T06:23:59-07:00
 permalink: /about/
 ---
 
 ### What is Metavalent Stigmergy?
 
-Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[1](#footnotes)</sup> as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
+Buckminster Fuller taught all of us, through his own process of inquiry, "I seem to be a verb."<sup>[1](#footnotes)</sup> Don't we all? In a sense, Metavalent Stigmergy then, is the name of my verb-being self, but only at the most superficial level.
+
+We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new default consensus realities.*
+
+Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
 Maybe not too many readers will be able to understand this, but to me, there's just about nothing more fun in life than to explore the fringes of possibility and probability and discover something new, useful, and just plain true. That, for this writer, is as thrilling as any roller coaster. Although I'm hoping to still live just long enough to see if a ride into Earth orbit doesn't top it. It might get down to the wire, but if progress continues at the current pace, we just might make it. That'd make for a pretty nice Earth movie ending for a kid born within months of the first human being being launched into space, to get that same glimpse, for oneself, yeah? Not a bad movie ending at all.
 
@@ -55,9 +59,12 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 ---
 ### Footnotes
 
-[[1]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to. Focus is on new content here, moving forward. Thank you for following the guidance of your intuitive curiosity and [supporting our art](https://patreon.com/metavalent/). It helps completes the circuit, so that we can continue following our creative muse, in service, just as you do. :pray:
+[[1]](#) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
 
-[2] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
+[[2]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to. Focus is on new content here, moving forward. Thank you for following the guidance of your intuitive curiosity and [supporting our art](https://patreon.com/metavalent/). It helps completes the circuit, so that we can continue following our creative muse, in service, just as you do. :pray:
 
-[3] [RSS feed](https://metavalent.com/feed).
+[3] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
+
+[4] [RSS feed](https://metavalent.com/feed).
+
 
