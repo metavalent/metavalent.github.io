@@ -15,8 +15,9 @@ body {
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
-  padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  padding: 0px 0 20px 0px;
+  background: #efefe8;
+  // background: url(../images/body-background.png) #eae6d1; // default
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -196,17 +197,23 @@ header {
   top: 115px;
   background: #800080; // mv purple
   // background: #ffcc00; // default
-  border: 1px solid #f0b500;
-  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  border: 1px solid #400080;
+  // border: 1px solid #f0b500; // default
+  box-shadow: 0px 5px 8px rgba(0,0,0,.25);
+  // box-shadow: 0px 1px 3px rgba(0,0,0,.25); // default
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+	border: #efefe8;
+    border: 1px solid #dba500; // default
+	background: linear-gradient(rgb(239, 239, 232), rgb(239,232,168));
+    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56)); // default
     border-radius: 2px;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 3px rgba(0,0,0,.1);
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1); // default
+	background-color: #efefe8;
+    // background-color: #FFE788; // default
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 11px; // increased for banner height due to search box
@@ -296,7 +303,8 @@ header {
       display:inline;
 
       a.button {
-        background-color: #FFE788;
+		background: #efefe8;
+        // background-color: #FFE788; // default
       }
     }
   }
