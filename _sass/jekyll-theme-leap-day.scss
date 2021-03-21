@@ -240,7 +240,8 @@ header {
     // margin-top: 6px; // inherit button class
     line-height:14px;
     font-size:14px;
-    background-color: #FFE788;
+	background-color: #EFEFE8;
+    background-color: #FFE788; // default
   }
 
   .about {
@@ -251,7 +252,8 @@ header {
     // margin-top: 6px; // inherit button class
     line-height:14px;
     font-size:14px;
-    background-color: #FFE788;
+	background-color: #EFEFE8;
+    // background-color: #FFE788; // default
   }
   
   .search {
@@ -303,7 +305,7 @@ header {
       display:inline;
 
       a.button {
-		background: #efefe8;
+		background-color: #efefe8;
         // background-color: #FFE788; // default
       }
     }
