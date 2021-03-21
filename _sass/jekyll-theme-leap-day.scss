@@ -42,7 +42,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#666666;
+  color:#555555;
 }
 
 h3 {
@@ -58,7 +58,7 @@ a {
 
 a small {
   font-size:11px;
-  color:#666;
+  color:#555;
   margin-top:-0.6em;
   display:block;
 }
@@ -195,7 +195,7 @@ header {
   position: fixed;
   top: 115px;
   // background: #ffcc00; // default
-  background: #800080 // mv purple
+  background: #800080; // mv purple
   border: 1px solid #f0b500;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
@@ -255,7 +255,8 @@ header {
     margin-top: 2px;
     line-height:14px;
     font-size: 14px;
-    background-color: #FFE788;
+    // background-color: #FFE788; // default
+	background-color: #800080;
   }
 
   .fork {
@@ -371,7 +372,7 @@ nav {
     }
 
     a {
-      color: #666;
+      color: #555;
 
       &:hover { color: #999; }
     }
