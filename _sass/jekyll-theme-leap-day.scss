@@ -17,6 +17,7 @@ body {
   font-weight:300;
   margin: 0px;
   padding: 0px 0 20px 0px;
+  word-break: break-word;
   background: #efefe8;
   /* background: url(../images/body-background.png) #eae6d1; // default */
 }
@@ -49,6 +50,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#333;
   margin:0 0 10px;
+  word-break: break-word;
 }
 
 p, ul, ol, table, pre, dl {

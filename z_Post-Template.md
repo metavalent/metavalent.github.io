@@ -8,3 +8,8 @@ tags: metavalent
 modified: null
 created: null
 ---
+
+<!-- Responsive video embed for YouTube, Vimeo, etc. -->
+<!--
+<div class="embed-container"></div>
+-->
