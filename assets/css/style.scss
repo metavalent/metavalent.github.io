@@ -8,7 +8,14 @@
 // IMPORTS
 //
 
-@import "{{ site.theme }}";
+// don't import site.theme, trying to address this: 
+//  Your site is having problems building: Your SCSS file assets/css/style.scss has an
+// error on line 292: Invalid CSS after "... text-transform": expected ";", was 
+// ":uppercase;". For more information, see
+// https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#invalid-sass-or-scss. 
+
+/* @import "{{ site.theme }}"; */
+
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
