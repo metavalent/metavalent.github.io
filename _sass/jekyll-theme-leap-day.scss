@@ -168,11 +168,11 @@ td {
 }
 
 hr {
-  border: 1px dashed teal;
+  border: 1px dashed #800080;
   /* border-radius: 0px; // adjust later maybe */
   /* border: 0; // default */
   outline: none;
-  height: 11px;
+  /* height: 11px; // default */
   /* background: transparent url('../images/hr.gif') center center repeat-x; // default */
   margin: 0 0 20px;
 }
