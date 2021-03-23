@@ -2,10 +2,7 @@
 ---
 
 //
-// IMPORTS 
-// 
-// hopefully this will supercede the parent fork's version
-// and fix build errors
+// IMPORTS
 //
 
 @import "reset";
@@ -21,7 +18,7 @@ html {
 }
 
 body {
-  background: $white;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
