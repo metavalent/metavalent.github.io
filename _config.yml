@@ -65,7 +65,7 @@ twitter_username: metavalent
 github_username:  metavalent
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
