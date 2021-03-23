@@ -162,7 +162,8 @@ header {
   text-align: center;
   background: #008080; /* mv teal */
   /* background: url(../images/background.png) #4276b6; // default */
-  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  /* box-shadow: 1px 0px 2px rgba(0,0,0,.75); // default */
+  box-shadow: 0px 5px 8px rgba(0,0,0,.25);
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
