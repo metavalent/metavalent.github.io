@@ -52,7 +52,8 @@ h3 {
 }
 
 a {
-  color:#4276b6;
+  color: #300058;
+  /* color:#4276b6; // default */
   font-weight:400;
   text-decoration:none;
 }
@@ -366,7 +367,8 @@ nav {
 
         a {
           font-weight: bold;
-          color: #333;
+		  color: #300058;
+          /* color: #333; // default */
         }
 
         + .tag-h2 {
@@ -383,7 +385,8 @@ nav {
     }
 
     a {
-      color: #555;
+	  color: #300058;
+      /* color: #555; // default */
 
       &:hover { color: #999; }
     }
