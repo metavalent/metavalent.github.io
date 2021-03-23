@@ -5,28 +5,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
+
+	<!-- Display a page load progress bar -->
+	<link rel="stylesheet" type="text/css" href="/_sass/progress_style.scss">
+	<script src="/js/progress.js" type="text/javascript"></script>
+	
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
   <body>
-
+	<!-- Display a page load progress bar (needs debugging) -->
+	<div class='progress' id="progress_div">
+		<div class='bar' id='bar1'></div>
+		<div class='percent' id='percent1'></div>
+	</div>
+  
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
-        <span id="logo"><a href="https://patreon.com/metavalent" target="_blank"><img src="https://metavalent.com/images/Digital-Patreon-Logo_FieryCoral.png" alt="Patreon logo" width="36" height="36"></a></span>
-
         <a href="https://{{ site.url }}" class="button home"><strong>. home .</strong></a>
         <a href="https://{{ site.url }}/about/" class="button about"><strong>. about .</strong></a>
+		<div class="search"><iframe src="https://duckduckgo.com/search.html?width=233&kh=1&site=metavalent.com&prefill=search (beta) index pending &focus=yes" style="overflow:hidden;margin:0;padding:0;width:291px;height:34px;" frameborder="0"></iframe></div>
 
+		<span id="logos">
+		<a href="https://metavalent.com/feed" target="_blank">
+		<img src="https://metavalent.com/images/rss-icon.png" alt="Subscribe with RSS" width="36" height="36" /></a>
+	
+		<a href="https://patreon.com/metavalent" target="_blank">
+		<img src="https://metavalent.com/images/Digital-Patreon-Logo_FieryCoral.png" alt="Subscribe with Patreon" width="36" height="36" /></a>
+		</span>
+	
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -37,9 +55,6 @@
           </div>
         {% endif %}
       </div><!-- end banner -->
-	  
-		<!-- status notice. uncomment as needed -->	
-		<!-- <p>Wheee! Wordpress import created a catastrophe! Workin' on it.</p> -->
 		
     <div class="wrapper">
       <nav>
@@ -67,6 +82,13 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+	<!-- Include jQuery for dynamic pagination -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="js/scripts.js"></script>
+
+	<!-- Progress bar width -->
+	<input type="hidden" id="progress_width" value="0">
 	
   </body>
 </html> 
