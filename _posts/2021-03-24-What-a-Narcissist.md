@@ -3,7 +3,7 @@ published: false
 ---
 ## What a Narcissist!
 
-Wait for it ... ROTFLMAO! Only Russell Brand could negate the negging of Jerry Seinfeld with this kind of flair (not the Reddit kine; real kine, ʻohana nui.
+Wait for it ... ROTFLMAO! Only Russell Brand could negate the negging of Jerry Seinfeld with this kind of flair (not the Reddit kine; real kine, ʻohana nui.)
 
 <div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/XHeFBDm2uFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
