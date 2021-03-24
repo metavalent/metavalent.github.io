@@ -14,6 +14,6 @@ Wait for it ... Only Russell Brand could negate the negging of Jerry Seinfeld wi
 
 ### "Ninety-nine percent of the time, my advice, as a Life Coach is going to be ... ["Shave Your Head and Move to Phoenix"](https://youtu.be/xhEfbdM2Ufc).
 
-<a href="https://youtu.be/BlJXdnKyfgE"><img src="{{site.baseurl}}/assets/images/Seinfeld_Shave_Head_Phoenix_YouTube.jpg" float:left; width:200; /></a>
+<a href="https://youtu.be/BlJXdnKyfgE"><img src="{{site.baseurl}}/assets/images/Seinfeld_Shave_Head_Phoenix_YouTube.jpg" style="float:left;" width="200"; /></a>
 
 Literally as seen on Fallon, two months after essentially having done exactly that; granted, the head shaving had been in place well in advance of this amatuer false prophet's pontificating. Can't make this up. Given the Comedian's Creed on theft of material, how is that one of the "greatest" comics of all time has to steal some loser nobody's life script as material? Can't make this up. LOL. :rotfl:
