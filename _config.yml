@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 timezone: Pacific/Honolulu
 future: false
+unpublished: false
+livereload: true
 
 title: Metavalent Stigmergy
 email: stigmergy+jekyll@metavalent.com
@@ -58,13 +60,19 @@ disqus: metavalent-stigmergy
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "metavalent.com" # the base hostname & protocol for your site, e.g. http://example.com/
 twitter_username: metavalent
 github_username:  metavalent
 
+collections:
+  authors:
+
 # Build settings
+#
+# Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely.
+ignore_theme_config: false
+
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
