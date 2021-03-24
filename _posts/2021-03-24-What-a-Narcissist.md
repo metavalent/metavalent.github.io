@@ -1,7 +1,12 @@
 ---
-published: false
+layout: post
+published: true
+title: What a Narcissist!
+tags: metavalent
+categories: metavalent
+created: 
+modified:
 ---
-## What a Narcissist!
 
 Wait for it ... ROTFLMAO! Only Russell Brand could negate the negging of Jerry Seinfeld with this kind of flair (not the Reddit kine; real kine, ʻohana nui.)
 
