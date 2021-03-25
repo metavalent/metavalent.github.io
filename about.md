@@ -64,7 +64,7 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 
 ### Endnotes
 
-[[ i ]](#) Mahalo so much and thank you for following the guidance of your intuitive curiosity by [supporting our creativity via Patreon](https://patreon.com/metavalent/), [Venmo](https://venmo.com/code?user_id=2980387722625024518), [Cash App](https://cash.app/$JustBePono), or [my author web site](https://www.aohemea.com/k-kua-support). Your support completes the circuit, so that I can continue following my own creative muse, in service to you. :pray:
+[[ i ]](#) Mahalo so much and thank you for following the guidance of your intuitive curiosity by [supporting our creativity via Patreon](https://patreon.com/metavalent/), [Venmo](https://venmo.com/code?user_id=2980387722625024518), [Cash App](https://cash.app/$JustBePono), or [my author web site](https://www.aohemea.com/k-kua-support). Your support completes the circuit, so that I can continue following my own creative muse, in service. :pray:
 
 [[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
