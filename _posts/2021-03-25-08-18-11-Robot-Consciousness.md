@@ -1,11 +1,11 @@
 ---
 layout: post
-title: When robots gain consciousness
+title: When Robots Gain Consciousness
 comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-25T08:18:11-07:00
-modified: 2021-03-25T08:23:26-07:00
+modified: 2021-03-25T08:53:45-07:00
 ---
 
 #### What happens next?
