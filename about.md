@@ -58,13 +58,14 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 
 ---
 ### Footnotes
+[[ 1 ]](#) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
 
-[[1]](#) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
+[[ 2 ]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may still be some gaps and broken links to tend to; which may lag a bit, as the focus is on new content here, moving forward. 
 
-[[2]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may be some gaps and broken links to tend to. Focus is on new content here, moving forward. Thank you for following the guidance of your intuitive curiosity and [supporting our art](https://patreon.com/metavalent/). It helps completes the circuit, so that we can continue following our creative muse, in service, just as you do. :pray:
+### Endnotes
 
-[3] Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
+[[ i ]](#) Mahalo so much and thank you for following the guidance of your intuitive curiosity by [supporting our creativity via Patreon](https://patreon.com/metavalent/), [Venmo](https://venmo.com/code?user_id=2980387722625024518), [Cash App](https://cash.app/$JustBePono), or [my author web site](https://www.aohemea.com/k-kua-support). Your support completes the circuit, so that I can continue following my own creative muse, in service to you. :pray:
 
-[4] [RSS feed](https://metavalent.com/feed).
+[[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
-
+[[ iii ]](#) [RSS feed](https://metavalent.com/feed).
