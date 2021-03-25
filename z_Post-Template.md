@@ -1,6 +1,7 @@
 ---
 layout: post
 title: new post
+published: true
 comments: true
 categories: metavalent
 tags: metavalent
