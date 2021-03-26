@@ -1,16 +1,12 @@
 ---
-created: 2021-03-26T13:00:16-07:00
-modified: 2021-03-26T13:04:41-07:00
----
-
 layout: post
 title: Another Timeless Micro Macro Moment
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
-modified: null
-created: null
+created: 2021-03-26T13:00:16-07:00
+modified: 2021-03-26T13:05:47-07:00
 ---
 
 "How dare you tell people I punched you in the face, after I punched you in the face!" :rolling_on_the_floor_laughing:
