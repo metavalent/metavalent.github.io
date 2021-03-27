@@ -6,10 +6,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T08:13:39-07:00
+modified: 2021-03-27T08:14:17-07:00
 ---
 
-There seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
+It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
 
 This is not a proactive program, it is an observation, of the way that nature works. Observing conditions on the planet for the past 60 years has provided us enough data points to see that *metavalent stigmergy* is the process by which people come to believe things in common, on a widespread basis.
 
