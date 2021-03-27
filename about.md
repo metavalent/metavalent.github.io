@@ -11,6 +11,8 @@ permalink: /about/
 
 ### What is Metavalent Stigmergy?
 
+Twenty years pontificating to tumbleweeds in the desert. Twenty years spitting into the wind. Twenty years scrawling messages in bottles and casting them into the sea of cyberspace.
+
 Buckminster Fuller taught, through his own process of inquiry, "I seem to be a verb."<sup>[1](#footnotes)</sup> Don't we all? In a sense, Metavalent Stigmergy then, is the name of my verb-being self, but only at the most superficial level.
 
 We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html).*
