@@ -9,7 +9,7 @@ created: null
 modified: null
 ---
 
-### The Myth of the Misuderstood Artist Isn't a Myth. Here's how it works. At least, for this Interstitial Intercognition Artist's life work of memes, dreams, themes, threads, publications, portfolios, books, blogs, articles, posts, tweets, grams, tiks, toks, css-blocks, fiction, non-fiction, intonation, inflection, flowing and glowing in fractal edition since 1991.
+The Myth of the Misuderstood Artist Isn't a Myth. Here's how it works. At least, for this Interstitial Intercognition Artist's life work of memes, dreams, themes, threads, publications, portfolios, books, blogs, articles, posts, tweets, grams, tiks, toks, css-blocks, fiction, non-fiction, intonation, inflection, flowing and glowing in fractal edition since 1991.
 
 While all forms of suffering are, by definition, genuine and non-trivial forms of suffering, it's not the misunderstanding, estrangement, mockery, undermining, betrayal, hostility, exile, or even the covert horrors of zersetzung in a surveillance capitalism theater of operations that most hinder and harm the so-called misunderstood artist.
 
