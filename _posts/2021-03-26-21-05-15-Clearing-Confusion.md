@@ -6,14 +6,14 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T09:06:00-07:00
+modified: 2021-03-27T09:08:57-07:00
 ---
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
 
 The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature works, derived through the process of observing conditions on the planet for the past 60 years. These observations have provided us enough data points to see that *metavalent stigmergy* is the process by which people come to believe things in common, take things for granted, on a widespread basis.
 
-#### Authentic Consensus
+### Authentic Consensus
 
 To be angry about or *against* the process of metavalent stigmergy is like being angry about, or against mitosis. There is nothing to be angry about, or against. Cells divide, and that's how biological life transpires. I suppose we could argue about that, but that would indeed be a very rare and peculiar argument, on planet Earth.
 
@@ -21,7 +21,7 @@ By definition, *authentic consensus* between fully informed conscious agents, ca
 
 Default consensus reality is merely an observation. Have we repeated the word *observation* enough, yet?
 
-#### A Collective Default Mode Network
+### A Collective Default Mode Network
 
 We observe that default consensus realities are a kind of default mode network of shared awareness of the world. Default consensus realities exist within families, within tribes, within villages, within cities, counties, states, nations, and ultimately the world.
 
@@ -31,7 +31,7 @@ One current *default consensus reality* agrees that the sky is blue. Another pre
 
 Those changes cultivate a new default consensus reality; not because anyone convinced anybody of anything; not because anybody forced anybody to do something differently; but because causes and conditions changed, and will continue to change, even in the context of the new default consensus reality.
 
-#### The Emptiness Of Conflict
+### The Emptiness Of Conflict
 
 That's it. That's all there is to this sense of *consensus*. Conflict simply does not exist in this space, unless someone else brings it; and even then, conflict is only misunderstanding. and so, it is our responsibility to attempt to increase and improve understanding. Perhaps we are failing with some, and succeeding with others.
 
