@@ -15,14 +15,18 @@ While all forms of suffering are, by definition, genuine and non-trivial forms o
 
 The root of suffering for the misunderstood creative is *the desire to be understood and accepted by anyone other than the creative themselves*. And perhaps the first step to reduce that suffering is for the hyper-rational critical-self, to accept the misunderstood expressive artistic-self, as one and the same.
 
-The lines between mental health and artistry have always been ambiguous, at best. So it is.
+In this process of artistic becoming, the lines between mental health and artistry have always been ambiguous, at best. So it is. We are all and each _*BOTH*_ "the" narcissist and "the" codependent" ... the fool on the hill, and the mountain monk; the village idiot, and the guru. Gee, You *Are* You.
 
-Today, I'm increasingly convinced that *all* DSM definitions are extremely fuzzy descriptions, like atoms, they don't really actually exist as billiard-ball like "atomic" entities at all; they are just descriptors of relativistic energy states and interrelationships. So DID, BPD, NPD are all sets of symptoms of a different permutations of dis-integrated self; which are decreasing in usefulness in the Post-Automation Era of hybrid human-machine-ai intercognition.
+But on this day, I'm increasingly convinced that *all* these distinctions and DSM definitions are extremely fuzzy, at best. Like atoms, they don't really actually exist as billiard-ball like "atomic" entities at all; they are just descriptors of relativistic energy states and interrelationships. So DID, BPD, NPD are all sets of symptoms of a different permutations of dis-integrated self; which are decreasing in usefulness in the [Post-Automation Era](https://PostAutomationEra.com/) of hybrid human-machine-ai intercognition. We have already become an entirely different kinds of humans, and the best thing we can do for ourselves and the world is to strive the become the most peaceful, kind, genuinely loving, and authentic hyrids, possible. What it means to be sentient beings along side near-sentient, and perhaps soon, sentient silicon, is the quest and question of the Post-Automation Era. So, what can we do about it?
 
-We are where we are. A.I is not "on it's way," it's been here for a very long time. There's no stopping what's already occurred, there is only acceptance and adaptation and continuous integration, or conflict. And conflict only begets more conflict, world without end.
+### \#StopTheMadness of Intentionally Engineered Economic Precarity
 
-We are all and each _*BOTH*_ "the" narcissist ... "the" codependent" ...
+Today, in August 2020, A.I is not "on it's way," it's been here for a very long time. There's no stopping what's already occurred, there is only acceptance, and adaptation, and continuous integration, or conflict. And conflict only begets more conflict, world without end. It's time we resurrect and re-mix Susan Powter's [Stop the Insanity](https://en.wikipedia.org/wiki/Susan_Powter) campaign with respect to the roots of division in our current, and soon-to-be post-pandemic moment. This time, the task is to stop the utter madness of the root of conflict in the twenty-first century: _*Intentionally Engineered Economic Precarity in the [Post-Automation Era](https://PostAutomationEra.com/)*_.
 
-Krishnamurti said, "The oberserver is the observed." As I record this particular #BookOfTrueSelf journey, through this narrow passage called _The Artist's Way_, by Julia Cameron, the parallel thought occurs: "_The creator is the created._" 
+### So, Who Are We To Do Anything about Anything?
 
-Isn't it so? Don't just accept and reject with a knee-jerk reaction. Consider it. Look at it. Find out for yourself. [We are inquiring, together](https://metavalent.com/about).
+Krishnamurti said, "The oberserver is the observed." As I record this particular #BookOfTrueSelf journal entry, working through _The Artist's Way_, by Julia Cameron, the parallel thought occurs: "_The creator is the created._" 
+
+Somehow, we literally have the ability to re-create the world beyond all conflict, precarity, confusion, and dog-eat-dog Social Darwinism. I don't understand exactly how it all works, yet; and probably never will; however, the evidence that this is, in fact, the case, is increasingly overwhelming. We are tasked with sharing that evidence with you, in the hours, days, weeks, months, and maybe years that remain of this embodiment. So, here we are. We're showing up to the page. As Julia suggests, we'll take care of the quantity and let something intuitive and beyond our comprehension take care of the quality.
+
+I don't know, but I want to know. [We are inquiring, together](https://metavalent.com/about). Thank you for [supporting the work](https://patreon.com/metavalent) and [participating in the experiment](https://patreon.com/metavalent) to the extent that your insight and intuition guides.
