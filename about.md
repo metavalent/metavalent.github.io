@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-03-27T09:11:49-07:00
+modified: 2021-03-27T10:10:51-07:00
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ permalink: /about/
 
 Buckminster Fuller taught, through his own process of inquiry, "I seem to be a verb."<sup>[1](#footnotes)</sup> Don't we all? In a sense, Metavalent Stigmergy then, is the name of my verb-being self, but only at the most superficial level.
 
-We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new default consensus realities.*
+We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html).*
 
 Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
