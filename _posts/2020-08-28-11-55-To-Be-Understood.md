@@ -21,9 +21,9 @@ But on this day, I'm increasingly convinced that *all* these distinctions and DS
 
 ### \#StopTheMadness of Intentionally Engineered Economic Precarity
 
-Today, in August 2020, A.I is not "on it's way," it's been here for a very long time. There's no stopping what's already occurred, there is only acceptance, and adaptation, and continuous integration, or conflict. And conflict only begets more conflict, world without end. It's time we resurrect and re-mix Susan Powter's [Stop the Insanity](https://en.wikipedia.org/wiki/Susan_Powter) campaign with respect to the roots of division in our current, and soon-to-be post-pandemic moment. This time, the task is to stop the utter madness of the root of conflict in the twenty-first century: _*Intentionally Engineered Economic Precarity in the [Post-Automation Era](https://PostAutomationEra.com/)*_.
+Today, in August 2020, A.I is not "on it's way," it's been here for a very long time. There's no stopping what's already occurred, there is only acceptance, and adaptation, and continuous integration, or conflict. And conflict only begets more conflict, world without end. It's time we resurrect and re-mix Susan Powter's [Stop the Insanity](https://en.wikipedia.org/wiki/Susan_Powter) campaign with respect to the roots of division in our current, and soon-to-be post-pandemic moment. This time, the task is to stop the utter madness of the root of conflict in the twenty-first century: ___Intentionally Engineered Economic Precarity in the [Post-Automation Era](https://PostAutomationEra.com/)___.
 
-### So, Who Are We To Do Anything about Anything?
+### Who Are We To Do Anything about Anything?
 
 Krishnamurti said, "The oberserver is the observed." As I record this particular #BookOfTrueSelf journal entry, working through _The Artist's Way_, by Julia Cameron, the parallel thought occurs: "_The creator is the created._" 
 
