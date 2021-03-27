@@ -6,7 +6,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T09:08:57-07:00
+modified: 2021-03-27T09:13:50-07:00
 ---
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
@@ -37,7 +37,7 @@ That's it. That's all there is to this sense of *consensus*. Conflict simply doe
 
 These are merely our own direct observations, shared because we felt moved and animated to do so. And, as a co-equal human being with you, dear reader, our observations are equally as valid as yours. Now, if *that* statement triggers you, we do suggest that it may be a personal problem that you might want to look into. Because, if you are angry at anything that you have read here, and feel that we must change our perceptions to match your perceptions, *that* would be you forcing something down our throats; not the other way around. This is, again simply a definition, right?
 
-So, anyone who attempts to frame our work as trying to shove something down somebody's throat is either projecting or simply lying to you; most likely out of fear, or because they perceive they are losing some form of illegitimate power. Because, regardless of the language you use to refer to [this period of time and the changes underway](/_posts/2021-03-27-07-25-50-Spelunking-Equality.md), the dissolution of illegitimate power is rapidly accelerating, just as light rapidly dispels darkness. The sun rising in the morning is not an act of violence, it is a daily reminder of that which is.
+So, anyone who attempts to frame our work as trying to shove something down somebody's throat is either projecting or simply lying to you; most likely out of fear, or because they perceive they are losing some form of illegitimate power. Because, regardless of the language you use to refer to [this period of time and the changes underway](https://metavalent.com/metavalent/2021/03/27/07-25-50-Spelunking-Equality.html), the dissolution of illegitimate power is rapidly accelerating, just as light rapidly dispels darkness. The sun rising in the morning is not an act of violence, it is a daily reminder of that which is.
 
 As light shines forth in the darkness and the darkness cannot comprehend it, so it is in the hearts and minds of all sentient beings. For those with hearts to perceive, even the darkness is not darkness, for the nature of omnipresence is omnipresence. There is an energy that precedes even darkness and light, and there is an awareness that precedes even thought. We'll meet you there.
 
