@@ -60,7 +60,7 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 ### Footnotes
 [[ 1 ]](#) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
 
-[[ 2 ]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may still be some gaps and broken links to tend to; which may lag a bit, as the focus is on new content here, moving forward. 
+[[ 2 ]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may still be some gaps and broken links to tend to; which may lag a bit, as the focus is on new content here, moving forward. Also, remember that this is *_twenty years_* of steam-of-consciousness curation, some or much of which *I many not even any longer believe*. This is all part of the experiment toward *[an objective understanding of the nature of subjective experience](https://www.patreon.com/posts/47965002)*, the nature of which I'm only now becoming increasingly aware, and sharing, for no other reason than to observe, write, share and learn; hopefully with a dramatic reduction in *thinking*, as we conventionally understand it.
 
 ### Endnotes
 
