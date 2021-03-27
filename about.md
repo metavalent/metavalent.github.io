@@ -11,7 +11,7 @@ permalink: /about/
 
 ### What is Metavalent Stigmergy?
 
-Twenty years pontificating to tumbleweeds in the desert. Twenty years scrawling messages in bottles and casting them into the sea of cyberspace. Twenty years spitting into the wind.
+Twenty years pontificating to tumbleweeds in the desert. Twenty years scrawling messages in bottles and casting them into the sea of cyberspace. Twenty years spitting *with* the wind, which really p\*\*\*\*d off the professional into-the-wind-ers, yeah? LOL.
 
 Buckminster Fuller taught, through his own process of inquiry, "I seem to be a verb."<sup>[1](#footnotes)</sup> Don't we all? In a sense, Metavalent Stigmergy then, is the name of my verb-being self, but only at the most superficial level.
 
