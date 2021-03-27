@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-03-21T07:01:10-07:00
+modified: 2021-03-27T09:11:49-07:00
 permalink: /about/
 ---
 
@@ -15,7 +15,7 @@ Buckminster Fuller taught, through his own process of inquiry, "I seem to be a v
 
 We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new default consensus realities.*
 
-Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
+Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
 Maybe not too many readers will be able to understand this, but to me, there's just about nothing more fun in life than to explore the fringes of possibility and probability and discover something new, useful, and just plain true. That, for this writer, is as thrilling as any roller coaster. Although I'm hoping to still live just long enough to see if a ride into Earth orbit doesn't top it. It might get down to the wire, but if progress continues at the current pace, we just might make it. That'd make for a pretty nice Earth movie ending for a kid born within months of the first human being being launched into space, to get that same glimpse, for oneself, yeah? Not a bad movie ending at all.
 
