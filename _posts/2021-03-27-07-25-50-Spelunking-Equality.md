@@ -20,13 +20,13 @@ What are the natures of freedom and equality, in the context of Earth, 2021? Con
 #### Video Two
 <div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-#### An Age of Reconciliation
+### An Age of Reconciliation
 
 The reason for observing the two videos above is to provide a context for understanding conditions as they presently exist on planet Earth. These are not my opinions, these are examples of people taking action in the world, each from their individually-guided sense of internal truth, justice, and liberty for all. Isn't this what we purport to believe in, in the present *default consensus reality*?
 
 From this perspective, we have also seen some surprising confusion over the phrase *equality of outcome*. Universal [social security](https://Chaotic immunity.com/) is emphatically and empirically **not** equality of outcome; yet is somehow occasionally misperceived and depicted as such by those who benefit from the present State of Affairs. We observe that there exists an extremely misanthropic view of humanity. A view of humanity that considers the species as incapable of growing beyond our basest, most animalistic aspects of our complex and multi-dimensional nature. Perhaps those observations are correct, and we are overly optimistic. However, our own direct observations lead us to the following.
 
-#### Engineered Economic Precarity
+### Engineered Economic Precarity
 
 Engineered economic precarity has served the ruling class of America well, for over a quarter of a millennium.
 
@@ -36,7 +36,7 @@ Engineered economic precarity resulted in the vulnerability that made the United
 
 The hucksterism and commodification of literally everything, in order to sell, sell, sell, has exacerbated the distrust between generational knowledge transfer. This does not bode well for a species that is so highly dependent upon intergenerational knowledge transfer for its survival.
 
-#### The Ending Of An Era
+### The Ending Of An Era
 
 Bankers and money changers who co-opted Christianity to provide sheep's clothing for the capitalist wolves of Wall Street have long been handsomely rewarded; flying in their private jumbo jets and pontificating from their golden pulpits and crystal cathedrals. This era has come to an end. We cannot serve God and Mammon, and it will be a good exercise for anyone who does not understand that saying to investigate it for yourselves. We are not here to convince, we are here to observe, and to share our observations.
 
