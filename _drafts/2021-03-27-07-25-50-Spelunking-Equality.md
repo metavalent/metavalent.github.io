@@ -11,7 +11,20 @@ modified: null
 
 What are the natures of freedom and equality, in the context of Earth, 2021? Consider these two videos, together, without prejudice or bias.
 
-From this perspective, we have seen a lot of confusion over the phrase *equality of outcome*. Universal [social security](https://Chaotic immunity.com/) is emphatically and empirically **not** equality of outcome; yet is somehow occasionally perceived and depicted as such by those who benefit from the present State of Affairs.
+
+[Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
+
+#### Video One
+<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/0gqwMZGynYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+#### Video Two
+<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+#### An Age of Reconciliation
+
+The reason for observing the two videos above is to provide a context for understanding conditions as they presently exist on planet Earth. These are not my opinions, these are examples of people taking action in the world, each from their individually-guided sense of internal truth, justice, and liberty for all. Isn't this what we purport to believe in, in the present *default consensus reality*?
+
+From this perspective, we have also seen some surprising confusion over the phrase *equality of outcome*. Universal [social security](https://Chaotic immunity.com/) is emphatically and empirically **not** equality of outcome; yet is somehow occasionally misperceived and depicted as such by those who benefit from the present State of Affairs. We observe that there exists an extremely misanthropic view of humanity. A view of humanity that considers the species as incapable of growing beyond our basest, most animalistic aspects of our complex and multi-dimensional nature. Perhaps those observations are correct, and we are overly optimistic. However, our own direct observations lead us to the following.
 
 #### Engineered Economic Precarity
 
@@ -25,19 +38,10 @@ The hucksterism and commodification of literally everything, in order to sell, s
 
 #### The Ending Of An Era
 
-Bankers and money changers who co-opted Christianity to provide sheep's clothing for the capitalist wolves of Wall Street have long been handsomely rewarded; flying in their private jumbo jets and pontificating from their golden pulpits and crystal cathedrals.
+Bankers and money changers who co-opted Christianity to provide sheep's clothing for the capitalist wolves of Wall Street have long been handsomely rewarded; flying in their private jumbo jets and pontificating from their golden pulpits and crystal cathedrals. This era has come to an end. We cannot serve God and Mammon, and it will be a good exercise for anyone who does not understand that saying to investigate it for yourselves. We are not here to convince, we are here to observe, and to share our observations.
 
-Some people are referring to this time as a Great Reset, some people are referring to this time as the true dawning of the Age of Aquarius, some people are referring to this as a time of spiritual Reformation and Revival, we have dubbed all of these, and more, as features of the #PostAutomationEra.
+Some people are referring to this time as The Great Reset, some people are referring to this time as the true dawning of the Age of Aquarius, some people are referring to this as a time of genuine spiritual Reformation and Revival, some people are describing this as an energetic phase shift, from the 3D to the 5D.
 
-Our guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
+We have dubbed all of these, and more, as features of the #PostAutomationEra. This is the era in which human creativity and ingenuity has automated so much of the creation of our individual and collective material needs, that we are literally in a new era of civilization. We have not seen a phase shift like this in our societal configuration since the dawning of the Industrial Era. It's disruptive. It's scary for many people. It comes with many blessings and curses, which we ought to look upon with opened eyes, grateful hearts, and responsible minds; responsibile for the care of this planet and it's raw natural resources; water, air, soil; without which, none of this paradise exists.
 
-[Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
-
-#### Video One
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/0gqwMZGynYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-#### Video Two
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-
+One guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
