@@ -22,7 +22,7 @@ What is the nature of freedom, equality, in the context of Earth, 2021? If can, 
 
 ### An Age of Reconciliation
 
-The reason for observing the two videos above is to provide a context for understanding conditions as they presently exist on planet Earth. These are not my opinions, these are examples of people taking action in the world, each from their individually-guided sense of internal truth, justice, and liberty for all. Isn't this what we purport to believe in, in the present *default consensus reality*?
+The reason for observing the two videos above is to provide a context for understanding conditions as they presently exist on planet Earth. These are not my opinions, these are examples of people taking action in the world, each from their individually-guided sense of internal truth, justice, and liberty for all. Isn't this what we purport to believe in, in the present *[default consensus reality](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html)*?
 
 From this perspective, we have also seen some surprising confusion over the phrase *equality of outcome*. Universal [social security](https://Chaotic immunity.com/) is emphatically and empirically **not** equality of outcome; yet is somehow occasionally misperceived and depicted as such by those who benefit from the present State of Affairs. We observe that there exists an extremely misanthropic view of humanity. A view of humanity that considers the species as incapable of growing beyond our basest, most animalistic aspects of our complex and multi-dimensional nature. Perhaps those observations are correct, and we are overly optimistic. However, our own direct observations lead us to the following.
 
