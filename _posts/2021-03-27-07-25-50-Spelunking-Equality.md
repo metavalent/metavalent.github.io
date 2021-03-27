@@ -9,7 +9,7 @@ created: 2021-03-27T07:25:50-07:00
 modified: null
 ---
 
-What are the natures of freedom and equality, in the context of Earth, 2021? Consider these two videos, together, without prejudice or bias.
+What is the nature of freedom, equality, in the context of Earth, 2021? If can, try consider these two videos, together, without prejudice or bias.
 
 
 [Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
