@@ -6,7 +6,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T08:27:11-07:00
+modified: 2021-03-27T08:30:47-07:00
 ---
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
@@ -33,4 +33,4 @@ So, anyone who attempts to frame our work as trying to shove something down some
 
 As light shines forth in the darkness and the darkness cannot comprehend it, so it is in the hearts and minds of all sentient beings. For those with hearts to perceive, even the darkness is not darkness, for the nature of omnipresence is omnipresence. There is an energy that precedes even darkness and light, and there is an awareness that precedes even thought. We'll meet you there.
 
-We have no program, yet may participate in many kinds of programs, in alliance and partnership. We are primarily observers of the changes underway. Nothing more, nothing less.
+We have no program, yet may participate in many kinds of programs, in alliance and partnership. We are primarily observers of the changes underway. Nothing more, nothing less. Amituofo. Namaste. Aloha me ke Akua. Dios les bendigan. God bless the human race.
