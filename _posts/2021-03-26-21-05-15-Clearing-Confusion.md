@@ -6,18 +6,22 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T08:33:32-07:00
+modified: 2021-03-27T09:06:00-07:00
 ---
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
 
 The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature works, derived through the process of observing conditions on the planet for the past 60 years. These observations have provided us enough data points to see that *metavalent stigmergy* is the process by which people come to believe things in common, take things for granted, on a widespread basis.
 
-To be angry about or *against* metavalent stigmergy is like being angry or against about mitosis. There's nothing to be angry about, or against. Cells divide, and that's how biological life transpires. I suppose we could argue about that, but that would indeed be a very rare and peculiar argument, on planet Earth.
+#### Authentic Consensus
+
+To be angry about or *against* the process of metavalent stigmergy is like being angry about, or against mitosis. There is nothing to be angry about, or against. Cells divide, and that's how biological life transpires. I suppose we could argue about that, but that would indeed be a very rare and peculiar argument, on planet Earth.
 
 By definition, *authentic consensus* between fully informed conscious agents, cannot be coerced.
 
 Default consensus reality is merely an observation. Have we repeated the word *observation* enough, yet?
+
+#### A Collective Default Mode Network
 
 We observe that default consensus realities are a kind of default mode network of shared awareness of the world. Default consensus realities exist within families, within tribes, within villages, within cities, counties, states, nations, and ultimately the world.
 
@@ -27,7 +31,11 @@ One current *default consensus reality* agrees that the sky is blue. Another pre
 
 Those changes cultivate a new default consensus reality; not because anyone convinced anybody of anything; not because anybody forced anybody to do something differently; but because causes and conditions changed, and will continue to change, even in the context of the new default consensus reality.
 
-That's it. That's all there is to this sense of *consensus*. Nobody is forcing something upon anyone. These are merely our direct observations. And, as a co-equal human being with you, dear reader, our observations are equally as valid as yours. Now, if *that* statement triggers you, we do suggest that it may be a personal problem that you might want to look into. Because, if you are angry at anything that you have read here, and feel that we must change our perceptions to match your perceptions, *that* would be you forcing something down our throats; not the other way around. This is, again simply a definition, right?
+#### The Emptiness Of Conflict
+
+That's it. That's all there is to this sense of *consensus*. Conflict simply does not exist in this space, unless someone else brings it; and even then, conflict is only misunderstanding. and so, it is our responsibility to attempt to increase and improve understanding. Perhaps we are failing with some, and succeeding with others.
+
+These are merely our own direct observations, shared because we felt moved and animated to do so. And, as a co-equal human being with you, dear reader, our observations are equally as valid as yours. Now, if *that* statement triggers you, we do suggest that it may be a personal problem that you might want to look into. Because, if you are angry at anything that you have read here, and feel that we must change our perceptions to match your perceptions, *that* would be you forcing something down our throats; not the other way around. This is, again simply a definition, right?
 
 So, anyone who attempts to frame our work as trying to shove something down somebody's throat is either projecting or simply lying to you; most likely out of fear, or because they perceive they are losing some form of illegitimate power. Because, regardless of the language you use to refer to [this period of time and the changes underway](/_posts/2021-03-27-07-25-50-Spelunking-Equality.md), the dissolution of illegitimate power is rapidly accelerating, just as light rapidly dispels darkness. The sun rising in the morning is not an act of violence, it is a daily reminder of that which is.
 
