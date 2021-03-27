@@ -25,10 +25,13 @@ Some people are referring to this time as a Great Reset, some people are referri
 
 Our guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
 
-<!-- 
-[Watch here](https://youtu.be/12345) and [here](ffffffff) if the embeds below do not behave nicely. 
+[Watch here](https://youtu.be/12345) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/12345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
--->
+#### Video One
+<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+#### Video Two
+<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 
