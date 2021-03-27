@@ -9,9 +9,9 @@ created: 2021-03-27T07:25:50-07:00
 modified: null
 ---
 
-What are the natures of freedom and equality? Consider these two videos, together, without prejudice or bias.
+What are the natures of freedom and equality, in the context of Earth, 2021? Consider these two videos, together, without prejudice or bias.
 
-From this perspective, we have seen a lot of confusion over the phrase *equality of outcome*. Universal social security is not equality of outcome, but is often perceived and depicted as such by those who benefit from the present State of Affairs.
+From this perspective, we have seen a lot of confusion over the phrase *equality of outcome*. Universal [social security](https://Chaotic immunity.com/) is emphatically and empirically **not** equality of outcome; yet is somehow occasionally perceived and depicted as such by those who benefit from the present State of Affairs.
 
 Engineered economic precarity has served the ruling class of America well, for over a quarter of a millennium.
 
