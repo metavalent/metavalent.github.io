@@ -76,6 +76,7 @@ ignore_theme_config: false
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
