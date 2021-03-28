@@ -9,7 +9,7 @@ modified: 2021-03-27T10:10:51-07:00
 permalink: /about/
 ---
 
-### <a name="f1"></a> What is Metavalent Stigmergy?
+### What is Metavalent Stigmergy?
 
 Metavalent Stigmergy is the process by which we have observed _New [Default Consensus Realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) Instantiate_. 
 
@@ -17,19 +17,19 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 
 Perceiving the process of metavalent stigmergy, perhaps, has had something to do with the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html) &ndash; for lack of a better neologism &ndash; and additional, emergent, still very poorly understood ways, means, and methods of [extended cognition](https://consc.net/) in this [Post-Automation Era](https://PostAutomationEra.com/) of hybrid-human-cortex-cloud-extended-mind-intercogntion ([PDF](http://consc.net/papers/excexc.pdf)). Beyond that, this website is an expression of the further consquence of finding [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way).
 
-Perhaps, there is some form of _abstract word art_ and practice of increasing _curation value_ involved, as well. Definitely, we think about ways to address Tristan Harris's [Social Dilemma](https://www.thesocialdilemma.com/), in all of our online activities. I can't entirely know where this project is going, just yet. This particular site is just another experiment in a life spent experimenting, thinking, and _doing out loud_. Most of those experiments have failed; a few have been fantastic beyond belief. So, we're engaging with all of that, as always, from this infinitely limited subjective perspective of the infinitely available objective present moment.
+<a name="f2"></a>Perhaps, there is some form of _abstract word art_ and practice of increasing _curation value_ involved, as well. Definitely, we think about ways to address Tristan Harris's [Social Dilemma](https://www.thesocialdilemma.com/), in all of our online activities. I can't entirely know where this project is going, just yet. This particular site is just another experiment in a life spent experimenting, thinking, and _doing out loud_. Most of those experiments have failed; a few have been fantastic beyond belief. So, we're engaging with all of that, as always, from this infinitely limited subjective perspective of the infinitely available objective present moment.
 
 Finally, in duct-taping this site together, as an old school &ndash; _not particularly great_ &ndash; student of the [C Programming Language](https://www.amazon.com/Programming-Language-Dennis-M-Ritchie/dp/0876925964), at least I've more or less come to amicable terms with Jekyll, Ruby gems, GFM Markdown, Liquid, and a few more Javascript and GitHub tricks, in the process, so far. Thank you for reading this far, and if you continue a few more lines, all the more gratitude. Onward.
 
-### <a name="f2"></a> "I seem to be a verb."
+### "I seem to be a verb."
 
 Buckminster Fuller taught, through his own process of inquiry, "I seem to be a verb."<sup>[2](#footnotes)</sup> In a sense then, Metavalent Stigmergy is a name for my verb-being sense of self, in the pursuit of what is described by most of the great faith and wisdom traditions as something akin to a true self, authentic self, redeemed self, sanctified self. This [persistent non-symbolic](https://www.nonsymbolic.org/) aspect of our experience as pure awareness, as children of God.
 
-Isn't it add that we limit our own children when we give their bodies a name at birth, like a branded piece of livestock? "This item shall be called Proper Name.” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Human beings first and foremost _be_. We exist, with intrinsic and inalienable rights and qualities endowed by the creator, not be any governing bodies of man. That's what makes the American experiment unique, among nations. It's also something that we seem to have increasingly lost sight of, to the point of present crisis.
+<a name="f3"></a>Isn't it add that we limit our own children when we give their bodies a name at birth, like a branded piece of livestock? "This item shall be called Proper Name.” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Human beings first and foremost _be_. We exist, with intrinsic and inalienable rights and qualities endowed by the creator, not be any governing bodies of man. That's what makes the American experiment unique, among nations. It's also something that we seem to have increasingly lost sight of, to the point of present crisis.
 
 So, Metavalent Stigmergy is a name for a process that belongs to, and is intrinsic to all. We are each *instantiators of new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html)*. We are verbs, not fixed assets, not chattel.
 
-### <a name="f3"></a> Scientific Exploration Belongs at the Fringes
+### Scientific Exploration Belongs at the Fringes
 
 Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[3](#footnotes)</sup> as _the process by which new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
@@ -75,9 +75,9 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 > Not Rage, Rage; There is No Dying Of The Light
 
 ---
-### <a name="footnotes"></a> Footnotes
+### Footnotes
 
-[[ 1 ]](#f1) "Alice Calaprice the editor of “The Ultimate Quotable Einstein” presented the following 1933 precursor quotation and comment in her reference work [UQUE]: _It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience._ From “On the Method of Theoretical Physics,” the Herbert Spencer Lecture, Oxford, June 10, 1933. This is the Oxford University’ Press version. The words “simple,” “simplest,” and “simplicity” recur throughout the lecture. The version reprinted in 1954 in Ideas and Opinions, 272, is a bit different. This sentence may be the origin of the much-quoted sentence that _“everything should be as simple as possible, but not simpler,”_ and its variants."
+[[ 1 ]](#) "Alice Calaprice the editor of “The Ultimate Quotable Einstein” presented the following 1933 precursor quotation and comment in her reference work [UQUE]: _It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience._ From “On the Method of Theoretical Physics,” the Herbert Spencer Lecture, Oxford, June 10, 1933. This is the Oxford University’ Press version. The words “simple,” “simplest,” and “simplicity” recur throughout the lecture. The version reprinted in 1954 in Ideas and Opinions, 272, is a bit different. This sentence may be the origin of the much-quoted sentence that _“everything should be as simple as possible, but not simpler,”_ and its variants."
 	
 [[ 2 ]](#f2) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
 
