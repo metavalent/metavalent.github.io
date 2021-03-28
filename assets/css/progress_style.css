@@ -23,3 +23,8 @@
   left:48%; 
 }
 
+#wrapper {
+  width:650px;
+  margin:0 auto;
+  position:relative;
+}
