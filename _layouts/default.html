@@ -20,12 +20,11 @@
 
   </head>
   <body>
-  <div class="scroll-progress">
-  	<div class="progress-container">
-  	<div class="progress-bar" id="ScrollStatus"></div>
-      </div>
-  </div>
       <header>
+	<!-- Scroll progress indicator -->
+	<div class="progress-container">
+  	    <div class="progress-bar" id="ScrollStatus"></div>
+        </div>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header> 
