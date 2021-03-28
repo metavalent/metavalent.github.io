@@ -20,6 +20,11 @@
 
   </head>
   <body>
+  <div class="scroll-progress">
+  	<div class="progress-container">
+  	<div class="progress-bar" id="ScrollStatus"></div>
+      </div>
+  </div>
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
@@ -77,7 +82,18 @@
       </script>
     {% endif %}	
     
-    <!-- Progress bar width -->
-    <input type="hidden" id="progress_width" value="0">
+    <!-- Progress bar -->
+    <script>
+	// When the user scrolls the page, execute scrollFunction
+	window.onscroll = function() {scrollFunction()};
+
+	function scrollFunction() {
+  	var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  	var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  	var scrolled = (winScroll / height) * 100;
+  	document.getElementById("ScrollStatus").style.width = scrolled + "%";
+    </script>
+} 
+    
   </body>
 </html> 
