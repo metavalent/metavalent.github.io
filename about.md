@@ -75,7 +75,7 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 > Not Rage, Rage; There is No Dying Of The Light
 
 ---
-### Footnotes
+### <a name="footnotes"></a> Footnotes
 
 [[ 1 ]](#f1) "Alice Calaprice the editor of “The Ultimate Quotable Einstein” presented the following 1933 precursor quotation and comment in her reference work [UQUE]: _It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience._ From “On the Method of Theoretical Physics,” the Herbert Spencer Lecture, Oxford, June 10, 1933. This is the Oxford University’ Press version. The words “simple,” “simplest,” and “simplicity” recur throughout the lecture. The version reprinted in 1954 in Ideas and Opinions, 272, is a bit different. This sentence may be the origin of the much-quoted sentence that _“everything should be as simple as possible, but not simpler,”_ and its variants."
 	
