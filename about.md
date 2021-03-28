@@ -13,7 +13,7 @@ permalink: /about/
 
 Metavalent Stigmergy is the process by which we have observed _New [Default Consensus Realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) Instantiate_. 
 
-And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, "Everything should be as simple as possible, but not simpler."<sup>[1](#footnotes)</sup>
+And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, "Everything should be as simple as possible, but not simpler."<sup>[1](#f1)</sup>
 
 Perceiving the process of metavalent stigmergy, perhaps, has had something to do with the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html) &ndash; for lack of a better neologism &ndash; and additional, emergent, still very poorly understood ways, means, and methods of [extended cognition](https://consc.net/) in this [Post-Automation Era](https://PostAutomationEra.com/) of hybrid-human-cortex-cloud-extended-mind-intercogntion ([PDF](http://consc.net/papers/excexc.pdf)). Beyond that, this website is an expression of the further consquence of finding [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way).
 
@@ -68,7 +68,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 * Reading and Listening Deeply with UNDERSTANDING
 * Seeing and Responding Clearly with COMPASSION
 
-But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest ANXIETY and deepest DENIAL, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to die with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
+<a name="f1"></a>But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest ANXIETY and deepest DENIAL, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to die with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
 
 ---
 > May we indeed GO GENTLY Into That Good Night\
@@ -90,3 +90,5 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 [[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
 [[ iii ]](#) [RSS feed](https://metavalent.com/feed).
+
+<!-- So much ugly anchor-hacking because content frame is anchored to header instead of banner. Maybe fix later. Is it really worth it? -->
