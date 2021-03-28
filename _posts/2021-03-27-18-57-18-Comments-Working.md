@@ -10,6 +10,4 @@ modified: 2021-03-27T18:57:21-07:00
 ---
 
 After a disasterous experiment with the disgusting, hugely invasive disqus ads, we're experimenting with [utteranc.es](https://utteranc.es/). 
-
-Feel free give a try, below. 👌 ☮️
-
+:: Read More :: to give it a try. 👌 ☮️
