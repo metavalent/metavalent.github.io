@@ -1,6 +1,6 @@
 ---
-published: true
 layout: post
+published: true
 title: Comments Working!
 comments: true
 categories: metavalent
