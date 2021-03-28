@@ -11,7 +11,8 @@ by Metavalent
 @import "rouge-base16-dark";
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif; /* try to get emojis to work */
+  /* increase default font from 14 to 18 for mobile readability */
+  font:18px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif; /* Segoe to try to get emojis to work */
   color: #181838;
   /* color:#2b2b2b; // default */
   font-weight:300;

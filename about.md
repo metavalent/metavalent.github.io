@@ -5,17 +5,21 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-03-21T07:01:10-07:00
+modified: 2021-03-27T10:10:51-07:00
 permalink: /about/
 ---
 
 ### What is Metavalent Stigmergy?
 
+Some might say, forty years in the desert, pontificating to tumbleweeds. Others might see it as nearly half a decade (so far) of scrawling messages in bottles and casting them into the sea of cyberspace. Or, maybe it's been twenty years spitting *with* the wind, which really p\*\*\*\*d off the professional into-the-wind-ers, yeah? LOL. _With the wind_, rather than into, because so many of the non-rappin', non-rhymin', words we spit into the ether turned out to be truths that people just didn't want to hear, at the time, and now ... well ... we here. That's [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), isn't it? Yes it is.
+
+### "I seem to be a verb"
+
 Buckminster Fuller taught, through his own process of inquiry, "I seem to be a verb."<sup>[1](#footnotes)</sup> Don't we all? In a sense, Metavalent Stigmergy then, is the name of my verb-being self, but only at the most superficial level.
 
-We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new default consensus realities.*
+We limit our children when we give their bodies a name at birth, like a branded piece of livestock. "This item shall be called ...” Children are not inventory. Humans are not resources, to be strip-mined and extracted. Metavalent Stigmergy is a name of a process that belongs to all. We are each *instantiators of new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html).*
 
-Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new default consensus realities instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
+Since the early 2000's [I've](https://michael.silverton.palo-alto.ca.us) proposed [Metavalent Stigmergy](https://patreon.com/metavalent)<sup>[2](#footnotes)</sup> as _the process by which new [default consensus realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) instantiate_. It's a bit mind blowing and incredibly gratifying to find out, twenty years later, that people like Professor Donald D. Hoffman were proposing [Conscious Realism](http://www.cogsci.uci.edu/~ddhoff/MindBody) at about the same time that my own ideas were taking shape. I had no idea of Hoffman's far more extensive work, at an even lower abstraction layer, until the last few years. Yet, over the decades, both theories have gained significant experiential and mathematical credence.
 
 Maybe not too many readers will be able to understand this, but to me, there's just about nothing more fun in life than to explore the fringes of possibility and probability and discover something new, useful, and just plain true. That, for this writer, is as thrilling as any roller coaster. Although I'm hoping to still live just long enough to see if a ride into Earth orbit doesn't top it. It might get down to the wire, but if progress continues at the current pace, we just might make it. That'd make for a pretty nice Earth movie ending for a kid born within months of the first human being being launched into space, to get that same glimpse, for oneself, yeah? Not a bad movie ending at all.
 
@@ -60,7 +64,7 @@ But none of this airy fairy rainbow pony unicorn poop is even close to possible 
 ### Footnotes
 [[ 1 ]](#) "For the first time, man has the chance to be a complete success in his environment." This startling thesis is supported in *I Seem To Be A Verb*, by the out-of-the-ordinary author: R. Buckminster Fuller. 
 
-[[ 2 ]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may still be some gaps and broken links to tend to; which may lag a bit, as the focus is on new content here, moving forward. 
+[[ 2 ]](#) Initial content of this site was imported from [metavalent.tumblr.com](https://metavalent.tumblr.com/) and [metavalent.wordpress.com](https://metavalent.wordpress.com) so there may still be some gaps and broken links to tend to; which may lag a bit, as the focus is on new content here, moving forward. Also, remember that this is *_twenty years_* of steam-of-consciousness curation, some or much of which *I many not even any longer believe*. This is all part of the experiment toward *[an objective understanding of the nature of subjective experience](https://www.patreon.com/posts/47965002)*, the nature of which I'm only now becoming increasingly aware, and sharing, for no other reason than to observe, write, share and learn; hopefully with a dramatic reduction in *thinking*, as we conventionally understand it.
 
 ### Endnotes
 
