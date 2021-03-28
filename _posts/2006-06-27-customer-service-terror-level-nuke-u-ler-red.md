@@ -8,7 +8,7 @@ categories: [histrionics, society]
 ---
 <!--Lead Photo --><a href="http://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg"><img src="http://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg" alt="0" border="0" /></a><!-- Commentary -->Live image from Customer Support.
 
-It's not <a href="http://www.msnbc.msn.com/id/13447232/">just AOL</a>.  It's not <a href="http://gabbly.com/http://awebcamdarkly.com/2006/06/g-duh.html">just Google</a>.  It's not <a href="http://tinyurl.com/magje">just Comcast</a>.  Across the board, the Customer Service Terror Level is Nuke-u-ler RED.
+It's not <a href="http://www.msnbc.msn.com/id/13447232/">just AOL</a>.  It's not <a href="http://gabbly.com/https://web.archive.org/web/*/http://awebcamdarkly.com/">just Comcast</a>.  Across the board, the Customer Service Terror Level is Nuke-u-ler RED.
 
 There is no such thing as Customer Service anymore.  <a href="http://www.signonsandiego.com/uniontrib/20050827/news_lz1ed27bottom.html">Lawsuits don't help</a>.  This has become an all out war and it's time to strike back with Shock and Awe.
 

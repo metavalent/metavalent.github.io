@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://www.americansdeserveprivacy.com/"><img src="http://awebcamdarkly.com/images/black_helicopter_logo.gif" border="0" alt="0" /></a><!-- Commentary -->Here's the email I received today, from a service that many people use in order to prevent SPAMMERS and other scumbags from harvesting our domain ownership information.  Once again, in the name of make-believe-security, internet privacy is taking a tremendous hit.  In actuality, all this will do is push domains away from .US and keep them in .com and other unregulated TLD space:
+<!--Lead Photo --><a href="http://www.americansdeserveprivacy.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"s the email I received today, from a service that many people use in order to prevent SPAMMERS and other scumbags from harvesting our domain ownership information.  Once again, in the name of make-believe-security, internet privacy is taking a tremendous hit.  In actuality, all this will do is push domains away from .US and keep them in .com and other unregulated TLD space:
 
 
 Date: 07:58 AM PST, 01/09/2006

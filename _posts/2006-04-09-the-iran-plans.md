@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://www.newyorker.com/printables/fact/060417fa_fact"><img src="http://awebcamdarkly.com/images/newyorker.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary --><a href="http://www.newyorker.com/printables/fact/060417fa_fact">Would President Bush go to war to stop Tehran from getting the bomb?</a> by SEYMOUR M. HERSH
+<!--Lead Photo --><a href="http://www.newyorker.com/printables/fact/060417fa_fact"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Would President Bush go to war to stop Tehran from getting the bomb?</a> by SEYMOUR M. HERSH
 
 Sure he would! And besides, he HAS to so he can bring on Armageddon so Jesus can come back again. Sheesh, isn't that just obvious by now?  Nuke Iran! Yay, Jesus!
 

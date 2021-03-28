@@ -31,9 +31,9 @@ But, now for The Breakthrough.  Just for the hell of it, I clicked on Help down 
 
 Obviously, the expectation that this information would be found at http://bookstore.gpo.gov/help/searching.html#relevance instead of http://www.gpoaccess.gov/help/searching.html#relevance is an unenlightened one, at best.  Therefore, R2B2 is stupid and I am great, and this, ladies and gentlemen, is the blogosphuckingsphere at it's best.  Pointless, innane, immature, all blather, all the time.  But just for good measure, a couple of Tablet PC snipped exhibits:
 
-<img src="http://awebcamdarkly.com/images/gpo.borked.menu.jpg" />
+<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" />
 
-<img src="http://awebcamdarkly.com/images/gpo.borked.menu2.jpg" />
+<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" />
 
 So now that Intelligent Design has been proven to exist within The Goverment, and everyone knows that The Government is the expression of God in our lives on earth, please feel free to send your 10% tithes via paypal -- because we're a Church On The Move, baby.  Happy Easter.
 

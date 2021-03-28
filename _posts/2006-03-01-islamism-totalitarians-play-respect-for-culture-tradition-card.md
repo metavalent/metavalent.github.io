@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://news.bbc.co.uk/2/hi/europe/4763520.stm"><img src="http://awebcamdarkly.com/images/bbc.news.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary --><a href="http://en.wikipedia.org/wiki/Salman_Rushdie">Salman Rushdie</a> is among a dozen writers to have put their names to a statement in a French weekly paper warning against Islamic "totalitarianism".
+<!--Lead Photo --><a href="http://news.bbc.co.uk/2/hi/europe/4763520.stm"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/".
 
 "After having overcome fascism, Nazism, and Stalinism, the world now faces a new global threat: Islamism," the manifesto says.
 

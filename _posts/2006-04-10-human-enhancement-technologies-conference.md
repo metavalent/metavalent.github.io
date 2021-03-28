@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://ieet.org/index.php/IEET/HETHR"><img src="http://awebcamdarkly.com/images/extropian.head.jpg" align="left" border="0" alt="0" /></a><!-- Commentary --><a href="http://ieet.org/index.php/IEET/HETHR">May 26-28, 2006</a>
+<!--Lead Photo --><a href="http://ieet.org/index.php/IEET/HETHR"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">May 26-28, 2006</a>
 
 Stanford University Law School, Stanford, California
 

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://youtube.com/"><img src="http://awebcamdarkly.com/images/youtube.logo.gif" border="0" alt="0" /></a><!-- Commentary -->What do you get when you mix de.licio.us and VLOGging with exponential increases in technologically mediated social isolation?  Maybe something like <a href="http://youtube.com/">YouTube</a>.  Wow.
+<!--Lead Photo --><a href="http://youtube.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">YouTube</a>.  Wow.

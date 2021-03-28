@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://www.humaneventsonline.com/sarticle.php?id=12146"><img src="http://awebcamdarkly.com/images/islam.cartoon.7.jpg" border="0" alt="0" /></a><!-- Commentary -->Inspired by what could well become known as the world's most widespread eruption of <a href="http://www.humaneventsonline.com/sarticle.php?id=12146">art-inspired global violence</a>.
+<!--Lead Photo --><a href="http://www.humaneventsonline.com/sarticle.php?id=12146"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">art-inspired global violence</a>.
 
 How Cartooning Created World Peace
 

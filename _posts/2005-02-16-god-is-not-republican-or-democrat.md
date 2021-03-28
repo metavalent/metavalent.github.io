@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<a href="http://awebcamdarkly.com/docs/sojourners_petition.pdf">Wake up</a>, people.
+<a href="https://web.archive.org/web/*/http://awebcamdarkly.com/">Wake up</a>, people.

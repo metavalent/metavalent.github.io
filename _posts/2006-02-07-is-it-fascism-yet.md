@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://www.pbs.org/now/politics/wilkerson.html"><img src="http://awebcamdarkly.com/images/pbs.now.logo.jpg" border="0" alt="0" /></a><!-- Commentary -->According to former Bush administration Chief of Staff Larry Wilkerson, it's MUCH closer than we'd like to think.  Click to read the <a href="http://www.pbs.org/now/politics/wilkerson.html">entire conversation on the PBS series NOW</a>, with host David Brancaccio.  Let me just say that I'm not posting this because I think King George will appoint himself permanent president, but I am concerned that today's policy and lawmakers are clever enough to set up what could essentially become a kind of "serial dictatorship" with a vetting process sufficiently stringent as to more-or-less ensure a series of "elected" dumb strongmen; to use the terminology of Alexander Hamilton and Col. Wilkerson, below.
+<!--Lead Photo --><a href="http://www.pbs.org/now/politics/wilkerson.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" dumb strongmen; to use the terminology of Alexander Hamilton and Col. Wilkerson, below.
 
 Excerpts:
 

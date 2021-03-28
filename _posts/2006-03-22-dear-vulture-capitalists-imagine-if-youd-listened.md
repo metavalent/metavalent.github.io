@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href=""><img src="http://awebcamdarkly.com/images/prnewswire.logo.gif" border="0" alt="0" /></a><!-- Commentary -->Ah, my dear VC friends and colleagues, imagine if you'd listened to us and already built these networks over the past few years?  How much do you figure you'd be ahead of the pack right now?  How much money would your <a href="http://en.wikipedia.org/wiki/ETTH">plug-n-play ETTH networks</a> be worth to those now scrambling to play catch up?  Answer: A Shitload.  Too bad for Silicon Valley VC's who shined us on and now we ALL lost gigantic amounts of CASH.  Nice job on @Home Networks, though. That really worked out well for everyone, didn't it?
+<!--Lead Photo --><a href=""><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"t it?
 
 Extreme Networks and Light Reading Present Triple Play Service Roll Out Strategies for Carrier Ethernet Networks
 

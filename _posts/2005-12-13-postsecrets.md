@@ -6,8 +6,8 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<img src="http://awebcamdarkly.com/images/time.0.jpg" width="97" height="134" align="left" />Hmmm, could it be that the real or perceived starvation of <a href="http://awebcamdarkly.com/images/time.0.jpg">Time</a>
+<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Time</a>
 
-<img src="http://awebcamdarkly.com/images/hammers.0.jpg" width="145" height="85" align="left" />has something to do with the <a href="http://awebcamdarkly.com/images/hammers.0.jpg">Anger</a>, later?  
+<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Anger</a>, later?  
 
 Nah, never mind.

@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [society, war on aging]
 ---
-<!--Lead Photo --><a href="http://ieet.org/index.php/IEET/HETHR"><img src="http://awebcamdarkly.com/images/the_tubes-remote_control.jpg" border="0" alt="0" /></a><!-- Commentary -->To unravel and clarify the title of this post, it means the Human Enhancement Technologies and Human Rights (HETHR) of (potentially living) Forever; and this is the "What The Hell, Let's At Least Have A Little Fun If We'll Be Around For That Long" accounting of the event.
+<!--Lead Photo --><a href="http://ieet.org/index.php/IEET/HETHR"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" accounting of the event.
 
 To a large extent, I have no idea what just happened this weekend.  I mean, I was there, for sure, but WOW.  I'm speechless.  Thank evolutionary goodness that <a href="http://rationallongevity.blogspot.com/2006/05/ieet-conference-preliminary-report.html">Nydra  has done such a maginificent job of reporting</a>.  Meeting her was just one of the  marvelous GIFTS bestowed upon those who attended.  Nydra, I certainly hope that we get to yammer much more in the future.
 

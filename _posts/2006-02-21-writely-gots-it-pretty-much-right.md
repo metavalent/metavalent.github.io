@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://www.writely.com/"><img src="http://awebcamdarkly.com/images/writely.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary --><div><font size="5">Okay</font>, so this was created by and posted from a <font size="4">word processor</font> in a web browser.
+<!--Lead Photo --><a href="http://www.writely.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">word processor</font> in a web browser.
  
  You can check it out at <a href="http://writely.com/" title="The WebOffice is Inevitable">writely.com</a>
   <h3>   Woohoo. Bullets.

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [Uncategorized]
 ---
-<!--Lead Photo --><a href="http://news.yahoo.com/s/ap/20060118/ap_on_hi_te/blackberry_battle;_ylt=Anw_R7wqTlgqigWDfuZTlxEDW7oF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl"><img src="http://awebcamdarkly.com/images/yahoo.news.logo.gif" border="0" alt="0" /></a><!-- Commentary -->According to <a href="http://news.yahoo.com/s/ap/20060118/ap_on_hi_te/blackberry_battle;_ylt=Anw_R7wqTlgqigWDfuZTlxEDW7oF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl">Yahoo! News reports</a>, anyway.  What a crock.
+<!--Lead Photo --><a href="http://news.yahoo.com/s/ap/20060118/ap_on_hi_te/blackberry_battle;_ylt=Anw_R7wqTlgqigWDfuZTlxEDW7oF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Yahoo! News reports</a>, anyway.  What a crock.
