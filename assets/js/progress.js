@@ -1,4 +1,4 @@
-document.onreadystatechange = function(e)
+document.onreadystatechange = function(ele)
 {
   if(document.readyState=="interactive")
   {
