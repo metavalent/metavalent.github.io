@@ -19,7 +19,7 @@ Perceiving the process of metavalent stigmergy, perhaps, has had something to do
 
 Perhaps, there is some form of _abstract word art_ and practice of increasing _curation value_ involved, as well. Definitely, we think about ways to address Tristan Harris's [Social Dilemma](https://www.thesocialdilemma.com/), in all of our online activities. I can't entirely know where this project is going, just yet. This particular site is just another experiment in a life spent experimenting, thinking, and _doing out loud_. Most of those experiments have failed; a few have been fantastic beyond belief. So, we're engaging with all of that, as always, from this infinitely limited subjective perspective of the infinitely available objective present moment.
 
-In hacking this site into shape, as an old-school &ndash; not particularly great &ndash; student and huge fan of the [C Programming Language](https://www.amazon.com/Programming-Language-Dennis-M-Ritchie/dp/0876925964), at least I've more or less come to amicable terms with Jekyll, Ruby gems, GFM Markdown, Liquid, and a few more Javascript and GitHub tricks, in the process, so far. Thanks for reading this far, and if you continue a few more lines, all the more gratitude. Onward.
+Finally, in duct-taping this site together, as an old school &ndash; _not particularly great_ &ndash; student of the [C Programming Language](https://www.amazon.com/Programming-Language-Dennis-M-Ritchie/dp/0876925964), at least I've more or less come to amicable terms with Jekyll, Ruby gems, GFM Markdown, Liquid, and a few more Javascript and GitHub tricks, in the process, so far. Thank you for reading this far, and if you continue a few more lines, all the more gratitude. Onward.
 
 ### "I seem to be a verb"
 
