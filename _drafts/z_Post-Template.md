@@ -1,17 +1,15 @@
 ---
 layout: post
-title: new post
+title: New Post
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
-modified: null
 created: null
+modified: null
 ---
 
-<!--
-Uncomment video embed, as needed. 
--->
+### Subheading
 
 <!-- 
 [Watch here](https://youtu.be/12345) if the embed below does not behave nicely. 
