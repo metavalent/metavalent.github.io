@@ -23,7 +23,7 @@
       <header>
 	<!-- Scroll progress indicator -->
 	<div class="progress-container">
-  	    <div class="progress-bar" id="ScrollStatus"></div>
+  	    <div class="progress-bar" id="scrStatus"></div>
         </div>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
@@ -84,13 +84,13 @@
     <!-- Progress bar -->
     <script>
 	// When the user scrolls the page, execute scrollFunction
-	window.onscroll = function() {scrollFunction()};
+	window.onscroll = function() {scrFunction()};
 
-	function scrollFunction() {
+	function scrFunction() {
   	var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
   	var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
   	var scrolled = (winScroll / height) * 100;
-  	document.getElementById("ScrollStatus").style.width = scrolled + "%";
+  	document.getElementById("scrStatus").style.width = scrolled + "%";
     </script>
 } 
     
