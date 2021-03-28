@@ -1,8 +1,12 @@
 ---
-created: 2021-03-28T14:12:24-07:00
-modified: 2021-03-28T14:21:27-07:00
+layout: post
 title: Our Shared Systemic Shadow Work
+published: true
+comments: true
+categories: metavalent
 tags: metavalent
+created: 2021-03-28T14:12:24-07:00
+modified: 2021-03-28T14:25:09-07:00
 ---
 
 We do have ... um ... some work to do.
