@@ -9,11 +9,13 @@ modified: 2021-03-27T10:10:51-07:00
 permalink: /about/
 ---
 
-#### "There is too much to say, and it goes in all directions." &mdash; Ted Nelson
-
 ### What is Metavalent Stigmergy?
 
-Maybe it's the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html). Some might say it's just forty ragged years in the desert, pontificating to tumbleweeds; or nearly half a decade (so far) of scrawling messages in bottles and casting them into the sea of cyberspace; or forty years spitting *with* the wind, which really p\*\*\*\*d off the professional into-the-wind-ers, yeah? _With the wind_, rather than into, because so many of the non-rappin', non-rhymin', words we spit into the ether turned out to be truths that people just didn't want to hear, at the time, and now ... well ... we here. Guess that's just [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), isn't it? Yes it is. Maybe it's something abstract word art. All of that, none of it. Both. And. Confused? Good. That might be a good start. Because from the point of confusion, there is only one direction to go, finally: forever toward greater clarity. Isn't that the essense of what genuine lifelong learning is all about?
+Metavalent Stigmergy is the process by which we have observed _New [Default Consensus Realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) Instantiate_. 
+
+And on this topic, Xanadu hypertext imagineer [Ted Nelson](https://xanadu.com.au/ted/) said it best, _"There is too much to say, and it goes in all directions."_
+
+Perceiving the process, perhaps, has had something to do with the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html) and as yet poorly understood ways of [extended cognition](https://consc.net/) in this [Post-Automation Era](https://PostAutomationEra.com/) of hybrid-human-cortex-cloud-extended-mind-intercogntion [PDF](http://consc.net/papers/excexc.pdf). Beyond that, this website is an expression of the further consquence of finding [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way). So, maybe there's some form of abstract word art and curation involved. I don't know yet. It's another experiment in a long life of experiments; many failed; some fantastic beyond belief. So, we're engaging with all of that, from the infinitely limited perspective of the infinitely available present moment.
 
 ### "I seem to be a verb"
 
