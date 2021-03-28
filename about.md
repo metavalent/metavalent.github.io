@@ -9,11 +9,11 @@ modified: 2021-03-27T10:10:51-07:00
 permalink: /about/
 ---
 
-## "There is too much to say, and it goes in all directions." &emdash; Ted Nelson
+#### "There is too much to say, and it goes in all directions." &mdash; Ted Nelson
 
 ### What is Metavalent Stigmergy?
 
-Maybe it's the emerging art and practice of [_omnitention_(https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html). Some might say it's just forty ragged years in the desert, pontificating to tumbleweeds; or nearly half a decade (so far) of scrawling messages in bottles and casting them into the sea of cyberspace; or forty years spitting *with* the wind, which really p\*\*\*\*d off the professional into-the-wind-ers, yeah? _With the wind_, rather than into, because so many of the non-rappin', non-rhymin', words we spit into the ether turned out to be truths that people just didn't want to hear, at the time, and now ... well ... we here. Guess that's just [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), isn't it? Yes it is. Maybe it's something abstract word art. All of that, none of it. Both. And. Confused? Good. That might be a good start. Because from the point of confusion, there is only one direction to go, finally: forever toward greater clarity. Isn't that the essense of what genuine lifelong learning is all about?
+Maybe it's the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html). Some might say it's just forty ragged years in the desert, pontificating to tumbleweeds; or nearly half a decade (so far) of scrawling messages in bottles and casting them into the sea of cyberspace; or forty years spitting *with* the wind, which really p\*\*\*\*d off the professional into-the-wind-ers, yeah? _With the wind_, rather than into, because so many of the non-rappin', non-rhymin', words we spit into the ether turned out to be truths that people just didn't want to hear, at the time, and now ... well ... we here. Guess that's just [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), isn't it? Yes it is. Maybe it's something abstract word art. All of that, none of it. Both. And. Confused? Good. That might be a good start. Because from the point of confusion, there is only one direction to go, finally: forever toward greater clarity. Isn't that the essense of what genuine lifelong learning is all about?
 
 ### "I seem to be a verb"
 
