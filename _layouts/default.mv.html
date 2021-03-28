@@ -3,38 +3,37 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=0.5, user-scalable=yes, shrink-to-fit=yes" />
 
 {% seo %}
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+	  
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
-
-	<!-- Display a page load progress bar -->
-	<link rel="stylesheet" type="text/css" href="/_sass/progress_style.scss">
-	<script src="/js/progress.js" type="text/javascript"></script>
-	
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        
+	<script src="/assets/js/scripts.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
   </head>
   <body>
-	<!-- Display a page load progress bar (needs debugging) -->
-	<div class='progress' id="progress_div">
-		<div class='bar' id='bar1'></div>
-		<div class='percent' id='percent1'></div>
-	</div>
-  
       <header>
+        <!-- Scroll progress indicator -->
+	<div class="progress-container">
+  	    <div class="progress-bar" id="scrStatus"></div>
+        </div>
+	      
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-      </header>
-
-      <div id="banner">
-        <a href="https://{{ site.url }}" class="button home"><strong>. home .</strong></a>
-        <a href="https://{{ site.url }}/about/" class="button about"><strong>. about .</strong></a>
+      </header> 
+	  
+      <!-- experiment with flex-container to get banner to display on mobile -->
+      <div id="banner" class="flex-container">
+        <a href="{{ site.url }}" class="button home"><strong>. home .</strong></a>
+        <a href="{{ site.url }}about" class="button about"><strong>. about .</strong></a>
 		<div class="search"><iframe src="https://duckduckgo.com/search.html?width=233&kh=1&site=metavalent.com&prefill=CTRL+F or CMD+F to search page &focus=yes" style="overflow:hidden;margin:0;padding:0;width:291px;height:34px;" frameborder="0"></iframe></div>
 
 		<span id="logos">
@@ -60,7 +59,7 @@
       <nav>
         <ul></ul>
       </nav>
-      <section>
+      <section id="content">
         {{ content }}
       </section>
       <footer>
@@ -81,14 +80,20 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
       </script>
-    {% endif %}
+    {% endif %}	
+    
+    <!-- Progress bar -->
+    <script>
+	// When the user scrolls the page, execute scrollFunction
+	window.onscroll = function() {scrFunction()};
 
-	<!-- Include jQuery for dynamic pagination -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-	<script src="js/scripts.js"></script>
-
-	<!-- Progress bar width -->
-	<input type="hidden" id="progress_width" value="0">
-	
+	function scrFunction() {
+  	var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  	var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  	var scrolled = (winScroll / height) * 100;
+  	document.getElementById("content").style.width = scrolled + "%";
+    </script>
+} 
+    
   </body>
 </html> 
