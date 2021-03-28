@@ -1,11 +1,11 @@
 ---
 created: 2021-03-28T14:12:24-07:00
-modified: 2021-03-28T14:29:51-07:00
+modified: 2021-03-28T14:32:20-07:00
 title: Our Shared Systemic Shadow Work
 tags: metavalent
 ---
 
-We do have ... um ... some work to do.
+We do ... um ... perhaps have a bit more work to do.
 
 And we're more than capable of doing it, but as is so often the case in the human predicament, it often begins with realizing [rock bottom](https://www.facebook.com/watch/?v=203152141151209) of some kind or another.
 
