@@ -21,16 +21,16 @@
 
   </head>
   <body>
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-      </header>
-
 	<!-- Display a page load progress bar (needs debugging) -->
 	<div class='progress' id="progress_div">
 		<div class='bar' id='bar1'></div>
 		<div class='percent' id='percent1'></div>
-	</div>	  
+	</div>	 
+
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+      </header> 
 	  
       <!-- experiment with flex-container to get banner to display on mobile -->
       <div id="banner" class="flex-container">
@@ -89,7 +89,7 @@
 	<script src="/assets/js/scripts.js"></script>
 
 	<!-- Progress bar width -->
-	<input type="hidden" id="progress_width" value="0">
+	<input type="hidden" id="progress_width" value="50">
 	
   </body>
 </html> 
