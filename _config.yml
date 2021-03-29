@@ -58,7 +58,8 @@ footer-links:
 disqus: metavalent-stigmergy
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+# UA is deprecated by Google 4 Properties. Let's see if this works. Also added code to default.html
+google_analytics: G-F0ZPXJ7DXJ
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g. http://example.com/
