@@ -13,10 +13,10 @@ In the age of Medium, Substack, Patreon, and new platforms like PanQuake, being 
 
 So, [Why Even Bother](https://writingcooperative.com/why-bother-being-a-writer-421d707daefd)?
 
-Good question. I differ with a lot of Kathryn Van Auken's work, but I like her answer to this question, the above essay:
+Good question. I differ with a lot of Kathryn Van Auken's work, but I like her answer to this question:
 
-> We have to make sense of our experiences and share them with others so we will all feel less alone and perhaps ease suffering in others either through shared stories or through pure entertainment. We want to offer a reprieve from this chaotic world.
-> That compulsion is why we write despite the discouragements and hardships because not writing is much more painful than failing at it.
+> We have to make sense of our experiences and share them with others, so we will all feel less alone and perhaps ease suffering in others; either through shared stories, or through pure entertainment. We want to offer a reprieve from this chaotic world.
+> That compulsion is why we write, despite the discouragements and hardships, because not writing is much more painful than failing at it.
 > That’s my answer, what’s yours?
 
 - "The only reason to write is because you have no choice."
