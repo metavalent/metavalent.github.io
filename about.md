@@ -68,7 +68,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 * Reading and Listening Deeply with UNDERSTANDING
 * Seeing and Responding Clearly with COMPASSION
 
-<a name="f1"></a>But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest ANXIETY and deepest DENIAL, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to die with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
+<a name="f1"></a>But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest _anxiety_ and deepest _denial_, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to live _and to die_ with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
 
 ---
 > May we indeed GO GENTLY Into That Good Night\
