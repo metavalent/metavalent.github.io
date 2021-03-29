@@ -13,7 +13,7 @@ permalink: /about/
 
 Metavalent Stigmergy is the process by which we have observed _New [Default Consensus Realities](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) Instantiate_. 
 
-And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, "Everything should be as simple as possible, but not simpler."<sup>[1](#f1)</sup>
+And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, _"Everything should be as simple as possible, but not simpler."_<sup>[1](#f1)</sup>
 
 Perceiving the process of metavalent stigmergy, perhaps, has had something to do with the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html) &ndash; for lack of a better neologism &ndash; and additional, emergent, still very poorly understood ways, means, and methods of [extended cognition](https://consc.net/) in this [Post-Automation Era](https://PostAutomationEra.com/) of hybrid-human-cortex-cloud-extended-mind-intercogntion ([PDF](http://consc.net/papers/excexc.pdf)). Beyond that, this website is an expression of the further consquence of finding [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way).
 
