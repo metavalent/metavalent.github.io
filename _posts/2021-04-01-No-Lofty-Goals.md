@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: No More Lofty Goals
+comments: true
+categories: metavalent
+tags: metavalent
+created: null
+modified: null
+---
+Finally, no more need lofty goals like to _Organize and Monetize the Entire Galaxy's Information_. Just a simple life spent enjoying the process of inquiring, together, to organize this one tiny mind's information.
+
+Then, hit delete, ftw.
+
+![Empty complex self mask]({{site.baseurl}}assets\images\empty.complex.self.mask.jpg)
