@@ -10,7 +10,7 @@ created: null
 
 Wait for it ... Only Russell Brand could negate the negging of Jerry Seinfeld with this kind of flair (not the Reddit kine; real kine, ʻohana nui.) ROTFLMAO. Seeing isn't necessarily believing; but we can [watch and laugh anyway](https://youtu.be/xhEfbdM2Ufc?t=464).
 
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/xhEfbdM2Ufc?t=464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/xhEfbdM2Ufc?t=464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br /><br />
 ### "Ninety-nine percent of the time, my advice, as a Life Coach is going to be ... ["Shave Your Head and Move to Phoenix"](https://youtu.be/xhEfbdM2Ufc).
