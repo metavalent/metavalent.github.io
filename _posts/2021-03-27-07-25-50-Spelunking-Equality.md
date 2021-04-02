@@ -15,7 +15,7 @@ What is the nature of freedom, equality, in the context of Earth, 2021? If can, 
 [Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
 
 #### Video One
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/0gqwMZGynYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/0gqwMZGynYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### Video Two
 <div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/_iudkPi4_sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
