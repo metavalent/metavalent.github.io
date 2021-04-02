@@ -1,5 +1,14 @@
 ---
-published: false
+published: true
+layout: post
+title: >-
+  Incorporation of a nucleoside analog maps genome repair sites in postmitotic
+  human neurons
+comments: true
+categories: metavalent
+tags: metavalent
+created: null
+modified: null
 ---
 ### DNA repair within neurons
 > Humans have only a limited capacity to generate new neurons. These cells thus need to repair errors in the genome. To better understand this process, Reid et al. developed Repair-seq, a method to locate DNA repair within the genome of stem cell–derived neurons. DNA repair hotspots (DRHs) were more likely to occur within specific genomic features such as gene bodies as well as in genomic formations, open chromatin, and active regulatory regions. This method showed that repair was enriched at sites involved in neuronal function and identity. Furthermore, proteomic data indicated that genes in DRHs are enriched in Alzheimer's disease and that DRHs are more active in aging. These observations link neuronal DNA repair to aging and neurodegeneration.
