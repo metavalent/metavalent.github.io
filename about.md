@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-01T21:43:40-07:00
+modified: 2021-04-01T21:46:32-07:00
 permalink: /about/
 ---
 
@@ -93,7 +93,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 
 [[ iv ]](#) Muchísimo mahalos to [Matt Graham](https://mobile.twitter.com/mattgraham) for generosity of the [Leap Day Theme](https://github.com/mattgraham/leapday).
 
-[[ iv ]](#) [RSS feed](https://metavalent.com/feed).
+[[ v ]](#) [RSS feed](https://metavalent.com/feed).
 
 
 <!-- So much ugly anchor-hacking because content frame is anchored to header instead of banner. Maybe fix later. Is it really worth it? -->
