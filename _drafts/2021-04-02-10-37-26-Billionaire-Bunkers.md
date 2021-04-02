@@ -1,9 +1,9 @@
 ---
 created: 2021-04-02T10:37:26-07:00
-modified: 2021-04-02T12:11:48-07:00
+modified: 2021-04-02T12:12:27-07:00
 ---
 
-> An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe] (https://link.medium.com/HvPPQJai8eb) creative writing work of [Jessica Wildfire](https://JessicaLexicus.medium.com/).
+> An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) creative writing work of [Jessica Wildfire](https://JessicaLexicus.medium.com/).
 
 Another typical day. Woke up, had a cup of coffee, read the entire internet for updates. Today's theme seems to be:
 
