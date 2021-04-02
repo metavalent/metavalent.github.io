@@ -15,3 +15,9 @@ modified: null
 
 #### Abstract
 > Neurons are the longest-lived cells in our bodies and lack DNA replication, which makes them reliant on a limited repertoire of DNA repair mechanisms to maintain genome fidelity. These repair mechanisms decline with age, but we have limited knowledge of how genome instability emerges and what strategies neurons and other long-lived cells may have evolved to protect their genomes over the human life span. A targeted sequencing approach in human embryonic stem cell–induced neurons shows that, in neurons, DNA repair is enriched at well-defined hotspots that protect essential genes. These hotspots are enriched with histone H2A isoforms and RNA binding proteins and are associated with evolutionarily conserved elements of the human genome. These findings provide a basis for understanding genome integrity as it relates to aging and disease in the nervous system.
+
+[ Read More ](https://science.sciencemag.org/content/372/6537/91)
+
+---
+CREDIT: [@CedricBardyLab](https://twitter.com/CedricBardyLab/status/1377742384084054016)
+
