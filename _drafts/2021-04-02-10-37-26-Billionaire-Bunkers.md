@@ -1,6 +1,6 @@
 ---
 created: 2021-04-02T10:37:26-07:00
-modified: 2021-04-02T12:12:27-07:00
+modified: 2021-04-02T12:15:12-07:00
 ---
 
 > An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) creative writing work of [Jessica Wildfire](https://JessicaLexicus.medium.com/).
@@ -14,6 +14,8 @@ Panoptic private surveillance and impenetrable private security armies. Electrom
 In a given universe where some non-trivial proportion of such activity is taking place, what's perhaps most tragicomic is the fact that, somewhere inside, _the very people building the bunkers_ – like pyramid laborers – have got to _know that they won't have a place inside_; and yet, willingly participate in their own cynical extermination in the name of, _"hey, it's a job, and everybody *has* to have a job."_
 
 This is what has been described as the #JobTrance for at least the past decade.
+
+### The View Through Flimsy 3D Glasses
 
 Through a blue lens over the left eye, this is also what has been described as an inherently toxic and unsustainable default consensus reality. Through a red lens over the right eye, it's just pure evil, principalities and powers. Perfectly predictably. Prophesied.
 
