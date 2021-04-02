@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Clearing Up Confusion On Consensus
+title: Clarifying Consensus
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-26T21:05:15-07:00
-modified: 2021-03-27T09:13:50-07:00
+modified: 2021-04-02T12:37:56-07:00
 ---
+
+> "There seems to be a bit of a minor communication error, here. Please stand by."
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
 
