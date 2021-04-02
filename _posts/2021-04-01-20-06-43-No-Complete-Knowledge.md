@@ -6,14 +6,14 @@ comments: true
 categories: metavalent
 tags: metavalent, clips
 created: 2021-04-01T20:06:43-07:00
-modified: 2021-04-01T20:28:49-07:00
+modified: 2021-04-01T20:33:50-07:00
 ---
 
 Nor Can There Be.
 
 [Watch here](https://youtu.be/ofdFJlyVlfk) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe src="https://youtu.be/ofdFJlyVlfk" frameborder="0" allowfullscreen> 
+<div class="embed-container"><iframe src="https://youtu.be/embed/ofdFJlyVlfk" frameborder="0" allowfullscreen> 
 </iframe>
 </div>
 
