@@ -1,13 +1,19 @@
 ---
+layout: post
+title: Billionaires Gone Bunkers!
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
 created: 2021-04-02T10:37:26-07:00
-modified: 2021-04-02T12:50:12-07:00
+modified: 2021-04-02T12:59:45-07:00
 ---
 
 > An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) algorithmically surfaced creative writing work of one [Jessica Wildfire](https://JessicaLexicus.medium.com/).
 
 _"Between every stimulus and response, there is an infinite empty space."_
 
-> Yes, oh guru, I confess, instead of being satisfied to bask in the sufficiency of that pure awareness, I filled that space with this, again, as is my habitual tendency. My bad. I accept the consequenes that the counter goes back to zero. Begin. Again.
+> Yes, oh guru, I confess, instead of being satisfied to bask in the sufficiency of that pure awareness, I filled that space with this, again, as is my habitual tendency. My bad. I accept the consequences that my follower count will be reset to zero every day, forever; that I'll be justifiably shadow-banned, digitally gang-stalked, [zersetzung](https://en.m.wikipedia.org/wiki/Zersetzung)'d IRL, de-platformed, and played like a human puppet for IC entertainment. But then, you know the old Zen Trope: get deplatformed seven times, create an entirely new platform eight.
 
 Another typical day. Woke up, had a cup of coffee, read the entire internet for updates. Today's theme seems to be:
 
