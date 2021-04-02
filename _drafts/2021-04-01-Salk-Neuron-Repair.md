@@ -1,16 +1,16 @@
 ---
 published: true
 layout: post
-title: >-
-  Incorporation of a nucleoside analog maps genome repair sites in postmitotic
-  human neurons
+title: _drafts/2021-04-01-14-56-57-Salk-Neuron-Repair.md
 comments: true
 categories: metavalent
 tags: metavalent
 created: null
 modified: null
 ---
-None of that means that [mRNA engineering](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html) is obsolete! It only means to maybe also pay attention to environmental factors & effects in the emergence of mutations and new strains, yeah? 
+Nothing we've mentioned means [mRNA engineering](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html) is obsolete! Far from it. Only means to maybe also pay attention to environmental factors & effects in the emergence of mutations and new strains. Does it make sense? Or no?
+
+_We're all in it together, kid. Please help me help you to help me to get [Closer to Truth](https://CloserToTruth.com/). ;-)_
 
 ### DNA repair within neurons
 > Humans have only a limited capacity to generate new neurons. These cells thus need to repair errors in the genome. To better understand this process, Reid et al. developed Repair-seq, a method to locate DNA repair within the genome of stem cell–derived neurons. DNA repair hotspots (DRHs) were more likely to occur within specific genomic features such as gene bodies as well as in genomic formations, open chromatin, and active regulatory regions. This method showed that repair was enriched at sites involved in neuronal function and identity. Furthermore, proteomic data indicated that genes in DRHs are enriched in Alzheimer's disease and that DRHs are more active in aging. These observations link neuronal DNA repair to aging and neurodegeneration.
