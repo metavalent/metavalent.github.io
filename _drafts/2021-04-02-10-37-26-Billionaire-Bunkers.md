@@ -1,6 +1,6 @@
 ---
 created: 2021-04-02T10:37:26-07:00
-modified: 2021-04-02T12:36:09-07:00
+modified: 2021-04-02T12:44:57-07:00
 ---
 
 > An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) creative writing work of [Jessica Wildfire](https://JessicaLexicus.medium.com/).
@@ -19,7 +19,7 @@ This is what has been described as the #JobTrance for at least the past decade.
 
 Through a blue lens over the left eye, this is also what has been described as an inherently toxic and unsustainable, mad, voracious, dog-eat-dog consumer culture. Through a red lens over the right eye, it's just pure evil, principalities and powers. Perfectly predictably. Prophesied.
 
-Multiplexing those views renders the present [default consensus political reality](bbb):
+Multiplexing those views renders the present [default consensus political reality](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clarifying-Confusion.html):
 
 > Mammon gonna' mammon.
 
