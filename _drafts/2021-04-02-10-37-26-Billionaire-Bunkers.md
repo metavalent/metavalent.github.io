@@ -1,13 +1,13 @@
 ---
 created: 2021-04-02T10:37:26-07:00
-modified: 2021-04-02T12:15:12-07:00
+modified: 2021-04-02T12:19:11-07:00
 ---
 
 > An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) creative writing work of [Jessica Wildfire](https://JessicaLexicus.medium.com/).
 
 Another typical day. Woke up, had a cup of coffee, read the entire internet for updates. Today's theme seems to be:
 
-### It's billionaires gone bunkers! 
+### It's Billionaires Gone Bunkers! 
 
 Panoptic private surveillance and impenetrable private security armies. Electromagnetic spectrum Dark Zones, legislated by Dark Money, for maximum lulz and sex trafficking. What could possibly go wrong?
 
@@ -17,9 +17,11 @@ This is what has been described as the #JobTrance for at least the past decade.
 
 ### The View Through Flimsy 3D Glasses
 
-Through a blue lens over the left eye, this is also what has been described as an inherently toxic and unsustainable default consensus reality. Through a red lens over the right eye, it's just pure evil, principalities and powers. Perfectly predictably. Prophesied.
+Through a blue lens over the left eye, this is also what has been described as an inherently toxic and unsustainable, mad, voracious, dog-eat-dog consumer culture. Through a red lens over the right eye, it's just pure evil, principalities and powers. Perfectly predictably. Prophesied.
 
-Mammon gonna' mammon.
+Multiplexing those views renders the present [default consensus political reality](bbb):
+
+> Mammon gonna' mammon.
 
 Riveted eschatology fans, on the edge of their beds and listening through earbuds question, "will the numbers of #PostAutomationEra Rip Van Winkles reduce fast enough to prevent a self-fulfilling catastrophe?"
 
