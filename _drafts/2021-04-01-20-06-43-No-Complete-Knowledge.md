@@ -4,9 +4,9 @@ title: There Is No Complete Knowledge About Anything
 published: true
 comments: true
 categories: metavalent
-tags: metavalent
+tags: metavalent, clips
 created: 2021-04-01T20:06:43-07:00
-modified: 2021-04-01T20:10:22-07:00
+modified: 2021-04-01T20:11:43-07:00
 ---
 
 Nor Can There Be.
