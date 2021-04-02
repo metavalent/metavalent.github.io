@@ -5,9 +5,11 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-01T21:46:32-07:00
+modified: 2021-04-02T10:51:19-07:00
 permalink: /about/
 ---
+
+> None of life on Earth is true, and all of life on Earth is true, at the same time. Sorry about that. Not to fret. Management checks the suggestion box every few kalpas, so feel free to leave your comments below. You are our most valued customer, and your time is important to us. Estimated wait time is 34 years.
 
 ### What is Metavalent Stigmergy?
 
