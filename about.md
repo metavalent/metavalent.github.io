@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-01T21:33:01-07:00
+modified: 2021-04-01T21:43:40-07:00
 permalink: /about/
 ---
 
@@ -90,6 +90,8 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 [[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
 [[ iii ]](#) This site hand-rolled by the artist, thanks to [GitHub Pages](https://pages.github.com/), and as a way to get a bit more familiar with ruby, jekkyl, liquid, gfm limited markdown, on wsl with git bash, etc. 
+
+[[ iv ]](#) Muchísimo mahalos to [Matt Graham](https://mobile.twitter.com/mattgraham) for generosity of the [Leap Day Theme](https://github.com/mattgraham/leapday).
 
 [[ iv ]](#) [RSS feed](https://metavalent.com/feed).
 
