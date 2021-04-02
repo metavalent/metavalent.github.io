@@ -5,11 +5,11 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-02T10:56:55-07:00
+modified: 2021-04-02T11:10:16-07:00
 permalink: /about/
 ---
 
-> _None of life on Earth is true, and all of life on Earth is true, at the same time. Sorry about that. All extrinsic art is intrinsically filtered in transmission, by definition, isn't it? Except for the sky, maybe. Not to fret. Management checks the suggestion box every few kalpas, so feel free to leave your comments below. You are our most valued customer, and your time is important to us. Please enjoy the following free content while HODLing. Estimated wait time is 34 years._
+> _None of life on Earth is true, and all of life on Earth is true, at the same time. Sorry about that. Perhaps it's a feature, consequent to the unavoidable limitation that even all extrinsic art is intrinsically filtered in transmission, by definition, isn't it? Except for the sky, maybe. Not to fret. Management checks the suggestion box every few kalpas, so feel free to leave your comments below. You are our most valued customer, and your time is important to us. Please enjoy the following free content while HODLing. Estimated wait time is 34 years._
 
 ### What is Metavalent Stigmergy?
 
