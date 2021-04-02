@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Mutations of Meaning
 created: 2021-03-23T20:49:38-07:00
-modified: 2021-03-23T21:27:46-07:00
+modified: 2021-04-01T21:12:51-07:00
 ---
 
 > "The human species is going through a _mutation in the meaning_ of biological reproduction. The bishops who are imposing orders ... are not actually interested in protecting the moral principles they're citing, they're protecting their own power. That's what's really going on, in my view." -- Former Priest, James Carroll.
@@ -16,4 +16,4 @@ FTP, what's happened, like in America as a whole, is that human institutions and
 
 We can do this, because the human species is simultaneously going through a _mutation in the meaning_ of what it actually means to be human, in and of itself. How much more fortunate could we be, than to be alive to bear witness to this epochal transition, in this very present moment? The [Post-Automation Era](https://PostAutomationEra.com).
 
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/464bg-DkPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/464bg-DkPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
