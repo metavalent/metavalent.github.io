@@ -109,7 +109,7 @@ Content column 1 | Content column 2
 
 EMOJI
 GitHub supports emoji!
-:+1: :sparkles: :camel: :tada:
+:thumbsup: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 
 To see a list of every image we support, check out www.emoji-cheat-sheet.com
