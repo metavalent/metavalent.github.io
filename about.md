@@ -17,6 +17,16 @@ Metavalent Stigmergy is the process by which we have observed _New [Default Cons
 
 And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, _"Everything should be as simple as possible, but not simpler."_<sup>[1](#f1)</sup>
 
+### Etymology
+
+How I constructed this neologism, some time in the mid-to-late 1990's.
+
+- **Meta-**: 1. Meta (from the Greek μετα-, meta-, meaning "after" or "beyond") is a prefix meaning more comprehensive or transcending ([Wikipedia](https://en.wikipedia.org/wiki/Meta)). 2. a prefix appearing in loanwords from Greek, with the meanings after, along with, beyond, among, behind, **and productive**, [examples] in English on the Greek model: metacarpus; metalinguistics ([Free Dictionary](https://www.thefreedictionary.com/meta)).
+- **-Valent**: Having valence. *Valence*: 1. the quality that determines the number of atoms or groups with which any single atom or group will unite chemically. 2. the number of determinants per molecule of antigen. 3. **the capacity of one person or thing to react with or affect another in some special way, as by attraction or the facilitation of a function or activity.** 
+- **Stigmergy**: a mechanism of indirect coordination, through the environment, between agents or action ([Wikipedia](https://en.wikipedia.org/wiki/Stigmergy)).
+
+### Process and Perception
+
 Perceiving the process of metavalent stigmergy, perhaps, has had something to do with the emerging art and practice of [_omnitention_](https://metavalent.com/metavalent/2021/03/28/07-07-17-Omnitention-to-All-Things-All-Times.html) &ndash; for lack of a better neologism &ndash; and additional, emergent, still very poorly understood ways, means, and methods of [extended cognition](https://consc.net/) in this [Post-Automation Era](https://PostAutomationEra.com/) of hybrid-human-cortex-cloud-extended-mind-intercogntion ([PDF](http://consc.net/papers/excexc.pdf)). Beyond that, this website is an expression of the further consquence of finding [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way).
 
 <a name="f2"></a>Perhaps, there is some form of _abstract word art_ and practice of increasing _curation value_ involved, as well. Definitely, we think about ways to address Tristan Harris's [Social Dilemma](https://www.thesocialdilemma.com/), in all of our online activities. I can't entirely know where this project is going, just yet. This particular site is just another experiment in a life spent experimenting, thinking, and _doing out loud_. Most of those experiments have failed; a few have been fantastic beyond belief. So, we're engaging with all of that, as always, from this infinitely limited subjective perspective of the infinitely available objective present moment.
