@@ -21,7 +21,7 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 
 How I constructed this neologism, some time in the mid-to-late 1990's.
 
-- **Meta-**: 1. Meta (from the Greek μετα-, meta-, meaning "after" or "beyond") is a prefix meaning more comprehensive or transcending ([Wikipedia](https://en.wikipedia.org/wiki/Meta)). 2. a prefix appearing in loanwords from Greek, with the meanings after, along with, beyond, among, behind, **and productive**, [examples] in English on the Greek model: metacarpus; metalinguistics ([Free Dictionary](https://www.thefreedictionary.com/meta)).
+- **Meta-**: 1. Meta (from the Greek μετα-, meta-, meaning "after" or "beyond") is a prefix meaning more **comprehensive or transcending** ([Wikipedia](https://en.wikipedia.org/wiki/Meta)). 2. a prefix appearing in loanwords from Greek, with the meanings after, along with, beyond, among, behind, **and productive**, [examples] in English on the Greek model: metacarpus; metalinguistics ([Free Dictionary](https://www.thefreedictionary.com/meta)).
 - **-Valent**: Having valence. *Valence*: 1. the quality that determines the number of atoms or groups with which any single atom or group will unite chemically. 2. the number of determinants per molecule of antigen. 3. **the capacity of one person or thing to react with or affect another in some special way, as by attraction or the facilitation of a function or activity.** 
 - **Stigmergy**: a mechanism of indirect coordination, through the environment, between agents or action ([Wikipedia](https://en.wikipedia.org/wiki/Stigmergy)).
 
