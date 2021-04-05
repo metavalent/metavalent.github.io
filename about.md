@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-05T13:44:08-07:00
+modified: 2021-04-05T13:56:12-07:00
 permalink: /about/
 ---
 
@@ -29,7 +29,7 @@ The fifth grade explanation is:
 
 > Metavalent stigmergy is the process by which ideas originate, germinate, blossom, and propagate into New Default Consensus Realities.
 
-What this means is, people come up with ideas and concepts and share them with one another. At some point, some ideas become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with those thoughts and ideas. Example: There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. Default consensus reality defines slavery is immoral and wrong.
+What this means is, people come up with ideas and concepts and share them with one another. At some point, some ideas become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with those thoughts and ideas. Example: There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. The current default consensus reality defines slavery as immoral and wrong.
 
 By understanding the processes and principles that lead to change at scale, we can then learn to apply these practices to reducing suffering such as that caused by poverty &ndash; both absolute and relative &ndash; and intentionally engineered economic precarity.
 
