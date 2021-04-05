@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-02T11:12:21-07:00
+modified: 2021-04-05T13:38:58-07:00
 permalink: /about/
 ---
 
@@ -23,7 +23,11 @@ How I constructed this neologism, some time in the mid-to-late 1990's.
 
 - **Meta-**: 1. Meta (from the Greek μετα-, meta-, meaning "after" or "beyond") is a prefix meaning more **comprehensive or transcending** ([Wikipedia](https://en.wikipedia.org/wiki/Meta)). 2. a prefix appearing in loanwords from Greek, with the meanings after, along with, beyond, among, behind, **and productive**, [examples] in English on the Greek model: metacarpus; metalinguistics ([Free Dictionary](https://www.thefreedictionary.com/meta)).
 - **-Valent**: Having valence. *Valence*: 1. the quality that determines the number of atoms or groups with which any single atom or group will unite chemically. 2. the number of determinants per molecule of antigen. 3. **the capacity of one person or thing to react with or affect another in some special way, as by attraction or the facilitation of a function or activity.** 
-- **Stigmergy**: a mechanism of indirect coordination, through the environment, between agents or action ([Wikipedia](https://en.wikipedia.org/wiki/Stigmergy)).
+- **Stigmergy**: a mechanism of **indirect coordination**, through the environment, between agents or action ([Wikipedia](https://en.wikipedia.org/wiki/Stigmergy)).
+
+The fifth grade explanation. People come up with ideas and concepts and share them with one another. At some point, some ideas become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with those thoughts and ideas. Example: There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. Default consensus reality defines slavery is immoral and wrong.
+
+By understanding the processes and principles that lead to change at scale, we can then learn to apply these practices to reducing suffering such as that caused by poverty &ndash; both absolute and relative &ndash; and intentionally engineered economic precarity.
 
 ### Process and Perception
 
