@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-06T11:22:06-07:00
+modified: 2021-04-06T11:23:56-07:00
 permalink: /about/
 ---
 
@@ -29,7 +29,9 @@ The fifth grade explanation is:
 
 > Metavalent stigmergy is the process by which new insights,understandings, or ideas originate, germinate, blossom, and propagate into New Default Consensus Realities.
 
-What this means is, a team of scientists may make a new discovery; a mathematician or physicist may realize a new insight; an inventor or philosopher may surface a new idea that results in a new product, a new process or new way of understanding and interacting with the world. These concepts and innovations are shared, in concentric circles of conversation and interaction. At some point, some facts, ideas and artifacts become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with the previously little known or understood thoughts, ideas, capabilities. Examples: [1] There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. The current default consensus reality defines slavery as immoral and wrong. [2] Just a generation ago, the concept of a global brain like information network with handheld interaction devices in the hands of half of humanity, was the most far-fetched science fiction. Today, there are some who believe we are at very great risk of losing our very humanity because of the present tense American everyday boring digital reality.
+What this means is, a team of scientists may make a new discovery; a mathematician or physicist may realize a new insight; an inventor or philosopher may surface a new idea that results in a new product, a new process or new way of understanding and interacting with the world. These concepts and innovations are shared, in concentric circles of conversation and interaction. At some point, some facts, ideas and artifacts become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with the previously little known or understood thoughts, ideas, capabilities.
+
+Examples: [1] There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. The current default consensus reality defines slavery as immoral and wrong. [2] Just a generation ago, the concept of a global brain like information network with handheld interaction devices in the hands of half of humanity, was the most far-fetched science fiction. Today, there are some who believe we are at very great risk of losing our very humanity because of the present tense American everyday boring digital reality.
 
 By understanding the processes and principles that lead to change at scale, we can then learn to apply these practices to reducing suffering such as that caused by poverty &ndash; both absolute and relative &ndash; and intentionally engineered economic precarity.
 
