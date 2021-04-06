@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-06T11:40:31-07:00
+modified: 2021-04-06T11:42:49-07:00
 permalink: /about/
 ---
 
@@ -31,7 +31,15 @@ The fifth grade explanation is:
 
 What this means is, a team of scientists may make a new discovery; a mathematician or physicist may realize a new insight; an inventor or philosopher may surface a new idea that results in a new product, a new process or new way of understanding and interacting with the world. These concepts and innovations are shared, in concentric circles of conversation and interaction. At some point, some facts, ideas and artifacts become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with the previously little known or understood thoughts, ideas, capabilities.
 
-Examples: [1] There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. The current default consensus reality defines slavery as immoral and wrong. [2] Just a generation ago, the concept of a global brain like information network with handheld interaction devices in the hands of half of humanity, was the most far-fetched science fiction. Today, there are some who believe we are at very great risk of losing our very humanity because of the present tense American everyday boring digital reality. [3] The Simulation Argument. Prior to the articulation of the Simulation Hypothesis by philosopher Nick Bostrom, the idea was mostly limited to some versions of Hindu and Buddhist mystic traditions. Teachings about the relative unreality of the material world are very ancient; however, the innovative reframing of those productive into a computer era context was novel; and now, in less than 20 years, arguably mainstream. [4] Ethnic and Tribal Supremacy. Just about every nation and people have some kind of historical or contemporary narrative that views one's own ethnicity and culture as superior to all others. Prior to whole globe awareness, trade, and communication, skirmishes over these collective narcissistic beliefs were settled on local and regional scales, through various levels of violence and war. Since the development of all kinds of weapons of mass destruction, multi-polar and multi-lateral ethnic supremacies drive misunderstanding, fear, and conflict at a scale that poses increasing existential risk.
+### Examples
+
+> [1] There was a time in human history that slavery was considered normal, and okay. Through the process of _metavalent stigmergy_ the opposite is effectively, universally untrue. The current default consensus reality defines slavery as immoral and wrong.
+
+> [2] Just a generation ago, the concept of a global brain like information network with handheld interaction devices in the hands of half of humanity, was the most far-fetched science fiction. Today, there are some who believe we are at very great risk of losing our very humanity because of the present tense American everyday boring digital reality.
+
+> [3] The Simulation Argument. Prior to the articulation of the Simulation Hypothesis by philosopher Nick Bostrom, the idea was mostly limited to some versions of Hindu and Buddhist mystic traditions. Teachings about the relative unreality of the material world are very ancient; however, the innovative reframing of those productive into a computer era context was novel; and now, in less than 20 years, arguably mainstream.
+
+> [4] Ethnic and Tribal Supremacy. Just about every nation and people have some kind of historical or contemporary narrative that views one's own ethnicity and culture as superior to all others. Prior to whole globe awareness, trade, and communication, skirmishes over these collective narcissistic beliefs were settled on local and regional scales, through various levels of violence and war. Since the development of all kinds of weapons of mass destruction, multi-polar and multi-lateral ethnic supremacies drive misunderstanding, fear, and conflict at a scale that poses increasing existential risk.
 
 By understanding the processes and principles that lead to change at scale, we can then learn to apply these practices to reducing suffering such as that caused by poverty &ndash; both absolute and relative &ndash; and intentionally engineered economic precarity.
 
