@@ -1,5 +1,12 @@
 ---
+layout: post
+published: true
+title: Archetype So True
+comments: true
+categories: metavalent
+tags: metavalent
 created: 2021-04-02T09:47:55-07:00
+modified:
 ---
 
 "The archetype is so true, it applies to the archetype itself." — Curt.  A good clips candidate @CloserTo Truth
