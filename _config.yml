@@ -68,9 +68,6 @@ url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g
 twitter_username: metavalent
 github_username:  metavalent
 
-## Experiment with search URLs
-ddg.search: https://duckduckgo.com/?q=
-
 collections:
   authors:
 
