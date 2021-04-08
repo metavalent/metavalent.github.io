@@ -1,0 +1,1 @@
+Follow up question: Because of the symmetries we observe throughout all other phenomena that we're capable of observing might not make sense that there would be reflective symmetries into the quantum realm? That is, holographic principles applied in a quantum context.
