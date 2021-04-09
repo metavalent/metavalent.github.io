@@ -15,6 +15,8 @@ Personally, I don't know more than a handful of white married working couples th
 
 Before World War II, pretty much only rich people paid taxes. So, restoring that would make America great again?
 
+Democrats today are still supporting racist policies, by living in all white neighborhoods and benefiting accordingly.
+
 
 [Watch here](https://youtu.be/https://youtu.be/ky1l2slZqMc) if the embed below does not behave nicely. 
 
