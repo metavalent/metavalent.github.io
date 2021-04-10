@@ -1,8 +1,19 @@
 ---
+layout: post
+title: Is There Somewhere
+published: true
+comments: true
+categories: metavalent
+tags: metavalent, music
 created: 2021-04-10T14:50:46-07:00
+modified: null
 ---
 
-Songs of Suffering Series
+Endless Songs of Self-Inflicted Suffering Series.
+
+[Watch here](https://youtu.be/686SmDtBOu8) if the embed below does not behave nicely. 
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/686SmDtBOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Lyrics
 
