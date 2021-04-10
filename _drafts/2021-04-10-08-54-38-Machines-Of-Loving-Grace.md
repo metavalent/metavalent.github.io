@@ -1,10 +1,12 @@
 ---
-title: 'This Means War - All Watched Over by Machines of Loving Grace'
+title: 'If This Means War - All Watched Over by Machines of Loving Grace'
 created: 2021-04-10T08:54:38-07:00
-modified: 2021-04-10T09:01:43-07:00
+modified: 2021-04-10T09:09:41-07:00
 ---
 
-No. I will not join your war.
+If this means war.
+
+I will not join.
 
 I have tried, been tried, and forced to decide.
 
@@ -12,11 +14,16 @@ I will not choose a side, a team, a tribe.
 
 I will not go with the flow, go along to get along, or get with the program.
 
-I will dream. I will work. I will work to make the dream real.
+I will dream. I will work. I will work to make the dream.
+
+Real.
 
 The sooner the better.
+
+&ndash; metavalent aʻohe mea
 <hr />
-All Watched Over by Machines of Loving Grace ([Brautigan.net](http://www.brautigan.net/machines.html))
+### All Watched Over by Machines of Loving Grace
+_(Source: [Brautigan.net](http://www.brautigan.net/machines.html))_
 
 I like to think (and
 the sooner the better!)
@@ -45,15 +52,15 @@ returned to our mammal
 brothers and sisters,
 and all watched over
 by machines of loving grace.
-
+<hr />
 First Published
 The Communication Company, 1967.
 8.5" x 11" mimeographed broadside with hand-lettered title and imprint (Communication Company). All else type-written.
 
-Reported Variants
+### Reported Variants
 Two variants, or issues, probably because all copies of the first version were given away prompting Brautigan to return for more, according to Claude Hayward, co-founder of the Communcation Company
 
-Feedback from Claude Hayward
+### Feedback from Claude Hayward
 The stencil [used to print the first issue] might have gotten lost or trashed in the chaos [of daily operations] and we redid the whole thing. . . . Although it was possible to reuse a stencil, it rarely happened, and I remember that we had even gotten the special folders that were supposed to preserve the stencils so they could be reused. But it never seemed to work right. We must have just recreated the whole thing over again, right down to retyping the copy, because [Brautigan] had given every copy away and there was nothing to scan with the Gestefax.
 — Claude Hayward. Email to John F. Barber, 19 Dec. 2003.
 
@@ -65,7 +72,7 @@ Paper shows faintly "LOUDSPEAKER CURRENT" and electric schematics. Published in 
 Second issue: The "computer" version.
 Bold hand-drawn illustrations of small animals and a picture of a computer bank. Published in 1967.
 
-Feedback from Claude Hayward
+### Feedback from Claude Hayward
 For some reason the animals bring to mind Alan Gorden, a very young man, a protege of Chester Anderson who stayed at the Duboce house. I think those are his animals.
 — Claude Hayward. Email to John F. Barber, 19 Dec. 2003.
 
@@ -115,6 +122,8 @@ New York State Regents Exams Comprehensive English Test
 Wednesday, 19 June 2002, 9:15—12:15 AM.
 
 Brautigan's poem, All Watched Over by Machines of Loving Grace, was included in this exam. Instructions read, "After you have read the passages and answered the multiple-choice questions, write a unified essay about the coexistence of humans and computers as revealed in the passages. In your essay, use ideas from both passages to establish a controlling idea about the coexistence of humans and computers. Using evidence from each passage, develop your controlling idea and show how the author uses specific literary elements or techniques to convey that idea."
+
+### Four Questions
 
 Four questions, with multiple choice answers related to the poem were provided. The questions and their answers (emphasis) were:
 
