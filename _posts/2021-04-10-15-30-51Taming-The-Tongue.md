@@ -9,7 +9,7 @@ created: 2021-04-10T15:30:51-07:00
 modified: null
 ---
 
-The Prajñā Paramita, or Heart Sutra states:
+From the Science, Psy, And Spirituality series. The Prajñā Paramita, or Heart Sutra states:
 
 > "Bodhisattva Avalokiteśvara clearly perceived the emptiness of the five skandhas and transcended all suffering.”
 
