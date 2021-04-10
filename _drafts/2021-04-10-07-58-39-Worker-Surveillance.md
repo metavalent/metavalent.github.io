@@ -5,15 +5,15 @@ published: true
 comments: true
 categories: metavalent, surveillance
 tags: metavalent, not-okay
-created: 2021-04-10T05:57:39-07:00
+created: 2021-04-10T07:58:39-07:00
 modified: 
 ---
 
-One company isn't even shy about it. The company is literally called PREY. Not even shy about it. Just call remote workers what they've become: [PREY](https://preyproject.com/blog/en/employee-monitoring-surveillance-for-the-remote-work-era/ ). It's likely that the only people who don't realize that #RemoteWorkerSurveillance amounts to #HouseArrestJobs are so privileged that they don't know anyone in this situation.
+One company isn't even shy about it. The company is literally called [PREY](https://preyproject.com/blog/en/employee-monitoring-surveillance-for-the-remote-work-era/). They literally refer to remote workers by the commodity that they've become. It's likely that the only people who don't realize that #RemoteWorkerSurveillance amounts to #HouseArrestJobs are so privileged that they don't know anyone in this situation.
 
-### Cognitive Tresspassing
+### Cognitive Trespassing of the Worst Kind
 
-All these trends are exactly the opposite of what Dr. Karen Yu, professor of psychology at the University of the South, calls for, in the form of [Cognitive Kindness](https://youtu.be/E4IyZ0df3ks). Dr. Yu earned her B.S. in Brain and Cognitive Sciences from MIT and her Ph.D. in Psychology from Vanderbilt University.
+All these trends are exactly the opposite of what Dr. Karen Yu, professor of psychology at the University of the South, calls for, in the form of [Cognitive Kindness]({{ site.baseurl }}/metavalent/2021/04/10/07-57-37-Cognitive-Kindness). Dr. Yu earned her B.S. in Brain and Cognitive Sciences from MIT and her Ph.D. in Psychology from Vanderbilt University.
 
 Managers turn to surveillance software, always-on webcams to ensure employees are (really) working from home
 Always-on webcams, virtual “water coolers,” constant monitoring: [Is the tech industry’s new dream for remote work actually a nightmare?](https://www.washingtonpost.com/technology/2020/04/30/work-from-home-surveillance/)
