@@ -11,6 +11,8 @@ modified: 2021-04-08T11:00:04-07:00
 
 "Narcissism is ridiculous. Look at me. I am 60 years old. I'm pompous. I'm infantile. I'm grandiose. I'm revolting. And I'm contradictory." &mdash; Dr. Sam Vaknin
 
+Word, boss.
+
 
 [Watch here](https://youtu.be/pIOKzEM1ijI) if the embed below does not behave nicely. 
 

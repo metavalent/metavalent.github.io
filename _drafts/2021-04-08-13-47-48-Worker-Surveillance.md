@@ -5,8 +5,8 @@ published: true
 comments: true
 categories: metavalent, surveillance
 tags: metavalent, not-okay
-created: null
-modified: null
+created: 2021-04-08T13:47:48-07:00
+modified: 
 ---
 
 One company isn't even shy about it. The company is literally called PREY. Not even shy about it. Just call remote workers what they've become: [PREY](https://preyproject.com/blog/en/employee-monitoring-surveillance-for-the-remote-work-era/ ). It's likely that the only people who don't realize that #RemoteWorkerSurveillance amounts to #HouseArrestJobs are so privileged that they don't know anyone in this situation.
