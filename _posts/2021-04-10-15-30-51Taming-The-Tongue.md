@@ -31,7 +31,7 @@ In a 2016 paper, _Desiring foods: Cultivating non-attachment to nourishment in B
 
 > The particular texts — the Agañña Sutta, the Āhāra Patikūlasaññā, and the Vinaya Pitaka — exhibit an attitude of deep ambiguity towards food in its capacity to incite desire. On the one hand nutrition is required to maintain life, but on the other, food can potentially be the cause of a degenerate state of mankind and a source of moral degradation. Hence, the Buddhist development of _a dispassionate attitude towards food_ seeks to enable both nourishment and the pursuit of the extinction of the flame of desire in nirvana. Even though the texts formulate practical prescriptions for monks on how to relate to food to aid them in their pursuit, they also serve as moral standards for lay Sinhalese Buddhists who seek to model their everyday behaviour accordingly.
 
-So, the two forks of the tongue are [i] the capacity for hellish speech and [ii] food appetite as a greedy, sensual indulgence, rather than a means of nourishment.
+So, the two forks of the tongue are [i] the capacity for hellish speech and [ii] food appetites as a greedy, sensual indulgence, rather than a means of nourishment.
 
 Perhaps simply understanding that the human condition is, by default, afflicted by this forked-tongue; that we are not alone, that it is an affliction common to humankind; perhaps this observation can at least provide us the opportunity to observe the tongue's true nature and behavior, and thereby gain a little better perspective from which we can choose what to do about it, for ourselves, according to the conditions of our individual journey.
 
