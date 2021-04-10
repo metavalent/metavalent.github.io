@@ -9,7 +9,7 @@ created: 2021-04-10T14:50:46-07:00
 modified: null
 ---
 
-Endless Songs of Self-Inflicted Suffering Series.
+From the Endless Songs of Self-Inflicted Suffering Series.
 
 [Watch here](https://youtu.be/686SmDtBOu8) if the embed below does not behave nicely. 
 
