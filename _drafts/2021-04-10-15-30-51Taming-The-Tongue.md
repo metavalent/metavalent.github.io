@@ -21,6 +21,11 @@ Our topic here is the tongue, so, the tongue is one of the five skandhas.
 
 There is also a well-articulated Western line of philosophy and self-discipline that describes the importance of taming the tongue.
 
+James 3:6, in the Amplified Bible states:
+
+> And the tongue is [in a sense] a fire, the very world of injustice and unrighteousness; the tongue is set among our members as that which contaminates the entire body, and sets on fire the course of our life [the cycle of man’s existence], and is itself set on fire by hell (Gehenna).
+
+
 
 
 
