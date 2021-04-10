@@ -9,7 +9,18 @@ created: 2021-04-10T15:30:51-07:00
 modified: null
 ---
 
-The prajña paramita, or heart sutra begins:
+The Prajñā Paramita, or Heart Sutra states:
+
+> "Bodhisattva Avalokiteśvara clearly perceived the emptiness of the five skandhas and transcended all suffering.”
+
+What are the five scantas?
+
+In the physical human body, the sutra goes on to explain that the five skandhas are experienced as eye, ear, nose, tongue, body. The five senses.
+
+Our topic here is the tongue, so, the tongue is one of the five skandhas.
+
+There is also a well-articulated Western line of philosophy and self-discipline that describes the importance of taming the tongue.
+
 
 
 
