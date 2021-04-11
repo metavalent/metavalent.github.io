@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-10T19:21:44-07:00
+modified: 2021-04-10T19:26:55-07:00
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ permalink: /about/
 
 ### What is Metavalent Stigmergy?
 
-Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html) Instantiate.
+Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clarifying-Confusion.html) Instantiate.
 
 And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, _"Everything should be as simple as possible, but not simpler."_<sup>[1](#f1)</sup>
 
@@ -27,7 +27,7 @@ How I constructed this neologism, some time in the mid-to-late 1990's.
 
 ### The Fifth Grade Explanation
 
-> Metavalent stigmergy is the process by which new insights,understandings, or ideas originate, germinate, blossom, and propagate into New [_Default Consensus Realities_](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clearing-Confusion.html).
+> Metavalent stigmergy is the process by which new insights,understandings, or ideas originate, germinate, blossom, and propagate into New [_Default Consensus Realities_](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clarifying-Confusion.html).
 
 What this means is, a team of scientists may make a new discovery; a mathematician or physicist may realize a new insight; an inventor or philosopher may surface a new idea that results in a new product, a new process or new way of understanding and interacting with the world. These concepts and innovations are shared, in concentric circles of conversation and interaction. At some point, some facts, ideas and artifacts become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with the previously little known or understood thoughts, ideas, capabilities.
 
