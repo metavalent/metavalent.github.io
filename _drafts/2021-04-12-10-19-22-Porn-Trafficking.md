@@ -1,12 +1,15 @@
 ---
 title: Porn & Trafficking
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T11:23:33-07:00
+modified: 2021-04-12T11:36:41-07:00
 ---
 
 Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
 
-Go ahead. Be triggered.
+Go ahead. Be triggered. Shoot the messenger. Whatever it takes to make you feel comfortable, boss.
+
+Hidden in Plain Sight
+https://youtu.be/Sm3UfctR5ZA
 
 Porn Epidemic
 https://youtu.be/DBTb71UzPmY
