@@ -1,7 +1,7 @@
 ---
 title: Porn & Trafficking
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T11:44:25-07:00
+modified: 2021-04-12T12:02:33-07:00
 ---
 
 Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
@@ -12,6 +12,9 @@ Capitalism drives the prices of everything lower. Including human beings, themse
 
 Hidden in Plain Sight
 https://youtu.be/Sm3UfctR5ZA
+
+Truth Behind the Smile
+https://youtu.be/n9_REwV8zfU
 
 Porn Epidemic
 https://youtu.be/DBTb71UzPmY
