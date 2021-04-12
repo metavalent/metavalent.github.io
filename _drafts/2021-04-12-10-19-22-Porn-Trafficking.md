@@ -1,10 +1,12 @@
 ---
 title: Porn & Trafficking
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T11:17:07-07:00
+modified: 2021-04-12T11:19:12-07:00
 ---
 
-Not Good
+Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
+
+Go ahead. Be triggered.
 
 Porn Epidemic
 https://youtu.be/DBTb71UzPmY
