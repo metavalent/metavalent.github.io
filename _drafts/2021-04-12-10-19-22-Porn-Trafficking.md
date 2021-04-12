@@ -1,12 +1,14 @@
 ---
 title: Porn & Trafficking
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T11:37:06-07:00
+modified: 2021-04-12T11:43:02-07:00
 ---
 
 Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
 
 Go ahead. Be triggered. Shoot the messenger. Whatever it takes to make you feel comfortable, ma'am, sir.
+
+Capitalism drives the prices of everything lower. Including human beings, themselves. "Average price of a slave, worldwide, is $90," Dr. Kate Transchel. The lowest it has ever been in history ([7:40](https://youtu.be/Sm3UfctR5ZA?t=7m40s)).
 
 Hidden in Plain Sight
 https://youtu.be/Sm3UfctR5ZA
