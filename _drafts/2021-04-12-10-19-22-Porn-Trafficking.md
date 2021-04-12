@@ -1,7 +1,7 @@
 ---
 title: Porn & Trafficking
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T12:02:33-07:00
+modified: 2021-04-12T12:20:25-07:00
 ---
 
 Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
@@ -15,6 +15,9 @@ https://youtu.be/Sm3UfctR5ZA
 
 Truth Behind the Smile
 https://youtu.be/n9_REwV8zfU
+
+The Truth of What Happens for Telling the Truth
+https://www.newschannel5.com/news/newschannel-5-investigates/the-das-deals/prosecutor-speaks-out-after-getting-fired-by-funk
 
 Porn Epidemic
 https://youtu.be/DBTb71UzPmY
