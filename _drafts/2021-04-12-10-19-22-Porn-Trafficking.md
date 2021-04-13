@@ -1,14 +1,30 @@
 ---
-title: Porn & Trafficking
+title: All is Full of Love
 created: 2021-04-12T10:19:22-07:00
-modified: 2021-04-12T12:20:25-07:00
+modified: 2021-04-13T09:47:48-07:00
 ---
 
-Not Good. At this point, if you are against a policy of universal livable income security for every American, then you are for the economic and social precarity and desperation that fuels all of this.
+What does that even mean, in the Post-Automation Era?
 
-Go ahead. Be triggered. Shoot the messenger. Whatever it takes to make you feel comfortable, ma'am, sir.
+It means present conditions are Not Good. The bullsh*t normal that people are about to pretend to go back to is about to blow up in all our faces, unless we do something draumatically different, right now.
 
-Capitalism drives the prices of everything lower. Including human beings, themselves. "Average price of a slave, worldwide, is $90," Dr. Kate Transchel. The lowest it has ever been in history ([7:40](https://youtu.be/Sm3UfctR5ZA?t=7m40s)). Disposable People.
+At this point, if we are against a policy of _universal livable income security_ for every American, then we are empirically, materially in favor of the economic and social precarity and desperation that fuels *All Of This* documented, below.
+
+Go ahead. Be triggered. Shoot the messenger. Whatever it takes to make _you_ feel comfortable, and not late for the next zoom call with all those really important people, instead of drawing down this internet rabbit hole dug by nobodies like us, right?
+
+The present, irreparablely f'd'up, pwned fork of capitalism drives the prices of everything lower. Including human beings themselves. "Average price of a slave, worldwide, is $90,"reminds Dr. Kate Transchel. The lowest it has ever been in history ([7:40](https://youtu.be/Sm3UfctR5ZA?t=7m40s)). Disposable People. That was a decade ago, and if one believes that conditions have improved with a pandemic, well, there are no words.
+
+Humans are either for [Universal Economic Social Security](https://reddit.com/r/BasicIncome) in the [Post-Automation Era](https://postautomationera.com/) or we are for the continuation of all of the following. In a dualistic realm, unfortunately these dualisms do exist.
+
+The desperation of having shelter and food held hostage in exchange for coerced labor, drives all of the worst abuses against human beings in the richest culture in the history of the world. No opinions. Just the facts, ma'am.
+
+But as always, don't believe me. Look at all of this for yourself, and decide.
+
+We don't have to keep doing what we've always done. Watch the following. Listen. Learn. Find out if there isn't still a functional heart somewhere inside, waiting to grow, like a Techno-Grinch that Stole Consciousness.
+
+> "I began to believe that the best I could hope for was a pimp didn't beat me. A Romeo pimp. Or, if you've managed to negotiate the corporate world, a Romeo boss. One that doesn't lear, scream, berate, triangulate, manipulate, and steal your ideas and present them as their own. Like so many of my own _esteemed_ former colleagues did, to me. And I _let_ them. Not even going to try to go into the details of documenting and proving it. Don't need to. Know my own direct experience, and it ain't about me, anyway.
+
+All of the following is on all of us.
 
 Hidden in Plain Sight
 https://youtu.be/Sm3UfctR5ZA
@@ -40,9 +56,9 @@ https://youtu.be/IV5jbi7otx0
 Popping Your Bubble
 https://youtu.be/O-N-c1StpJA
 
-"I began to believe that the best I could hope for was a panther didn't beat me. A Romeo pimp. Or, if you've managed to negotiate the corporate world, a Romeo boss. One that doesn't lear, scream, be ready, triangulate, manipulate, and steal your ideas and present them as their own. Like so many of my esteemed former colleagues did, to me.
+"I began to believe that the best I could hope for was a pimp didn't beat me. A Romeo pimp. Or, if you've managed to negotiate the corporate world, a Romeo boss. One that doesn't lear, scream, be ready, triangulate, manipulate, and steal your ideas and present them as their own. Like so many of my esteemed former colleagues did, to me.
 
-I'm not even going to try to go into the details of documenting and proving it. I don't need to. Because I know my own direct experience.
+I'm not even going to try to go into the details of documenting and proving it. I don't need to. Because I know my own direct experience. All of the following is on all of us.
 
 
 
