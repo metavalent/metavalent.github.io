@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Blogs are People, Too
-date: 2007-05-05 15:36
 author: metavalent
+published: true
 comments: true
 categories: [bloggers, histrionics, internet]
+tags: metavalent
+created: 2007-05-05T15:36:00-07:00
+modified: null
 ---
+
 Thank the Penultimate Proximate Cause that <a href="http://blog.stickis.com/2007/04/11/how-to-understand-the-on-line-world/" target="_blank">somebody is thinking and acting seriously along these lines</a>:<br />
 <ul><li>one-size-fits-all search has become debased <br />
 (a rant i posted some months ago to my company's intranet bloggy site wiki thingie)<br />
