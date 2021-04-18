@@ -1,12 +1,13 @@
 ---
-layout: post
 title: New Post
+author: metavalent
+layout: post
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: null
-modified: null
+created: 2021-04-17T20:18:32-07:00
+modified: 2021-04-17T20:35:44-07:00
 ---
 
 ### Subheading
