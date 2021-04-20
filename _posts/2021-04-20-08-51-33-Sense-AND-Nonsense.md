@@ -20,8 +20,8 @@ Be *The* Self, that you are, that we all are.
 - The I Am says, I am that I am.
 - The Christ says, if you have seen me, you have seen the Godhead, the father.
 - The Christ essence says, I am in you, as you, as the Godhead, the father is in me, as me.
-- The holy spirit
-- Hence, when we are indwelt by the spirit, when others see us, they have seen that.
+- But the helper, the holy spirit, whom the father will send in my name, will teach you all things, and *bring to your remembrance all things* that I said to you.
+- Hence, when we are indwelt by the spirit, then when others see us, *they* have seen *that*. This is extremely subtle, not able to be forced or emulated.
 - When the teacher is ready, the student appears.
 - The body is a classroom.
 - The body is both a learning device and teaching device.
