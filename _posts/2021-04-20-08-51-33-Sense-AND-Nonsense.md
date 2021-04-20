@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-04-20T09:07:50-07:00
-modified: 2021-04-20T11:41:55-07:00
+modified: 2021-04-20T12:02:42-07:00
 ---
 
 Do not be yourself.
@@ -20,7 +20,7 @@ Be *The* Self, that you are, that we all are.
 - The I Am says, I am that I am.
 - The Christ says, if you have seen me, you have seen the Godhead, the father.
 - The Christ essence says, I am in you, as you, as the Godhead, the father is in me, as me.
-- But the helper, the holy spirit, whom the father will send in my name, will teach you all things, and *bring to your remembrance all things* that I said to you.
+- But the helper, the holy spirit, whom the father will send in my name, will teach you all things, and *bring to your remembrance all things*.
 - Hence, when we are indwelt by the spirit, then when others see us, *they* have seen *that*. This is extremely subtle, not able to be forced or emulated.
 - When the teacher is ready, the student appears.
 - The body is a classroom.
@@ -36,6 +36,16 @@ Be *The* Self, that you are, that we all are.
 - We can let all that go and see it for what it is, without judgment. 
 - All experience is learning and teaching, at the same time.
 - We are here to liberate one another. To set one another free.
+
+### Do LESS
+
+"Do less than you think you can handle.” &mdash; Tim Ferris
+
+Watch [How To Get Back On Track After Slipping Up](https://youtu.be/dmgl_bT9_vc) if the embed below does not behave nicely. 
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/dmgl_bT9_vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### Too Much In-form-ation
 
 "If you get too much information, too soon, without the proper containment, and guidance, and interpretation, it can create a lot more problems than you had to begin with. So, the growth and development of consciousness needs to be managed properly. This was the role of gurus, and priests, and mulas, and lamas, in the old days. Nowadays, it's DIY, and people have an extreme experience and can't integrate it." &mdash; Shunyamurti
 
