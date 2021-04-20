@@ -42,3 +42,6 @@ Be *The* Self, that you are, that we all are.
 Watch [The Real Nature Of Kundalini](https://youtu.be/xDGestHEELU) if the embed below does not behave nicely. 
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/xDGestHEELU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+> "Dare to be naïve."  
+> &mdash; Richard Buckminster Fuller
