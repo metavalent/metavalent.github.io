@@ -19,7 +19,7 @@ Be *The* Self, that you are, that we all are.
 
 - The I Am says, I am that I am.
 - The Christ says, if you have seen me, you have seen the Godhead, the father.
-- The Christ essence says, I in you, as the Godhead, the father is in me.
+- The Christ essence says, I am in you, as you, as the Godhead, the father is in me, as me.
 - The holy spirit
 - Hence, when we are indwelt by the spirit, when others see us, they have seen that.
 - When the teacher is ready, the student appears.
