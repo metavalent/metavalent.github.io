@@ -14,7 +14,7 @@ Do not be yourself.
 
 Be *The* Self, that you are, that we all are.
 
-> Information = In Formation
+> Information = In Formation  
 > In Form Ation → Action
 
 - The I Am says, I am that I am.
