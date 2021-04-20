@@ -1,8 +1,19 @@
 ---
-modified: 2021-04-20T09:07:52-07:00
+title: Do NOT "Be Yourself'
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2021-04-20T09:07:50-07:00
+modified: 2021-04-20T09:13:41-07:00
 ---
 
-Do not be yourself. Be The Self.
+Do not be yourself.
+
+Be The Self.
+
 The I Am says, I am that I am.
 The Christ says, if you have seen me, you have seen the Godhead, the father.
 The Christ says, I in you, as the Godhead, the father is in me.
@@ -25,4 +36,7 @@ We are here to liberate one another. To set one another free.
 
 "If you get too much information, too soon, without the proper containment, and guidance, and interpretation, it can create a lot more problems than you had to begin with. So, the growth and development of consciousness needs to be managed properly. This was the role of gurus, and priests, and mulas, and lamas, in the old days. Nowadays, it's DIY, and people have an extreme experience and can't integrate it." &mdash; Shunyamurti
 
-https://youtu.be/xDGestHEELU
+
+Watch [The Real Nature Of Kundalini](https://youtu.be/xDGestHEELU) if the embed below does not behave nicely. 
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/xDGestHEELU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
