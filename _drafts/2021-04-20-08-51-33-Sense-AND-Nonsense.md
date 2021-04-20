@@ -1,5 +1,5 @@
 ---
-title: Do NOT "Be Yourself'
+title: Sense AND Nonsense
 author: metavalent
 layout: post
 published: true
@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-04-20T09:07:50-07:00
-modified: 2021-04-20T09:13:41-07:00
+modified: 2021-04-20T09:19:50-07:00
 ---
 
 Do not be yourself.
