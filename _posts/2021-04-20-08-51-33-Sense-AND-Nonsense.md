@@ -7,15 +7,15 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-04-20T09:07:50-07:00
-modified: 2021-04-20T11:41:30-07:00
+modified: 2021-04-20T11:41:55-07:00
 ---
 
 Do not be yourself.
 
 Be *The* Self, that you are, that we all are.
 
-Information = In Formation
-In Form Ation → Action
+> Information = In Formation
+> In Form Ation → Action
 
 - The I Am says, I am that I am.
 - The Christ says, if you have seen me, you have seen the Godhead, the father.
