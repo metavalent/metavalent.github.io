@@ -18,3 +18,5 @@ We can let go of the impulse to annotate, to capture, to freeze-frame, to insta-
 We can let all that go and see it for what it is, without judgment. 
 All experience is learning and teaching, at the same time.
 We are here to liberate one another. To set one another free.
+
+"If you get too much information, too soon, without the proper containment, and guidance, and interpretation, it can create a lot more problems than you had to begin with. So, the growth and development of consciousness needs to be managed properly. This was the role of gurus, and priests, and mulas, and lamas, in the old days. Nowadays, it's DIY, and people have an extreme experience and can't integrate it." &mdash; Shunyamurti
