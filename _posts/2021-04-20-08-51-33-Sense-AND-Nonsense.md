@@ -12,7 +12,7 @@ modified: 2021-04-20T09:35:11-07:00
 
 Do not be yourself.
 
-Be The Self.
+Be *The* Self, that you are, that we all are.
 
 - The I Am says, I am that I am.
 - The Christ says, if you have seen me, you have seen the Godhead, the father.
