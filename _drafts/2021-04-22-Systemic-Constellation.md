@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+title: Systemic Constellation Work
+author: metavalent
+layout: post
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2021-04-22T20:24:52.000Z
+modified: null
 ---
 
 What is Applied Metavalent Stigmery?
