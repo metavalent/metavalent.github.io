@@ -17,6 +17,10 @@ Metavalent Stigmergy is the process by which we have observed New [_Default Cons
 
 And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, _"Everything should be as simple as possible, but not simpler."_<sup>[1](#f1)</sup>
 
+### ETH is LOVE
+
+> 💖 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632
+
 ### Etymology
 
 How I constructed this neologism, some time in the mid-to-late 1990's.
