@@ -1,0 +1,61 @@
+Replacing Human Government With Ai Algorithms
+
+    
+The backlog of patent applications with the US Patent and Trademark Office exceeded one million in 2015. Cognitive technologies can comb through data backlogs and conduct large-scale end-to-end business processes, leaving the difficult cases to human experts. Machine learning and natural language processing can uncover patterns and enable predictive capabilities. [Sources: 1] 
+    
+Through trial and error, computers learn by breaking down information and discovering patterns in data that can help predict future events. Machine learning is involved, from your e-mail program, which marks messages as spam, to your credit card company, which warns you about fraudulent use of your card. The government and the army are developing portable monitors that use machine learning algorithms to determine the severity of a wound and help doctors prioritize treatment. [Sources: 1] 
+    
+Artificial intelligence algorithms are designed to make decisions based on real-time data. Through massive improvements in storage systems, processing speeds, and analytical techniques, they are able to vastly improve their analysis and decision-making. With the help of sensors, digital data and remote inputs, they combine information from a variety of different sources, analyze it and draw on the knowledge gained from it. They are anything but passive machines capable of mechanical, predetermined reactions. [Sources: 3] 
+    
+Artificial intelligence (AI) is a set of tools that allow people to rethink how we integrate information, analyze data, and use the resulting insights to improve decision-making, and it transforms all areas of life. In this report, Darrell West and John Allen discuss AI applications in a variety of sectors, address development issues, and make recommendations on how to make the most of AI while protecting important human values. [Sources: 3] 
+    
+Recent advances in AI and deep learning represent a revolution in the use of machines to support decision management, forecasting, data classification, and information synthesis. Building on deep learning tools, AI aims to improve the delivery of services to citizens, improve the work of public sector professionals, and inspire a new generation of technocrats to enter government. But it is also intended to transform the government. [Sources: 7] 
+    
+Progress in democracy in the age of big data could go a long way toward reducing systemic dysfunction in the public sector. The use of sensor technology and machine learning systems to strengthen government oversight could reduce rather than increase regulation. Some have even coined the term "algorithmic regulation," to propose, for example, government regulation of algorithms. One could argue that technology affordability is crucial to reshaping government in the twenty-first century. [Sources: 7] 
+    
+The fourth industrial revolution is expected to have a devastating impact on the labour market as AI robots replace various jobs in the economy. One profession that is often left out of scientific reports on government leaders is the one that is most criticized, questioned, and derided: jobs. Commentators in countries as diverse as India, the United Kingdom, New Zealand, and Japan have begun to point out that robots, as leaders, could improve decision-making without being as irrational and unpredictable as their flawed human counterparts. [Sources: 5] 
+    
+The use of algorithms in government carries potential risks. These include algorithms that become vulnerable to bias, [141] lack of transparency in the way algorithms make decisions, [142] and accountability for such decisions. Another serious concern is that "gambling" by regulated parties could occur if algorithmic governance brings more transparency to decision-making, as regulated parties might try to manipulate their outcomes in their favor through hostile machine learning. [Sources: 2] 
+    
+Cryptocurrency millionaire Jeffrey Berns has proposed running local governments as a technology company in Nevada until 2021. Tim has suggested that data-driven reputation systems, combined with algorithmic regulation, could outperform traditional regulation. Increasing computing power will enable automated decision-making and the replacement of public authorities with algorithmic governance. [Sources: 2] 
+    
+In 2012, the NOPD began a collaboration with Palantir Technologies in the area of predictive policing. According to a Stanford University study, 45% of studies conducted by US federal agencies will experiment with AI-related machine learning (ML) tools by 2020. [Sources: 2] 
+    
+A number of experts, for example, point to safety engineers who are focused on anticipating and preventing damage caused by artificial intelligence. Developers of industrial robots that work for humans are careful to recognize people and not endanger them. [Sources: 0] 
+    
+When humans support machines, they must play three crucial roles. First, machine learning algorithms must be taught to do the work for which they are designed. Second, humans must train machines to perform certain tasks and explain the results of those tasks, even if the results are counterintuitive or controversial; and third, they must use machines responsibly - for example, to prevent robots from harming people. [Sources: 0] 
+    
+Most activities with human-machine interfaces require people who are familiar with other things, such as training chatbots, so that they can do things to provide better customer service. Skills expected include knowledge of data science and data scuffles, among other obvious cases, and the ability to use simple machine-learning tools to link services. [Sources: 0] 
+    
+Machine learning algorithms are prone to rejection for the same reasons they produce great results. They require people to abandon familiar tools and methods. They question the approach. They contradict traditional heuristics. They generate precise but counterintuitive insights from the large number of variables and data they use. [Sources: 6] 
+    
+Algorithms must be stable, which means that small changes to their input will not alter their output. They need to be explained to the public sector and to the myriad stakeholders who need to review every step. And they must be precise enough to test unintended biases. [Sources: 6] 
+    
+When it comes to algorithms in the public sector, users should measure performance for better decision-making. There are many possible metrics for probable outcomes, and it is unlikely that an algorithm can predict any of them. We recommend focusing on the two or three measures that are important for a specific application. Users can start by identifying those who are most likely to make the best decision in each situation. [Sources: 6] 
+    
+On the one hand, people will benefit from a loss of autonomy and agency if companies retain full control over how artificially created algorithms interact with humans. If, on the other hand, people demand that companies use AI algorithms in a way that is less sensitive to questions of human autonomy or agency, then there is a very real possibility that we would all be better off strengthening the power of these algorithms, rather than being relegated to impoverished seats at the decision-making table. If we tackle this issue together, and this requires some joint work between ethicists and industry, we can do what is best for the world. Analysis and anticipation of certain decisions will remain in the hands of AI-driven algorithms, while other decisions will be made by humans or through a combination of AI-driven and algorithmic input and human decision-making. [Sources: 4] 
+    
+
+
+
+
+
+Sources:
+    
+[0]: https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces
+    
+[1]: https://www.govtech.com/computing/5-ways-artificial-intelligence-is-already-changing-government.html
+    
+[2]: https://en.wikipedia.org/wiki/Government_by_algorithm
+    
+[3]: https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/
+    
+[4]: https://www.pewresearch.org/internet/2018/12/10/concerns-about-human-agency-evolution-and-survival/
+    
+[5]: https://www.weforum.org/agenda/2018/10/could-robot-government-lead-better-current-politicians-ai/
+    
+[6]: https://www.mckinsey.com/industries/public-and-social-sector/our-insights/when-governments-turn-to-ai-algorithms-trade-offs-and-trust
+    
+[7]: https://www.forbes.com/sites/danielaraya/2019/01/04/artificial-intelligence-and-the-end-of-government/
+    
+

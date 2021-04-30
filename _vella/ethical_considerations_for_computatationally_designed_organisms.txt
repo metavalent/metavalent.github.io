@@ -1,0 +1,53 @@
+Ethical Considerations For Computatationally Designed Organisms
+
+    
+I would argue that there is no evidence of that. To the extent that NHPs are closer to humans in terms of anatomy, physiology, cognition, and gene sequence, it does not follow that they are the optimal animal model for genetic modification in attempts to understand human biology (Luo et al., 2016, p. 241). The problem with switching to GMnHPs in the hope of greater human relevance is that there is little evidence of it, and NHPS is far from humans. Although humans and mice share common genes, they have functional differences, and studies of 120 genes known to be essential for human life have shown that only a quarter of them are not essential for life in mice (Liao and Zhang, 2008). This is a valid result, and better transmission of NHPS data to humans would be beneficial. [Sources: 3] 
+    
+A new generation of genome editing technology enables scientists to modify the genomes of non-human animals more efficiently than classical transgenesis [7] and with less targeted effects [8]. Genetically modified nucleases can induce genetic changes with the help of foreign DNA [9]. This new technology has a wide range of possible applications in animals, including increasing livestock productivity and disease resistance [10], creating new animal models for human disease research [11], protecting native species, eradicating invasive species, reducing or eradicating vector-borne diseases such as malaria, and reviving extinct species [5,12]. [Sources: 0] 
+    
+Synthetic biology aims to design complete synthetic systems consisting of several synthetic organisms that work together to achieve complex goals. In order to achieve such goals, the interaction of functional genomic systems engineering, bioinformatics and conventional molecular biology is required. As a result, the scope of the issue has expanded to include computer hardware, software, technical models, high-throughput devices, novel genomic constructs, and methods for adapting genetic information. [Sources: 7] 
+    
+Due to the subjective nature of the commercial applications claimed for organism-gene constructs, the examination of the practices relating to such inventions must be intensive. Relevant issues relate to monopolies and open access to standardised parts of newly created technologies. To facilitate access to developed parts, databases such as the Biobricks Foundation enable the exchange, use and improvement of modules of biological systems. [Sources: 7] 
+    
+The platform most frequently used by readers is Matlab. Software in the manuscript should not be considered in the following circumstances: The software requires access to a database or other resources, the consistency of which cannot be guaranteed by the individual laboratory without database resources or support. The operation of the software depends on proprietary or unavailable additional software. In cases where the code is of central importance to the manuscript, we require that it be made available as a condition for publication. By sharing the code, we expect the authors of the generated code that underlies the results of the manuscript to make their code available without restriction for publication before submitting the researchers to PLOS. [Sources: 2] 
+    
+Transparency leads to a better understanding, not just a data dump. A literal example is to make the shell of a computer transparent, but that makes it unlikely to teach the average user anything meaningful about how a computer works. Paradigms for modeling are important, and some paradigms offer better transparency (e.g. Bayesian models and other neural networks). [Sources: 5] 
+    
+One school of thought claims that abstractions in synthetic design should be enforced to achieve scalability, predictability, and robustness. An opposite view claims that the dictates of synthetic biology, in which design is modular, can lead to impracticable constructs that limit design possibilities. [Sources: 1] 
+    
+The second wave of synthetic biology [5] focused on the networking of such modules, and the question of modularity was an open debate [6]. The idea was to develop a library of standardized genetic modules with specific functionalities that can be combined to achieve specific functions, analogous to the binary transistor logic libraries used by electrical engineers. Part of the success of synthetic biology to date has come from measuring modularity and creating standard libraries, in part to provide a plug-and-play framework for biological circuits. The question of whether modularity itself is a natural property or whether it is an abstraction imposed by engineers to simplify the design of complex systems. [Sources: 1] 
+    
+Liu: As researchers, we must ensure the safety of our technologies. When our designed organisms rely on non-standard amino acids that do not occur in nature, it becomes difficult for them to escape. At Church, we develop genetic isolation technologies, such as recode technology, to keep them safe in the environment. [Sources: 6] 
+    
+Keasling: There have been a lot of interesting efforts in George's lab, including recode genetic systems and kill switches. In particular, we have modified the genetic code of the cells to make them resistant to viruses. We could add a kill switch to prevent the escape, but this is not certain because it would reverse the recombination. I think it is important to make the designed organisms stable so that they can perform the designed functions over a long period of time and not mutate in the environment. [Sources: 6] 
+    
+We can store one terabyte of information in 30 ng of DNA, which is about one billionth of a mouse weight. We can store each cell with its own information from the development line and other information that you can tap on a transcriptional level. [Sources: 6] 
+    
+At its core, science and technology are forms of investigation that seek to make sense of a complex world. Modelling is one way to reduce the complexity of the world by abstracting the details. Computer modeling involves the use of computers to scale mathematical models.1 Computer models play a critical role in a number of areas of application. For example, agricultural engineers use computer models to control invasive species (Buyuktahtakin et al. In tennis, the Hawk-Eye Instant Replay System is used to solve challenges to the umpire, and although instant replay is used in most sports, it uses computer models that track the ball from multiple camera angles and make predictions about where the ball will be (Collins and Evans 2008). [Sources: 5] 
+    
+Discussion Since artificial entities challenge a number of common notions of ethics, it is useful to understand them as abstractions from the human case (cf. also: Overall, machine ethics concerns moral actors in the essential sense that they are called artificial moral actors who have rights and duties. It is not clear how consistent these ideas are with machine ethics, but the weaker version risks being reduced to having no ethics at all, since the idea is not considered a sufficient reflection of action, while the stronger idea of moving an artificial moral agent can be described as an empty shell. Several authors have used artificial "moral agents" in a more sophisticated sense, borrowing from the use of agents in software development, in cases where issues of responsibility and rights do not arise (Allen, Varner and Zinser 2000). [Sources: 4] 
+    
+
+
+
+
+
+Sources:
+    
+[0]: https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0106
+    
+[1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3389334/
+    
+[2]: https://journals.plos.org/ploscompbiol/s/materials-and-software-sharing
+    
+[3]: https://brill.com/view/book/edcoll/9789004391192/BP000024.xml
+    
+[4]: https://plato.stanford.edu/entries/ethics-ai/
+    
+[5]: https://www.nae.edu/168653/Ethical-Implications-of-Computational-Modeling
+    
+[6]: https://academic.oup.com/nsr/article/8/1/nwaa252/5928585
+    
+[7]: https://link.springer.com/article/10.1057/jcb.2009.28
+    
+

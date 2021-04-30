@@ -1,0 +1,69 @@
+How To Design Faa Air Space For Flying Cars
+
+    
+The FAA is also grappling with problems related to drones and is trying to create an integrated traffic management system to bring order to airspace. The FAA has long viewed airspace as a problem of traffic management. With flying cars, traffic jams up in the air more than on our roads. And vehicles are more expensive than ever. [Sources: 6] 
+    
+In the drone context, the FAA and industry are wrestling with the heights at which land owners "properties end and public airspace begins. This is exacerbated by problems with aircraft carrying large vehicles carrying multiple people and small drones. [Sources: 6] 
+    
+For conventional aircraft, the Federal Aviation Administration (FAA) has a successful regulatory system for pilot licenses, aircraft certification and registration, runways, airports, and air traffic control mechanisms. Aviation regulations require the FAA to have a conservative safety management system in place for flying cars that leak from the air (Federal Aviation Administration, 2016) in order to regulate and control effective risk control (Del Balzo, 2016). The expected introduction of flying cars will have traffic control systems to accommodate the additional complications, but compared to small drones, the way to regulate human flight will be more demanding and time consuming (Stewart, 2018). [Sources: 3] 
+    
+Ensuring safety in adverse weather conditions such as heavy rain, strong winds and blizzards is another key aspect of tackling operational challenges. A critical segment of flight operations, both on the ground and in the air, is the transition between take-off and landing, which requires NAS and FAA regulation, appropriate governance, and an integrated and segregated airspace. [Sources: 3] 
+    
+The law covers all aspects of FAA operations, but the biggest change is the integration of civilian unmanned aircraft into the national airspace system using a NASA network of positioning systems known as Unmanned Aircraft System Traffic Management (UTM). The short-term goal is to keep both drones and manned aircraft flying safely at low altitudes. NASA's long-term goal is to "meet the expected tremendous growth in the use of commercial drones in the most efficient way possible," according to NASA documents. [Sources: 2] 
+    
+They must register their aircraft, fly within visual range, stay away from other aircraft and stay at least 400 feet away to avoid emergency measures. They must also hold a commercial drone licence and comply with FAAs paragraph 107, which states that they can only fly for non-commercial reasons. [Sources: 2] 
+    
+Do not operate your drone in a dangerous way. For example, do not interfere with emergency or law enforcement measures. Do not fly under the influence of drugs or alcohol. If the current registration is marked as [PDF], your drone should have an external registration number and proof of registration. Persons who violate these rules or operate in a dangerous manner may be subject to FAA enforcement action. [Sources: 1] 
+    
+DroneZone is the FAA's official website for registration. Be sure to use the email you used when registering your drone with the FAA. If you have trouble logging in to DroneZone, you may need to reset your password (PDF). [Sources: 1] 
+    
+Uber wants to build a network of this new kind of vehicle. Unlike state officials, who are eager to bring high-tech jobs to cities where regulators are not fast enough to deal with aggressive (if not taxi) competition, the FAA has serious power nationally. Uber needs FAA-certified vehicles that it works with to operate and control the airspace it controls. [Sources: 7] 
+    
+Several others are working with the FAA and the National Highway Traffic Safety Administration (NHTSA) on guidelines and hope to bring new products to market in the coming years. Some companies, such as PAL V, hope to use existing roads to expand highways for their projects, while start-ups such as AskA + are developing flying cars that can land and occupy regular parking spaces. As long as there are no certified, actually flying cars and no rules on how to operate them, there will be no existing infrastructure to support the idea, not in most cases. [Sources: 9] 
+    
+In Germany, for example, Lilium is abandoning the driving aspect and pinning its hopes on the comfort that vertical take-off and landing (VTOL) technology offers: not just a car that drops you off in front of your friends "houses. The concept of the flying car itself extends beyond aircraft: pilots fly from airport to airport, retrofit cars to drive, and drones carrying passengers land and take off. [Sources: 5] 
+    
+The aerospace titan Airbus has two flying car projects, including its all-electric VTOL Vahana. A pilot program in Dallas and Los Angeles is scheduled to begin in 2020. Boeing has acquired and invested in several companies that are developing technologies that could enable flying cars of the future, and in January announced a new unmanned cargo vehicle as a test bed for electric propulsion and autonomous flight systems. [Sources: 5] 
+    
+Uber, one of the world's most valuable start-ups, and Boeing, a leader in aviation, recently announced ambitious plans for an air taxi service by 2023. The name stands for Personal Air Landing Vehicle. More than a dozen companies are working on air taxis that could be a starting point for flying car ideas. Air taxi services could serve as a mix of traditional ride-sharing services and drone-like aircraft that can carry multiple passengers. [Sources: 9] 
+    
+Over the past decade, flying cars have gone from a multi-billion-dollar hobby to an achievable goal, thanks to rapid progress in electrifying urban transport and the big money poured into new technologies. Flying cars or electric vertical take-off and landing vehicles (EVTOL) differ from aircraft and helicopters in that they do not require runways or special take-off and landing areas. Most EVTOL aircraft under development have a shorter range and lower speed than conventional commercial aircraft, but they are designed to ensure rapid door-to-door transport in urban areas. [Sources: 10] 
+    
+According to Jay Merkle, executive director of the FAA's Unmanned Aircraft Systems (UAS) integration program, at least six electric vertical takeoff and landing aircraft (EVTOL), also known as flying cars, have received some kind of certification from the Federal Aviation Administration (FAA). This means that the emerging industry is more than just a hype and is closer than ever to reality. [Sources: 4] 
+    
+Urban Air Mobility (UAM) is the way of the future for cities that are paralyzed by traffic and have nowhere to go but upwards. Vehicles that fly passengers, drones that fly cars, terrafugias and road-to-air vehicles. [Sources: 8] 
+    
+In January, the surface-to-air hybrid model received a special airworthiness certificate from the Federal Aviation Administration (FAA), which allows it to fly in US airspace. FAA approval for road use, expected early next year, is still pending. [Sources: 10] 
+    
+Kevin Colburn, general manager of Terrafugia, said the company was pleased to receive the FAA certificate. He added that the company had improved the transition quality of the system and completed critical design aspects before building the vehicle. The company also provided 150 technical documents and passed an FAA audit. [Sources: 0] 
+    
+
+
+
+
+
+Sources:
+    
+[0]: https://robbreport.com/motors/aviation/faa-cleared-jetsons-flying-car-1234595921/
+    
+[1]: https://www.faa.gov/uas/recreational_fliers/
+    
+[2]: https://semiengineering.com/faa-traffic-management-anticipates-flying-cars/
+    
+[3]: https://www.frontiersin.org/articles/10.3389/fbuil.2020.00106/full
+    
+[4]: https://www.smartcitiesdive.com/news/flying-cars-more-than-just-hype-faa-official-smart-cities/570408/
+    
+[5]: https://www.airspacemag.com/flight-today/13_sep2018-so-s-what-flying-cars-are-180969917/
+    
+[6]: https://www.wiley.law/newsletter-PIF_June_2017-Flying_Cars_Arent_Cars-And_They_Might_Not_Fly
+    
+[7]: https://www.wired.com/story/uber-flying-cars-faa-regulation/
+    
+[8]: https://dronelife.com/2021/02/09/terrafugias-road-and-air-vehicle-gets-faa-airworthiness-certificate-the-ultimate-hybrid-for-urban-air-mobility/
+    
+[9]: https://www.usatoday.com/story/tech/2019/11/04/flying-cars-uber-boeing-and-others-say-theyre-almost-ready/4069983002/
+    
+[10]: https://observer.com/2021/03/flying-car-evtol-electric-roundup-joby-archer-skydrive/
+    
+
