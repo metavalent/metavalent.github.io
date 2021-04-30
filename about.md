@@ -5,7 +5,7 @@ title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: about
 created: 2021-03-03T15:00:00-07:00
-modified: 2021-04-17T13:56:10-07:00
+modified: 2021-04-26T22:25:44-07:00
 permalink: /about/
 ---
 
@@ -19,7 +19,7 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 
 ### ETH is LOVE
 
-> 💖 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632
+> :sparkling_heart: 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632
 
 ### Etymology
 
@@ -105,7 +105,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 <a name="f1"></a>But none of this airy fairy rainbow pony unicorn poop is even close to possible without deeply and fully acknowledging and sitting with all of my own greatest _anxiety_ and deepest _denial_, right? Life is not a fashion show. It's not a beauty or popularity contest. It's about learning how to live _and to die_ with something that approximates authentic meaning and dignity, right in the midst of a realm that often appears entirely devoid of either.
 
 ---
-> May we indeed GO GENTLY Into That Good Night\
+> May we indeed GO GENTLY Into That Good Light\
 > Not Rage, Rage; There is No Dying Of The Light
 
 ---
