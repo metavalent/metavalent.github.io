@@ -31,7 +31,7 @@ How I constructed this neologism, some time in the mid-to-late 1990's.
 
 ### The Fifth Grade Explanation
 
-> Metavalent stigmergy is the process by which new insights, understandings, or ideas originate, germinate, blossom, propagate, and instantiate New [_Default Consensus Realities_](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clarifying-Confusion.html).
+> Metavalent Stigmergy is the process by which new insights, intuitions, understandings, ideas, or concepts originate, germinate, blossom, propagate, and instantiate [_Default Consensus Realities_](https://metavalent.com/metavalent/2021/03/26/21-05-15-Clarifying-Confusion.html).
 
 What this means is, a team of scientists may make a new discovery; a mathematician or physicist may realize a new insight; an inventor or philosopher may surface a new idea that results in a new product, a new process or new way of understanding and interacting with the world. These concepts and innovations are shared, in concentric circles of conversation and interaction. At some point, some facts, ideas and artifacts become so widely understood and accepted as true, that the entire collective environment shifts into a reality in concordance with the previously little known or understood thoughts, ideas, capabilities.
 
