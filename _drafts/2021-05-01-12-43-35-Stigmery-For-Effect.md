@@ -2,12 +2,17 @@
 title: Stigmery for Effect
 published: true
 created: 2021-05-01T12:43:35-07:00
-modified: 2021-05-01T13:03:19-07:00
+modified: 2021-05-01T13:04:46-07:00
 ---
 
 ### Function
 
 https://wiki.p2pfoundation.net/Stigmergy
+
+> Stigmergy = environmental mechanisms to coordinate the work of independent actors (cfr. Hint-based Systems)
+
+> Stigmergic collaboration is essential to the success of large-scale online collaboration projects. To qualify as stigmergy, agents cannot communicate directly with one another, but rather must engage indirectly via a medium.
+
 
 ### Trails
 
