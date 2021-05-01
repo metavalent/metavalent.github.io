@@ -2,7 +2,7 @@
 title: Stigmery for Effect
 published: true
 created: 2021-05-01T12:43:35-07:00
-modified: 2021-05-01T13:07:49-07:00
+modified: 2021-05-01T13:11:07-07:00
 ---
 
 ### Function
@@ -29,3 +29,7 @@ http://www.stigmergicsystems.com/stig_v1/project/tutorial1/page14.html
 [Stigmergy as a universal coordination mechanism I: Definition and components](https://www.sciencedirect.com/science/article/abs/pii/S1389041715000327)
 
 > The concept of stigmergy has been used to analyze self-organizing activities in an ever-widening range of domains, including social insects, robotics, web communities and human society. Yet, it is still poorly understood and as such its full power remains underappreciated.
+
+### Stigmery for Counterrevolutionary Countermeasures in the Material Realm
+
+Research: [Stigmergy-based modeling to discover urban activity patterns from positioning data](https://deepai.org/publication/stigmergy-based-modeling-to-discover-urban-activity-patterns-from-positioning-data)
