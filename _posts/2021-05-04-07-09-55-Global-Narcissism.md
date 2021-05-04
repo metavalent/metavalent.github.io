@@ -1,5 +1,5 @@
 ---
-title: New Post
+title: Addressing The Global Narcissism Pandemic
 author: metavalent
 layout: post
 published: true
@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-04T07:09:55-07:00
-modified: 2021-05-04T07:14:07-07:00
+modified: 2021-05-04T07:17:17-07:00
 ---
 
 Finding the Others who Understand the Global Narcissism Pandemic AND What-To-Do-About-It Edition.
