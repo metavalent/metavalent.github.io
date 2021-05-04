@@ -7,10 +7,20 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-04T07:09:55-07:00
-modified: 2021-05-04T07:52:42-07:00
+modified: 2021-05-04T08:01:39-07:00
 ---
 
 Finding the Others who Understand the Global Narcissism Pandemic AND What-To-Do-About-It Edition.
+
+There's nothing to disagree with here any more. Never was. This is all true. 
+
+Disagreement in cases like this is a psychological protection for denial. Denial denies its own existence. That's what makes it denial. Denial is not lying. Denial is lying while not even knowing we are lying, because the truth of what a horrible person we are – the guilt and shame that a good human being *should* feel for behaving horribly – are impossible to face without destroying everything about our constructed false ego. Our very self would be obliterated, and so we must blind ourselves to who we actually are and to what we have actually been doing, maybe even for decades.
+
+Watch [The Global Narcissism Pandemic](https://youtu.be/tOZygn9TqLw) if the embed below does not behave nicely. 
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/tOZygn9TqLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### How This Manifests In Our Default Consensus Business Reality
 
 Why would you want to pay more taxes?
 
@@ -25,10 +35,6 @@ Almost as if, the Kingdom of Heaven is literally at hand. Here, now, for those w
 Narcissism has no such eyes or ears. Narcissistic corporate persons only know to maximize its own returns at the expense of all else.
 
 We can upgrade the concept of Fiduciary Duty for the 21st century to change behavior and disallow exclusive benefit of one category of people; because no individual category of contribution is metavalent over all others.
-
-Watch [The Global Narcissism Pandemic](https://youtu.be/tOZygn9TqLw) if the embed below does not behave nicely. 
-
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/tOZygn9TqLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Watch [Credit Card CEO Schools Fox on Minimum Wage and Medicare for All](https://youtu.be/NZEfhRH9VFo) if the embed below does not behave nicely. 
 
