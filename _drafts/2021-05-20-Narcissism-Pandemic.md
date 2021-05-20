@@ -11,6 +11,7 @@ modified: null
 ---
 Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
 Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors) 874,000 **EVERY SINGLE YEAR** since 2000.
+Tragic Deaths from Suicide since 2018: [306,519](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) 87,577 in 2018, alone; as of May 2021.
 
 2020 Suffering from Substance Use Disorder due to Hyper Individualistic Narcissistic Bootstraps Culture: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
 
@@ -25,5 +26,7 @@ Why do we react so dramatically differently to each of these pandemics and epide
 > It's straight up global human experimentation on an unprecedented scale, global and social engineering that will only accelerate and expand, from here, due to a highly narcissistic form of so-called *scientific investigation* and *medical obligation.* Like all narcissists, the high maka-maka (arrogant, false altruistic) labels are like blaring neon signs to anyone who sees the charade for what it is.
 
 Another reason we can know that COVID-19 vaccines have absolutely nothing to do with concern for human life is the fact that not a finger has ever been lifted toward alleviating the much more prevalant causes of tragic human suffering and death described herein. These are all forms of far more prevalent, persistent suffering that we know are attributable to far more obvious and addressable causes, and yet, we ignore all that.
+
+![CDC Leading Causes of Death 2018]({{site.baseurl}}/_drafts/CDC_leading_cause_of_death_2018_155160_3.png)
 
 For ten years research and bibliographic details about these and other factors of *intentionally engineered economic precarity*, read the book [Where We Go From Here: Chaos To Community]( https://amzn.to/2URmAjL).
