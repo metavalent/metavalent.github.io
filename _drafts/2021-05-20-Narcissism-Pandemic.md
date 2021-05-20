@@ -14,9 +14,16 @@ Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive
 
 2020 Suffering from Substance Use Disorder due to Hyper Individualistic Narcissistic Bootstraps Culture: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
 
-Why do we react so dramatically differently to each of these pandemics and epidemics? What's happening here? If we are cultivating "conditions on Earth as it is in Heaven," please raise your hand if you believe that the first thing God says upon reaching Heaven is, "get a job or get out." Please point me to that place in scripture where Jesus said to passers by, "get real job you lazy slob." Please show me where Jesus said, "Oh, your economic life is precarious? Prove you are my disciple by Getting a Job."
+Why do we react so dramatically differently to each of these pandemics and epidemics? What's happening here? If we are cultivating "conditions on Earth as it is in Heaven," please raise your hand if you believe that the first thing God says upon reaching Heaven is, "get a job or get out." Please point me to that place in scripture where Jesus says to passers by, "get a real job you lazy slob." Please show me where Jesus said, "Oh, your economic life is precarious? Prove that you are my disciple by Getting a Job and paying some rent-*taker*, some landed lord's mortgage in the form of rent."
 
-The reason we can know that vaccines were developed so quickly had absolutely nothing to do with concern for human life is the fact that not a finger has been lifted toward alleviating much more tragic human suffering due to far more obvious and addressable causes.
+> The root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed in such a rush basis is not because any of the corporations involved care about human beings one iota.
 
+> The primary reason for the urgency in responding to COVID-19 is that so many sick people were overwhelming the system,causing cost overruns, which powerfully and negatively impacted profits, and so decision makers responded to the impact on profits, they did not respond to any concern for human health.
 
-All the details about this are in the book [Where We Go From Here: Chaos To Community]().
+> It's just a convenient additional opportunity to deploy mRNA technology that can then be followed by minor tweaked viruses, to experiment with how those new viruses interact with the vaccine platform. There is zero concern for the individuals involved. And even the CDC website repeatedly says that being vaccinated is no absolute guarantee against getting sick. It repeatedly states, some people will still get sick. That's your experimental subset.
+
+> It's straight up global human experimentation on an unprecedented scale, global and social engineering that will only accelerate and expand, from here, due to a highly narcissistic form of so-called *scientific investigation* and *medical obligation.* Like all narcissists, the high maka-maka (arrogant, false altruistic) labels are like blaring neon signs to anyone who sees the charade for what it is.
+
+Another reason we can know that COVID-19 vaccines have absolutely nothing to do with concern for human life is the fact that not a finger has ever been lifted toward alleviating the much more prevalant causes of tragic human suffering and death described herein. These are all forms of far more prevalent, persistent suffering that we know are attributable to far more obvious and addressable causes, and yet, we ignore all that.
+
+For ten years research and bibliographic details about these and other factors of *intentionally engineered economic precarity*, read the book [Where We Go From Here: Chaos To Community]( https://amzn.to/2URmAjL).
