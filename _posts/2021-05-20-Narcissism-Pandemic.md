@@ -31,8 +31,8 @@ Another reason we can know that COVID-19 vaccines have absolutely nothing to do 
 
 ![CDC Leading Causes of Death 2018]({{site.baseurl}}/assets/images/CDC_leading_cause_of_death_2018_155160_3.png)
 
-<a name="note1">
-<a name="note2">
+<a name="note1"></a>
+<a name="note2"></a>
 For ten years research and bibliographic details about these and other factors of *intentionally engineered economic precarity*, read the book [Where We Go From Here: Chaos To Community]( https://amzn.to/2URmAjL).
 
 #### Footnotes
