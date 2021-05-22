@@ -35,10 +35,11 @@ For ten years research and bibliographic details about these and other factors o
 <a name="note1"></a>
 <a name="note2"></a>
 <span style="color:#efefef">.</span>
-<span style="color:#efefef">.</span>
-<span style="color:#efefef">.</span>
-<span style="color:#efefef">.</span>
-<span style="color:#efefef">.</span>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 #### Footnotes
