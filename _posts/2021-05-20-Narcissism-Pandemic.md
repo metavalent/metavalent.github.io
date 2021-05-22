@@ -10,7 +10,7 @@ created: null
 modified: null
 ---
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
-* Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors) 874,000 **EVERY SINGLE YEAR** since 2000.
+* Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors) (874,000 **EVERY SINGLE YEAR** since 2000).
 * Tragic Deaths from Suicide since 2018-2021: [350,308](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968), alone; which hasn't improved.
 
 * Tragic Suffering from Substance Use Disorder due to Hyper-Individualist Narcissistic Bootstraps Culture, in 2020 alone: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
