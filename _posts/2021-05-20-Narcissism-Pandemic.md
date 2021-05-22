@@ -30,11 +30,16 @@ If we are cultivating "conditions on Earth as it is in Heaven," please raise you
 Another reason we can know that COVID-19 vaccines have absolutely nothing to do with concern for human life is the fact that not a finger has ever been lifted toward alleviating the much more prevalant causes of tragic human suffering and death described herein. These are all forms of far more prevalent, persistent suffering that we know are attributable to far more obvious and addressable causes, and yet, we ignore all that.
 
 ![CDC Leading Causes of Death 2018]({{site.baseurl}}/assets/images/CDC_leading_cause_of_death_2018_155160_3.png)
-
 <a name="note1"></a>
 <a name="note2"></a>
 For ten years research and bibliographic details about these and other factors of *intentionally engineered economic precarity*, read the book [Where We Go From Here: Chaos To Community]( https://amzn.to/2URmAjL).
 
+
+
+
+
+
+---
 #### Footnotes
 
 [[1](#)] 874,000 **EVERY SINGLE YEAR** since 2000 ([Columbia University](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)).
