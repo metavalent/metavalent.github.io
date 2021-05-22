@@ -33,8 +33,10 @@ Another reason we can know that COVID-19 vaccines have absolutely nothing to do 
 
 For ten years research and bibliographic details about these and other factors of *intentionally engineered economic precarity*, read the book [Where We Go From Here: Chaos To Community]( https://amzn.to/2URmAjL).
 
+<a name="note1"></a>
+<a name="note2"></a>
 #### Footnotes
 
-<a name="note1">[1](#)</a> 874,000 **EVERY SINGLE YEAR** since 2000 ([Columbia University](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)).
+[[1](#)] 874,000 **EVERY SINGLE YEAR** since 2000 ([Columbia University](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)).
 
-<a name="note2">[2](#)</a> Derived from [87,577 in 2018] alone (https://www.nimh.nih.gov/health/statistics/suicide#part_154968); which hasn't improved.
+[[2](#)] Derived from [87,577 in 2018] alone (https://www.nimh.nih.gov/health/statistics/suicide#part_154968); which hasn't improved.
