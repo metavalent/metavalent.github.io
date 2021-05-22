@@ -9,11 +9,11 @@ tags: metavalent
 created: null
 modified: null
 ---
-Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
-Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors) 874,000 **EVERY SINGLE YEAR** since 2000.
-Tragic Deaths from Suicide since 2018-2021: [350,308](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968), alone; which hasn't improved.
+* Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
+* Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors) 874,000 **EVERY SINGLE YEAR** since 2000.
+* Tragic Deaths from Suicide since 2018-2021: [350,308](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968), alone; which hasn't improved.
 
-Tragic Suffering from Substance Use Disorder due to Hyper-Individualist Narcissistic Bootstraps Culture, in 2020 alone: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
+* Tragic Suffering from Substance Use Disorder due to Hyper-Individualist Narcissistic Bootstraps Culture, in 2020 alone: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
 
 Why do we, as a society, react so dramatically differently to each of these pandemics and epidemics? What's happening here? Narcissism. The desire to believe we live in "the Greatest Nation in the History of the World," above all else. *No one can possibly be better than us*, and if they show signs that they might be, we must either find reasons to tear them down or bomb them into oblivion for daring raise their voices or heads to see us as equals. That's a *CULT-ure of Narcissism*. Fueled by denial. Gaslighting, scapegoating, and ostracizing truth-tellers. Victim-blaming and shaming, at scale.
 
