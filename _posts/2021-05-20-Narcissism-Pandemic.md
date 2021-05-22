@@ -46,4 +46,4 @@ For ten years research and bibliographic details about these and other factors o
 
 [[1](#)] 874,000 **EVERY SINGLE YEAR** since 2000 ([Columbia University](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)).
 
-[[2](#)] Derived from [87,577 in 2018] alone (https://www.nimh.nih.gov/health/statistics/suicide#part_154968); which hasn't improved.
+[[2](#)] Derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) alone; which hasn't improved.
