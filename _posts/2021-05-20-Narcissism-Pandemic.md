@@ -19,6 +19,13 @@ Why do we, as a society, react so dramatically differently to each of these pand
 
 However, let there appear an urgent opportunity to *appear* caring, and the narcissist or narcissistic CULT-ure will be all over it with a week of "aid," and then gone, leaving the years and decades of real work to others, all the while completely denying all of the long-term underlying factors that actually set the stage for the crisis, in the first place. All of the tragedies at the top of this article are long-term and long-standing problems, killing equal or greater numbers of people than the pandemic, and yet the response is almost nowhere to be seen. Where is the emergency to end suicides, substance use deaths, and deaths from plain, stark poverty, right here in America?
 
+Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is Here!](https://youtu.be/uczI-m4Zb9o) if the embed below does not behave nicely. 
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/uczI-m4Zb9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+#### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
+
 > Below, we will explore the case that many are making that the root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed on a rush basis is *not because any of the corporations involved care about human beings one iota*.
 
 > From a purely pragmatic financial perspective, the primary reason for the urgency in responding to COVID-19 is that so many sick people were overwhelming the system, causing cost overruns, which powerfully and negatively impacted profits. The argument is that *decision-makers responded to the impact on profits*, they did not respond to any concern for human health. Is there any merit to such a claim?
