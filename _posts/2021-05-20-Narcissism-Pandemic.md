@@ -17,6 +17,8 @@ modified: null
 
 Why do we, as a society, react so dramatically differently to each of these pandemics and epidemics? What's happening here? Narcissism. The desire to believe we live in "the Greatest Nation in the History of the World," above all else. *No one can possibly be better than us*, and if other nations show signs that they might be doing better, we must either find reasons to tear them down or bomb them into oblivion for daring raise their voices or heads to see us as equals. That's a *CULT-ure of Narcissism*. Fueled by denial, gaslighting, scapegoating, and ostracizing truth-tellers. Victim-blaming and shaming, at scale.
 
+However, let there appear an urgent opportunity to *appear* caring, and the narcissist or narcissistic CULT-ure will be all over it, while continuing to completely deny all of the long-term underlying factors that actually set the stage for the crisis, in the first place. All of the tragedies above are long-term and long-standing problems, killing equal or greater numbers of people, and yet the response is almost nowhere to be seen.
+
 > Below, we will explore the case that many are making that the root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed on a rush basis is *not because any of the corporations involved care about human beings one iota*.
 
 > From a purely pragmatic financial perspective, the primary reason for the urgency in responding to COVID-19 is that so many sick people were overwhelming the system, causing cost overruns, which powerfully and negatively impacted profits. The argument is that *decision-makers responded to the impact on profits*, they did not respond to any concern for human health. Is there any merit to such a claim?
