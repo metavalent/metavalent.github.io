@@ -22,7 +22,8 @@ However, let there appear an urgent opportunity to *appear* caring, and the narc
 Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is Here!](https://youtu.be/uczI-m4Zb9o) if the embed below does not behave nicely. 
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/uczI-m4Zb9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+<br />
+<br />
 
 #### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
 
