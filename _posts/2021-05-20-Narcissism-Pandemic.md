@@ -27,7 +27,7 @@ Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is H
 
 #### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
 
-> Below, we will explore the case that many are making that the root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed on a rush basis is *not because any of the corporations involved care about human beings one iota*.
+Below, let's explore the case that many are making that the root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed on a rush basis is *not because any of the corporations involved care about human beings*, but only to protect industry bottom lines.
 
 > From a purely pragmatic financial perspective, the primary reason for the urgency in responding to COVID-19 is that so many sick people were overwhelming the system, causing cost overruns, which powerfully and negatively impacted profits. The argument is that *decision-makers responded to the impact on profits*, they did not respond to any concern for human health. Is there any merit to such a claim?
 
