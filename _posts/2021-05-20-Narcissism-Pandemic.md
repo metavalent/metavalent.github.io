@@ -6,9 +6,10 @@ layout: post
 comments: true
 categories: metavalent
 tags: metavalent
-created: null
 modified: null
+created: null
 ---
+
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
 * Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)<sup>[1](https://metavalent.com/metavalent/2021/05/20/Narcissism-Pandemic.html#note1)</sup> 
 * Tragic Deaths from Suicide 2018-2021: [350,308](https://www.nimh.nih.gov/health/statistics/suicide#part_154968)<sup>[2](https://metavalent.com/metavalent/2021/05/20/Narcissism-Pandemic.html#note2)</sup>
@@ -25,6 +26,10 @@ Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is H
 <br />
 
 #### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
+
+I'm far from being an anti-vaxxer. Got all my vaccinations as a kid, which has been a blessing, had my own children vaccinated, get my flu shot every year for 30 years. And from my own direct experience, there's a lot about the COVID vaccine that justifies the highest level of scrutiny and analysis.
+
+We can believe in science and be skeptical of scientific motivations at the same time, especially where profit motive serves to skew the priorities of the scientific enterprise.
 
 Below, let's explore the case that many are making that the root motivation for moving so quickly to create vaccines and then to force acceptance of vaccines developed on a rush basis is *not because any of the corporations involved care about human beings*, but only to protect industry bottom lines.
 
