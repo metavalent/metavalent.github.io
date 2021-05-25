@@ -1,7 +1,13 @@
 ---
-modified: 2021-05-24T20:07:31-07:00
 title: The Pandemic of Narcissism
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
 tags: metavalent
+created: 2021-04-17T20:18:32-07:00
+modified: 2021-05-24T20:19:06-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
