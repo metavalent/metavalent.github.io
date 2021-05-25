@@ -39,6 +39,8 @@ Below, let's explore the case that many are making that the root motivation for 
 
 > Some skeptics suggest that the pandemic presented a convenient opportunity to deploy mRNA technology that can then be followed by minor tweaked viruses, potentially to experiment with how those new viruses interact with the vaccine platform. The [CDC's own history of human experimentation](https://www.cdc.gov/tuskegee/timeline.htm) is as important as racial history in America, and the two overlap. There is zero institutional concern for the individuals involved.
 
+> Dr. Makary of Johns Hopkins also explains in the video below that many of us have *natural immunity*. So, if we went through the whole pandemic and never got sick – which is effectively over as of May / June 2021 – odds are non-zero that we are naturally immune and we don't need a vaccine. **But where are the tests to determine natural immunity?**
+
 Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns1dQApOM) if the embed below does not behave nicely. 
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/bsns1dQApOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
