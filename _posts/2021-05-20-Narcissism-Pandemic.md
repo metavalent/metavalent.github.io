@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-04-17T20:18:32-07:00
-modified: 2021-05-24T20:19:06-07:00
+modified: 2021-05-24T20:24:13-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
@@ -30,6 +30,8 @@ Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is H
 #### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
 
 I'm far from being an anti-vaxxer. Got all my vaccinations as a kid, which has been a blessing, had my own children vaccinated, get my flu shot every year for 30 years. And from my own direct experience, there's a lot about the COVID vaccine that justifies the highest level of scrutiny and analysis.
+
+That said, "[The pandemic is over](https://youtu.be/bsns1dQApOM?t=30m30s) according to top physicians at Stanford and Johns Hopkins University. Put local narcissistic control freaks in small town, city, and county government don't want it to be over, because they love the shared narcissistic power and control that they have been able to exercise.
 
 We can believe in science and be skeptical of scientific motivations at the same time, especially where profit motive serves to skew the priorities of the scientific enterprise.
 
