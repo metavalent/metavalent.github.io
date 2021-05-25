@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-24T20:42:09-07:00
-modified: 2021-05-24T20:51:51-07:00
+modified: 2021-05-24T20:52:32-07:00
 ---
 
-Fear pieces fear-mongering over who gets to cook up and serve out the fear in America's Media Diet, by a borderline personality disordered mainstream media calling all other forms of media borderline. It doesn't get more awesome than this!
+MSM shipping fear pieces fear-mongering over who gets to cook up and serve out the fear in America's Media Diet, by a borderline personality disordered mainstream media calling all other forms of media borderline. It doesn't get more awesome than this!
 
 "The United States has more nuclear warheads than hospitals, but you think the problem is YouTube." — Jimmy Dore
 
