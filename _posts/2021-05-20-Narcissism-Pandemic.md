@@ -14,6 +14,8 @@ created: null
 * Tragic Deaths from Poverty & Social Insecurity: [17,480,000](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)<sup>[1](https://metavalent.com/metavalent/2021/05/20/Narcissism-Pandemic.html#note1)</sup> 
 * Tragic Deaths from Suicide 2018-2021: [350,308](https://www.nimh.nih.gov/health/statistics/suicide#part_154968)<sup>[2](https://metavalent.com/metavalent/2021/05/20/Narcissism-Pandemic.html#note2)</sup>
 
+> Updated 24 May 2021.
+
 * Tragic Suffering from Substance Use Disorder due to Hyper-Individualist Narcissistic Bootstraps Culture, in 2020 alone: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
 
 Why do we, as a society, react so dramatically differently to each of these pandemics and epidemics? What's happening here? What role might narcissism play in skewing our priorities? The desire to believe we live in "the Greatest Nation in the History of the World," above all else. To believe that *no one can possibly be better than us*, and if other nations show signs that they might be doing better, we must either find reasons to tear them down or bomb them into oblivion for daring raise their voices or heads to see us as equals. That's a *CULT-ure of Narcissism*. Fueled by denial, gaslighting, scapegoating, and ostracizing truth-tellers. Victim-blaming and shaming, at scale.
