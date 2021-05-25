@@ -37,6 +37,8 @@ Below, let's explore the case that many are making that the root motivation for 
 
 > From a purely pragmatic financial perspective, the primary reason for the urgency in responding to COVID-19 is that so many sick people were overwhelming the system, causing cost overruns, which powerfully and negatively impacted profits. The argument is that *decision-makers responded to the impact on profits*, they did not respond to any concern for human health. Is there any merit to such a claim?
 
+> "Financial toxicity is a medical complication." — Dr. Marty Makary, Johns Hopkins University.
+
 > Some skeptics suggest that the pandemic presented a convenient opportunity to deploy mRNA technology that can then be followed by minor tweaked viruses, potentially to experiment with how those new viruses interact with the vaccine platform. The [CDC's own history of human experimentation](https://www.cdc.gov/tuskegee/timeline.htm) is as important as racial history in America, and the two overlap. There is zero institutional concern for the individuals involved.
 
 > Dr. Makary of Johns Hopkins also explains in the video below that many of us have *natural immunity*. So, if we went through the whole pandemic and never got sick – which is effectively over as of May / June 2021 – odds are non-zero that we are naturally immune and we don't need a vaccine. **But where are the tests to determine natural immunity?**
