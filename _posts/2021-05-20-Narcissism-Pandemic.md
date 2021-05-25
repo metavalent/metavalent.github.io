@@ -1,13 +1,7 @@
 ---
-published: true
+modified: 2021-05-24T20:07:31-07:00
 title: The Pandemic of Narcissism
-author: metavalent
-layout: post
-comments: true
-categories: metavalent
 tags: metavalent
-modified: null
-created: null
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
@@ -52,6 +46,8 @@ Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns
 
 > The fact that such a line of reasoning can be forwarded at all is additional evidence of how shareholder-driven healthcare opens the door to this kind of skepticism.
 
+[![Image](/assets/images/image_picker7005425983552521537.jpg)](https://www.amazon.com/Price-We-Pay-American-Care/dp/1635574110)
+
 > We're simply noting that there are legitimate reasons why some argue that the pandemic created a handy crisis -- which policy makers know should never be wasted -- to accelerate global human experimentation on an unprecedented scale, and experiment with global and social engineering that will only accelerate and expand from here, due to a highly narcissistic form of so-called *scientific investigation* and *medical obligation.* Like all narcissists and narcissistic systems, the high maka-maka (arrogant, false altruistic) labels are like blaring neon signs to anyone who sees the potential for charade for what it is.
 
 > The edict to [conform or be cast out](https://www.youtube.com/watch?v=Vf8jvSPA3XQ) has become more prevalent than ever, in too many cases. This is what new organizations like the [People's Party](https://peoplesparty.org/) are about. When every point of public policy becomes a political battle-line formation, there's something deeply, deeply wrong in a nation. 
@@ -82,3 +78,4 @@ For ten years research and bibliographic details about these and other factors o
 [[1](#)] 874,000 **EVERY SINGLE YEAR** since 2000 ([Columbia University](https://web.archive.org/web/20210516225639/https://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors)).
 
 [[2](#)] Derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) alone; which hasn't improved.
+
