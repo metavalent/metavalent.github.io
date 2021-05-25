@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2021-04-17T20:18:32-07:00
-modified: 2021-05-24T20:24:13-07:00
+created: 2021-05-20T20:18:32-07:00
+modified: 2021-05-24T20:26:11-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
