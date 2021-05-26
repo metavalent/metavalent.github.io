@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-20T20:18:32-07:00
-modified: 2021-05-24T20:27:54-07:00
+modified: 2021-05-25T17:32:38-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
@@ -43,6 +43,8 @@ Below, let's explore the case that many are making that the root motivation for 
 
 > Some skeptics suggest that the pandemic presented a convenient opportunity to deploy mRNA technology that can then be followed by minor tweaked viruses, potentially to experiment with how those new viruses interact with the vaccine platform. The [CDC's own history of human experimentation](https://www.cdc.gov/tuskegee/timeline.htm) is as important as racial history in America, and the two overlap. There is zero institutional concern for the individuals involved.
 
+> "We are running this epidemiological experiment of linking the entire world together and also democratizing the tech that will make it possible to engineer pandemics. More and more people will be able to engineer synthetic viruses that will be – by the sheer fact that they will have been engineered with malicious intent – worse than COVID. And we have a country here, where we can't even agree that this is a thing. We can't even converge on what is ground truth." — [Sam Harris](https://youtu.be/4dC_nRYIDZU?t=2h04m35s)
+
 > Dr. Makary of Johns Hopkins also explains in the video below that many of us have *natural immunity*. So, if we went through the whole pandemic and never got sick – which is effectively over as of May / June 2021 – odds are non-zero that we are naturally immune and we don't need a vaccine. **But where are the tests to determine natural immunity?**
 
 Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns1dQApOM) if the embed below does not behave nicely. 
@@ -58,7 +60,7 @@ Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns
 
 > We're simply noting that there are legitimate reasons why some argue that the pandemic created a handy crisis -- which policy makers know should never be wasted -- to accelerate global human experimentation on an unprecedented scale, and experiment with global and social engineering that will only accelerate and expand from here, due to a highly narcissistic form of so-called *scientific investigation* and *medical obligation.* Like all narcissists and narcissistic systems, the high maka-maka (arrogant, false altruistic) labels are like blaring neon signs to anyone who sees the potential for charade for what it is.
 
-> The edict to [conform or be cast out](https://www.youtube.com/watch?v=Vf8jvSPA3XQ) has become more prevalent than ever, in too many cases. This is what new organizations like the [People's Party](https://peoplesparty.org/) are about. When every point of public policy becomes a political battle-line formation, there's something deeply, deeply wrong in a nation. 
+> The edict to [conform or be cast out](https://www.youtube.com/watch?v=Vf8jvSPA3XQ) has become more prevalent than ever, in too many cases. This is what new organizations like the [People's Party](https://peoplesparty.org/) are about. When every point of public policy becomes a political battle-line formation, there's something deeply, deeply wrong in a nation.
 
 > Don't listen to, or believe, any of this. Look into the links. Listen to other perspectives. Make up your own mind. Listen to legendary investigative reporter -- now 88 years old, the OG of Authenticity long before authenticity was a thing -- [Hedrick Smith with Committee for the Republic](https://youtu.be/-58BjTUd7pY) for a deeper dive into associated systemic issues that support the cause for healthy skepticism about health care in America, including pandemic responses.
 
