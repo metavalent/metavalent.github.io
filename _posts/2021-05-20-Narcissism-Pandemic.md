@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-20T20:18:32-07:00
-modified: 2021-05-25T17:31:17-07:00
+modified: 2021-05-25T17:32:38-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
@@ -43,7 +43,7 @@ Below, let's explore the case that many are making that the root motivation for 
 
 > Some skeptics suggest that the pandemic presented a convenient opportunity to deploy mRNA technology that can then be followed by minor tweaked viruses, potentially to experiment with how those new viruses interact with the vaccine platform. The [CDC's own history of human experimentation](https://www.cdc.gov/tuskegee/timeline.htm) is as important as racial history in America, and the two overlap. There is zero institutional concern for the individuals involved.
 
-> "We are running this epidemiological experiment of linking me entire world together and also democratizing the tech that will make it possible to engineer pandemics. More and more people will be able to engineer synthetic viruses that will be – by the sheer fact that they will have been engineered with malicious intent – worse than COVID. And we have a country here, where we can't even agree that this is a thing. We can't even converge on what is ground truth." — [Sam Harris](https://youtu.be/4dC_nRYIDZU?t=2h04m35s)
+> "We are running this epidemiological experiment of linking the entire world together and also democratizing the tech that will make it possible to engineer pandemics. More and more people will be able to engineer synthetic viruses that will be – by the sheer fact that they will have been engineered with malicious intent – worse than COVID. And we have a country here, where we can't even agree that this is a thing. We can't even converge on what is ground truth." — [Sam Harris](https://youtu.be/4dC_nRYIDZU?t=2h04m35s)
 
 > Dr. Makary of Johns Hopkins also explains in the video below that many of us have *natural immunity*. So, if we went through the whole pandemic and never got sick – which is effectively over as of May / June 2021 – odds are non-zero that we are naturally immune and we don't need a vaccine. **But where are the tests to determine natural immunity?**
 
