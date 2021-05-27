@@ -45,6 +45,10 @@ Below, let's explore the case that many are making that the root motivation for 
 
 > "We are running this epidemiological experiment of linking the entire world together and also democratizing the tech that will make it possible to engineer pandemics. More and more people will be able to engineer synthetic viruses that will be – by the sheer fact that they will have been engineered with malicious intent – worse than COVID. And we have a country here, where we can't even agree that this is a thing. We can't even converge on what is ground truth." — [Sam Harris](https://youtu.be/4dC_nRYIDZU?t=2h04m35s)
 
+> Related: [this just in](https://youtu.be/9hqdFqfvl00), paraphrased from Corey Doctorow: The fact that Facebook conducted an experiment on 60 million people without their consent kind of indicates that they shouldn't be running a lemonade stand let alone the public digital commons.
+
+the purpose of citing these realities is the fact that these are not conspiracy theories these are conspiracies that have been methodically carried
+
 > Dr. Makary of Johns Hopkins also explains in the video below that many of us have *natural immunity*. So, if we went through the whole pandemic and never got sick – which is effectively over as of May / June 2021 – odds are non-zero that we are naturally immune and we don't need a vaccine. **But where are the tests to determine natural immunity?**
 
 Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns1dQApOM) if the embed below does not behave nicely. 
