@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-05-20T20:18:32-07:00
-modified: 2021-05-25T17:32:38-07:00
+modified: 2021-06-05T19:22:30-07:00
 ---
 
 * Tragic Deaths from COVID-19: [575,000](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
@@ -48,6 +48,8 @@ Moreover, clarifications and debunking of myths about mRNA changing DNA (the bio
 > "Now, imagine that instead of giving the protein, we would give the instructions on how to make the protein, how the body can make its own vaccine. That’s an mRNA vaccine" (Moderna chief medical officer Tal Zaks. [Reuter's Fact Check](https://www.reuters.com/article/factcheck-moderna-mrna-idUSL1N2M10IV)).
 
 Okay, so the conspiracy theorists have the vector of causality reversed. Not too surprising. Nevertheless, mRNA interventions do absolutely  engineer the DNA -> mRNA -> protein creation process, mid-stream. Could this be amazing? Absolutely. Do we have anywhere near enough understanding of how each and every individual body interprets these instruction sets? Maybe. Statistically, will we likely "get away with giving it a shot?" (Pun intended). Yes, we'll "get away with it," because a small enough number of people will be adversely affected that corporations can do what corporations always do in America with the least of these: pathologize, marginalize, minimize, and dismiss. Statistically, by definition, individuals just don't matter. However, when that individual is _you_ or someone you love, well, then statistics tend to suddenly fade in significance. There's just something about having to "get away with it," that makes many people take pause. Is that really an irrational response? To pause and await more data about how having "the body make its own vaccine," works out? That's a question only you can answer.
+
+When nurses who are seeing the adverse reactions firsthand also say they're [willing to lose their jobs](https://youtu.be/EJhR5YuJbtQ) over this, that might be something worth paying attention to, as well.
 
 Our contention is this: individuals should not be shamed, berated, criticized, or implicitly and explicitly punished with social restrictions for taking a pause to consider. This experiment is not like the polio vaccination I received as a child, it is not like the annual flu shots that I have received every year for decades. This is something completely new, and as such, the balance between our collective health and individual autonomy must include the option to keep wearing masks to protect others, without being shamed. Lack of vaccination _poses no risk to others_ it only affects the individual's response to the virus. From this perspective, it follows that people ought to be free to act in ways that respect and protect others, while also choosing their own individual level of risk to their own individual bodies. Does it make sense? If not, I'd very much like to hear the case against this middle way proposition of encouraging public health, collective awareness and interdependence, and individual direct experience. Philosophers have debated these principles from the dawn of human reasoning; the choice to be vaccinated or not is simply one of the most recent and most universal exercises in applied faith and philosophy, to date, due to the current era of immediate global communications.
 
