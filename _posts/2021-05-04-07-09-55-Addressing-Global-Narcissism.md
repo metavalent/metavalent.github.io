@@ -12,6 +12,8 @@ modified: 2021-05-04T08:01:39-07:00
 
 Finding the Others who Understand the Global Narcissism Pandemic AND What-To-Do-About-It Edition.
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 There's nothing to disagree with here any more. Never was. This is all true. 
 
 Disagreement in cases like this is a psychological protection for denial. Denial denies its own existence. That's what makes it denial. Denial is not lying. Denial is lying while not even knowing we are lying, because the truth of what a horrible person we are – the guilt and shame that a good human being *should* feel for behaving horribly – are impossible to face without destroying everything about our constructed false ego. Our very self would be obliterated, and so we must blind ourselves to who we actually are and to what we have actually been doing, maybe even for decades.
@@ -41,3 +43,4 @@ Watch [Credit Card CEO Schools Fox on Minimum Wage and Medicare for All](https:/
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NZEfhRH9VFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

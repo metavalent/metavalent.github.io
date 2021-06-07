@@ -11,6 +11,7 @@ modified: null
 
 What is the nature of freedom, equality, in the context of Earth, 2021? If can, try consider these two videos, together, without prejudice or bias.
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
 
 [Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
 
@@ -45,3 +46,6 @@ Some people are referring to this time as The Great Reset, some people are refer
 We have dubbed all of these, and more, as features of the #PostAutomationEra. This is the era in which human creativity and ingenuity has automated so much of the creation of our individual and collective material needs, that we are literally in a new era of civilization. We have not seen a phase shift like this in our societal configuration since the dawning of the Industrial Era. It's disruptive. It's scary for many people. It comes with many blessings and curses, which we ought to look upon with opened eyes, grateful hearts, and responsible minds; responsibile for the care of this planet and it's raw natural resources; water, air, soil; without which, none of this paradise exists.
 
 One guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
+
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

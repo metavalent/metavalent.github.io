@@ -11,6 +11,8 @@ modified: 2021-04-02T12:59:45-07:00
 
 > An IRL FanFic-Maybe-NotFic Joint. Based on the [Medium publishing universe](https://link.medium.com/HvPPQJai8eb) algorithmically surfaced creative writing work of one [Jessica Wildfire](https://JessicaLexicus.medium.com/).
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 _"Between every stimulus and response, there is an infinite empty space."_
 
 > Yes, oh guru, I confess, instead of being satisfied to bask in the sufficiency of that pure awareness, I filled that space with this, again, as is my habitual tendency. My bad. I accept the consequences that my follower count will be reset to zero every day, forever; that I'll be justifiably shadow-banned, digitally gang-stalked, [zersetzung](https://en.m.wikipedia.org/wiki/Zersetzung)'d IRL, de-platformed, and played like a human puppet for IC entertainment. But then, you know the old Zen Trope: get deplatformed seven times, create an entirely new platform eight.
@@ -56,3 +58,5 @@ So, stay tuned for the next exciting episode of, "Earth the Sixth Mass Extinctio
 You won't want to miss a moment, and if you do, you'll be considered orthogobtusely out of the loop!
 
 Be love. :sparkling_heart:
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

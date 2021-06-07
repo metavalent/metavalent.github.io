@@ -12,6 +12,8 @@ modified: 2021-04-20T12:02:42-07:00
 
 Do not be yourself.
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 Be *The* Self, that you are, that we all are.
 
 > Information = In Formation  
@@ -54,4 +56,6 @@ Watch [The Real Nature Of Kundalini](https://youtu.be/xDGestHEELU) if the embed 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/xDGestHEELU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <hr />
 > "Dare to be naïve."  
-> &mdash; Richard Buckminster Fuller
+> &mdash; Richard Buckminster Fuller 
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

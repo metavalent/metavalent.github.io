@@ -11,6 +11,8 @@ modified: 2021-04-02T12:37:56-07:00
 
 > "There seems to be a bit of a minor communication error, here. Please stand by."
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
 
 The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature works, derived through the process of observing conditions on the planet for the past 60 years. These observations have provided us enough data points to see that *metavalent stigmergy* is the process by which people come to believe things in common, take things for granted, on a widespread basis.
@@ -44,3 +46,5 @@ So, anyone who attempts to frame our work as trying to shove something down some
 As light shines forth in the darkness and the darkness cannot comprehend it, so it is in the hearts and minds of all sentient beings. For those with hearts to perceive, even the darkness is not darkness, for the nature of omnipresence is omnipresence. There is an energy that precedes even darkness and light, and there is an awareness that precedes even thought. We'll meet you there.
 
 We have no program, yet may participate in many kinds of programs, in alliance and partnership. We are primarily observers of the changes underway. Nothing more, nothing less. Amituofo. Namaste. Aloha me ke Akua. Dios les bendigan. God bless the human race.
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

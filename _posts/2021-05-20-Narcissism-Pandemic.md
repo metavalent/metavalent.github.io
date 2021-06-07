@@ -18,6 +18,8 @@ modified: 2021-06-05T19:22:30-07:00
 
 * Tragic Suffering from Substance Use Disorder due to Hyper-Individualist Narcissistic Bootstraps Culture, in 2020 alone: [20,000,000](https://youtu.be/Z5UGSfIQJsk)
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 Why do we, as a society, react so dramatically differently to each of these pandemics and epidemics? What's happening here? What role might narcissism play in skewing our priorities? The desire to believe we live in "the Greatest Nation in the History of the World," above all else, sounds just a wee bit grandiose, don't you think? To believe that *no one can possibly be better than us at anything*, and if other nations show signs that they might be doing better, we must either find reasons to tear them down or bomb them into oblivion for daring raise their voices or heads to see us as equals? That seems more like a *CULT-ure of Narcissism* than one of self-aware patriotism. That seems more like a CULT-ure of denial, gaslighting, scapegoating, and ostracizing of truth-tellers. Victim-blaming and shaming, at micro and macro scale.
 
 However, let there appear an urgent opportunity to *appear* caring, and the narcissist or narcissistic CULT-ure will be all over it with a week's worth of "aid," a one-time pandemic penny, and then gone; leaving the years and decades of real recovery work to all others, while completely denying all of the long-term, self-inflicted underlying factors that actually set the stage for the crisis, in the first place. All of the tragedies at the top of this article are long-term and long-standing problems, killing equal or greater numbers of people than the pandemic, and yet the response is almost nowhere to be seen. Where is the emergency to end suicides, substance use deaths, and deaths from plain, stark poverty, right here in America?
@@ -111,3 +113,4 @@ For ten years research and bibliographic details about these and other factors o
 
 [[2](#)] Derived from [87,577 in 2018](https://www.nimh.nih.gov/health/statistics/suicide#part_154968) alone; which hasn't improved.
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

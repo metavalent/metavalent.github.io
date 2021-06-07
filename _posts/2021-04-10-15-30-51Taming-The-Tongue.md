@@ -11,6 +11,8 @@ modified: null
 
 From the Science, Psy, And Spirituality series. The Prajñā Paramita, or Heart Sutra states:
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 > "Bodhisattva Avalokiteśvara clearly perceived the emptiness of the five skandhas and transcended all suffering.”
 
 What are the five skandhas?
@@ -46,3 +48,6 @@ Perhaps simply understanding that the human condition is, by default, afflicted 
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/12345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 -->
+
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)

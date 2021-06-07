@@ -11,6 +11,8 @@ modified: null
 
 The Myth of the Misuderstood Artist Isn't a Myth. Here's how it works. At least, for this Interstitial Intercognition Artist's life work of memes, dreams, themes, threads, publications, portfolios, books, blogs, articles, posts, tweets, grams, tiks, toks, css-blocks, fiction, non-fiction, intonation, inflection, flowing and glowing in fractal edition since 1991.
 
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+
 While all forms of suffering are, by definition, genuine and non-trivial forms of suffering, it's not the misunderstanding, estrangement, mockery, undermining, betrayal, hostility, exile, or even the covert horrors of zersetzung in a surveillance capitalism theater of operations that most hinder and harm the so-called misunderstood artist.
 
 The root of suffering for the misunderstood creative is *the desire to be understood and accepted by anyone other than the creative themselves*. And perhaps the first step to reduce that suffering is for the hyper-rational critical-self, to accept the misunderstood expressive artistic-self, as one and the same.
@@ -32,3 +34,5 @@ Somehow, we literally have the ability to re-create the world beyond all conflic
 ### I don't know, but I want to know
 
 That's one of the classic meditation mantras given to sit with for a day, or three, or seven, or however many hours or days or weeks or years it takes to know what it is the inquirer seeks to know. _"I don't know, but I want to know."_ And so, we extend that mantra into this space. [We are inquiring, together](https://metavalent.com/about). Thank you for [supporting the work](https://patreon.com/metavalent) and [participating in the experiment](https://patreon.com/metavalent) to the extent that your insight and intuition guides.
+
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
