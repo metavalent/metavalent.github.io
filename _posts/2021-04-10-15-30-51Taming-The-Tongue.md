@@ -11,7 +11,7 @@ modified: null
 
 From the Science, Psy, And Spirituality series. The Prajñā Paramita, or Heart Sutra states:
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 > "Bodhisattva Avalokiteśvara clearly perceived the emptiness of the five skandhas and transcended all suffering.”
 
@@ -50,4 +50,4 @@ Perhaps simply understanding that the human condition is, by default, afflicted 
 -->
 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

@@ -11,7 +11,7 @@ modified: null
 
 What is the nature of freedom, equality, in the context of Earth, 2021? If can, try consider these two videos, together, without prejudice or bias.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 [Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
 
@@ -48,4 +48,4 @@ We have dubbed all of these, and more, as features of the #PostAutomationEra. Th
 One guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

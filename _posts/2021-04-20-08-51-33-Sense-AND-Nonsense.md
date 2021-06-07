@@ -12,7 +12,7 @@ modified: 2021-04-20T12:02:42-07:00
 
 Do not be yourself.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 Be *The* Self, that you are, that we all are.
 
@@ -58,4 +58,4 @@ Watch [The Real Nature Of Kundalini](https://youtu.be/xDGestHEELU) if the embed 
 > "Dare to be naïve."  
 > &mdash; Richard Buckminster Fuller 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

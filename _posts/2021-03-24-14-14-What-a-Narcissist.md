@@ -10,7 +10,7 @@ created: null
 
 Wait for it ... Only Russell Brand could negate the negging of Jerry Seinfeld with this kind of flair (not the Reddit kine; real kine, ʻohana nui.) ROTFLMAO. Seeing isn't necessarily believing; but we can [watch and laugh anyway](https://youtu.be/xhEfbdM2Ufc?t=464).
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/xhEfbdM2Ufc?t=464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -22,4 +22,4 @@ But, wait, there's more! Even Sam Vaknin, "[Go to Your Desert](https://youtu.be/
 
 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

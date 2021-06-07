@@ -9,7 +9,7 @@ categories: metavalent
 ---
 The broken cargo ship, compared to an aircraft carrier transiting the same location, and the resulting traffic jam.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 <img src="/assets/images/image_picker4088370503932854072.jpg" style="margin-left:auto; margin-right:auto; width:50%">
 <br />
@@ -17,4 +17,4 @@ The broken cargo ship, compared to an aircraft carrier transiting the same locat
 <br />
 <img src="/assets/images/image_picker1424403435638129475.jpg" style="margin-left:auto; margin-right:auto; width:50%">
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

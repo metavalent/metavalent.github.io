@@ -9,7 +9,7 @@ modified: 2021-04-10T21:35:27-07:00
 
 How online and mainstream beer & cigar *[man-o-sphere](https://metavalent.com/2021/03/19/13-53-00.html)* and hyper-commercialized *socialization agents* encourage and cultivate an increasingly narcissistic and psychopathological culture among both men and women, with a focus on the manufacture of *fake alpha males*.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 [Watch here](https://youtu.be/RhRS3Ziv8xg?t=10m20s) if the embed below does not behave nicely. 
 
@@ -24,4 +24,4 @@ Also, a bunch of fascinating data on how people actually use hookup apps.
 * Not all too surprising, actually, when you think about it. :satisfied:
 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.

@@ -8,7 +8,7 @@ modified: 2021-04-01T21:12:51-07:00
 
 > "The human species is going through a _mutation in the meaning_ of biological reproduction. The bishops who are imposing orders ... are not actually interested in protecting the moral principles they're citing, they're protecting their own power. That's what's really going on, in my view." -- Former Priest, James Carroll.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
 
 Former Priest James Carroll's "[The Truth at the Heart of the Lies](https://www.goodreads.com/book/show/54061762-the-truth-at-the-heart-of-the-lie)."
 
@@ -21,4 +21,4 @@ We can do this, because the human species is simultaneously going through a _mut
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/464bg-DkPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
