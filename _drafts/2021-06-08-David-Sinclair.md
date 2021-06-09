@@ -5,7 +5,7 @@ title: >-
   Podcast
 ---
 
-
+> David Sinclair is a geneticist at Harvard and author of [Lifespan](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977).
 
 > Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
 
