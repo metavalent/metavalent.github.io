@@ -19,9 +19,9 @@ Another way to consider it as the process by which phase state changes occur bet
 
 And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://ted.hyperland.com/whoIam/) perhaps said it best, _"There is too much to say, and it goes in all directions."_ Further qualifed by the _effectively_ Einsteinian maxim that, _"Everything should be as simple as possible, but not simpler."_<sup>[1](#f1)</sup>
 
-### Did you learn something interesting or valuable here?
+###  Have you discovered or learned something interesting or valuable here? 
 
-Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse matters. Your support literally changes our world for the better. Thank you!
+> Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 ### Etymology
 
