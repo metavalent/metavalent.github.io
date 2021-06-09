@@ -12,7 +12,7 @@ modified: 2021-04-17T20:35:44-07:00
 
 ### Subheading
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creative, research, discovery or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 <!-- 
 Watch [Title of Video](https://youtu.be/12345) if the embed below does not behave nicely. 
@@ -20,4 +20,4 @@ Watch [Title of Video](https://youtu.be/12345) if the embed below does not behav
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/12345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 -->
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632 or cashtag [$JustBePono](https://cash.app/$JustBePono)
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creative, research, discovery or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!

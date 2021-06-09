@@ -11,7 +11,7 @@ created: null
 
 In the age of Medium, Substack, Patreon, and new platforms like PanQuake, being a writer in the #PostAutomationEra is becoming something entirely different that it has ever been, before. If it wasn't easy in the past, imagine the futility in the context of a constantly chatter global brain monkey mind.
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 So, [Why Even Bother](https://writingcooperative.com/why-bother-being-a-writer-421d707daefd)?
 
@@ -26,4 +26,4 @@ Good question. I differ with a lot of Kathryn Van Auken's work, but I like her a
 - "There is no greater agony than bearing an untold story inside you." - Maya Angelou
 - "If you have any young friends who aspire to become writers, the second greatest favor you can do them is to present them with copies of The Elements of Style. The first greatest, of course, is to shoot them now, while they’re happy." - Dorothy Parker
 
-> Learn something interesting or valuable here? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). United we stand, together we can.
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
