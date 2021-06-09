@@ -21,7 +21,8 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 
 ###  Have you discovered or learned something interesting or valuable here? 
 
-> Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
+> Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest?
+> Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 ### Etymology
 
