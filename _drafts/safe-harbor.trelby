@@ -33,8 +33,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:126
-Cursor/Column:18
+Cursor/Line:225
+Cursor/Column:3
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -308,58 +308,103 @@ Words/14:zzzz
 >:(looking down at the table) ...
 .:Gharib.
 .\ext. HOrse Stables - day
-..The rear cargo door starts to open.
-.\INT. PLACE - NIGHT
->.A whistling sound grows into a roar as the cargo door keeps
->.opening. Items tumble toward it, and people start to panic.
->.Two people by the door are swept out into the air, their
-..screams cut off as they disappear.
-._Crew member
->:Those fuckers are trying to dump
-.:us! Cut the control cables!
->.Gunfire erupts as people start randomly firing at the walls.
->.Eventually someone hits something, as there's a spark and
-..the opening of the cargo door is halted.
-._CREW MEMBER
-.:Kill them!
->.The crowd starts running toward the cockpit, waving guns and
-..yelling threats.
-.\INT. PLACE - NIGHT
->.They've been watching the events in the cargo bay on a
->.monitor. They don't appear remotely worried at this turn of
-..events.
+>.The rear stable door starts to open and a handsome,
+>.sun-cured, fit, sinewy horse-woman of 65 leads a gorgeous
+>.mare out. Tourists are being briefed in the background. For
+>.the benefit of a knowledgable audience, tourists  are
+>.committing atrocious anti-equestrian acts, revealing their
+..ignorance of horses.
+.\INT. Anaina Ho community PAVILLION - NIGHT
+>.An indoor/outdoor venue, lots of open space. Stage and
+>.casual tables for about 200 in a covered area, with an open
+>.air acre of green grass for dancing and mingling. Hawaiian
+..favorite Mike Love band is performing.
+._MAN AT Table
+>:Fuckers are trying to own us! Cut
+.:the internet!
+>.The music drops to a din as the net-dependant amplification
+>.system goes down. About half the heads turn to see what
+>.happened while the other half just keep dancing, deeply
+>.baked from the world-class local weed, blissed on music that
+..keeps on in their heads.
+._WOMaN AT TABLe
+>:Nah, I don't think so. I mean,
+>:sure, err on the side of caution,
+>:but do we really need a major
+>:disruption here, in public like
+.:this?
+._Mike love
+>:(From stage) Hey folks, looks like
+>:we just toned it down a notch for
+>:y'all to get yer chill on. I'm sure
+>:those who can hear this don't mind
+>:and those out back (loudly
+>:projecting) enjoy your bliss
+>:without the distraction of all our
+.:noise! Eo!
+>.The crowd laughs, a few Eo's echo in response. 80% keep
+>.dancing. A few others filter to booths around the periphery
+..and nearby tables.
+._MAN AT TABLE
+>:What major disruption? Does anyone
+.:look disrupted to you?
+._WOMAN AT TABLE
+>((Sneers with irritation
+.(at his smug correctness)
+.(
+._MAN AT TABLE
+>(Now please fire up the
+>(femto-cell and let's see
+>(what the fuck this
+.(clowns are on about.
+.\exT. Princeville ranch riding trail - day
+>.A horseback tour guide is telling stories of movies made on
+..the ranch, in the area, and all around the island.
 ._KEVIN
-.:Time for plan B.
->.Kevin pulls his stick back, sending the plane on a steep
-..ascent.
-.\INT. PLACE - NIGHT
->.Almost everyone falls down as the floor rises sharply. All
-..kinds of items rain down on them from above.
->.A grinding noise is starting to be heard. Horrified, the
->.people look up to see the huge mass of stones beginning to
->.slide toward them. They try to escape to the sides of the
->.cargo bay, but it's no use, the stones come down in a huge
->.avalanche crushing everything in their way, including the
-..cargo door which is ripped straight off.
-.\EXT. PLACE - NIGHT
->.It's a stunning sight as the plane is climbing on a 45
->.degree angle, with a trail of stones tumbling out of its
-..rear.
-.\ext. PLACE - night
-..SUPER: "THE MIDDLE OF THE ATLANTIC OCEAN - 04:00"
+>:But folks, it's now for plan B. I
+>:know we told you that the waterfall
+>:was closed due to Covidiocracy, but
+>:I just got a text that said we can
+>:go. You'll be the first group to
+>:visit the falls in the
+>:post-pandemic era! (A lie he's told
+>:and will keep telling for as long
+>:as it works and business picks up
+.:again).
+>.The relatively small group of 12 or 15 whoops and cheers,
+>.exchanging knowing glances of how special they are. Of
+>.course this would happen to *us* ... We are the people such
+>.things happen to, all the time. Look where we are, after
+>.all, while the rest of our loser friends are doing whatever
+..loser friends do instead of living the best life on Kaua'i
+.\ext. Lehua rock straight - night
+>.SUPER: "[lookup proper name of Lehua Rock STRAIGHT] -
+..0400hrs"
 >.A calm night, with the ocean almost still. Two fishermen are
-..smoking at the rear deck.
+..smoking weed at the rear deck.
 ._fisherman #1
->:Aye, it's nights like this that
->:make me remember why I love being a
->:fisherman. Nothing but you, the
->:boat, and the sea. Don't get any
-.:better than this.
+>:Everyone gets the AI they deserve.
+>:Be an asshole to the AI and AI is
+>:gonna' show you what an asshole is.
+>:Strive to become the best version
+>:of yourself, and AI will show you
+>:ways to surpass your wildest
+>:imaginings of what you thought you
+>:could accomplish in a single,
+.:brief, human life.
 ._FISHERMAN #2
->:I could use a bit more action,
-.:myself.
->.Suddenly, huge blocks of stone rain down on the boat,
-..smashing it to pieces.
+>:Is that why we haven't got so much
+>:as a single bite in four and a half
+.:days out here?
+._FISHERMAN #1
+>:Probably. Yup. Tell you what, you
+>:blame me and I'll blame you and
+>:that'll keep the score even, at
+.:least, how's that sound?
+._FISHERMAN #2
+.:Good enough for government work.
+>.Suddenly, both fisherman are simultaneously engaged by
+..activity at the long end of the fish line.
 .\INT. AIRPLANE - NIGHT
 >.Jason, Kevin and Sarah are standing in front of the
 >.emergency exit door, wearing parachutes, with a bright
