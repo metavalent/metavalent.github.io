@@ -1,7 +1,13 @@
 ---
-created: 2021-06-17T09:01:30-07:00
-modified: 2021-06-17T09:08:55-07:00
 title: Has the Military Created Real Potter Invisibility Cloak?
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2021-06-17T09:01:30-07:00
+modified: 2021-06-17T09:09:55-07:00
 ---
 
 > “Our products are being tested by some units, which I cannot name, and we have several mutual operations there,” Picciotto said.
