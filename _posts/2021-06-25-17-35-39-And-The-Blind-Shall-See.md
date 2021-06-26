@@ -1,9 +1,11 @@
 ---
+title: And The Blind Shall See
 created: 2021-06-25T17:35:39-10:00
-modified: 2021-06-25T17:43:57-10:00
-title: '## A blind man can perceive objects after a gene from algae was added to his eye'
+modified: 2021-06-25T17:52:32-10:00
 tags: metavalent
 ---
+
+### A blind man can perceive objects after a gene from algae was added to his eye
 
 > Researchers are trying to genetically reengineer people’s retinas to restore vision.
 
