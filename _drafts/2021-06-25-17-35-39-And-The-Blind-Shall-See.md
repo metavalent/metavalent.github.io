@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-06-25T17:35:39-10:00
-modified: 2021-06-25T17:40:28-10:00
+modified: 2021-06-25T17:41:00-10:00
 ---
 
-"A blind man can perceive objects after a gene from algae was added to his eyes."
+### A blind man can perceive objects after a gene from algae was added to his eyes
 
 > Researchers are trying to genetically reengineer people’s retinas to restore vision.
 
