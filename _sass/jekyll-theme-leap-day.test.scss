@@ -11,12 +11,13 @@ by Metavalent
 @import "rouge-base16-dark";
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif, "Segoe UI Emoji";
+  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif; /* try to get emojis to work */
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
-  padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  padding: 0px 0 20px 0px;
+  background: #efefe8;
+  /* background: url(../images/body-background.png) #eae6d1; // default */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -42,7 +43,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#666666;
+  color:#555555;
 }
 
 h3 {
@@ -58,7 +59,7 @@ a {
 
 a small {
   font-size:11px;
-  color:#666;
+  color:#555;
   margin-top:-0.6em;
   display:block;
 }
@@ -159,7 +160,8 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: #008080; /* mv teal */
+  /* background: url(../images/background.png) #4276b6; // default */
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -193,21 +195,28 @@ header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
-  border: 1px solid #f0b500;
-  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  background: #800080; /* mv purple */
+  /* background: #ffcc00; // default */
+  border: 2px solid #400080;
+  /* border: 1px solid #f0b500; // default */
+  box-shadow: 0px 5px 8px rgba(0,0,0,.25);
+  /* box-shadow: 0px 1px 3px rgba(0,0,0,.25); // default */
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+	border: #efefe8;
+    /* border: 1px solid #dba500; // default */
+	background: linear-gradient(rgb(239, 239, 232), rgb(239, 232, 168));
+    /* background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56)); // default */
     border-radius: 2px;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 3px rgba(0,0,0,.1);
+    /* box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1); // default */
+	background-color: #efefe8;
+    /* background-color: #FFE788; // default */
     margin-left: 5px;
     padding: 10px 12px;
-    margin-top: 11px; // increased for banner height due to search box
+    margin-top: 11px; /* increased for banner height due to search box */
     line-height:14px;
     font-size:14px;
     color:#333;
@@ -221,28 +230,42 @@ header {
     }
   }
 
-// Customize buttons & search div positioning
+/* Customize buttons & search div positioning */
 
   .home {
     position:fixed;
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
-    // margin-top: 6px; // inherit button class
+    /* margin-top: 6px; // inherit button class */
     line-height:14px;
     font-size:14px;
-    background-color: #FFE788;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
+  }
+
+  .shop {
+    position:fixed;
+    left:50%;
+    margin-left:-325px;
+    padding: 10px 12px;
+    /* margin-top: 6px; // inherit button class */
+    line-height:14px;
+    font-size:14px;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
   }
 
   .about {
     position:fixed;
     left:50%;
-    margin-left:-250px;
+    margin-left:-175px;
     padding: 10px 12px;
-    // margin-top: 6px; // inherit button class
+    /* margin-top: 6px; // inherit button class */
     line-height:14px;
     font-size:14px;
-    background-color: #FFE788;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
   }
   
   .search {
@@ -253,7 +276,8 @@ header {
     margin-top: 2px;
     line-height:14px;
     font-size: 14px;
-    background-color: #FFE788;
+	background-color: #800080;
+    /* background-color: #FFE788; // default */
   }
 
   .fork {
@@ -275,7 +299,8 @@ header {
       float:left;
       line-height:52px;
       font-size:90%;
-      color:#9d7f0d;
+	  color:#800080
+      /* color:#9d7f0d; // default */
       text-transform:uppercase;
       text-shadow:rgba(#fff, 0.2) 0 1px 0;
     }
@@ -292,7 +317,8 @@ header {
       display:inline;
 
       a.button {
-        background-color: #FFE788;
+		background-color: #efefe8;
+        /* background-color: #FFE788; // default */
       }
     }
   }
@@ -300,12 +326,11 @@ header {
   #logos {
     position: absolute; 
     height: 36px;
-    width: 77px;
-	padding: 5px
-    top: 11px; // adjusted for banner search-box height
+    width: 77px; /* room for second icon */
+    top: 11px; /* adjusted for banner search-box height */
     display: block; 
-	right: 5px;
-    // background: url(../images/octocat-logo.svg); // replaced with Patreon logo in default.html because didn't seem to work doing it here
+	right: 7px;
+    /* background: url(../images/octocat-logo.svg); // replaced with Patreon logo in default.html because didn't seem to work doing it here */
 	}
 }	
 /* End banner section */  
@@ -318,7 +343,8 @@ section {
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
-  border: 1px solid #cbcbcb;
+  border: 1px solid #800080;
+  /* border: 1px solid #cbcbcb; // default */
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
 }
 
@@ -343,9 +369,9 @@ nav {
     li {
       padding: 5px 0px;
       line-height: 16px;
-      // padding-right:17px;
-      // position:relative;
-      // right:-12px;
+      /* padding-right:17px; */
+      /* position:relative; */
+      /* right:-12px; */
 
       &.tag-h1 {
         font-size: 1.2em;
@@ -369,15 +395,17 @@ nav {
     }
 
     a {
-      color: #666;
+      color: #555;
 
       &:hover { color: #999; }
     }
 
-    // .active {
-    //   border-right:solid 4px #39C;
-    //   padding-right:13px;
-    // }
+/*    
+	.active {
+	  border-right:solid 4px #39C;
+	  padding-right:13px;
+     } 
+*/
   }
 }
 
@@ -430,7 +458,8 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #800080;
+	/* border:1px solid #e5e5e5; // default */
     border-width:1px 0;
     padding:20px auto;
     margin: 190px auto 20px;

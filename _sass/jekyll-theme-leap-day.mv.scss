@@ -244,10 +244,22 @@ header {
     /* background-color: #FFE788; // default */
   }
 
+  .shop {
+    position:fixed;
+    left:50%;
+    margin-left:-325px;
+    padding: 10px 12px;
+    /* margin-top: 6px; // inherit button class */
+    line-height:14px;
+    font-size:14px;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
+  }
+
   .about {
     position:fixed;
     left:50%;
-    margin-left:-250px;
+    margin-left:-175px;
     padding: 10px 12px;
     /* margin-top: 6px; // inherit button class */
     line-height:14px;
