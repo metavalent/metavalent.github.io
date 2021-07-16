@@ -336,7 +336,8 @@ header {
 /* End banner section */  
 
 section {
-  width: 590px;
+  /* width: 590px; //default */
+  width: 75%;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -353,7 +354,8 @@ small {
 }
 
 nav {
-  width: 230px;
+  /* width: 230px; //default */
+  width: 25%;
   position: fixed;
   top: 220px;
   left:50%;

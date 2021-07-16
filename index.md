@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 published: true
 title: We're Inquiring, Together
 categories: metavalent, book of true self
