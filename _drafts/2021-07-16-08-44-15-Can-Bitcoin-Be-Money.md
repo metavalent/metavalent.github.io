@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-07-16T08:44:15-10:00
-modified: 2021-07-16T08:56:43-10:00
+modified: 2021-07-16T08:59:47-10:00
 ---
 
-Someone recently asked me, "do you honestly think you can take on the most powerful people in the world, and replace the currency that makes them that powerful?"
+Someone recently asked, "do you honestly think you can take on the most powerful people in the world, and replace the currency that makes them that powerful?"
 
 No. Of course not. That would be grandiosity on an infinitely idiotic scale. What I observe is tens of millions, and ultimately billions of human beings who are tired of being ruled over by tyrants.
 
