@@ -259,7 +259,7 @@ header {
   .shopnow {
     position:fixed;
     left:50%;
-    margin-left:-175px;
+    margin-left:-174px;
     padding: 10px 12px;
     /* margin-top: 6px; // inherit button class */
     line-height:14px;
@@ -427,7 +427,8 @@ footer {
   }
 
   nav{
-    display: none;
+    /* display: none; */
+	display: inline;
   }
 
   header, section, footer {
@@ -571,7 +572,8 @@ footer {
 
 @media print, screen and (max-height: 480px) {
   nav {
-    display: none;
+    /* display: none; */
+	display: inline;
   }
 
   footer {
