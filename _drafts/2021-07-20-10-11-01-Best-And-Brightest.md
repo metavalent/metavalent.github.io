@@ -49,4 +49,3 @@ Bonus Video, "From Cro-Magnon Man to [Billionaire Man in Space](https://youtu.be
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ulTQcLFNiTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
