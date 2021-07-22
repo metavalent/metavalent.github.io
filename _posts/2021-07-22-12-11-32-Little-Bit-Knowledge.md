@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2021-07-22T12:11:32-07:00
-modified: 2021-07-22T12:23:44-07:00
+created: 2021-07-22T11:11:11-07:00
+modified: 2021-07-22T12:12:12-07:00
 ---
 
 ### Cybersecurity Students Present [Usable Privacy and Security](https://www.ischool.berkeley.edu/news/2021/cybersecurity-students-present-usable-privacy-and-security-research-rsa-conference) Research at RSA Conference
