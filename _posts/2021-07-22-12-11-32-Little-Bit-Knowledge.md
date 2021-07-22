@@ -1,5 +1,5 @@
 ---
-title: A Little Bit of Knowledge ...
+title: A Little Bit of Knowledge
 author: metavalent
 layout: post
 published: true
