@@ -78,7 +78,8 @@ collections:
 # try ignore theme to bypass errors
 ignore_theme_config: true
 
-theme: jekyll-theme-leap-day
+# try shorten name from jekyll-theme-leap-day
+theme: leap-day
 plugins:
   - jekyll-feed
   - jemoji
