@@ -78,8 +78,8 @@ collections:
 # try ignore theme to bypass errors
 ignore_theme_config: true
 
-# try shorten name from jekyll-theme-leap-day
-theme: leap-day
+# try shorten name to just leap-day caused line 8 error in default.html
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jemoji
