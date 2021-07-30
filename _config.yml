@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 # WEIRD BUILD ERROR
 #  did not find expected key while parsing a block mapping at line 21 column 1
-timezone: "Pacific/Honolulu"
+timezone: Pacific\/Honolulu
 future: false
 unpublished: false
 livereload: true
