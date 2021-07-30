@@ -20,10 +20,10 @@
 # WEIRD BUILD ERROR
 #  did not find expected key while parsing a block mapping at line 21 column 1
 # try disable first four lines
-# timezone: America/Vancouver
-# future: false
-# unpublished: false
-# livereload: true
+timezone: America/Vancouver
+future: false
+unpublished: false
+livereload: true
 title: Metavalent Stigmergy
 email: stigmergy+jekyll@metavalent.com
 description: >- # this means to ignore newlines until "baseurl:"
