@@ -80,10 +80,7 @@ ignore_theme_config: false
 
 # try shorten name to just leap-day caused line 8 error in default.html
 theme: jekyll-theme-leap-day
-plugins: 
- - jekyll-feed
- - jekyll-seo-tag
- - jemoji
+plugins: jekyll-feed jekyll-seo-tag jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -93,9 +90,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude: 
- - .sass-cache/
- - .jekyll-cache/
+ exclude: .sass-cache/ .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
