@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# timezone: Pacific/Honolulu
-# future: false
-# unpublished: false
+timezone: Pacific/Honolulu
+future: false
+unpublished: false
 livereload: true
 
 title: Metavalent Stigmergy
@@ -36,14 +36,14 @@ avatar: https://avatars.githubusercontent.com/u/5589526?s=200&v=4
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
+footer-links: 
+  dribbble: 
+  email: 
   facebook: facebook.com/metavalent
-  flickr:
+  flickr: 
   github: metavalent
   instagram: metavalent
-  linkedin:
+  linkedin: 
   medium: medium.com/@metavalent
   pinterest: 
   rss: rss # just type anything here for a working RSS icon
@@ -69,8 +69,8 @@ url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g
 twitter_username: metavalent
 github_username:  metavalent
 
-collections:
-  authors:
+collections: 
+  authors: 
 
 # Build settings
 #
@@ -80,10 +80,10 @@ ignore_theme_config: false
 
 # try shorten name to just leap-day caused line 8 error in default.html
 theme: jekyll-theme-leap-day
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
+plugins: 
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -93,9 +93,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude:
-   - .sass-cache/
-   - .jekyll-cache/
+ exclude: 
+ - .sass-cache/
+ - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
