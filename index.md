@@ -1,5 +1,4 @@
 ---
-layout: page
 ---
 
 ### What is Metavalent Stigmergy?
