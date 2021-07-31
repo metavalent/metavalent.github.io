@@ -51,3 +51,22 @@ google_analytics: G-F0ZPXJ7DXJ
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: metavalent-stigmergy
+
+# Includes an icon in the footer for each username you enter
+footer-links: 
+  dribbble: 
+  email: 
+  facebook: facebook.com/metavalent
+  flickr: 
+  github: metavalent
+  instagram: metavalent
+  linkedin: 
+  medium: medium.com/@metavalent
+  pinterest: 
+  rss: rss # just type anything here for a working RSS icon
+  twitter: metavalent
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  substack: metavalent.substack.com
+  youtube: channel/youtube.com/metavalent or user/metavalent # channel/<your_long_string> or user/<user-name>
+  googleplus: metavalent # anything in your profile username that comes after plus.google.com/
+  googlecurrents: https://currents.google.com/112148226472944801796
