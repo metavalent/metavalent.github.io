@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 published: true
 title: We're Inquiring Together
 author: metavalent
