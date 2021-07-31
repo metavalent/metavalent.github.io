@@ -5,7 +5,7 @@ title: We're Inquiring Together
 author: metavalent
 categories: metavalent, book of true self
 tags: home, metavalent
-permalink: /home/
+permalink: /
 created: 2021-03-03T11:11:11-11:00
 modified: 2021-07-30T13:13:13-10:00
 ---
