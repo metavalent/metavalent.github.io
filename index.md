@@ -1,7 +1,7 @@
 ---
 title: We're Inquiring, Together
 author: metavalent
-layout: default
+layout: page
 published: true
 comments: true
 categories: metavalent, book of true self
