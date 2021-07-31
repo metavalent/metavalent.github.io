@@ -1,3 +1,5 @@
 RewriteEngine on
+Redirect / /home/
 RewriteCond %{HTTP_HOST} ^metavalent.com
 RewriteRule ^$ /home/ [L]
+
