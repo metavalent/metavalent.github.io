@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 published: true
 title: We're Inquiring, Together
 categories: metavalent, book of true self
 tags: home
-created: 2021-03-03T12:00:00-10:00
-modified: 2021-07-15T16:01:16-10:00
+created: 2021-03-03T11:11:11-11:00
+modified: 2021-07-30T13:13:13-10:00
 ---
 
 ### What is Metavalent Stigmergy?
