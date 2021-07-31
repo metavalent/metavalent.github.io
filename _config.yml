@@ -80,6 +80,14 @@ footer-links:
 # Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely. Set to true to bypass.
 # ignore_theme_config: false
 
+# Default site theme and plugins
+theme: jekyll-theme-leap-day
+
+plugins: 
+   - jekyll-seo-tag
+   - jekyll-feed
+   - jemoji
+
 # default excludes
 exclude:
 - .sass-cache/
