@@ -2,11 +2,11 @@
 layout: page
 published: true
 title: We're Inquiring Together
-author: metavalent
+author: metavalent		   
 categories: metavalent, book of true self
 tags: home, metavalent
-permalink: /
-created: 2021-03-03T11:11:11-11:00
+permalink: /index/
+created: 2021-07-07T11:11:11-10:00
 modified: 2021-07-30T13:13:13-10:00
 ---
 
