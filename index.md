@@ -1,4 +1,6 @@
 ---
+layout: default
+published: true
 ---
 
 ### What is Metavalent Stigmergy?
