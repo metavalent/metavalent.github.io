@@ -1,8 +1,8 @@
 ---
 layout: page
 published: true
-title: We're Inquiring, Together
-author: metavalent
+title: We're Inquiring Together
+author: metavalent		   
 categories: metavalent, book of true self
 tags: about, metavalent
 permalink: /about/
