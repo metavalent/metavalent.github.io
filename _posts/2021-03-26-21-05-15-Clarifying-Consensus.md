@@ -15,7 +15,7 @@ modified: 2021-04-02T12:37:56-07:00
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.* Default Consensus Reality is simply a non-sectarian, non-denominational, expansive and inclusive secular bridge narrative toward a new heaven and a new earth.
 
-The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature and the universe work, are working, derived through the process of observing conditions on the planet for the past 60+ years, through many of the lenses provided by humanity's great wisdom, faith, scientific, and spiritual traditions. These observations have provided an overwhelming number of data points to observe and understand that *metavalent stigmergy* is the process by which people come to believe things in common, at scale, on a widespread basis.
+The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature and the universe work, derived via the process of first-person lived experience, observing ever-changing conditions on this planet for the past 60+ years, and further analyzing through the microscopic and macroscopic (Micro-Macro) lenses provided by humanity's great wisdom, faith, scientific, and spiritual traditions. These observations have provided an overwhelming number of data points to observe and understand that *metavalent stigmergy* is the process by which people come to believe things in common, at scale, on a widespread basis.
 
 ### Authentic Consensus
 
