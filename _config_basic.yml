@@ -38,3 +38,16 @@ url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g
 twitter_username: metavalent
 github_username:  metavalent
 
+#
+# Flags below are optional
+#
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# UA is deprecated by Google 4 Properties. Let's see if this works.
+# Code added to <head> of default.html didn't work.
+# Current test: new global site tag code added to /includes/analytics.html
+google_analytics: G-F0ZPXJ7DXJ
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: metavalent-stigmergy
