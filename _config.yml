@@ -74,3 +74,21 @@ footer-links:
   youtube: channel/youtube.com/metavalent or user/metavalent # channel/<your_long_string> or user/<user-name>
   googleplus: metavalent # anything in your profile username that comes after plus.google.com/
   googlecurrents: https://currents.google.com/112148226472944801796
+  
+  # Build settings
+#
+# Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely. Set to true to bypass.
+# ignore_theme_config: false
+
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

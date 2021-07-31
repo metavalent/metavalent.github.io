@@ -52,6 +52,9 @@ google_analytics: G-F0ZPXJ7DXJ
 # You can find your shortname on the Settings page of your Disqus account
 disqus: metavalent-stigmergy
 
+collections: 
+  authors: 
+
 # Includes an icon in the footer for each username you enter
 footer-links: 
   dribbble: 
@@ -71,13 +74,10 @@ footer-links:
   googleplus: metavalent # anything in your profile username that comes after plus.google.com/
   googlecurrents: https://currents.google.com/112148226472944801796
 
-collections: 
-  authors: 
-
 # Build settings
 #
 # Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely. Set to true to bypass.
-ignore_theme_config: false
+# ignore_theme_config: false
 
 # tried shorten name to just leap-day didn't work, it caused line 8 error in default.html
 
