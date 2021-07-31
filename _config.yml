@@ -52,6 +52,9 @@ google_analytics: G-F0ZPXJ7DXJ
 # You can find your shortname on the Settings page of your Disqus account
 disqus: metavalent-stigmergy
 
+collections: 
+  authors: 
+
 # Includes an icon in the footer for each username you enter
 footer-links: 
   dribbble: 

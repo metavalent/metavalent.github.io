@@ -71,19 +71,18 @@ footer-links:
   googleplus: metavalent # anything in your profile username that comes after plus.google.com/
   googlecurrents: https://currents.google.com/112148226472944801796
 
-
 collections: 
   authors: 
 
 # Build settings
 #
-# Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely.
-# try ignore theme to bypass errors
+# Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely. Set to true to bypass.
 ignore_theme_config: false
 
 # tried shorten name to just leap-day didn't work, it caused line 8 error in default.html
 
 theme: jekyll-theme-leap-day
+
 plugins: 
    - jekyll-seo-tag
    - jekyll-feed
@@ -98,13 +97,13 @@ plugins:
 # their entries' file path in the `include:` list.
 #
  exclude: 
-   - .sass-cache/
-   - .jekyll-cache/
+#  - .sass-cache/
+#  - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
-   - vendor/cache/
+#   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
