@@ -9,17 +9,17 @@ created: 2021-03-26T21:05:15-07:00
 modified: 2021-04-02T12:37:56-07:00
 ---
 
-> "There seems to be a bit of a minor communication error, here. Please stand by."
+> "There seems to be a bit of a minor communication error. Please stand by."
 
 > Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
-It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.*
+It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.* Default Consensus Reality is simply a non-sectarian, non-denominational, expansive and inclusive secular bridge narrative toward a new heaven and a new earth.
 
-The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature works, derived through the process of observing conditions on the planet for the past 60 years. These observations have provided us enough data points to see that *metavalent stigmergy* is the process by which people come to believe things in common, take things for granted, on a widespread basis.
+The fundamental principles explored in this site do not constitute any kind of a proactive program. These are observations. Observations of the way that nature and the universe work, are working, derived through the process of observing conditions on the planet for the past 60+ years, through many of the lenses provided by humanity's great wisdom, faith, scientific, and spiritual traditions. These observations have provided an overwhelming number of data points to observe and understand that *metavalent stigmergy* is the process by which people come to believe things in common, at scale, on a widespread basis.
 
 ### Authentic Consensus
 
-To be angry about or *against* the process of metavalent stigmergy is like being angry about, or against mitosis. There is nothing to be angry about, or against. Cells divide, and that's how biological life transpires. I suppose we could argue about that, but that would indeed be a very rare and peculiar argument, on planet Earth.
+To be angry about or *against* the process of metavalent stigmergy is like being angry about, or against mitosis, or gravity, or the words, "in the beginning." There is nothing to be angry about; to advocate for, or argue against. Cells divide, and that's how biological life transpires. Gravity keeps our bodies upon the surface of the Earth. "In the beginning," are the first three words of the most published book in history. I suppose we could argue about such things, but such arguments would indeed be a very rare and peculiar on this present planet Earth, because these three things facts are immutable to virtually all sound human minds in the year 2021.
 
 By definition, *authentic consensus* between fully informed conscious agents, cannot be coerced.
 
