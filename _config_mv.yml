@@ -1,0 +1,108 @@
+﻿# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+# WEIRD BUILD ERROR
+#  did not find expected key while parsing a block mapping at line 21 column 1
+# try disable first four lines
+timezone: America/Vancouver
+future: false
+unpublished: false
+livereload: true
+title: Metavalent Stigmergy
+email: stigmergy+jekyll@metavalent.com
+description: >- # this means to ignore newlines until "baseurl:"
+  How New Default Consensus Realities Instantiate
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars.githubusercontent.com/u/5589526?s=200&v=4
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links: 
+  dribbble: 
+  email: 
+  facebook: facebook.com/metavalent
+  flickr: 
+  github: metavalent
+  instagram: metavalent
+  linkedin: 
+  medium: medium.com/@metavalent
+  pinterest: 
+  rss: rss # just type anything here for a working RSS icon
+  twitter: metavalent
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  substack: metavalent.substack.com
+  youtube: channel/youtube.com/metavalent or user/metavalent # channel/<your_long_string> or user/<user-name>
+  googleplus: metavalent # anything in your profile username that comes after plus.google.com/
+  googlecurrents: https://currents.google.com/112148226472944801796
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: metavalent-stigmergy
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# UA is deprecated by Google 4 Properties. Let's see if this works.
+# Code added to <head> of default.html didn't work.
+# Current test: new global site tag code added to /includes/analytics.html
+google_analytics: G-F0ZPXJ7DXJ
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g. http://example.com/
+twitter_username: metavalent
+github_username:  metavalent
+
+collections: 
+  authors: 
+
+# Build settings
+#
+# Jekyll 4.0 started allowing themes to bundle a _config.yml to simplify theme-onboarding for new users. In the unfortunate situation that importing a bundled theme configuration messes up the merged site-configuration, the user can configure Jekyll to not import the theme-config entirely.
+# try ignore theme to bypass errors
+ignore_theme_config: false
+
+# tried shorten name to just leap-day didn't work, it caused line 8 error in default.html
+
+theme: jekyll-theme-leap-day
+plugins: 
+   - jekyll-seo-tag
+   - jekyll-feed
+   - jemoji
+    
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+ exclude: 
+   - .sass-cache/
+   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
