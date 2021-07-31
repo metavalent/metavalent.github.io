@@ -5,8 +5,17 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
+# !!! For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# !!! Also remember bundle update to update all bundles
+# !!! Also remember gem update to update all gems
+# 
+# Try if ridk borked
+# $ C:/Ruby27-x64/bin/ridk.cmd enable
+#
+# Try bundle clean --force
+# It removes every system gem not in this bundle
 #
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
@@ -17,6 +26,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#
 # WEIRD BUILD ERROR
 #  did not find expected key while parsing a block mapping at line 21 column 1
 # try disable first four lines
