@@ -217,7 +217,7 @@ nav {
   font-size: 18px;
 
   @include mobile {
-    float: right; // DEFAULT is none. Try to display nav on mobile browser.
+    float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
