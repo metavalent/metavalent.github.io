@@ -580,6 +580,11 @@ footer {
     display: none;
   }
 
+/* --  try enable banner on small screen -- default is no banner entry*/
+  #banner {
+    top: 80px;
+	}
+
   footer {
     text-align: center;
     margin: 20px auto;
