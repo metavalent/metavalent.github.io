@@ -524,11 +524,11 @@ footer {
   body {
   }
 
-  header{
+  header {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
-
+	
     h1 {
       font-size: 24px;
       white-space: nowrap;
@@ -568,10 +568,11 @@ footer {
 @media print, screen and (max-height: 680px) {
 
 /* -- display header -- default is no header entry */
-  header{
+  header {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
+  }
 
   footer {
     text-align: center;
@@ -589,7 +590,7 @@ footer {
   }
   
 /* -- display header -- default is no header entry */
-  header{
+  header {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
