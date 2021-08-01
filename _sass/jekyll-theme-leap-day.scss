@@ -567,6 +567,12 @@ footer {
 
 @media print, screen and (max-height: 680px) {
 
+/* -- display header -- default is no header entry */
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
+
   footer {
     text-align: center;
     margin: 20px auto;
@@ -580,6 +586,13 @@ footer {
 @media print, screen and (max-height: 480px) {
   nav {
     display: none;
+  }
+  
+/* -- display header -- default is no header entry */
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
   }
 
 /* --  try enable banner on small screen -- default is no banner entry*/
