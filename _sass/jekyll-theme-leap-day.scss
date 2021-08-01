@@ -506,7 +506,6 @@ footer {
       margin-left: 0px;
     position:fixed;
     left:20px;
-
       }
   }
 
@@ -542,11 +541,18 @@ footer {
   section {
     margin-top: 5px;
   }
-
+/* --  default banner
   #banner { display: none;}
   header ul {
     display:none;
   }
+*/
+
+/* --  try enable banner on small screen */
+  #banner {
+    top: 80px;
+	}
+
 }
 
 @media print {
