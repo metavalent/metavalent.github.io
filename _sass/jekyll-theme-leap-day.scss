@@ -191,7 +191,7 @@ header {
   z-index: 100;
   left:0;
   right:50%;
-  height: 60px;
+  height: 50px;
   margin-right:-382px;
   position: fixed;
   top: 115px;
@@ -528,7 +528,7 @@ footer {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
-	
+
     h1 {
       font-size: 24px;
       white-space: nowrap;
@@ -567,13 +567,6 @@ footer {
 
 @media print, screen and (max-height: 680px) {
 
-/* -- display header -- default is no header entry */
-  header {
-    position: relative;
-    padding: 5px 0px;
-    min-height: 0px;
-  }
-
   footer {
     text-align: center;
     margin: 20px auto;
@@ -588,22 +581,11 @@ footer {
   nav {
     display: none;
   }
-  
-/* -- display header -- default is no header entry */
-  header {
-    position: relative;
-    padding: 5px 0px;
-    min-height: 0px;
-  }
 
 /* --  try enable banner on small screen -- default is no banner entry*/
   #banner {
-    z-index: 100;
-    left:0;
-    right:50%;
-    height: 60px;
-    position: fixed;
-  }
+    width: 100%;
+	}
 
   footer {
     text-align: center;
