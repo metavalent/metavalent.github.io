@@ -541,18 +541,20 @@ footer {
   section {
     margin-top: 5px;
   }
-/* --  default banner
+
+/* --  try enable banner on small screen 
   #banner { display: none;}
   header ul {
     display:none;
   }
-*/
-
-/* --  try enable banner on small screen */
+-- */
   #banner {
-    width: 100%;
-	}
-
+    z-index: 100;
+    left:0;
+    right:50%;
+    height: 60px;
+    position: fixed;
+  }
 }
 
 @media print {
@@ -582,8 +584,12 @@ footer {
 
 /* --  try enable banner on small screen -- default is no banner entry*/
   #banner {
-    width: 100%;
-	}
+    z-index: 100;
+    left:0;
+    right:50%;
+    height: 60px;
+    position: fixed;
+  }
 
   footer {
     text-align: center;
