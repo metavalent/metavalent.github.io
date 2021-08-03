@@ -1,5 +1,5 @@
 ---
-title: SFI
+title: SFI Collective Computation Group
 author: metavalent
 layout: post
 published: true
@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-03T12:47:15-10:00
-modified: 2021-08-03T13:03:31-10:00
+modified: 2021-08-03T13:04:31-10:00
 ---
 
 "We work on how nature collectively computes solutions to problems & how these computations are refined in evolutionary and learning time."
