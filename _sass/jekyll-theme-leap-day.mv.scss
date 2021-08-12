@@ -244,10 +244,22 @@ header {
     /* background-color: #FFE788; // default */
   }
 
-  .about {
+  .meta {
     position:fixed;
     left:50%;
     margin-left:-250px;
+    padding: 10px 12px;
+    /* margin-top: 6px; // inherit button class */
+    line-height:14px;
+    font-size:14px;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
+  }
+
+  .shop {
+    position:fixed;
+    left:50%;
+    margin-left:-175px;
     padding: 10px 12px;
     /* margin-top: 6px; // inherit button class */
     line-height:14px;
@@ -287,7 +299,7 @@ header {
       float:left;
       line-height:52px;
       font-size:90%;
-	  color:#800080
+	  color:#800080;
       /* color:#9d7f0d; // default */
       text-transform:uppercase;
       text-shadow:rgba(#fff, 0.2) 0 1px 0;

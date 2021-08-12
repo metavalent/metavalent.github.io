@@ -1,0 +1,100 @@
+﻿# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# !!! For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# !!! Also remember bundle update to update all bundles
+# !!! Also remember gem update to update all gems
+# 
+# Try if ridk borked
+# $ C:/Ruby27-x64/bin/ridk.cmd enable
+#
+# Try bundle clean --force
+# It removes every system gem not in this bundle
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+#
+# WEIRD BUILD ERROR
+#  did not find expected key while parsing a block mapping at line 21 column 1
+# try disable first four lines
+
+timezone: America/Vancouver
+future: false
+unpublished: false
+livereload: true
+
+title: Metavalent Stigmergy
+email: stigmergy+jekyll@metavalent.com
+description: >- # this means to ignore newlines until "baseurl:"
+  How New Default Consensus Realities Instantiate
+lang: "en-US"
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars.githubusercontent.com/u/5589526?s=200&v=4
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g. http://example.com/
+twitter_username: metavalent
+github_username:  metavalent
+
+#
+# Flags below are optional
+#
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# UA is deprecated by Google 4 Properties. Let's see if this works.
+# Code added to <head> of default.html didn't work.
+# Current test: new global site tag code added to /includes/analytics.html
+google_analytics: G-F0ZPXJ7DXJ
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: metavalent-stigmergy
+
+collections: 
+  authors: 
+
+# Includes an icon in the footer for each username you enter
+footer-links: 
+  dribbble: 
+  email: 
+  facebook: facebook.com/metavalent
+  flickr: 
+  github: metavalent
+  instagram: metavalent
+  linkedin: 
+  medium: medium.com/@metavalent
+  pinterest: 
+  rss: rss # just type anything here for a working RSS icon
+  twitter: metavalent
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  substack: metavalent.substack.com
+  youtube: channel/youtube.com/metavalent or user/metavalent # channel/<your_long_string> or user/<user-name>
+  googleplus: metavalent # anything in your profile username that comes after plus.google.com/
+  googlecurrents: https://currents.google.com/112148226472944801796
+
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
