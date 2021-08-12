@@ -7,14 +7,14 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-12T11:15:54-10:00
-modified: 2021-08-12T11:41:31-10:00
+modified: 2021-08-12T11:42:55-10:00
 ---
 
 Be like ...
 
 > Job: "to pervert public service to private advantage" ([Online Etymology Dictionary](https://www.etymonline.com/word/Job)).
 
-> -Ism: "a distinctive doctrine, theory, system, or practice" ([](Dictionary.com)). In common practice, to make a religion out of a concept or activity.
+> -Ism: "a distinctive doctrine, theory, system, or practice" ([Dictionary.com](https://www.dictionary.com/browse/ism)). In common practice, to make a religion out of a concept or activity.
 
 ![Image](/assets/images/image_picker8933004413615503077.png)
 
