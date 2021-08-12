@@ -1,13 +1,8 @@
 ---
-title: Etymology of Jobism
-author: metavalent
-layout: post
-published: true
-comments: true
-categories: metavalent
-tags: metavalent
 created: 2021-08-12T11:15:54-10:00
-modified: 2021-08-12T11:33:31-10:00
+modified: 2021-08-12T11:35:40-10:00
+title: Etymology of Jobism
+tags: metavalent
 ---
 
 Be like ...
@@ -15,6 +10,12 @@ Be like ...
 > Job: "to pervert public service to private advantage."
 
 > -Ism: "a distinctive doctrine, theory, system, or practice." In common practice, to make a religion out of a concept or activity.
+
+![Image](/assets/images/image_picker8933004413615503077.png)
+
+![Image](/assets/images/image_picker883989396170180279.png)
+
+![Image](/assets/images/image_picker1278605232272730192.png)
 
 Sounds pono, yeah? Or, maybe not so much? As always, do your own homework and don't measure an onion by it's first thin outer layer of skin, right?
 
