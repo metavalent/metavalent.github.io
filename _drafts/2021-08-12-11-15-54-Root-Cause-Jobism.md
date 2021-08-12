@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-12T11:15:54-10:00
-modified: 2021-08-12T11:32:11-10:00
+modified: 2021-08-12T11:33:31-10:00
 ---
 
 Be like ...
@@ -16,10 +16,9 @@ Be like ...
 
 > -Ism: "a distinctive doctrine, theory, system, or practice." In common practice, to make a religion out of a concept or activity.
 
-Sounds pono, yeah? Or, maybe not so much? As always, do your own homework and don't measure an onion by it's first thin outer layer of skin.
+Sounds pono, yeah? Or, maybe not so much? As always, do your own homework and don't measure an onion by it's first thin outer layer of skin, right?
 
-"Get a job you f-in slob was the reply ..."
-
+> "Get a job you f-in slob was the reply ..."
 
 Watch [Everlast - What it's Like (Music Video)](https://youtu.be/qA1nGPM9yHA) if the embed below does not behave nicely. 
 
