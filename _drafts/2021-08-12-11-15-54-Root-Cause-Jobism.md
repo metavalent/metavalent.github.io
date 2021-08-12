@@ -7,14 +7,14 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-12T11:15:54-10:00
-modified: 2021-08-12T11:26:57-10:00
+modified: 2021-08-12T11:29:27-10:00
 ---
 
 Be like ...
 
 > Job: "to pervert public service to private advantage."
 
-> -Ism: to make a religion out of a concept or activity.
+> -Ism: "a distinctive doctrine, theory, system, or practice." In common practice, to make a religion out of a concept or activity.
 
 Sounds pono, yeah? Or, maybe not so much? As always, do your own homework and don't measure an onion by it's first thin outer layer of skin.
 
