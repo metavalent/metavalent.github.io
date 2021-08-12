@@ -1,8 +1,13 @@
 ---
-created: 2021-08-12T11:15:54-10:00
-modified: 2021-08-12T11:35:40-10:00
 title: Etymology of Jobism
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
 tags: metavalent
+created: 2021-08-12T11:15:54-10:00
+modified: 2021-08-12T11:38:43-10:00
 ---
 
 Be like ...
