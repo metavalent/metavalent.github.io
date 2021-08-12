@@ -6,7 +6,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-12T08:27:33-10:00
-modified: 2021-08-12T08:33:26-10:00
+modified: 2021-08-12T08:58:25-10:00
 ---
 
 But peacemakers are the naïve, arrogant, recalcitrant ones? Yeah, maybe nahhh.
@@ -15,7 +15,7 @@ But peacemakers are the naïve, arrogant, recalcitrant ones? Yeah, maybe nahhh.
 
 > "I don't know what they're talking about (in Time magazine) but that's not what's happening here.”
 
-Today, we have social media, which is a much more rapid feedback loop of rear-battalion spin versus frontline reality. Hence, increasing crackdowns and gaslighting on citizen-journalism?
+Today, we have social media, which is a much more rapid feedback loop of rear-battalion spin versus frontline reality. Hence, increasing crackdowns and gaslighting on frontline citizen-journalism?
 
 Watch [Magnificent Storyteller Soldier Reveals What He Saw In Vietnam](https://youtu.be/tixOyiR8B-8) if the embed below does not behave nicely. 
 
