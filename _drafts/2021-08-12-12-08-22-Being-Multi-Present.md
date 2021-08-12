@@ -7,12 +7,12 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-08-12T12:08:22-10:00
-modified: 2021-08-12T12:45:55-10:00
+modified: 2021-08-12T12:46:41-10:00
 ---
 
 Students familiar with [attendance tracking devices](https://trackimo.com/tracking-students-location/) are teaching themselves how to be multiple places at once.
 
-Maybe think of it as a kind of digital [Multiplicity](https://youtu.be/1BvbvYnzSbg) from the 1996 film based on a Chris Miller short story and screen play, featuring Michael Keaton. Thanks to [my wife's boyfriend](https://www.youtube.com/watch?v=VnjwsxJLQEo) (not sure which one) for the video.
+Maybe think of it as a kind of digital [Multiplicity](https://youtu.be/1BvbvYnzSbg) from the 1996 film based on a Chris Miller short story and screen play, featuring Michael Keaton. Thanks to [my wife's boyfriend](https://m.youtube.com/channel/UCb28VOZmbk7ykyJjhfUy_sA) (not sure which one) for the video.
 
 Or, think of it as a kind of Hogwarts Sorting Cap to identify the most promising student says those Who find a way out of the little micro Matrix.
 
