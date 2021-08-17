@@ -1,9 +1,11 @@
 ---
 title: On Sexless Marriage
 created: 2021-08-17T07:43:39-10:00
-modified: 2021-08-17T07:46:53-10:00
+modified: 2021-08-17T07:51:22-10:00
 ---
 
 Among other vitally important and largely unspeakable realities.
+
+> People are more likely to die from *loneliness* than diabetes or excessive alcohol use.
 
 https://youtu.be/LVgzOyHVcj4
