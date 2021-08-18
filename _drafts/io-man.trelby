@@ -33,8 +33,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:136
-Cursor/Column:8
+Cursor/Line:260
+Cursor/Column:2
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -295,112 +295,155 @@ Words/14:zzzz
 >.that he is typing this very sentence you are reading, right
 ..now.
 .\Ext. Radio station - day
->.Unfinished dirt and gravel floor under a 20 sq.ft. patio
->.roof. A senior-aged Hawaiian man sits alone at a 4 foot
->.diameter wooden table, surrounded by six additional outdoor
->.deck chairs, unsuitable for moving close to the table to
->.share meals, this is a hang-out with well-weathered wooden
-..frame furniture with years-faded orange pads.
-._HI
+>.Unfinished, well-trampled dirt and gravel floor under a 20
+>.sq.ft. patio roof. A golden-hued, senior-aged Hawaiian man,
+>.radiantly smiling, working on repairs to a sturdy, well-used
+>.grass-woven basket, sits alone at a 4 foot diameter wooden
+>.table, surrounded by six additional outdoor deck chairs, the
+>.kind unsuitable for moving close to the table to share
+>.meals; this is an outdoor green room and hang-out place,
+>.adorned with well-weathered wooden frame furniture and
+..years-faded orange pads.
+._Hawaiian
 >:Brah! I was just tinkin' call you!
 .:What the heck you been up to?
-._BRAH
+._Haole
 >:Ah, you know, tryna stay out of
->:trouble but somehow always out of
+>:trouble, but somehow always out of
 >:the frying pan and into the fire,
-.:right.
-._HI
+.:right?
+._Hawaiian
 >:(Good-natured high-pitched giggle)
 >:You got that right! You know, they
 >:kicked everyone out again, down at
->:the pond last week. Makes no sense,
-.:as usual.
-._BRAH
+>:the pond ... last week. Makes no
+.:sense, as usual.
+._Haole
 .:As usual.
->\Ext. HALE (A tradtional hawaiian Palm-thatched shelter) -
-.\pre-dawn
->%SUPER: "Island of Moloka'i - Middle of the Pacific
-.%Ocean"
->.A small one-person tent on the sand under the hale,
-..surrounded by 8 dogs sleeping, 10 meters from the water.
->.The sound of gentle waves lapping against lava stones that
->.form a loko'ia, a traditional Hawaiian fish pond, which we
->.zoom out to see beyond the hale. It's a dog's hale, some of
->.the dogs are huddled in pairs, others have dug their nightly
-..dens into the sand.
->.It's clear that if the tent is inhabited, the inhabitant is
-..sentenced to sleeping with the dogs.
->.A very faint light can be seen moving around the tent
->.surface; it's pre-dawn, so not very detectable, but the
-..sleeper is awakened.
->.The zipper of the tent door is slowly and quietly opening,
->.so as not to rouse the dogs. As the zippered door droops, we
-..don't yet see who's emerging.
+>\Ext. moloka'I HALE (A traditional hawaiian Palm-thatched
+.\shelter w/o walls) - Early-dawn
+.=SUPER: Island of Moloka'i - Middle of the Pacific Ocean
+>.Gentle lapping sound of a calm ocean. Beyond the hale, a
+>.deer carcass hangs from its rear legs, head dangling a few
+>.feet above the volcanic rock piles that line this section of
+>.the 500 yard wide bay, the result of this morning's daily 2
+>.AM routine: sitting quietly in the forest, just a half mile
+>.or so upland of where the deer now hangs, at the north end
+>.of the beach-front homestead, in prayer and thanksgiving for
+..the abundance of nature and ke akua's provision.
+>.500 feet out, away from shore, a volcanic rock wall forms
+>.the outer barrier of a loko'ia, an ancient traditional
+>.Hawaiian fish pond. To our right, several 10 to 20 foot
+>.sections of sandy beach grant access to the pond, demarcated
+..by longer sections of black volcanic rock.
+>.Now, we discover a small one-person tent sits on the sand
+>.under the hale, some 30 feet from the shoreline. The ten is
+>.surrounded by 8 hunting dogs of various breeds, each
+>.sleeping in individual sandy dens, dug 12 to 18 inches deep,
+>.custom-fitted to each occupant for maximum comfort after a
+..demanding morning hunt.
+>.A slightly more animated splashing sound of waves lapping
+>.against the lava stones that form the loko'ia increases as
+>.we take in more of the view. It's a dog's hale, and the tent
+>.is only a guest in thier home. There are more dogs, 12 or
+..15. Some of the dogs are huddled in paired dens, as well.
+>.It's clear that if the single-person pup tent is inhabited,
+..the inhabitant is literally sleeping with dogs.
+>.On the exterior tent surface, a very faint light can be seen
+>.moving around inside, barely visible in the early dawn; the
+..sleeper is certainly awakened.
+>.The zipper of the tent door opens slowly and quietly, so as
+>.not to rouse the dogs. As the zippered door droops open,
+>.feet and legs emerge, hands reach for the plastic grocery
+>.bag sitting just outside, extracting a pair of boots,
+>.dusting sand from feet on the makeshift cardboard porch, and
+..pulling on far-nicer-than-expected woolen sock.
 .\INt. UPscale maui condo - dawn
->.A woman is doing yoga on a mat. Her room looks like a
->.crystal sanctuary. Looking out the dramatic arched window we
->.see a fairytale-like fairy-pond, just a few feet away.
-..Further out on the horizon is the Pacific Ocean.
-..This is paradise.
-..LATER
+>.SAARINA, a shapely and fit middle-aged woman is doing light
+>.yoga on a mat. The room is a simple flower and crystal
+>.sanctuary. Looking out of a dramatic, picturesque, 12 foot
+>.high arched window, we see a fairytale-like fairy-pond, just
+>.a few feet outside. Further out on the horizon, a teal and
+..slate blue Pacific Ocean.
+..Paradise.
+./a short time LATER
 >.The woman is driving through "tree tunnels" on the way to
 >."work." She makes the final turn off the 2-lane major
-..highway onto a dirt rode. The sign reads, "Rancho Paradiso."
-.\EXt. The Hale - dawn
+>.highway onto a dirt rode. The sign reads, "Rancho Paradiso."
+>.The expression on her weathered and glowing, slightly tanned
+>.face portrays anything but the experience of someone going
+..off to a daily grind.
+.\EXt. moloka'I Hale - dawn
 >.The tent door flap drops down and a man twice the age that
->.we might have expected, emerges. 60, gray, fit, MIREK,
->.obviously focused on his objective for the day, crawls out
->.quietly, respectfully, to not wake anyone else in the tiny
->.kauhale, cluster of simple dwellings, one of which is a
-..barely-coverted shipping container.
-._MIREK
+>.we might have expected, emerges. 60, graying, fit, ED moves
+>.like a man intently and quietly focused upon his objective
+>.for the day; crawling out quietly, respectfully, so as to
+>.not wake anyone else in the tiny kauhale (the cluster of
+>.simple dwellings we now notice beyond the hale) one of which
+>.is a barely-coverted shipping container; it's a shipping
+>.container with a few unfinished, cutting-torch-carved
+>.openings as doors; no sharp edges, but raggedy smooth edge
+..of previously molten steel.
+._ED
 .((whispering)
 .:Shhh ... Good boy.
->.The two dogs that had raised their heads in response to his
-..activity, lay back down with a sigh.
->.MIREK brushes sand of the cardboard porch and kneels down,
->.reaches into the tent for his backpack, and quietly zips the
-..door closed.
+>.The two dogs nearest that had raised their heads in response
+>.to his activity, lay back down with a knowing sigh of
+..recogition. ED is a member of our pack, all is well.
+>.ED brushes sand off the cardboard porch and kneels down,
+>.reaching back into the tent for a  backpack, and quietly
+..zips the door closed behind him.
 >.A rusted and duct-taped 21-speed bicycle leans against the
->.peeled-tree beam that is one corner of the hale. It looks
->.ugly (so no one would care to steal it)  and is in perfect
-..mechanical condition.
->.MIREK quietly and cautiously weaves his way between the
->.narrow passage between several clumps of sleeping dogs, past
->.coconut trees, hibuscus bushes, and past two people still
->.sleeping, burrowed in sleeping bags upon cots under the open
-..sky. 
->.At the narrow 1.5 lane road, he slings the backpack onto his
->.back and pedals away, breathing in the deep prana of dense,
->.dry-side of the island vegetation on his right, the sleeping
-..camp to his left; the ocean, 50 meters beyond that.
+>.peeled-tree beam that supports one corner of the hale roof.
+>.The bike looks almost unusably rusted and weathered, yet is
+..in perfectly maintained mechanical condition.
+>.ED quietly and cautiously weaves his way between the narrow
+>.passages between the several clumps of sleeping dogs, past
+>.coconut trees, the understated beauty of dimly-lit hibuscus
+>.bushes, and past two other people still sleeping on cots,
+>.burrowed deep into sleeping bags under the open sky. (Did it
+>.rain on them last night? He ponders, and quietly wheels the
+>.bike just beyond the camp to the single-lane strip of
+..asphalt that passes for a main road.
+>.ED slings the backpack onto his back, slowly pedaling away,
+>.breathing in the deep prana of dense, dry-side-of-the-island
+>.vegetation on his right (mauka, the upland side of the road)
+>.the sleeping camp to his left (makai, seashore side of the
+..road); the majestic Pacific Ocean, 50 feet further.
+..Paradise.
 .\int. Ranch office - morning
->.KAARINA, fit, attractive, and clearly in charge, is in her
->.early fifties. JASON enters, followed by SIRAH, both in
->.thier late twenties / early thirties and stunningly
->.beautiful. They lower the shade on the windowed door, now
-..closed behind them.
+>.SAARINA, clearly in charge, swivels on her chair greeting
+>.JASON, who enters closely followed by SIRAH, both in thier
+>.late twenties / early thirties and joyfully easy on the
+>.eyes. The two reach almost simultaneously to lower the shade
+..on the windowed door, now closed behind them.
 ._JASON
 .:How long till the drop-off?
-._kAARINA
+._SAARINA
 >:About an hour, depending on rain,
 .:yeah?
 ._JASON
->:No worries. I'll go entertain the
-.:tourists.
-._KAARINA
->:Sounds good. Oh, and don't lower
->:the shade like that next time, it's
->:too obvious. Always act normal.
->:That's the key to this business, or
->:you won't last long around here.
-.:Capiche?
+.((sardonically)
+.: 
+>:No worries. I'll go entertain our
+.:"valued guests" 
+._SAARINA
+.:Sounds good.
+|(
+>((friendly, yet
+.(emphatically commanding)
+.:
+>:Oh, and don't lower the shade like
+>:that next time, it's too obvious.
+>:Always act normal. That's the key
+>:to this business, or you won't last
+.:long around here. Capiche?
 ._Sirah
->((intercepting Jason's
-.(irritation)
+>((intercepting JASON's
+.(visible irritation)
 .:No problem. You got it.
 .\INT. Hawaiian airlines flight - NIGHT
-..SUPER: "LAST NIGHT"
+.=SUPER: LAST NIGHT
 >.The dozen people in first class seating are all reclined and
 >.sleeping, except for KULIA, perfectly coiffed, focused on
 ..her laptop.
