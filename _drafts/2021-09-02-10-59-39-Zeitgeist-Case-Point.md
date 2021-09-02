@@ -7,12 +7,12 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-02T10:59:39-10:00
-modified: 2021-09-02T11:06:40-10:00
+modified: 2021-09-02T11:23:55-10:00
 ---
 
-Beyond the -Ism Schisms.
+Beyond the -ism schisms ... and why, potentially, neither politics nor economics are the correct abstraction layers to work within, when it comes to the objective of cultivating conditions for a world that works for everyone.
 
-How a "far fetched" 2009 exploratory film became the thesis of a default consensus global conversation about systems, systems thinking, and the individual's role therein.
+Also demonstrates how a "far fetched" 2009 exploratory film became the thesis of a default consensus global conversation about systems, systems thinking, and the individual's role therein.
 
 Watch [The Zeitgeist of this Moment: Marianne Williamson with author Peter Joseph"
 ](https://youtu.be/DacbQDV3o-s) if the embed below does not behave nicely. 
