@@ -7,22 +7,22 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-10T17:49:52-10:00
-modified: 2021-09-10T18:18:12-10:00
+modified: 2021-09-10T18:25:09-10:00
 ---
 
-Are these the clunky, crude, and basically dumb Pavlovian mechanics of generative Metavalent Stigmergy? Are these the tools engineering the very seeds of perceived realities?
+Are these the clunky, crude, and basically dumb Pavlovian mechanics of generative Metavalent Stigmergy? Are these tools and techniques for engineering the very seeds of perceived realities?
 
-If are finally learning about such tools publicly, today, how long have such tools and techniques actually been deployed and in common use?
+If we are finally learning about such tools and techniques publicly, today, how long have they actually been deployed and in common use in military and other contexts?
 
 Ethical Non-negotiables, FTP: Recognize and honor *intrinsic* inalienable individual agency and maximize depth and breadth of fully informed consent.
 
----
+### On the Upside
 
-Turns out the local narrator – the internal critic, ambivalent asshole, or internal coach and encourager – is only one of infinite possible narrators and narrations.
+In terms of the potential for positive, self-directed, individual transformation, turns out the local narrator – from the quintessential infernal inner critic, incessant self-incriminating ambivalent asshole; the hard-driving drill sergeant, or uplifting internal coach and encourager – these are only a few of infinite possible internal narrators of our moment to moment experience.
 
-Awesome. *That* only took 25 years.
+"We have to change the *valence* of that statement (which defines our historic understanding of immutable default consensus reality)." — Moran Cerf
 
-"We have to change the valence of that statement (which defines our historic understanding of immutable default consensus reality)." — Moran Cerf
+Of course we do. How could it be any other way?
 
 Watch ["How to Bend Reality to Your Will and Become Unstoppable – Moran Cerf on Impact Theory"](https://youtu.be/PE0TedFPgH8) if the embed below does not behave nicely. 
 
