@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-10T17:49:52-10:00
-modified: 2021-09-10T20:40:35-10:00
+modified: 2021-09-10T20:44:21-10:00
 ---
 
 Are these the clunky, crude, and basically dumb Pavlovian mechanics of generative Metavalent Stigmergy? Are these tools and techniques for engineering the very seeds of perceived realities?
@@ -46,7 +46,7 @@ Watch ["Revelation & Awakening: Conscious Intentionality and Manifestation"](htt
 
 The scientific evidentiary burden of proof to call "*woo*" is now on you, dearest objecting objectivist friend. All you have to do is bring out the *Observer* and their Effect, describe The Observer's nature and characteristics by reproducible means, and easily reclaim the metavalence of a bygone 20th century weltanschaaung, right?
 
-### Or have entirely lost the capacity to listen, in any meaningful way, to anything we've not already pre-authenticated and pre-decided?
+### Or have we entirely lost the capacity to listen, in any meaningful way, to anything we've not already pre-authenticated and pre-decided?
 
 Watch [What does it mean to listen? – Krishnamurti](https://youtu.be/Tayq31Qc7Ws) if the embed below does not behave nicely.
 
