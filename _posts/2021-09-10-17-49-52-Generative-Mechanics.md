@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-10T17:49:52-10:00
-modified: 2021-09-10T18:34:20-10:00
+modified: 2021-09-10T18:39:08-10:00
 ---
 
 Are these the clunky, crude, and basically dumb Pavlovian mechanics of generative Metavalent Stigmergy? Are these tools and techniques for engineering the very seeds of perceived realities?
@@ -32,7 +32,7 @@ Watch ["How to Bend Reality to Your Will and Become Unstoppable – Moran Cerf o
 
 ### Hey, Meta Micro-Macro Pattern Recognizers!
 
-To what extent is this *essentially* the same teaching?
+To what extent is this *essentially* the same teaching, if at all?
 
 Watch ["Pure Perception: Ziji Rinpoche"](https://youtu.be/qu7K38_MwaM) if the embed below does not behave nicely. 
 
