@@ -1,5 +1,5 @@
 ---
-title: The Generative Mechanics of Induced Metavalent Stigmergy
+title: Generative Mechanics of Metavalent Stigmergy?
 author: metavalent
 layout: post
 published: true
@@ -7,10 +7,16 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-10T17:49:52-10:00
-modified: 2021-09-10T18:06:49-10:00
+modified: 2021-09-10T18:18:12-10:00
 ---
 
-The clunky, crude, and basically dumb Pavlovian mechanics of Metavalent Stigmergy.
+Are these the clunky, crude, and basically dumb Pavlovian mechanics of generative Metavalent Stigmergy? Are these the tools engineering the very seeds of perceived realities?
+
+If are finally learning about such tools publicly, today, how long have such tools and techniques actually been deployed and in common use?
+
+Ethical Non-negotiables, FTP: Recognize and honor *intrinsic* inalienable individual agency and maximize depth and breadth of fully informed consent.
+
+---
 
 Turns out the local narrator – the internal critic, ambivalent asshole, or internal coach and encourager – is only one of infinite possible narrators and narrations.
 
