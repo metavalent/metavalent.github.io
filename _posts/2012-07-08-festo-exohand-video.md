@@ -1,0 +1,10 @@
+---
+layout: post
+title: Festo ExoHand (video)
+date: 2012-07-08 16:27
+author: metavalent
+comments: true
+categories: [metavalent]
+---
+
+Exo-hand. Extended cognition and embodiment is one way that we will work on Mars, from Earth, even with up to 16 minute radio signal delay. This video also nicely illustrates the awkwardness that substrate independent minds will encounter in various prosthetic configurations. Patience and perseverance won't just be noble character traits, they will be among the most essential characteristics for long term post human adaptation and survival.

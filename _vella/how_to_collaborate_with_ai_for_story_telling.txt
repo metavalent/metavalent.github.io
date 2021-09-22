@@ -1,0 +1,63 @@
+How To Collaborate With Ai For Story Telling
+
+    
+Its designers write the novels, disassemble and reassemble AI for map purposes, and AI contributes 20% of the work. The immediate results seem to correspond roughly to what we would expect from a film. The creative dynamism and the progress bar seem virtuous and balanced. The progress bar: The AI writes dialogues for a character that is itself a form of AI. [Sources: 0] 
+    
+The following questions are still to be answered. Working with machines today makes it possible to erase the imperfections of machine histories. It becomes difficult to distinguish a film from a human screenplay. KI's contribution paves the way for human creators to find inspiration in machines, not only in defining the personality of machine characters, but also in better structuring machine histories. Cooperation goes as far as possible. [Sources: 0] 
+    
+You don't have to employ an AI system to create the perfect story for every audience and every situation. AI and humans are the perfect co-creators. An AI system can help you tell more stories yourself. [Sources: 2] 
+    
+The actual branding strategy and direction of a company's history is a human activity. It is an activity that AI alone cannot accomplish. But it can help in the difficult task of implementing the brand history. [Sources: 2] 
+    
+Some systems exist to uncover topics and themes that are important to your audience. Others exist to help you optimize the stories you tell the audience and share them on a larger scale. Once you have a few use cases for artificial intelligence, you can start testing them in your company. They will get a better sense of how AI and humans work together to tell stories. But there will be agreement that adoption will not be easy. [Sources: 2] 
+    
+The Next Generation of Storytelling with AI and Language, a one-day event in Manchester, aims to demystify artificial intelligence and give creative practitioners inspiration and insights into how it can be used, with an emphasis on the interface between language and AI. The event brings together speakers from the US, Canada and the UK, as well as an audience of theatre makers, musicians, writers and AI practitioners. [Sources: 3] 
+    
+For film director Pietro Gagliano, deep production, virtual reality and technology behind the scenes push the boundaries of AI. In its story about creatures living on an imaginary planet, the audience tends to watch games. For technology companies and artists, their use of technology is an idea, an enormous issue that must be understood by a small group parallel to the past. But this is also a very human endeavour. [Sources: 3] 
+    
+No amount of money or machine learning can replace the artistic nuances of Neil Gaiman, Stephen King or Pier Anthony. Big Tech is not working on the same thing as Fable or any of the other companies involved in creating virtual beings. The difference between servant AI and chat bots is that AI is virtual and is based on character telling. [Sources: 6] 
+    
+The public tends to confuse science fiction notions of artificial intelligence with reality. The main problem with this, in my opinion, is that artificial intelligence, when it appears in science fiction, is often a substitute for working-class work. [Sources: 3] 
+    
+Automatic storytelling is generally a challenging task from a research perspective. It requires that the AI system not only speaks good, correct English sentences, but that these sentences are put together to form a coherent story. The generated story must be consistent, i.e. [Sources: 5] 
+    
+In our work, we want to have more control over the regeneration process of the store in order to get the human user out of the cycle. When the user tells the system that he wants to see something specific happen in history, the system generates the story one sentence at a time. [Sources: 5] 
+    
+We have a team of immersive storytellers who work on aspects of the story, and other teams of machine learning experts who build the characters. They have an AI team working on their legs, one on their arms, another on their hands, another on their facial expressions and so on. The point is that the paradigm of virtual beings exists in digital media and the AI that drives them can adapt to any situation. [Sources: 6] 
+    
+Just as directors can integrate motion capture into their work, writers and storyboarders can use machines to harness AI skills to sharpen stories and amplify emotional pull. Our next article in this series will examine how a story predicts emotional arcs, the speed, breadth and depth of its discussion on Twitter. For more information on emotional arcs, visit MIT's Story Learning Project page, on which Eric Chu's thesis is based. [Sources: 4] 
+    
+Before we get into research, let's talk about emotional arcs. Master storytellers such as Sendak, Spielberg, Proust and Pixar know how to elicit our emotions. Instinctively reading our pulses, they tune their stories to evoke joy, sadness and anger at crucial moments. [Sources: 4] 
+    
+The story of the family in The Family that Stands (shown in red in Annex 2) has a negative ending. The story ends somber, but it leaves an impression on the viewer. In one analysis, the story follows a pattern of ascent and fall, in which the characters first attain success and happiness, but then steadily lose their bad luck. [Sources: 4] 
+    
+One of the areas of research Chaturvedi and his team are working on is the challenge of helping machines find the best ending to a story. What is important in a story is the changes in the relationships between the different characters that make the story interesting, says Chaturvingi. When you think about it, human relationships do not remain constant; they change over time. For example, the people you have been friends with since you were seven years old are different from the people you are now friends with. [Sources: 5] 
+    
+It works because it's clever in a way, but because she can't wait to shake her hand, it's a useless technique for unwritten interactions. A clever storyteller is running out of ways to make it look like you're interacting. [Sources: 6] 
+    
+The company's solution is groundbreaking for writers who write stories, Gadney said. The emotional connection with the audience and the feeling of being a character is stronger than in traditional media, he said, adding that the primary goal of the platform is the feeling of the player to be in the story. To reach this market, Gadney said, charisma.ai has been at several conferences and in the BBC's Writer Room. He said session times had reached an hour. [Sources: 1] 
+    
+Guy has worked at the interface of media and technology for over 20 years, first as digital director at Penguin Books in the UK and then at the BBC and The Guardian before founding his first games company to develop multiplayer games. He has also produced the official mobile game of Sherlock Home and other television series around the world. Today, he is co-founder and CEO of the technology company Charismatic.ai, which produces a new form of immersive stories powered by artificial intelligence. [Sources: 1] 
+    
+
+
+
+
+
+Sources:
+    
+[0]: https://cmf-fmc.ca/now-next/articles/storytelling-ai-how-artificial-intelligence-feeds-creativity/
+    
+[1]: https://www.aitrends.com/emerging-ai-technologies/ai-storytelling-companies-usher-in-new-era-of-characters-relationships/
+    
+[2]: https://www.meetcortex.com/blog/how-ai-and-storytelling-are-the-ultimate-co-creators
+    
+[3]: https://www.thespace.org/resource/artificial-intelligence-and-next-generation-storytelling
+    
+[4]: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/ai-in-storytelling
+    
+[5]: https://towardsdatascience.com/a-story-told-by-a-machine-328002e3487
+    
+[6]: https://thenextweb.com/news/how-ai-will-change-storytelling-and-become-the-next-great-art-form
+    
+

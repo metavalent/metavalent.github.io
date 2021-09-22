@@ -1,0 +1,60 @@
+IV: Generally, option traders look to buy options when implied volatility is low since premiums are lower, in hopes of seeing the underlying stock move in a favorable direction along with an increase in volatility which will make premiums increase. And traders look to write options when implied volatility is high as option premiums tend to be higher, in hopes of seeing the underlying stock move in a favorable direction to his/her position along with a decrease in volatility which would make premiums decrease.
+
+https://www.nasdaq.com/articles/what-does-implied-volatility-really-mean-2020-10-29
+
+Michael B. Beckwith: Spiritual Shapeshifting
+
+From "Whoa is me" to "Wow, it's me."
+
+Form S-1
+SQSP
+
+Central Index Key (CIK): 0001496963
+
+https://stockanalysis.com/ipos/calendar/
+
+https://sec.report/CIK
+
+https://www.startengine.com/
+
+https://www.crowdability.com/premium/private_market_profits
+
+https://nobsimreviews.com/private-market-profits/
+
+Big Data, AI, and ML - um, all the same thing.
+
+
+Bull Put Credit Spread
+Roughly, max loss is 2x max gain, but probability highly in our favor.
+
+- Sell put 
+- Buy at lower strike
+
+Risk: (Width of Strike - Credit) x 100
+B/E: Sold put price - Credit received
+
+As long is price is above short put, profitable.
+
+Bear Call Credit Spread
+Roughly, max loss is 2x max gain, but probability highly in our favor.
+
+- Sell call 
+- Buy at higher strike
+
+Risk: (Width of Strike - Credit) x 100
+B/E: Sold call price - Credit received
+
+As long as price is below short call, profitable.
+
+Neutral Iron Condor
+Max loss closer to 3x max gain, because of wider strikes.
+
+More premium. More profit. But must be range bound.
+
+Risk: (Width of Widest Strikes - Credit) x 100
+B/E: Upper Sold call price + Credit received
+     Lower Sold put price - Credit received
+	 
+Credit received functions as a bit of buffer in breaking range.
+
+
