@@ -7,12 +7,12 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-09-24T16:35:19-10:00
-modified: 2021-09-25T14:35:47-10:00
+modified: 2021-09-25T14:36:23-10:00
 ---
 
 NBD, right? Right. 
 
-Watch [Video_Title](https://youtu.be/qy7HuFtfbKw) if the embed below does not behave nicely. 
+Watch [Neuro-archealization - Resurrecting Genetic Variations in Human Brain Organoids](https://youtu.be/qy7HuFtfbKw) if the embed below does not behave nicely. 
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/qy7HuFtfbKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
