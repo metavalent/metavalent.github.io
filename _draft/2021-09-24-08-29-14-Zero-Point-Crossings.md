@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent, music
 created: 2021-09-24T18:29:14-10:00
-modified: 2021-09-24T18:34:26-10:00
+modified: 2021-09-25T14:38:07-10:00
 ---
 
-Just zoom into the Zero Point crossings.
+Stumbled across this mundane, practical example. Just zoom into the Zero Point crossings. Wheee!
 
 Watch [10 Tips For Faster Editing in Sound Forge Pro 10](https://youtu.be/2-EoFDRpWPg?t=62) for 29 seconds, beginning at 62 second mark, if the embed below does not behave nicely. 
 
