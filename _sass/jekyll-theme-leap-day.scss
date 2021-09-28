@@ -194,8 +194,7 @@ header {
   height: 60px; /* extra 10px for search box */
   margin-right:-382px;
   position: fixed;
-  /* top: 115px; // default */
-  top: 95px;
+  top: 115px;
   background: #4B0082; // mv indigo, dark */
   /* background: #800080; // mv purple, bright */
   /* background: #ffcc00; // default */
@@ -555,7 +554,9 @@ footer {
   }
 -- */
   #banner {
+  header ul {
     height: 60px;
+	}
   }
 }
 
@@ -584,9 +585,16 @@ footer {
     display: none;
   }
 
-/* --  try enable banner on small screen -- default is no banner entry*/
+/* --  try enable banner on small screen -- default is no banner entry */
   #banner {
     height: 60px;
+  }
+
+*/
+  #banner {
+  header ul {
+    height: 60px;
+	}
   }
 
   footer {
