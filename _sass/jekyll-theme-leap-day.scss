@@ -194,7 +194,8 @@ header {
   height: 60px; /* extra 10px for search box */
   margin-right:-382px;
   position: fixed;
-  top: 115px;
+  /* top: 115px; // default */
+  top: 95px;
   background: #4B0082; // mv indigo, dark */
   /* background: #800080; // mv purple, bright */
   /* background: #ffcc00; // default */
