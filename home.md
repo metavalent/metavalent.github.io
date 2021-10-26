@@ -21,7 +21,7 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 ###  What is this FOR? 
 
 > What is this FOR? It's for playing with the so-called Fabric Of Reality (FOR) as artistic medium. It's for exploring how diverse FORs interdependently, recursively, revise and co-contruct our WHY's and HOW's; and even manifest as our WHO's, WHAT's, WHEN's, and WHERE's. It's for being curious about how our individual and shared [Theories Of Everything](https://duckduckgo.com/?q=theories+of+everything&ia=web) (TOEs) are woven from such a tiny set of common initial conditions; not just in the form of tiny threads of DNA, but perhaps even emerging from a single initial condition, field, or substrate of wholeness.
-> *Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, psychological, or spiritual interest, here?* Please do let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Mahalo for investing in our never-ending story. Every action we take in this apparently IRL multiverse, however small, matters and makes a meaningful difference. So, thank you and infinite eternal blessings, in this very moment. 
+> *Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, psychological, or spiritual interest, here?* Please do let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent) (temporarily offline). Mahalo for investing in our never-ending story. Every action we take in this apparently IRL multiverse, however small, matters and makes a meaningful difference. So, thank you and infinite eternal blessings, in this very moment. 
 
 ### Etymology
 
@@ -121,7 +121,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 
 ### Endnotes
 
-[[ i ]](#) Mahalo so much and thank you for following the guidance of your intuitive curiosity by [supporting our creativity via Patreon](https://patreon.com/metavalent/), [Venmo](https://venmo.com/code?user_id=2980387722625024518), [Cash App](https://cash.app/$JustBePono), or [my author web site](https://www.aohemea.com/k-kua-support). Your support completes the circuit, so that I can continue following my own creative muse, in service. :pray:
+[[ i ]](#) Mahalo so much and thank you for following the guidance of your intuitive curiosity by [supporting our creativity via Patreon](https://patreon.com/metavalent/) (temporarily offline), [Venmo](https://venmo.com/code?user_id=2980387722625024518), [Cash App](https://cash.app/$JustBePono), or [my author web site](https://www.aohemea.com/k-kua-support). Your support completes the circuit, so that I can continue following my own creative muse, in service. :pray:
 
 [[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
