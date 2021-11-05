@@ -235,7 +235,7 @@ header {
 
   .home {
 //    position:fixed; / *default*
-    position:static; //  DIFF 1 didn't work
+//    position:static; //  DIFF 1 didn't work
 	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-325px;
@@ -249,7 +249,7 @@ header {
 
   .shop {
 //    position:fixed; / *default*
-    position:static; //  DIFF 1 didn't work
+//    position:static; //  DIFF 1 didn't work
 	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-175px;
@@ -263,7 +263,7 @@ header {
 
   .meta {
 //    position:fixed; / *default*
-    position:static; //  DIFF 1 didn't work
+//    position:static; //  DIFF 1 didn't work
 	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-250px;
@@ -277,7 +277,8 @@ header {
   
   .search {
 //    position:fixed; / *default*
-    position:static; // DIFF didn't work
+//    position:static; //  DIFF 1 didn't work
+	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
