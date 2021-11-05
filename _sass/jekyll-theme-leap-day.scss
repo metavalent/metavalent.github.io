@@ -235,7 +235,8 @@ header {
 
   .home {
 //    position:fixed; / *default*
-    position:static; // DIFF for mobile small-screen flow
+    position:static; //  DIFF 1 didn't work
+	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
@@ -248,7 +249,8 @@ header {
 
   .meta {
 //    position:fixed; / *default*
-    position:static; // DIFF for mobile small-screen flow
+    position:static; //  DIFF 1 didn't work
+	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-250px;
     padding: 10px 12px;
@@ -261,7 +263,8 @@ header {
 
   .shop {
 //    position:fixed; / *default*
-    position:static; // DIFF for mobile small-screen flow
+    position:static; //  DIFF 1 didn't work
+	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-175px;
     padding: 10px 12px;
@@ -274,7 +277,8 @@ header {
   
   .search {
 //    position:fixed; / *default*
-    position:static; // DIFF for mobile small-screen flow
+    position:static; //  DIFF 1 didn't work
+	position:relative; //  DIFF 2 
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
