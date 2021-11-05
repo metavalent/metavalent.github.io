@@ -556,7 +556,8 @@ footer {
 -- */
   #banner {
   header ul {
-    height: 60px;
+//    height: 60px; // * default* 
+    width: 90%; // DIFF try adapt for mobile
 	}
   }
 }

@@ -2,8 +2,6 @@
 Leap Day for GitHub Pages
 by Matt Graham
 
-// SEARCH for DIFF to see diffs in this version.
-
 Customized for metavalent.com
 by Metavalent
 */
@@ -558,7 +556,8 @@ footer {
 -- */
   #banner {
   header ul {
-    height: 60px;
+//    height: 60px; // * default* 
+    width: 90%; // DIFF try adapt for mobile
 	}
   }
 }
