@@ -247,20 +247,6 @@ header {
     /* background-color: #FFE788; // default */
   }
 
-  .meta {
-//    position:fixed; / *default*
-    position:static; //  DIFF 1 didn't work
-	position:relative; //  DIFF 2 
-    left:50%;
-    margin-left:-250px;
-    padding: 10px 12px;
-    /* margin-top: 6px; // inherit button class */
-    line-height:14px;
-    font-size:14px;
-	background-color: #EFEFE8;
-    /* background-color: #FFE788; // default */
-  }
-
   .shop {
 //    position:fixed; / *default*
     position:static; //  DIFF 1 didn't work
@@ -274,11 +260,24 @@ header {
 	background-color: #EFEFE8;
     /* background-color: #FFE788; // default */
   }
-  
-  .search {
+
+  .meta {
 //    position:fixed; / *default*
     position:static; //  DIFF 1 didn't work
 	position:relative; //  DIFF 2 
+    left:50%;
+    margin-left:-250px;
+    padding: 10px 12px;
+    /* margin-top: 6px; // inherit button class */
+    line-height:14px;
+    font-size:14px;
+	background-color: #EFEFE8;
+    /* background-color: #FFE788; // default */
+  }
+  
+  .search {
+//    position:fixed; / *default*
+    position:static; // DIFF didn't work
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
