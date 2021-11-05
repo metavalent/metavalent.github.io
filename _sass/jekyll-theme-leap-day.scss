@@ -234,7 +234,8 @@ header {
 /* Customize buttons & search div positioning */
 
   .home {
-    position:fixed;
+//    position:fixed; / *default*
+    position:static; // DIFF for mobile small-screen flow
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
@@ -246,7 +247,8 @@ header {
   }
 
   .meta {
-    position:fixed;
+//    position:fixed; / *default*
+    position:static; // DIFF for mobile small-screen flow
     left:50%;
     margin-left:-250px;
     padding: 10px 12px;
@@ -258,7 +260,8 @@ header {
   }
 
   .shop {
-    position:fixed;
+//    position:fixed; / *default*
+    position:static; // DIFF for mobile small-screen flow
     left:50%;
     margin-left:-175px;
     padding: 10px 12px;
@@ -270,7 +273,8 @@ header {
   }
   
   .search {
-    position:fixed;
+//    position:fixed; / *default*
+    position:static; // DIFF for mobile small-screen flow
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
@@ -503,8 +507,7 @@ footer {
   }
 
   #banner {
-//    top: 80px; // *default*
-    top: 60px; // DIFF to try to fix mobile issue
+    top: 60px; // *default*
 
     .fork {
       float: left;
@@ -557,7 +560,6 @@ footer {
   #banner {
   header ul {
 //    height: 60px; // * default* 
-    display:none;
 	}
   }
 }
