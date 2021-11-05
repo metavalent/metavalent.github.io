@@ -279,10 +279,10 @@ header {
   }
   
   .search {
-//    position:fixed; / *default*
-//    position:static; //  DIFF 1 didn't work
+    position:fixed; // keep *default*
+//  position:static; //  DIFF 1 didn't work
 //	position:relative; //  DIFF 2 didn't work
-	position:absolute;
+//	position:absolute; // DIFF 3 didn't work;
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
