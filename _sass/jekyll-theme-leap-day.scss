@@ -252,9 +252,9 @@ header {
 //    position:fixed; / *default*
 //    position:static; //  DIFF 1 didn't work
 //	position:relative; //  DIFF 2 didn't work
-	position:absolute;
+	position:absolute; 
     left:50%;
-    margin-left:-175px;
+    margin-left:-250px;
     padding: 10px 12px;
     /* margin-top: 6px; // inherit button class */
     line-height:14px;
@@ -262,14 +262,14 @@ header {
 	background-color: #EFEFE8;
     /* background-color: #FFE788; // default */
   }
-
+  
   .meta {
 //    position:fixed; / *default*
 //    position:static; //  DIFF 1 didn't work
 //	position:relative; //  DIFF 2 didn't work
-	position:absolute; 
+	position:absolute;
     left:50%;
-    margin-left:-250px;
+    margin-left:-175px;
     padding: 10px 12px;
     /* margin-top: 6px; // inherit button class */
     line-height:14px;
