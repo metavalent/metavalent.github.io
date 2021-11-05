@@ -503,7 +503,8 @@ footer {
   }
 
   #banner {
-    top: 80px;
+//    top: 80px; // *default*
+    top: 60px; // DIFF to try to fix mobile issue
 
     .fork {
       float: left;

@@ -2,6 +2,8 @@
 Leap Day for GitHub Pages
 by Matt Graham
 
+// SEARCH for DIFF to see diffs in this version.
+
 Customized for metavalent.com
 by Metavalent
 */
@@ -191,11 +193,12 @@ header {
   z-index: 100;
   left:0;
   right:50%;
-  height: 60px;
+  height: 60px; /* extra 10px for search box */
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #800080; /* mv purple */
+  background: #4B0082; // mv indigo, dark */
+  /* background: #800080; // mv purple, bright */
   /* background: #ffcc00; // default */
   border: 2px solid #400080;
   /* border: 1px solid #f0b500; // default */
@@ -276,7 +279,8 @@ header {
     margin-top: 2px;
     line-height:14px;
     font-size: 14px;
-	background-color: #800080;
+	background-color: #4B0082; // mv indigo, dark
+	/* background-color: #800080; // mv purple, bright */
     /* background-color: #FFE788; // default */
   }
 
@@ -296,13 +300,14 @@ header {
     margin:0 45px 0 0;
 
     span {
-      float:left;
-      line-height:52px;
-      font-size:90%;
-	  color:#800080;
+      float: left;
+      line-height: 52px;
+      font-size: 90%;
+	  color: #4B0082; /* mv purple, bright */
+	  color: #800080; /* mv purple, bright */
       /* color:#9d7f0d; // default */
-      text-transform:uppercase;
-      text-shadow:rgba(#fff, 0.2) 0 1px 0;
+      text-transform: uppercase;
+      text-shadow: rgba(#fff, 0.2) 0 1px 0;
     }
   }
 
@@ -343,7 +348,8 @@ section {
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
-  border: 1px solid #800080;
+  border: 1px solid #4B0082; // mv indigo, dark
+  /* border: 1px solid #800080; // mv purple, bright */
   /* border: 1px solid #cbcbcb; // default */
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
 }
@@ -458,7 +464,8 @@ footer {
   }
 
   section {
-    border:1px solid #800080;
+	border: 1px solid #4B0082; /* mv indigo, dark */
+    /* border:1px solid #800080; // mv purple, bright */ 
 	/* border:1px solid #e5e5e5; // default */
     border-width:1px 0;
     padding:20px auto;
@@ -498,7 +505,8 @@ footer {
   }
 
   #banner {
-    top: 80px;
+//    top: 80px; // *default*
+    top: 60px; // DIFF to try to fix mobile issue
 
     .fork {
       float: left;
@@ -528,7 +536,7 @@ footer {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
-	
+
     h1 {
       font-size: 24px;
       white-space: nowrap;
@@ -549,11 +557,9 @@ footer {
   }
 -- */
   #banner {
-    z-index: 100;
-    left:0;
-    right:50%;
+  header ul {
     height: 60px;
-    position: fixed;
+	}
   }
 }
 
@@ -566,13 +572,6 @@ footer {
 }
 
 @media print, screen and (max-height: 680px) {
-
-/* -- display header -- default is no header entry */
-  header {
-    position: relative;
-    padding: 5px 0px;
-    min-height: 0px;
-  }
 
   footer {
     text-align: center;
@@ -588,21 +587,17 @@ footer {
   nav {
     display: none;
   }
-  
-/* -- display header -- default is no header entry */
-  header {
-    position: relative;
-    padding: 5px 0px;
-    min-height: 0px;
+
+/* --  try enable banner on small screen -- default is no banner entry
+  #banner {
+    height: 60px;
   }
 
-/* --  try enable banner on small screen -- default is no banner entry*/
+*/
   #banner {
-    z-index: 100;
-    left:0;
-    right:50%;
+  header ul {
     height: 60px;
-    position: fixed;
+	}
   }
 
   footer {
