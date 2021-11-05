@@ -234,10 +234,7 @@ header {
 /* Customize buttons & search div positioning */
 
   .home {
-    position:fixed; // keep *default*
-//  position:static; //  DIFF 1 didn't work
-//	position:relative; //  DIFF 2 didn't work
-//	position:absolute; // DIFF 3 didn't work
+    position:fixed;
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
@@ -248,11 +245,8 @@ header {
     /* background-color: #FFE788; // default */
   }
 
-  .shop {
-    position:fixed; // keep *default*
-//  position:static; //  DIFF 1 didn't work
-//	position:relative; //  DIFF 2 didn't work
-//	position:absolute; // DIFF 3 didn't work
+  .meta {
+    position:fixed;
     left:50%;
     margin-left:-250px;
     padding: 10px 12px;
@@ -262,12 +256,9 @@ header {
 	background-color: #EFEFE8;
     /* background-color: #FFE788; // default */
   }
-  
-  .meta {
-    position:fixed; // keep *default*
-//  position:static; //  DIFF 1 didn't work
-//	position:relative; //  DIFF 2 didn't work
-//	position:absolute; // DIFF 3 didn't work;
+
+  .shop {
+    position:fixed;
     left:50%;
     margin-left:-175px;
     padding: 10px 12px;
@@ -279,10 +270,7 @@ header {
   }
   
   .search {
-    position:fixed; // keep *default*
-//  position:static; //  DIFF 1 didn't work
-//	position:relative; //  DIFF 2 didn't work
-//	position:absolute; // DIFF 3 didn't work;
+    position:fixed;
     left:50%;
     margin-left:-100px;
     padding: 10px 12px;
@@ -567,7 +555,7 @@ footer {
 -- */
   #banner {
   header ul {
-//    height: 60px; // * default* 
+    height: 60px; // * default* seems to minimally fix mobile issue
 	}
   }
 }
