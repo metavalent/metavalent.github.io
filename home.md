@@ -25,7 +25,9 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 
 ### Etymology
 
-How I constructed this neologism, some time in the mid-to-late 1990's, primarily through extensive verbal usage, as I'm somewhat embarrassed to admit, in early egoic attempts to help the terminology "catch on."
+How I constructed this neologism, some time in the mid-to-late 1990's, primarily through extensive verbal usage, as I'm somewhat embarrassed to admit, in early egoic attempts to help the terminology "catch on." In the early 2000's, my Second Life identity was even "Metavalent Harbinger." Our [ICANN domain name](https://lookup.icann.org/lookup), below, has been continuously in use since November 15, 2007.
+
+<img src="https://metavalent.com/assets/images/metavalent.com.whois.icann.2007.jpg" width="200"/>
 
 - **Metavalent**: Consisting of prefix meta- and suffix -valent. We use the term *metavalent* to describe any process or phenomena that matches the etymology, below. We expect a day will soon come that physical, chemical, biological, and other phenomena will come to utilize this term in the context of those respective fields. Our record here is to preserve provenance on the internet.
 - **Meta-**: 1. Meta (from the Greek μετα-, meta-, meaning "after" or "beyond") is a prefix meaning more **comprehensive or transcending** ([Wikipedia](https://en.wikipedia.org/wiki/Meta)). 2. a prefix appearing in loanwords from Greek, with the meanings after, along with, beyond, among, behind, **and productive**, [examples] in English on the Greek model: metacarpus; metalinguistics ([Free Dictionary](https://www.thefreedictionary.com/meta)).
