@@ -1,5 +1,6 @@
 ---
-title: Conversations with GPT: Skandhas and Technology
+
+title: Conversations with GPT - Skandhas and Technology
 author: metavalent
 layout: post
 published: true
@@ -8,6 +9,7 @@ categories: metavalent
 tags: metavalent
 created: 2023-04-06T12:46:25-07:00
 modified: 2023-04-06T12:51:38-07:00
+
 ---
 
 # Conversations with GPT: Skandhas and Technology
@@ -24,6 +26,7 @@ Invariant neural network graph representations, on the other hand, refer to a ty
 
 Although both photolithographic architectures and invariant neural network graph representations are related to technology and engineering, they do not have a direct relationship with the five skandhas from Buddhism. The skandhas are more relevant to understanding human experience and the nature of self in the context of Buddhist philosophy.
 
-*ChatGPT Mar 23 Version. ChatGPT may produce inaccurate information about people, places, or facts.
-*
+*ChatGPT Mar 23 Version.
+ChatGPT may produce inaccurate information about people, places, or facts.*
+
 [New chat](https://chat.openai.com/).
