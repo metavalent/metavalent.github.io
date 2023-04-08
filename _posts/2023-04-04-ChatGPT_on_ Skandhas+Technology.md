@@ -1,6 +1,6 @@
 ---
 
-title: Conversations with GPT - Skandhas and Technology
+title: ChatGPT on Skandhas and Technology
 author: metavalent
 layout: post
 published: true
