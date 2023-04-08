@@ -1,4 +1,5 @@
 ---
+title: Conversations with GPT: Skandhas and Technology
 created: 2023-04-06T12:46:25-07:00
 modified: 2023-04-06T12:51:38-07:00
 ---
