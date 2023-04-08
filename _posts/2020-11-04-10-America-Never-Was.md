@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2021-11-04T10:10:10-10:00
-modified: 2021-11-04T11:11:11-10:00
+created: 2020-11-04T10:10:10-10:00
+modified: 2020-11-04T11:11:11-10:00
 ---
 
 The incomparable Langston Hughes - 1902-1967.
