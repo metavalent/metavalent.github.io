@@ -12,8 +12,6 @@ modified: 2023-04-06T12:51:38-07:00
 
 ---
 
-# Conversations with GPT: Skandhas and Technology
-
 Model: GPT-4
 
 *What are the photolithographic architectures – integrated circuit layout design (IC/LD), very large scale integration (VLSI) – and invariant neural network graph representative of the five skandhas?*
