@@ -1,5 +1,5 @@
 ---
-title: Visual Philosophy
+title: What is Visual Philosophy?
 author: metavalent
 layout: post
 published: true
@@ -7,7 +7,7 @@ comments: true
 categories: metavalent, chatgpt
 tags: metavalent
 created: 2023-04-10T11:11:11-07:00
-modified: 2023-04-10T12:51:38-07:00
+modified: 2023-04-11T06:29:41-07:00
 ---
 
 Model: GPT-4
