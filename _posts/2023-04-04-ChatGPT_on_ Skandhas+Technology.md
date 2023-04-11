@@ -8,13 +8,13 @@ comments: true
 categories: metavalent, chatgpt
 tags: metavalent
 created: 2023-04-06T12:46:25-07:00
-modified: 2023-04-06T12:51:38-07:00
+modified: 2023-04-10T16:51:38-07:00
 
 ---
 
 Model: GPT-4
 
-### What are the photolithographic architectures – integrated circuit layout design (IC/LD), very large scale integration (VLSI) – and invariant neural network graph representative of the five skandhas?*
+### What are the photolithographic architectures – integrated circuit layout design (IC/LD), very large scale integration (VLSI) – and invariant neural network graph representative of the five skandhas?
 
 The five skandhas, also known as the five aggregates, are a fundamental concept in Buddhism, describing the elements that make up human experience. They are: form (rūpa), sensation (vedanā), perception (saṃjñā), mental formations (saṃskāra), and consciousness (vijñāna). While these concepts are significant in understanding Buddhist thought, they do not have a direct connection to photolithographic architectures or invariant neural network graph representations.
 
