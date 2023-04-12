@@ -1,16 +1,16 @@
 ---
-title: The Extended Mind (2008)
+title: Title
 author: metavalent
 layout: post
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-04-11T11:11:11-10:00
-modified: 2023-04-11T05:37:28-07:00
+created: 2023-01-11T11:11:11-10:00
+modified: 2023-01-11T11:11:11-10:00
 ---
 
-### The Extended Mind: Recent Experimental Evidence (2008)
+### Subtitle
 
 <!-- 
 Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
