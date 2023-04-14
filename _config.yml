@@ -91,7 +91,8 @@ footer-links:
 # ignore_theme_config: false
 
 # Default site theme and plugins
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
+theme: minimal
 
 plugins: 
    - jekyll-seo-tag
