@@ -1,0 +1,31 @@
+<html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- only iterate to heading level 3 -->
+<script>
+$(document).ready(function() {
+    var tocList = $('#toc-list');
+    var headers = $('article h1, article h2, article h3');
+
+    headers.each(function(index, header) {
+        var id = 'header-' + index;
+        $(header).attr('id', id);
+
+        var link = $('<a></a>').attr('href', '#' + id).text($(header).text());
+        var listItem = $('<li></li>').append(link);
+
+        switch (header.tagName.toLowerCase()) {
+            case 'h2':
+                listItem.addClass('toc-h2');
+                break;
+            case 'h3':
+                listItem.addClass('toc-h3');
+                break;
+        }
+
+        tocList.append(listItem);
+    });
+});
+</script>
+
+</html>

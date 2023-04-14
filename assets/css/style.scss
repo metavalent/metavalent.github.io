@@ -3,3 +3,37 @@
 
 @import "{{ site.theme }}";
 
+// by ChatGPT
+
+#toc {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+#toc-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  width: 50%;
+}
+
+.toc-h1,
+.toc-h2,
+.toc-h3 {
+  display: inline-block;
+  margin: 0 0.5em;
+}
+
+.toc-h4,
+.toc-h5,
+.toc-h6 {
+  display: none;
+}
+
+
+
