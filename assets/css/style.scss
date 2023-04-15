@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#footer {
+  justify-content: left;
+}
+
 // by ChatGPT
 
 #toc {
