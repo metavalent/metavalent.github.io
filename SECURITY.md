@@ -5,6 +5,3 @@
 :white_check_mark: Dependabot security updates active
 :white_check_mark: CodeQL analysis active
 
-## Reporting a Vulnerability
-
-Working on it.
