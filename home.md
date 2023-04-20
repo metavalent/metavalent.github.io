@@ -2,12 +2,12 @@
 layout: page
 published: true
 title: We're Inquiring Together
-author: metavalent		   
-categories: metavalent, book of true self
+author: metavalent
+categories: metavalent, book of true self, agi, turtle trekkin
 tags: home, metavalent
 permalink: /home/
 created: 2021-07-07T11:11:11-10:00
-modified: 2021-07-30T13:13:13-10:00
+modified: 2023-04-20T16:30:34-07:00
 ---
 
 ### What is Metavalent Stigmergy?
@@ -21,7 +21,7 @@ And on this topic, Project Xanadu and hypertext imagineer [Ted Nelson](http://te
 ###  What is this FOR? 
 
 > What is this FOR? It's for playing with the so-called Fabric Of Reality (FOR) as artistic medium. It's for exploring how diverse FORs interdependently, recursively, revise and co-contruct our WHY's and HOW's; and even manifest as our WHO's, WHAT's, WHEN's, and WHERE's. It's for being curious about how our individual and shared [Theories Of Everything](https://duckduckgo.com/?q=theories+of+everything&ia=web) (TOEs) are woven from such a tiny set of common initial conditions; not just in the form of tiny threads of DNA, but perhaps even emerging from a single initial condition, field, or substrate of wholeness.
-> *Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, psychological, or spiritual interest, here?* Please do let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/) (temporarily offline, sorry). Mahalo for investing in our never-ending story. Every action we take in this apparently IRL multiverse, however small, matters and makes a meaningful difference. So, thank you and infinite eternal blessings, in this very moment. 
+> *Have you discovered something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, psychological, or spiritual interest, here?* Please do let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Mahalo for investing in our never-ending story. Every action we take in this apparently IRL multiverse, however small, matters and makes a meaningful difference. So, thank you and infinite eternal blessings, in this very moment. 
 
 ### Etymology
 
