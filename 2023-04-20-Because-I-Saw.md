@@ -1,5 +1,5 @@
 ---
-title: &quot;Because I saw this image of ending the war I contributed to ending the war&quot;
+title: I saw this image of ending the war I contributed to ending the war&quot;
 author: metavalent
 layout: post
 published: true
@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-04-20T19:15:43-07:00
-modified: 2023-04-20T19:33:42-07:00
+modified: 2023-04-20T19:36:03-07:00
 ---
 
-### &quot;People can be exceptionally cruel but somehow can be partially crueler when eliminated by the glow of their screens&quot;
+### &quot;People can be exceptionally cruel, but somehow can be marginally crueler when protected by the glow of their screens&quot;
 
 
 Watch [The Economics Of Self Commodification](https://youtu.be/JozVQPzHpIM) if the embed below does not behave nicely. 
