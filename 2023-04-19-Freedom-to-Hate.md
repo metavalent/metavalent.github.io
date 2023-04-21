@@ -1,9 +1,9 @@
 ---
 created: 2023-04-19T22:34:30-07:00
-modified: 2023-04-19T22:34:43-07:00
+modified: 2023-04-20T19:24:30-07:00
 ---
 
-# The freedom to hate
+# The Freedom To Hate
 
 Let's just start with this. Nobody is going to hell. Jesus taught that the Kingdom of Heaven is at hand. He said if you've seen me you've seen the father. And he said to the thief on the cross next to him this day you will be with me in paradise. What this means is that the kingdom of Christ is already established on Earth as it is in heaven. The kingdom is at hand means it is right here, right now, in this present moment.
 
