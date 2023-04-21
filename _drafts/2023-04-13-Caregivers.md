@@ -21,10 +21,6 @@ Caregiver stress or burnout: This is a state of physical, emotional, and mental 
 
 While these concepts don't specifically address the phenomenon of caregivers unwittingly exhibiting characteristics of mental illness themselves, they do highlight the potential negative effects of caregiving on one's mental health.
 
-
-
-
-Michael Silverton
 Please take your time to suggest five of the best names that we could ascribe to this phenomenon.
 
 After considering your request, here are five potential names for the phenomenon of otherwise healthy individuals developing psychological symptoms as a result of caregiving for mentally unwell individuals:
