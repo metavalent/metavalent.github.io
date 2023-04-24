@@ -11,7 +11,7 @@ modified: null
 
 What is the nature of freedom, equality, in the context of Earth, 2021? If can, try consider these two videos, together, without prejudice or bias.
 
-> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 [Watch here](https://youtu.be/0gqwMZGynYs) and [here](https://youtu.be/_iudkPi4_sY) if the embeds below do not behave nicely. 
 
@@ -48,4 +48,4 @@ We have dubbed all of these, and more, as features of the #PostAutomationEra. Th
 One guidance on what to do with these changes is in the royalty-free book at [PostAutomationEra.com](https://PostAutomationEra.com/) also available in [freebie PDF](https://j.mp/C2Cfree), for those who cannot afford the minimal cost of printing at Amazon.
 
 
-> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!

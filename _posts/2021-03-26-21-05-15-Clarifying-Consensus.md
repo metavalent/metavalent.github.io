@@ -11,7 +11,7 @@ modified: 2021-04-02T12:37:56-07:00
 
 > "There seems to be a bit of a minor communication error. Please stand by."
 
-> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
 It has come to our attention that there seems to be a tendency to confuse what we mean by the instantiation of new *default consensus realities.* Default Consensus Reality is simply a non-sectarian, non-denominational, expansive and inclusive secular bridge narrative toward a new heaven and a new earth.
 
@@ -47,4 +47,4 @@ As light shines forth in the darkness and the darkness cannot comprehend it, so 
 
 We have no program, yet may participate in many kinds of programs, in alliance and partnership. We are primarily observers of the changes underway. Nothing more, nothing less. Amituofo. Namaste. Aloha me ke Akua. Dios les bendigan. God bless the human race.
 
-> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$JustBePono](https://cash.app/$JustBePono), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
+> Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
