@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-04-25T04:30:00-07:00
-modified: 2023-04-24T21:48:43-07:00
+modified: 2023-04-24T21:51:35-07:00
 ---
 
 ### Scott Santens in Conversation with Andrew Yang
@@ -15,7 +15,7 @@ modified: 2023-04-24T21:48:43-07:00
 <p></p>
 <video class="center" width="640" height="480" controls autoplay>
   <source src="https://youtube.com/embed/p0AtC3QKtJM"> 
-Your browser does not support the video tag. Try [You Tube](https://youtu.be/p0AtC3QKtJM).
+Your browser does not support the video tag. Try [You Tube(https://youtu.be/p0AtC3QKtJM).
 </video>
 
 <p>If the HTML player above does not work you can click through to [You Tube](https://youtu.be/p0AtC3QKtJM).</p>
