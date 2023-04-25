@@ -1,21 +1,8 @@
----
-title: What's Next For Basic Income?
-author: metavalent
-layout: post
-published: true
-comments: true
-categories: metavalent
-tags: metavalent
-created: 2023-04-21T09:19:20-07:00
-modified: 2023-04-24T21:34:13-07:00
----
-
 ### Scott Santens in Conversation with Andrew Yang
 
 <p></p>
 <video class="center" width="640" height="480" controls autoplay>
-  <source src="https://youtu.be/p0AtC3QKtJM">
- 
+  <source src="https://youtu.be/p0AtC3QKtJM"> 
 Your browser does not support the video tag. Try [You Tube](https://youtu.be/p0AtC3QKtJM).
 </video>
 <p></p>
