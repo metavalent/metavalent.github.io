@@ -1,15 +1,3 @@
----
-title: If Winter Never
-author: metavalent
-layout: post
-published: true
-comments: true
-categories: metavalent, art, creativity, love, nature
-tags: metavalent
-created: 2023-04-21T09:19:20-07:00
-modified: 2023-04-24T14:19:40-07:00
----
-
 ### then neither shall i
 
 A Voice-Over Remix of Christopher Dormoy's [Eternal Spring](https://vimeo.com/689902544).
