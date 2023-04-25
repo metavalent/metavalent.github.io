@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-04-25T04:30:00-07:00
-modified: 2023-04-24T21:59:26-07:00
+created: 2023-04-25T04:40:00-07:00
+modified: 2023-04-24T22:14:59-07:00
 ---
 
 ### Scott Santens in Conversation with Andrew Yang
