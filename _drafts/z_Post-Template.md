@@ -33,6 +33,14 @@ Your browser does not support the video tag.
 </video>
 -->
 
+<!-- HTML5 Embed - GitHub LFS storage: append ?raw=true  
+<audio controls>
+  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
+  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+-->
+
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 -->
