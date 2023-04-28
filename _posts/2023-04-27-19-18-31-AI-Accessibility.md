@@ -1,3 +1,15 @@
+---
+title: AI for Accessibility
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2023-04-27T19:18:31-07:00
+modified: 2023-04-27T19:38:11-07:00
+---
+
 ### The AI Accessibility-ocalypse
 
 <!-- Generic Embed
