@@ -1,28 +1,31 @@
 ---
-title: Original Self
+title: Nine Billion Human Minds
 author: metavalent
 layout: post
 published: true
 comments: true
 categories: metavalent
-tags: metavalent, books
-created: 2023-05-03T14:54:30-07:00
-modified: 2023-05-03T15:20:02-07:00
+tags: metavalent
+created: 2023-05-03T14:06:16-07:00
+modified: 2023-05-03T15:29:13-07:00
 ---
 
+### An Egregore of Egregores. Now Add Infinite Synthetic And Hybrid Minds.
 
-### The best used books arrive with anonymous and somehow deeply personal non-symbolic annotations, like intimate confidential missives from the soul of deep mystery
+![Global Cognition Grid](/assets/images/98d421659c94804929d99856b1b152d5.jpg) 
 
-![A Special Chink](/assets/images/4e81973a0b41e82290f37680a931efc7.jpg) 
+![Beyond That](/assets/images/89fdb8ace97353f6fcd0e03b06732884.jpg) 
 
-![Cover](../assets/images/302f553c9d5ae8a229d109a2eb7c7ac1.jpg) 
+![Then What](/assets/images/8b6e01bef4104f454c0f86b982710f6a.jpg) 
 
-![To Sally From Scott](/assets/images/b02c1c2572bcefbb8cfa3c4c865ca9b1.jpg) 
+So, [Ubik](https://www.goodreads.com/book/show/22590.Ubik), then? Already had that in 1969, as well. Maybe Ubik accidentally got oversprayed on UBI in the 2/3 singularity of that year? Nothing new under the sun, however incredible this all seems in 2023.
 
-![Festival of Faiths](/assets/images/6579b759081ded0593458d4ac79b78eb.jpg) 
+Following is an except from the soon to be published 2nd edition of the book *Where We Go From Here: Chaos To Community | A Modest Proposal for the Livable Income Security Act of 2019*.
 
-![The End Of Psychology](../assets/images/ab7d1e464948053904c348c188164634.jpg) 
+📖 [Paperback](https://amzn.to/2URmAjL) 
+📱 [Kindle](https://amzn.to/2VnO4gb)
 
+![Two-thirds Singularity](/assets/images/dc2a28f9b13398e6d1050c33e7f4c7da.jpg) 
 
 <!-- Default Video Embed
 Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
