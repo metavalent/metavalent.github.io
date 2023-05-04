@@ -7,12 +7,12 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-05-03T14:06:16-07:00
-modified: 2023-05-03T15:29:13-07:00
+modified: 2023-05-03T17:33:23-07:00
 ---
 
 ### An Egregore of Egregores. Now Add Infinite Synthetic And Hybrid Minds.
 
-![Global Cognition Grid](/assets/images/98d421659c94804929d99856b1b152d5.jpg) 
+![Global Cognition Grid](/assets/images/ac0230ffda8628d1ddd9da27a5466903.jpg) 
 
 ![Beyond That](/assets/images/89fdb8ace97353f6fcd0e03b06732884.jpg) 
 
