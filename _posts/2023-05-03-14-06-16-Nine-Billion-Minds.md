@@ -20,7 +20,7 @@ modified: 2023-05-03T15:29:13-07:00
 
 So, [Ubik](https://www.goodreads.com/book/show/22590.Ubik), then? Already had that in 1969, as well. Maybe Ubik accidentally got oversprayed on UBI in the 2/3 singularity of that year? Nothing new under the sun, however incredible this all seems in 2023.
 
-Following is an except from the soon to be published 2nd edition of the book *Where We Go From Here: Chaos To Community | A Modest Proposal for the Livable Income Security Act of 2019*.
+Following is an except from the soon to be published 2nd edition of the book *Where We Go From Here: Chaos To Community &#8214; A Modest Proposal for the Livable Income Security Act of 2019*.
 
 📖 [Paperback](https://amzn.to/2URmAjL) 
 📱 [Kindle](https://amzn.to/2VnO4gb)
