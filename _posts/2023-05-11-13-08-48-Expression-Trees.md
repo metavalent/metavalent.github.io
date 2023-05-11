@@ -1,5 +1,5 @@
 ---
-title: OH/: What You Just Invented There Is An Expression Tree
+title: 'OH: What You Just Invented There Is An Expression Tree'
 author: metavalent
 layout: post
 published: true
