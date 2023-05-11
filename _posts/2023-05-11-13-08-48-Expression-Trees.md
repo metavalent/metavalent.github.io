@@ -1,5 +1,5 @@
 ---
-title: 'OH - What You Just Invented There Are Expression Trees'
+title: 'OH - What You Just Invented There Is An Expression Tree'
 author: metavalent
 layout: post
 published: true
@@ -10,9 +10,9 @@ created: 2023-05-11T13:05:59-07:00
 modified: 2023-05-11T13:15:38-07:00
 ---
 
-### Math humor ftw 🤣
+### Math Humor FTW 🤣
 
-"I'm not convinced, but let's keep going. It'll all become a bit clearer when we see what all the operations are."
+"I'm not convinced, but let's keep going. It'll all become a bit clearer when we see what all the operations are." &ndash; Stephen Wolfram
 
 Another case where mathematics often makes pretty decent philosophy.
 
