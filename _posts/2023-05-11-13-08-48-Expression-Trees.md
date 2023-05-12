@@ -4,10 +4,10 @@ author: metavalent
 layout: post
 published: true
 comments: true
-categories: metavalent
+categories: metavalent,math,humor
 tags: metavalent
 created: 2023-05-11T13:05:59-07:00
-modified: 2023-05-11T18:52:04-07:00
+modified: 2023-05-12T16:40:16-07:00
 ---
 
 ### Math Humor FTW 🤣
