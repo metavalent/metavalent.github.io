@@ -7,21 +7,22 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-05-11T13:05:59-07:00
-modified: 2023-05-11T18:28:41-07:00
+modified: 2023-05-11T18:37:06-07:00
 ---
 
 ### Math Humor FTW 🤣
 
 "I'm not convinced, but let's keep going. It'll all become a bit clearer when we see what all the operations are." &ndash; Stephen Wolfram
 
-Another case where mathematics often makes pretty decent philosophy.
+Another case where mathematics often makes pretty decent philosophy, which somehow forever poetically transforms right back into practical mathematics.
 
 Stephen: "I think the basic point is, everything has to have an evaluator, at some point. Without an evaluator nothing happens. This is what is confusing about the mathematical case versus the physics case. In physics, the application of the evaluator is time. Whereas in mathematics you merely discuss equivalences, independent of time. In some sense." 
 
 Carlos: "My approach to the 'emulation problem' was precisely to try to make mathematical equivalence more time-like. Unintended, maybe. That was part of the game I guess, that you were trying to make mathematical equivalence into something that is also a structure or in some kind of rewrite, slow, and you can take time-like measures. Observer-like measures, I mean."
+([1:45:10](https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s))
 
 <iframe id="ytplayer" type="text/html" width="560" height="320"
-  src="https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s?autoplay=1"
+  src="https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s"
   frameborder="0"></iframe>
 
 Don't forget deduced algebraic equivalence via graph equivalance, mentioned earlier in this work session. Is there potential for transforms here that shed light on geometric unity (Harrimein, et al)?
