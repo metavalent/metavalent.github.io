@@ -7,14 +7,14 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-05-11T13:05:59-07:00
-modified: 2023-05-11T18:37:06-07:00
+modified: 2023-05-11T18:52:04-07:00
 ---
 
 ### Math Humor FTW 🤣
 
 "I'm not convinced, but let's keep going. It'll all become a bit clearer when we see what all the operations are." &ndash; Stephen Wolfram
 
-Another case where mathematics often makes pretty decent philosophy, which somehow forever poetically transforms right back into practical mathematics.
+Another case where mathematics often makes pretty decent [management | life] philosophy, which somehow forever poetically transforms right back into practical mathematics.
 
 Stephen: "I think the basic point is, everything has to have an evaluator, at some point. Without an evaluator nothing happens. This is what is confusing about the mathematical case versus the physics case. In physics, the application of the evaluator is time. Whereas in mathematics you merely discuss equivalences, independent of time. In some sense." 
 
