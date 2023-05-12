@@ -6,7 +6,7 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-01-11T11:11:11-10:00
+created: 2023-01-11T11:11:11-10:00 // $date --iso-8601=seconds
 modified: 2023-05-11T16:17:48-07:00
 ---
 
