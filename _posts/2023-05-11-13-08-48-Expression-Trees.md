@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-05-11T13:05:59-07:00
-modified: 2023-05-11T13:15:38-07:00
+modified: 2023-05-11T18:20:30-07:00
 ---
 
 ### Math Humor FTW 🤣
@@ -16,11 +16,15 @@ modified: 2023-05-11T13:15:38-07:00
 
 Another case where mathematics often makes pretty decent philosophy.
 
-And then there's deduced algebraic equivalence via graph equivalance ... [to be continued]
+Stephen: "I think the basic point is, everything has to have an evaluator, at some point. Without an evaluator nothing happens. This is what is confusing about the mathematical case versus the physics case. In physics, the application of the evaluator is time. Whereas in mathematics you merely discuss equivalences, independent of time. In some sense." 
+
+Carlos: "My approach to the 'emulation problem' was precisely to try to make mathematical equivalence more time-like. Unintended, maybe. That was part of the game I guess, that you were trying to make mathematical equivalence into something that is also a structure or in some kind of rewrite, slow, and you can take time-like measures. Observer-like measures, I mean."
 
 <iframe id="ytplayer" type="text/html" width="560" height="320"
-  src="https://www.youtube.com/embed/2-V3So3ipms?autoplay=1"
+  src="https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s?autoplay=1"
   frameborder="0"></iframe>
+
+Don't forget deduced algebraic equivalence via graph equivalance, which seems peculiarly Herrimanesque? Maybe?
 
 ![Explain It Like I'm Five](/assets/images/a32b8aa3c696e438f894bc03fef4a327.jpg "hypergraphs defined by GPT4")
 
