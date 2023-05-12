@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-05-11T13:05:59-07:00
-modified: 2023-05-11T18:23:32-07:00
+modified: 2023-05-11T18:28:41-07:00
 ---
 
 ### Math Humor FTW 🤣
@@ -24,7 +24,7 @@ Carlos: "My approach to the 'emulation problem' was precisely to try to make mat
   src="https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s?autoplay=1"
   frameborder="0"></iframe>
 
-Don't forget deduced algebraic equivalence via graph equivalance, which seems perhaps potentially favorable to Nassim Herrimein geometric unity? Maybe?
+Don't forget deduced algebraic equivalence via graph equivalance, mentioned earlier in this work session. Is there potential for transforms here that shed light on geometric unity (Harrimein, et al)?
 
 ![Explain It Like I'm Five](/assets/images/a32b8aa3c696e438f894bc03fef4a327.jpg "hypergraphs defined by GPT4")
 
