@@ -12,7 +12,9 @@ modified: 2023-04-20T16:30:34-07:00
 
 ### What is Metavalent Stigmergy?
 
-Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clarifying-Consensus.html) Instantiate. 
+Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clarifying-Consensus.html) Instantiate.
+
+> There is an agreed upon, consensus reality which almost the entire human race shares. The world has been around a long time; it is ancient. Into this world, you are born as an individual; you grow, learn, experience life, and die. There is some disagreement concerning what happens after that, except that for everyone else, life will go on – until they also die. Everybody thinks they know this – or some local variation of this. But in fact when you were ‘born’ you did not know this. You learned this. Everyone else learned it too and so it is an almost universally shared idea. But everybody believing something doesn’t make it true. – David Carse, Perfect Brilliant Stillness
 
 Another way to consider it as the process by which phase state changes occur between perceived collective realities. Like water can exist as solid, liquid, or vapor, realities can exist in different phase states across a wide range from completely hellish to absolutely heavenly.
 

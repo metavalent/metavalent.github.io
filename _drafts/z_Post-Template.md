@@ -6,14 +6,11 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-01-11T11:11:11-10:00 // get with $date --iso-8601=seconds
-modified: 2023-05-11T16:17:48-07:00
+created: 2023-01-11T11:11:11-10:00
+modified: 2023-05-20T12:35:52-07:00
 ---
 
 ### Subtitle
-
-<!-- Default Video Embed
-Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
 
 <!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true  
 <video width="560" height="320" controls>
@@ -29,7 +26,9 @@ Your browser does not support the video tag.
   frameborder="0"></iframe>
 -->
 
-<!-- Maybe HTML5 Audio Embed - GitHub LFS storage: append ?raw=true  
+Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
+
+<!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true  
 <audio controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
