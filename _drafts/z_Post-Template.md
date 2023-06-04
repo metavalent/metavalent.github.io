@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-01-11T11:11:11-10:00 
-modified: 2023-05-20T12:35:52-07:00
+created: 2023-06-04T11:11:11-07:00
+modified: 2023-06-04T11:40:04-07:00
 ---
 
 Manual create { date --iso-8601=seconds }
