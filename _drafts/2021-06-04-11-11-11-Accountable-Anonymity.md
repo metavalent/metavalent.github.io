@@ -2,12 +2,12 @@
 title: Accountable Anonymity
 author: metavalent
 layout: post
-published: true
+published: false
 comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-06-04T11:11:11-10:00
-modified: 2023-06-04T11:11:11-10:00
+modified: 2023-06-04T08:44:22-07:00
 ---
 
 ### An Uninvited TED Talk
