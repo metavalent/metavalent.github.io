@@ -1,5 +1,5 @@
 ---
-title: Krishnamurti on Computers (1985)
+title: 'Krishnamurti on Computers (1985)'
 author: metavalent
 layout: post
 published: true

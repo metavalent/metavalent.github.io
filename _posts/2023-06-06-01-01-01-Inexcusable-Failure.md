@@ -1,5 +1,5 @@
 ---
-title: A Failure of Inexcusable and Unforgivable Proportion?
+title: 'A Failure of Inexcusable and Unforgivable Proportion?'
 author: metavalent
 layout: post
 published: true

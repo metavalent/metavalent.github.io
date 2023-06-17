@@ -17,7 +17,7 @@ modified: 2023-06-17T10:06:03-05:00
 <iframe id="ytplayer" type="text/html" width="560" height="320" src="https://www.youtube.com/embed/ui8iWfLu3Zo?autoplay=1"
   frameborder="0"></iframe>
 
-Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
+Watch [We have separated living from dying | Krishnamurti](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
 
 <p></p>
 <p></p>
