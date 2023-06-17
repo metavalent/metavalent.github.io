@@ -5,17 +5,18 @@ layout: post
 published: true
 comments: true
 categories: metavalent
-tags: metavalent
+tags: metavalent, covid, science, health
 created: 2023-06-06T01:01:01-07:00
+modified: 2023-06-17T11:48:48-05:00
 ---
 
 ### "Shut him up! This has to be real! Look at my furrows of worry! Look at my big bank accounts!" &ndash; Bill Hicks
+  
+Looks like [the original video was removed](https://www.youtube.com/embed/RzN5F8LCD0o). Oh well.
 
-<iframe id="ytplayer" type="text/html" width="560" height="320"
-  src="https://www.youtube.com/embed/RzN5F8LCD0o?autoplay=1"
-  frameborder="0"></iframe>
+![![Follow the Evidence](/assets/images/john.cambell.follow.the.evidence.jpg "Follow the Evidence Wherever it Leads")](https://web.archive.org/web/20230606162332/https://www.youtube.com/watch?v=RzN5F8LCD0o&t=910s)
 
-Watch [Lockdowns](https://youtu.be/RzN5F8LCD0o) if the embed does not behave.
+Maybe can watch [Lockdowns](https://web.archive.org/web/20230606162332/https://www.youtube.com/watch?v=RzN5F8LCD0o&t=910s) on Archive.org.
 
 ![Catastrophic Mental Health Impacts Of Lockdowns](/assets/images/6948728cb8751c5f57734e65ea767902.jpg)
 
@@ -24,6 +25,10 @@ Watch [Lockdowns](https://youtu.be/RzN5F8LCD0o) if the embed does not behave.
 ![Negligible and Disastrous](/assets/images/3f632ac19e2d38be0d9838cbaa36011e.jpg)
 
 ![The Biggest Policy Mistake in Modern Times](/assets/images/be70a39fd6b4dbc9b5521779ecb0e106.jpg) 
+
+<iframe id="ytplayer" type="text/html" width="560" height="320"
+  src="https://www.youtube.com/embed/RzN5F8LCD0o?autoplay=1"
+  frameborder="0"></iframe>
 
 <p></p>
 <p></p>
