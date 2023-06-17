@@ -14,7 +14,7 @@ modified: 2023-06-17T11:48:48-05:00
   
 Looks like [the original video was removed](https://www.youtube.com/embed/RzN5F8LCD0o). Oh well.
 
-![![Follow the Evidence](/assets/images/john.cambell.follow.the.evidence.jpg "Follow the Evidence Wherever it Leads")](https://web.archive.org/web/20230606162332/https://www.youtube.com/watch?v=RzN5F8LCD0o&t=910s)
+[![Follow the Evidence](/assets/images/john.cambell.follow.the.evidence.jpg "Follow the Evidence Wherever it Leads")](https://web.archive.org/web/20230606162332/https://www.youtube.com/watch?v=RzN5F8LCD0o&t=910s)
 
 Maybe can watch [Lockdowns](https://web.archive.org/web/20230606162332/https://www.youtube.com/watch?v=RzN5F8LCD0o&t=910s) on Archive.org.
 
