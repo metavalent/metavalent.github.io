@@ -28,13 +28,12 @@ Love is Love, and Hate is Hate, and it´s gotta´ stop. Especially any kind of d
 
 Any kind of Inverse Inquisition can only create equally horrific outcomes. Patriarchy. Matriarchy. Hate is Hate. So how about ... Try Don't.
 
-Goodness have mercy on us all and may we show some of that mercy upon and for ourselves, as a tiny first step. Maybe.
+May goodness have mercy on us all and may we show some of that mercy upon and for ourselves, as a tiny first step. Maybe.
 
-<!-- YouTube Player
+
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/0eF0fVxvZ3A?autoplay=1"
   frameborder="0"></iframe>
--->
 
 Watch [Pre-suasion: Make someone more likely to agree with what you're about to ask them](https://youtu.be/0eF0fVxvZ3A) if the embed does not behave nicely.
 
