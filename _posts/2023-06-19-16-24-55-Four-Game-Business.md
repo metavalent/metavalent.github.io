@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent, 4games, osint, social engineering
 created: 2023-06-19T16:24:55-05:00
-modified: 2023-06-19T16:24:55-05:00
+modified: 2023-06-19T19:31:47-05:00
 ---
 
 ### Can Cynicism in Long Game lead to mis-managing Mid Game in ways that create Short Game catastrophe? Can Long Game Optimism instead cultivate cooperative coherence?
@@ -24,7 +24,7 @@ You'll probably find this annoyingly preachy and corny. The writer suggests that
 
 Perdóname some nippiness of tone, we simply find the relentless harming of humans, for whatever justification, so wholly unneccessary and counterproductive to a world that works for everyone. 
 
-Love is Love, and Hate is Hate, and it´s gotta´ stop. Especially any kind of direct or indirect, passive or aggressive, hatred or violence in the name of love, love is love, or any other euphemism. Inexcusable.
+Love is Love, and Hate is Hate, and [it´s gotta´ stop](https://youtu.be/2EGIH6u298o). Especially any kind of direct or indirect, passive or aggressive, hatred or violence in the name of love, love is love, or any other euphemism. Inexcusable.
 
 Any kind of Inverse Inquisition can only create equally horrific outcomes. Patriarchy. Matriarchy. Hate is Hate. So how about ... Try Don't.
 
