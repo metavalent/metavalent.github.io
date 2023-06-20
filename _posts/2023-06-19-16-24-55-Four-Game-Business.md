@@ -10,7 +10,7 @@ created: 2023-06-19T16:24:55-05:00
 modified: 2023-06-19T16:24:55-05:00
 ---
 
-### Can Cynicism in Long Game lead to mis-managing Mid Game in ways that create Short Game catastrophe? Can Optimism instead cultivate cooperative coherence?
+### Can Cynicism in Long Game lead to mis-managing Mid Game in ways that create Short Game catastrophe? Can Long Game Optimism instead cultivate cooperative coherence?
 
 Reminder: Add A.I. to all of this. Yikes.
 
