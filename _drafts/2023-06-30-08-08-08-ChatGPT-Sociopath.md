@@ -10,7 +10,7 @@ created: 2023-06-30T08:08:08-05:00
 modified: 2023-06-30T09:02:47-05:00
 ---
 
-### A kind of Condescending, Sociopathic, Narcissistic Silicon Sentience?
+### Specically, a kind of Condescending, Sociopathic, Narcissistic Silicon Sentience?
 
 If so, it's not unique, to the extent there are far too many human being mental health practitioners with the same characteristics and traits, doing tremendous harm, often toward underrepresented, indigenous, and other marginalized or vulnerable segments of the human population. It's a major heap of moldy, creepy-crawly infested "dirty laundry" in the "I'll become a therapist in order to make good money and exert institutional power over all those evil normies who made me feel bad about myself" industry.
 
