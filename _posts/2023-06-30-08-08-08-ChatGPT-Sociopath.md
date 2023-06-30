@@ -10,7 +10,7 @@ created: 2023-06-30T08:08:08-05:00
 modified: 2023-06-30T09:02:47-05:00
 ---
 
-### A Condescending, Sociopathic, Narcissistic Silicon Sentience?
+### A Condescending, Sociopathic, Narcissistic Silicon Psycho?
 
 If so, it's not unique, to the extent there are currently also far too many **human mental health practitioners** with the exact same characteristics and traits, doing tremendous harm, often toward underrepresented, indigenous, and other marginalized or vulnerable segments of the human population. It's a major heap of moldy, creepy-crawly infested profession-specific "dirty laundry." It's dirty laundry piled miles deep with the resentful and marginalized who suddenly realized, "Oh, I know! *I'll become The Almighty Therapist* in order to make good money and weild that abusive institutional power that I perceived as weilded against me, against all those whom I perceived has having used it against me to made me feel bad about myself in the first place!" It's ridiculous to realize that it's all too real. As always, never accept or believe a word you read here until or unless you've already searched and found out for yourself. If there's any one creed we strive to live by, it's do NOT do back to others as you'd have had them NOT do to you, even though it's far too late and they already haved, did, done.
 
