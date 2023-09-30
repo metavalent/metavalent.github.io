@@ -10,7 +10,7 @@ created: 2023-07-02T07:57:25-05:00
 modified: 2023-07-02T07:57:25-05:00
 ---
 
-Manual create { date --iso-8601=seconds }
+<!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
 
 ### Subtitle
 
