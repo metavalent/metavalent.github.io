@@ -1,7 +1,13 @@
 ---
 title: Default Consensus Reality
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
 created: 2023-12-25T11:11:11-07:00
-modified: 2023-12-22T21:51:24-07:00
+modified: 2023-12-22T21:52:36-07:00
 ---
 
 ### Subtitle
