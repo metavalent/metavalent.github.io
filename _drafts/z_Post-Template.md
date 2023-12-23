@@ -1,5 +1,5 @@
 ---
-title: 'Title: Sub'
+title: 'New Title: Subtitle'
 author: metavalent
 layout: post
 published: true
@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-07-02T07:57:25-05:00
-modified: 2023-07-02T07:57:25-05:00
+modified: 2023-12-22T21:44:34-07:00
 ---
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
