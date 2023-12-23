@@ -7,10 +7,10 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-12-25T11:11:11-07:00
-modified: 2023-12-22T21:52:36-07:00
+modified: 2023-12-22T22:01:31-07:00
 ---
 
-### Subtitle
+### Merry Christmas from Metavalent Sean Cahill
 
 <!-- YouTube Player
 <iframe id="ytplayer" type="text/html" width="560" height="320"
