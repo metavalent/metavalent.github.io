@@ -1,7 +1,13 @@
 ---
 title: I Woke Up December 24th
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
 created: 2023-12-24T21:34:07-07:00
-modified: 2023-12-24T21:39:48-07:00
+modified: 2023-12-24T21:40:18-07:00
 ---
 
 ### Alcides Moreno
