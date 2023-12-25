@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-12-24T21:34:07-07:00
-modified: 2023-12-24T22:04:20-07:00
+modified: 2023-12-24T22:07:23-07:00
 ---
 
 ### Alcides Moreno
@@ -17,7 +17,7 @@ modified: 2023-12-24T22:04:20-07:00
   src="https://www.youtube.com/embed/XEyV8o2dp7M?autoplay=1"
   frameborder="0"></iframe>
 
-Watch ["The Power of Miracles | The Story of God Morgan Freeman"](https://youtu.be/XEyV8o2dp7M) if the embed does not behave nicely.
+Watch [The Power of Miracles - The Story of God Morgan Freeman](https://youtu.be/XEyV8o2dp7M) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
