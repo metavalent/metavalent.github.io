@@ -1,3 +1,15 @@
+---
+title: Default Consensus Reality
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2023-12-25T11:11:11-07:00
+modified: 2023-12-24T21:56:02-07:00
+---
+
 ### Merry Christmas from Metavalent Sean Cahill
 
 <!-- YouTube Player
