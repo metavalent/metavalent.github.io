@@ -1,10 +1,10 @@
 ---
 title: I Woke Up December 24th
 created: 2023-12-24T21:34:07-07:00
-modified: 2023-12-24T21:36:37-07:00
+modified: 2023-12-24T21:39:48-07:00
 ---
 
-### Subtitle
+### Alcides Moreno
 
 
 <!-- YouTube Player
@@ -13,7 +13,7 @@ modified: 2023-12-24T21:36:37-07:00
   frameborder="0"></iframe>
 -->
 
-Watch [God](https://youtu.be/XEyV8o2dp7M) if the embed does not behave nicely.
+Watch [The Power of Miracles | The Story of God Morgan Freeman](https://youtu.be/XEyV8o2dp7M) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
