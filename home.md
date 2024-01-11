@@ -10,6 +10,8 @@ created: 2021-07-07T11:11:11-10:00
 modified: 2023-04-20T16:30:34-07:00
 ---
 
+... into how the heck I broke the Jekyll theme on this site, this time, while finishing the book. Knit one, pearl two. Just. Keep. Moving. Forward.
+
 ### What is Metavalent Stigmergy?
 
 Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clarifying-Consensus.html) Instantiate.
