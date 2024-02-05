@@ -12,10 +12,11 @@ modified: 2024-02-05T12:41:13-07:00
 
 ### Alcides Moreno
 
-
+<div class="video>
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/XEyV8o2dp7M?autoplay=1"
   frameborder="0"></iframe>
+</div>
 
 Watch [The Power of Miracles - The Story of God with Morgan Freeman](https://youtu.be/XEyV8o2dp7M) if the embed does not behave nicely.
 
