@@ -10,12 +10,12 @@ modified: 2024-02-05T12:43:10-07:0
 
 ### It all starts with a change of thinking, which is the most terrifying thing in the world to people who believe they are always right
 
-<p style="text-align: center;">
+<div class="center">
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/JpYA7WXkHyI?autoplay=1"
   frameborder="0"></iframe>
-</p>
+</div>
 
 Watch [How to be a creative thinker - Carnegie Mellon University Po-Shen Loh](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
 
