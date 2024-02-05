@@ -19,7 +19,7 @@ jQuery(window).scroll(function(){
 // Pagination function
 $(document).ready(function(){
 
-    var show_per_page = 10;
+    var show_per_page = 13;
     var number_of_items = $('#paginate-content').children().size();
     var number_of_pages = Math.ceil(number_of_items/show_per_page);
 
