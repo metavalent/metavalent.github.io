@@ -7,17 +7,17 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-12-25T11:11:11-07:00
-modified: 2023-12-24T22:07:48-07:00
+modified: 2023-12-25T11:11:11-07:00
 ---
 
-### Merry Christmas from Metavalent Sean Cahill
+### Merry Christmas from the ever-metavalent Sean Cahill
 
-<p style="text-align: center;">
+<div class="center">
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/vYeVgeTOgbI?t=1h27m27s"
   frameborder="0"></iframe>
-</p>
+</div>
 
 Watch [The Best of Lue Elizondo - UFOs, Human History, Altered DNA](https://youtu.be/vYeVgeTOgbI?t=1h27m27s) if the embed does not behave nicely.
 
