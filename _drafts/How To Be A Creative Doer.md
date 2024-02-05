@@ -1,16 +1,29 @@
+---
+title: How To Be A Creative Doer
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2023-07-02T07:57:25-05:00
+modified: 2024-02-05T11:00:43-07:00
+---
+
 ### It all starts with a change of thinking, which is the most terrifying thing in the world to people who believe they are always right
 
-
+<p style="text-align: center;">
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/JpYA7WXkHyI?autoplay=1"
   frameborder="0"></iframe>
 
-Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
+Watch [How To Be A Creative Thinker](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 -->
+</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
