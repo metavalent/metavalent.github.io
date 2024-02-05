@@ -15,8 +15,7 @@ modified: 2024-02-05T11:11:11-07:00
 ### Subtitle
 
 <!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true  
-<p style="text-align: center;">
-<video width="560" height="320" controls>
+<video class="center" width="560" height="320" controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
@@ -25,11 +24,9 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player
-<p style="text-align: center;">
-<iframe id="ytplayer" type="text/html" width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" width="560" height="320"
   src="https://www.youtube.com/embed/imA1lpOdEhQ?autoplay=1"
   frameborder="0"></iframe>
-</p>
 -->
 
 Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
