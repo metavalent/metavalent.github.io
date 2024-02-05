@@ -19,7 +19,7 @@ modified: 2024-02-05T12:43:10-07:00
   frameborder="0"></iframe>
 </p>
 
-Watch [How to be a creative thinker | Carnegie Mellon University Po-Shen Loh](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
+Watch [How to be a creative thinker - Carnegie Mellon University Po-Shen Loh](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
