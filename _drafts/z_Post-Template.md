@@ -14,35 +14,39 @@ modified: 2024-02-05T10:55:23-07:00
 
 ### Subtitle
 
-<p style="text-align: center;">
 <!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true  
+<p style="text-align: center;">
 <video width="560" height="320" controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
 </video>
+</p>
 -->
 
 <!-- YouTube Player
+<p style="text-align: center;">
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/imA1lpOdEhQ?autoplay=1"
   frameborder="0"></iframe>
+</p>
 -->
 
-Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
+<p>Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.</p>
 
-<!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true  
+<!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true
+<p style="text-align: center;"> 
 <audio controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
+</p>
 -->
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 -->
-</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -50,4 +54,4 @@ Your browser does not support the audio element.
 <p>&nbsp;</p>
 
 ---
-> Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), [Patreon](https://patreon.com/metavalent), or justbepono$paystring.crypto.com Mahalo means Respect and Gratitude without measure.🙏🏼
+> Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light upon other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), [Patreon](https://patreon.com/metavalent), or justbepono$paystring.crypto.com Mahalo means Respect and Gratitude without measure.🙏🏼
