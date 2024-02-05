@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2023-07-02T07:57:25-05:00
-modified: 2024-02-05T10:55:23-07:00
+created: 2024-02-05T011:11:11-07:00
+modified: 2024-02-05T11:11:11-07:00
 ---
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
@@ -32,7 +32,7 @@ Your browser does not support the video tag.
 </p>
 -->
 
-<p>Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.</p>
+Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.
 
 <!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true
 <p style="text-align: center;"> 
