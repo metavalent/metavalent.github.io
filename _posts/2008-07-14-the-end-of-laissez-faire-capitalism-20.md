@@ -30,4 +30,4 @@ Yes, we have some challenges before us. Between us and the refreshingly enlighte
 
 So yeah, wait ... never mind. It'll be too hard. Forget I mentioned it. Everything will be just fine. Have a nice day. How's the weather? Did you see the latest American Idol? Oh, I feel so much safer and more normal again. Phew, for a minute there I thought things might improve. That was a close call.
 
-<img src="http://metavalent.com/images/poster05.jpg" />
+<img src="http://metavalent.com/assets/images/poster05.jpg" />

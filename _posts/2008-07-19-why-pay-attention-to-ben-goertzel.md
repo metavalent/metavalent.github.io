@@ -23,9 +23,9 @@ If I may risk an interpretive restatement, "So yeah, we're really impressed with
 
 
 
-<img src="http://metavalent.com/images/goertzel046.jpg" width="400" alt="Explosive Combinatorial Mitigation" />
+<img src="http://metavalent.com/assets/images/goertzel046.jpg" width="400" alt="Explosive Combinatorial Mitigation" />
 
-<img src="http://metavalent.com/images/goertzel062.jpg" width="400" alt="Difficulty #1" />
+<img src="http://metavalent.com/assets/images/goertzel062.jpg" width="400" alt="Difficulty #1" />
 
-<img src="http://metavalent.com/images/goertzel063.jpg" width="400" alt="Difficulty #2" />
+<img src="http://metavalent.com/assets/images/goertzel063.jpg" width="400" alt="Difficulty #2" />
 

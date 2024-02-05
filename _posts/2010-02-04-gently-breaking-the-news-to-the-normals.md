@@ -12,6 +12,6 @@ Get ready, it's all coming together and now is the time to gently prepare the no
 
 So imagine what we're not showing you, yet.
 
-<img src="http://metavalent.com/images/mindcontrol.sega.jpg" alt="Mind I/O: Child's Play" />
+<img src="http://metavalent.com/assets/images/mindcontrol.sega.jpg" alt="Mind I/O: Child's Play" />
 
 Image: <a href="http://kotaku.com/332784/sega-totally-into-brains">Kotaku</a>
