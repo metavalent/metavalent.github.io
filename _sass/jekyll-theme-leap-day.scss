@@ -386,7 +386,7 @@ nav {
         }
 
         + .tag-h2 {
-
+          font-size: 1em;
         }
       }
 
@@ -454,6 +454,7 @@ footer {
       }
 
     .fork {
+      font-size: 1em;
     }
 
     #logo {
@@ -506,7 +507,7 @@ footer {
     top: 60px; // *default*
 
     .fork {
-      float: left;
+      float: none;
       display: inline-block;
       margin-left: 0px;
     position:fixed;
@@ -527,6 +528,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
+    word-wrap:break-word;
   }
 
   header {
