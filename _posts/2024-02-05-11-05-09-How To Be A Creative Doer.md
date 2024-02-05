@@ -1,3 +1,4 @@
+---
 title: How To Be A Creative Doer
 author: metavalent
 layout: post
@@ -6,7 +7,8 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2024-02-05T11:05:09-07:00
-modified: 2024-02-05T12:43:10-07:0
+modified: 2024-02-05T12:43:10-07:00
+---
 
 ### It all starts with a change of thinking, which is the most terrifying thing in the world to people who believe they are always right
 
