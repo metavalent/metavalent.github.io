@@ -17,14 +17,13 @@ modified: 2023-12-24T22:07:48-07:00
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/vYeVgeTOgbI?t=1h27m27s"
   frameborder="0"></iframe>
+</p>
 
-
-<p>Watch [The Best of Lue Elizondo - UFOs, Human History, Altered DNA](https://youtu.be/vYeVgeTOgbI?t=1h27m27s) if the embed does not behave nicely.</p>
+Watch [The Best of Lue Elizondo - UFOs, Human History, Altered DNA](https://youtu.be/vYeVgeTOgbI?t=1h27m27s) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 -->
-</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
