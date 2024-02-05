@@ -7,7 +7,7 @@ comments: true
 categories: metavalent
 tags: metavalent
 created: 2023-07-02T07:57:25-05:00
-modified: 2024-02-05T11:00:53-07:00
+modified: 2024-02-05T11:04:58-07:00
 ---
 
 ### It all starts with a change of thinking, which is the most terrifying thing in the world to people who believe they are always right
@@ -18,7 +18,7 @@ modified: 2024-02-05T11:00:53-07:00
   src="https://www.youtube.com/embed/JpYA7WXkHyI?autoplay=1"
   frameborder="0"></iframe>
 
-Watch [How To Be A Creative Thinker](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
+Watch [How to be a creative thinker | Carnegie Mellon University Po-Shen Loh](https://youtu.be/JpYA7WXkHyI) if the embed does not behave nicely.
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
