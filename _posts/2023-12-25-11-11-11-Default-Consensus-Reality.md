@@ -12,8 +12,8 @@ modified: 2023-12-25T11:11:11-07:00
 
 ### Merry Christmas from the ever-metavalent Sean Cahill
 
-<div class="center">
 <!-- YouTube Player -->
+<div class="video">
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/vYeVgeTOgbI?t=1h27m27s"
   frameborder="0"></iframe>

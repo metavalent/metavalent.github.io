@@ -79,6 +79,12 @@ strong {
   position:relative;
 }
 
+.video {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
 section img {
   max-width: 100%;
 }
@@ -505,10 +511,6 @@ footer {
 
   #banner {
     top: 60px; // *default*
-
-    .center {
-      text-align: center;
-    }
 
     .fork {
       float: none;
