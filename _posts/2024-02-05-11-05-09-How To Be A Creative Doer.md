@@ -13,7 +13,7 @@ modified: 2024-02-05T12:43:10-07:00
 ### It starts with a change of thinking. 
 <!-- the most terrifying thing in the world to people who believe they are always right, isn't it? -->
 
-<div class="video">
+<div class="center">
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/JpYA7WXkHyI?autoplay=1"
