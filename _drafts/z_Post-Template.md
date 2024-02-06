@@ -20,7 +20,6 @@ modified: 2024-02-05T11:11:11-07:00
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
 </video>
-</p>
 -->
 
 <!-- YouTube Player
@@ -38,15 +37,12 @@ Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave n
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
-</p>
 -->
 
 <!-- For custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 -->
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
