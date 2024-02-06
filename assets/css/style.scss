@@ -1,15 +1,13 @@
 ---
 ---
-
+// Activates this file to override remote_theme defaults.
 @import "{{ site.theme }}";
 
-//
-// IMPORTS
-//
-
+// Failed to document these. Do better.
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
+
+// Syntax highlighting @imports are at the bottom of this file.
 
 /**************/
 /* BASE RULES */
