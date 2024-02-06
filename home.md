@@ -135,7 +135,7 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 
 [[ ii ]](#) Additional _Metavalent Stigmergy_ content may also available on [Substack](https://metvalent.substack.com/), [Medium](https://medium.com/@metavalent), [Twitter](https://twitter.com/metavalent), [Facebook](https://www.facebook.com/groups/metavalent.stigmergy), [Instagram](https://instagram.com/metavalent), [Currents](https://currents.google.com/metavalent), [Panquake (coming soon)](https://metavalent.panquake.com/), and [Pocket](https://getpocket.com/@metavalent).
 
-[[ iii ]](#) This site hand-rolled by the artist, thanks to [GitHub Pages](https://pages.github.com/), and as a way to get a bit more familiar with ruby, jekkyl, liquid, gfm limited markdown, on wsl with git bash, etc. 
+[[ iii ]](#) This site was haphazardly hand-rolled by an amateur artist thanks to [GitHub Pages](https://pages.github.com/) as a way to get a bit more familiar with ruby, jekyll, liquid, gfm limited markdown, on wsl with git bash, etc.
 
 [[ iv ]](#) Muchísimo mahalos to [Matt Graham](https://mobile.twitter.com/mattgraham) for generosity of the [Leap Day Theme](https://github.com/mattgraham/leapday).
 
