@@ -32,7 +32,7 @@ Your browser does not support the video tag.
 Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
 
 <!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true
-<p style="text-align: center;"> 
+<div class="center"> 
 <audio controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">

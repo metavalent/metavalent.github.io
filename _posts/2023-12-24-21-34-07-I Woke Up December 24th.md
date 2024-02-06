@@ -12,7 +12,7 @@ modified: 2024-02-05T12:41:13-07:00
 
 ### Alcides Moreno
 
-<div class="video>
+<div class="center">
 <iframe id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/XEyV8o2dp7M?autoplay=1"
   frameborder="0"></iframe>
