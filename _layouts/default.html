@@ -11,14 +11,14 @@
 	<link rel="stylesheet" href="{{ '/assets/css/style.scss }}">
 	
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="/assets/js/scripts.js"></script>
 	  
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
-        
-	<script src="/assets/js/scripts.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	  
+    <!-- redundant? <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> -->
 
   </head>
   <body>
@@ -50,11 +50,7 @@
 	</span>
 	
 	</header>
-	  
-      <!-- experiment with flex-container to get banner to display on mobile -->
-      <!-- <div id="banner" class="flex-container"> -->
 	  	
-	
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -65,12 +61,13 @@
           </div>
         {% endif %}
       </div>
-	  <!-- end banner -->
-		
+
     <div class="wrapper">
       <nav>
         <ul></ul>
       </nav>
+	    
+<!-- CONTENT -->
       <section id="content">
         {{ content }}
       </section>
@@ -82,6 +79,7 @@
       </footer>
     </div>
 
+<!-- ANALYTICS -->
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
