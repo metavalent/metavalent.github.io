@@ -92,6 +92,7 @@ footer-links:
 theme: jekyll-theme-leap-day
 
 plugins: 
+   - jekyll-paginate
    - jekyll-seo-tag
    - jekyll-feed
    - jemoji
