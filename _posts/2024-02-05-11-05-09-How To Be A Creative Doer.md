@@ -10,8 +10,10 @@ created: 2024-02-05T11:05:09-07:00
 modified: 2024-02-05T12:43:10-07:00
 ---
 
+<div class="exerpt">
 ### It starts with a change of thinking. 
 <!-- the most terrifying thing in the world to people who believe they are always right, isn't it? -->
+</div>
 
 <div class="center">
 <!-- YouTube Player -->
