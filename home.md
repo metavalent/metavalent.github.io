@@ -142,4 +142,4 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 [[ v ]](#) [RSS feed](https://metavalent.com/feed).
 
 ---
-<sub><sup>"Whoever pursues justice and treats others with kindness discovers true life marked by integrity and respect" ([Proverbs 21:21](https://www.biblegateway.com/passage/?search=Proverbs%2021:21&version=VOICE), The Voice).</sub></sup>
+<sub><sup>"Whoever pursues justice and treats others with kindness discovers true life marked by integrity and respect" ([Proverbs 21:21](https://www.biblegateway.com/passage/?search=Proverbs%2021:21&version=VOICE), The Voice).</sup></sub>
