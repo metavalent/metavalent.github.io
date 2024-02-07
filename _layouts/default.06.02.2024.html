@@ -68,17 +68,11 @@
       </nav>
 	    
 <!-- BODY CONTENT -->
-      <!-- default from minimal theme> -->
-        <div class="wrapper">
-          <nav>
-            <ul></ul>
-          </nav>
-          <section>
-            
-            {{ content }}
-    
-          </section>
-
+      <!-- try remove id <section id="content"> -->
+      <section>
+        {{ content }}
+      </section>
+	    
 <!-- FOOTER -->
       <footer>  	 
         {% if site.github.is_project_page %}
