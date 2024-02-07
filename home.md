@@ -7,7 +7,7 @@ categories: metavalent, book of true self, agi, turtle trekkin
 tags: home, metavalent
 permalink: /home/
 created: 2004-10-01T11:11:11-08:00
-modified: 2023-02-6T17:17:17-08:00
+modified: 2024-02-6T17:17:17-08:00
 ---
 
 ### We Are Inquiring Together
