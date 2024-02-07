@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-<div class="posts">
+<div class="post">
   {% for post in site.posts %}
     <article class="post">
 
@@ -15,7 +15,7 @@ published: true
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">:: Read More ::</a>
-      
+
 	<!-- spaces + hr between posts -->
 	<br /><br /><br /><hr />
     </article>
