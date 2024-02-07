@@ -12,7 +12,8 @@ modified: 2023-04-20T16:30:34-07:00
 
 ### We Are Inquiring Together
 
-... into how the heck I broke the Jekyll theme on this site, this time, while finishing the book. Simplify. Then go simpler.
+<!-- YouTube Player -->
+<iframe id="ytplayer" type="text/html" class="center" width="80%" src="https://youtu.be/K7ailgfJQck" frameborder="0"></iframe>
 
 ### What is Metavalent Stigmergy?
 
