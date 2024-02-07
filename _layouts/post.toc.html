@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!-- Try to make utteranc.es login work -- That wasn't it -->
+<!--- <link rel="canonical" href="http://metavalent.github.io/slug"/> -->
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+<article class="post">
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="view">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+<!-- disqus ads are SUPER DIGUSTING! Just GROSS! 
+{% include disqus.html %} -->
+  <!-- utteranc.es commenting. stored in GitHub issues. nice -->
+<script src="https://utteranc.es/client.js"
+        repo="GlobalCognitionGroup/metavalent.github.io"
+        issue-term="url"
+        label="✨💬✨comment"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+</article>
+<!-- add space beneath commenting widget to keep inside section border -->
+ <br />
+ <br />
