@@ -58,7 +58,9 @@ Watch [5 Traps a female covert narcissist uses](https://youtu.be/ckiyVcmQTg4) if
 
 #### Destabilize, Blame, Insist YOU Change
 
-Projection, projection, projection. DARVO and domination at all cost, including your very soul.
+Projection, projection, projection. DARVO and domination at all cost, including your very soul. "Accountability is for losers," in their mind.
+
+> You'd like to think that narcissists would make proper adjustments after being inappropriate.  But instead, [they flip the script](https://youtu.be/dL4y53n7lno?t=13m10s) by reminding you that you need to shape up.  Dr. Les Carter highlights their most common requirements of you, even though they are the ones creating a mess in the first place.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320"
