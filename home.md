@@ -141,5 +141,5 @@ We can't all be [Mother Theresa](https://prayerfoundation.org/mother_teresa_do_i
 
 [[ v ]](#) [RSS feed](https://metavalent.com/feed).
 
-
-<!-- So much ugly anchor-hacking because content frame is anchored to header instead of banner. Maybe fix later. Is it really worth it? -->
+---
+<sub><sup>"Whoever pursues justice and treats others with kindness discovers true life marked by integrity and respect" ([Proverbs 21:21](https://www.biblegateway.com/passage/?search=Proverbs%2021:21&version=VOICE), The Voice).</sub></sup>
