@@ -10,7 +10,9 @@ created: 2021-07-07T11:11:11-10:00
 modified: 2023-04-20T16:30:34-07:00
 ---
 
-... into how the heck I broke the Jekyll theme on this site, this time, while finishing the book. Knit one, pearl two. Just. Keep. Moving. Forward.
+### We Are Inquiring Together
+
+... into how the heck I broke the Jekyll theme on this site, this time, while finishing the book. Simplify. Then go simpler.
 
 ### What is Metavalent Stigmergy?
 
