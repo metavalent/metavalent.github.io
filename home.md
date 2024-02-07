@@ -13,6 +13,7 @@ modified: 2024-02-7T11:11:11-08:00
 ### We Are Inquiring Together
 
 "[Our conversations have been such a revelation to me](https://youtu.be/HMyX2FXE9S4?t=1128)," Dr. Allan W. Anderson.
+&mdash; J. Krishnamurti - San Diego 1974 - Conversation 18.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" style="text-align: center;" src="https://www.youtube.com/embed/K7ailgfJQck" frameborder="0"></iframe>
