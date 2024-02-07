@@ -10,7 +10,7 @@ published: true
       <h1>{{ post.title }}</h1>
 	  <!-- <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1> // default -->
 
-      <div class="entry">
+      <div>
         {{ post.excerpt }}
       </div>
 
