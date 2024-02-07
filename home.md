@@ -3,7 +3,7 @@ layout: default
 published: true
 title: We're Inquiring Together
 author: metavalent
-categories: metavalent, book of true self, agi, turtle trekkin
+categories: metavalent, agi, global cognition grid
 tags: home, metavalent
 permalink: /home/
 created: 2004-10-01T11:11:11-08:00
@@ -13,7 +13,7 @@ modified: 2024-02-6T17:17:17-08:00
 ### We Are Inquiring Together
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="80%" src="https://youtu.be/K7ailgfJQck" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" style="text-align: center;" width="80%" src="https://www.youtube.com/embed/K7ailgfJQck" frameborder="0"></iframe>
 
 ### What is Metavalent Stigmergy?
 

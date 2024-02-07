@@ -1,6 +1,10 @@
 ---
 layout: default
 published: true
+author: metavalent
+categories: metavalent, agi, global cognition grid
+tags: blog, metavalent
+permalink: /meta/
 ---
 
 <div class="posts">
