@@ -7,13 +7,15 @@ categories: metavalent, agi, global cognition grid
 tags: home, metavalent
 permalink: /home/
 created: 2004-10-01T11:11:11-08:00
-modified: 2024-02-6T17:17:17-08:00
+modified: 2024-02-7T11:11:11-08:00
 ---
 
 ### We Are Inquiring Together
 
+"[Our conversations have been such a revelation to me](https://youtu.be/HMyX2FXE9S4?t=1128)," Dr. Allan W. Anderson.
+
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" style="text-align: center;" width="80%" height="80%" src="https://www.youtube.com/embed/K7ailgfJQck" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" style="text-align: center;" src="https://www.youtube.com/embed/K7ailgfJQck" frameborder="0"></iframe>
 
 ---
 
