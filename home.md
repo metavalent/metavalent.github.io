@@ -19,10 +19,9 @@ modified: 2024-02-7T11:11:11-08:00
 <div style="text-align: center;">
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/K7ailgfJQck" frameborder="0"></iframe>
-</div><br />
+</div>
 
 ---
-
 ### What is Metavalent Stigmergy?
 
 According to [Mork](https://www.imdb.com/title/tt0077053/), as reported by officially unofficial sources close to The Source, who tell us they've broken Orson's interdimensional encryption technology used to communicate with planet Ork, Metavalent Stigmergy is the process by which we have observed New [_Default Consensus Realities_]({{ site.baseurl }}/metavalent/2021/03/26/21-05-15-Clarifying-Consensus.html) Instantiate. <!--- Is that light enough on the enlightenment for you, yet? No, because nothing ever can or will be. So sad. --->
