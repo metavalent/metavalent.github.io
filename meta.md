@@ -18,6 +18,7 @@ published: true
 
 	<!-- spaces + hr between posts -->
 	<br /><br /><br /><hr />
+  
     </article>
 
   {% endfor %}
