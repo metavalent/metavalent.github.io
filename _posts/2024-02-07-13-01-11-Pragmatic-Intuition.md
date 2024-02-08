@@ -35,7 +35,9 @@ Watch [Ep #031 \| 3 Types of Intuition And How to Identify & Use Them in Your Li
   src="https://www.youtube.com/embed/https://youtu.be/KgzQuE1pR1w?t=5"
   frameborder="0"></iframe>
 
-Watch [Bill Hicks - It's Just A Ride](https://youtu.be/KgzQuE1pR1w?t=5) if the embed does not behave nicely. "No effort, no work, no job, no savings of money, a choice. Right now." &mdash; Bill Hicks ... How [DARE](https://metavalent.com/metavalent/2024/02/05/13-58-06.html) You!
+Watch [Bill Hicks - It's Just A Ride](https://youtu.be/KgzQuE1pR1w?t=5) if the embed does not behave nicely. "No effort, no work, no job, no savings of money, a choice. Right now." &mdash; Bill Hicks.
+
+How [DARE](https://metavalent.com/metavalent/2024/02/05/13-58-06.html) You!
 
 
 ---
