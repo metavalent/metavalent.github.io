@@ -26,7 +26,7 @@ Watch [Viktor Frankl on Why Idealists Are Real Realists](https://youtu.be/loay2i
 
 Watch [Viktor Frankl\: Self-Actualization is not the goal](https://youtu.be/OL8DyVusLeE) if the embed does not behave nicely.
 
-> ([3:05](https://youtu.be/OL8DyVusLeE?t=3m16s)) However it might be, whether the ones or the others are suffering more or less respectively from this existential vacuum, the ones who seem to suffer less should not look at the others with contempt but look at the others with compassion. And look for anything possible to help the others. Now this void manifests itself as apathy in boredom, lack of initiative, lack of interest - interest in the world or initiative in changing something within the world for the better. This frustration is a a proof of the existence of a will to meaning. &mdash; Viktor Frankl
+> ([3:05](https://youtu.be/OL8DyVusLeE?t=3m16s)) However it might be, whether the ones or the others are suffering more or less respectively from this existential vacuum, the ones who seem to suffer less should not look at the others with contempt but look at the others with compassion. And look for anything possible to help the others. Now this void manifests itself as apathy, in boredom, lack of initiative, lack of interest &ndash; interest in the world, or initiative in changing something within the world for the better. This frustration is a a proof of the existence of a will to meaning. &mdash; Viktor Frankl
 
 
 ---
