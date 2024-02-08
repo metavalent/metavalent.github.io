@@ -1,0 +1,29 @@
+---
+title: Title
+author: metavalent
+layout: post
+published: true
+comments: true
+categories: metavalent
+tags: metavalent
+created: 2023-04-21T09:19:20-07:00
+modified: 2023-04-24T21:28:33-07:00
+---
+
+### subtitle
+
+<p></p>
+<video class="center" width="640" height="480" controls autoplay>
+  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/If_Winter_Never.mp4?raw=true" type="video/mp4">
+  <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/If_Winter_Never.webm?raw=true" type="video/webm">
+Your browser does not support the video tag. Try [MP4](https://drive.google.com/file/d/1csrQXhu-xoqTei1sNwEt9Z4r5t7A2Iw_/) or [WEBM](https://drive.google.com/file/d/1mTsW4ZCsNMMTGGg3uZL8Rigmg3Ulzee1/) versions.
+</video>
+<p></p>
+
+If the HTML5 player isn't working for you, here are backup [MP4](https://drive.google.com/file/d/1csrQXhu-xoqTei1sNwEt9Z4r5t7A2Iw_/) and [WEBM](https://drive.google.com/file/d/1mTsW4ZCsNMMTGGg3uZL8Rigmg3Ulzee1/) versions.
+
+<!-- a bubbleapps experiment
+https://simplevideoplayer.bubbleapps.io/video?mp4=https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/If_Winter_Never.mp4?raw=true&webm=https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/If_Winter_Never.webm?raw=true
+-->
+
+> Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Mahalo means Respect and Gratitude without measure.🙏🏼
