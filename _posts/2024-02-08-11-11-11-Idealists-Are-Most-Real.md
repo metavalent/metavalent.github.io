@@ -12,7 +12,7 @@ modified: 2024-02-08T11:11:11-07:00
 
 ### Frankl: "Now this void manifests itself as apathy, in boredom, lack of initiative," which are anti-reality.
 
-Cynicism is not superior, it is the end of meaning, and the end of meaning is the end of a meaningful, worthwhile life. When we are in this state, we already know this, however deep the recursive layers of denial, addiction, and misdirection may run. It's only a matter of time until the the base case collapses the recursive loops of deception and the material world manifests reality as it was from the beginning, is now, and ever shall be. Psychotic delusions of superiority and *winning* are perhaps the most vicious drug, amplifying the toxic effects of all the others.
+Cynicism is not superior, it is the end of meaning, and the end of meaning is the end of a meaningful, worthwhile life. When we are in this state, we already know this, however deep the recursive layers of denial, addiction, and misdirection may run. It's only a matter of time until the the base case collapses the recursive loops of deception and the material world manifests reality as it was from the beginning, is now, and ever shall be. Psychotic delusions of superiority and *winning* are perhaps the most vicious drug, amplifying the tragic toxic effects of all the others.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320"
