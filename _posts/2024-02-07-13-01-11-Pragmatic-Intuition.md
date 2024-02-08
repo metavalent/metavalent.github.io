@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-02-08T11:11:11-07:00
-modified: 2024-02-08T11:11:11-07:00
+created: 2024-02-07T13:01:11-07:00
+modified: 2024-02-07T13:01:11-07:00
 ---
 
 ### Is there such a thing as Pragmatic Intuition? Is there a possible understanding of, and engagement with, this ordinary supernatural (super + natural) human facility, equal in credibility and efficancy to conventional Cartesian cognition?
