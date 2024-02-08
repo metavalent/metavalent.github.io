@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-02-06T07:25:34-07:00
-modified: 2024-02-06T07:25:34-07:00
+created: 2024-02-09T11:11:11-07:00
+modified: 2024-02-09T11:11:11-07:00
 ---
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
@@ -16,7 +16,7 @@ modified: 2024-02-06T07:25:34-07:00
 
 <!-- Post Content -->
 
-<!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true
+<!-- Native HTML5 Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code]
 <video class="center" width="560" height="320" controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
@@ -25,14 +25,12 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320"
-  src="https://www.youtube.com/embed/yYsVeYzbik?autoplay=1"
-  frameborder="0"></iframe>
-   -->
+<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+-->
 
 Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
 
-<!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true
+<!-- HTML5 Audio Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code] 
 <div class="center"> 
 <audio controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
