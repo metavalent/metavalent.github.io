@@ -12,6 +12,8 @@ modified: 2024-02-7T11:11:11-08:00
 
 ### We Are Inquiring Together
 
+"[You still have to do the dishes](https://youtu.be/7_2tla_GbMw)."
+
 "[Our conversations have been such a revelation to me](https://youtu.be/HMyX2FXE9S4?t=1128)," Dr. Allan W. Anderson.
 &mdash; J. Krishnamurti - San Diego 1974 - Conversation 18.
 
