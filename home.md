@@ -17,6 +17,8 @@ modified: 2024-02-7T11:11:11-08:00
 "[Our conversations have been such a revelation to me](https://youtu.be/HMyX2FXE9S4?t=1128)," Dr. Allan W. Anderson.
 &mdash; J. Krishnamurti - San Diego 1974 - Conversation 18.
 
+"Well, I have a sort of [suggestion](https://youtu.be/PGD0a_JTvpw)." &mdash; Alan W.
+
 ---
 <div style="text-align: center;">
 <!-- YouTube Player -->
