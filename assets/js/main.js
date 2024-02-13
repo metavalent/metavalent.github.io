@@ -14,7 +14,7 @@ var sectionHeight = function() {
   
   $.find(function() {
     $.find("section h1, section h2, section h3").each(function(){
-      $.find("nav ul").append("&lt;li class&#61;'tag-" + this.nodeName.toLowerCase() + "'&gt;&lt;a href&#61;'#" + $.find(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'&gt;" + $.find(this).text() + "&lt;/a&gt;&lt;/li&gt;");
+      $.find("nav ul").append("&lt;li class&#61;'tag&#45;" + this.nodeName.toLowerCase() + "'&gt;&lt;a href&#61;'&#35;" + $.find(this).text().toLowerCase().replace(&#47; /g, '&#45;').replace(/[^\w-]+/g,'') + "'&gt;" + $.find(this).text() + "&lt;&#47;a&gt;&lt;&#47;li&gt;");
       $.find(this).attr("id",$.find(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
       $.find("nav ul li:first-child a").parent().addClass("active");
     });
