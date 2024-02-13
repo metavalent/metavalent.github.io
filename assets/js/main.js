@@ -14,9 +14,11 @@ var sectionHeight = function() {
   
   $(function() {
     $("section h1, section h2, section h3").each(function(){
-      $("nav ul").append("<li class=;'tag-;" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
-      $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
-      $("nav ul li:first-child a").parent().addClass("active");
+//  $("nav ul").append("<li class=;'tag-;" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
+//  Try rewrite as JQuery
+    $("nav ul").append($("<li>").addClass("tag-" + this.nodeName.toLowerCase()).append($("<a>").attr("href", "#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'')).text($(this).text())));
+    $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
+    $("nav ul li:first-child a").parent().addClass("active");
     });
   
     $("nav ul li").on("click", "a", function(event) {
