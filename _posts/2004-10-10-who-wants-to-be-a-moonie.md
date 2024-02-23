@@ -4,7 +4,7 @@ title: Who Wants to be a Moonie?
 date: 2004-10-10 22:10
 author: metavalent
 comments: true
-categories: [space]
+categories: [metavalent, space]
 ---
 More polemics on stuff we wish was, but isn't; or should be but won't be; and stuff that will be but ain't, just yet.
 

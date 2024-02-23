@@ -4,7 +4,7 @@ title: What is A Webcam Darkly?
 date: 2004-10-09 17:09
 author: metavalent
 comments: true
-categories: [admin]
+categories: [metavalent, admin]
 ---
 we'll find out, in time.  
 
