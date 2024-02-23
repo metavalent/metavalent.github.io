@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Who Wants to be a Moonie?
-date: 2004-10-10 22:10
+title: 'First Commercial Moon Landing'
 author: metavalent
+layout: post
+published: true
 comments: true
 categories: metavalent, space
+tags: metavalent
+created: 2004-10-10T22:10:10-08:00
+modified: 2024-02-23T11:11:11-07:00
 ---
-More polemics on stuff we wish was, but isn't; or should be but won't be; and stuff that will be but ain't, just yet.
+
+### More polemics on stuff we wish was, but isn't; or should be but won't be; and stuff that will be but ain't, just yet.
 
 As your prolly know, Michael Melvill and Burt Rutan created <a href="http://www.scaled.com/">SpaceShipOne</a> with a bunch of Paul Allen spare change and successfully launched the first privately funded, non-governmental manned spaceflight on Monday, June 21, 2004. But they <a href="http://www.xprize.com/teams/guidelines.html">had to do it again</a> within 14 days to get the <a href="http://www.xprize.com/">The Ansari X-Prize</a>.  That flight would have had to happen by yesterday.  It didn't, but so what?
 
