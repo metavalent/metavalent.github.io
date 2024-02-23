@@ -5,7 +5,7 @@ layout: post
 published: true
 comments: true
 categories: metavalent, space
-tags: metavalent
+tags: metavalent, space
 created: 2024-02-23T11:11:11-07:00
 modified: 2024-02-23T11:11:11-07:00
 ---

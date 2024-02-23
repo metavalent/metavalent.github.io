@@ -4,7 +4,7 @@ author: metavalent
 layout: post
 published: true
 comments: true
-categories: metavalent, space
+categories: [space]
 tags: metavalent
 created: 2004-10-10T22:10:10-08:00
 modified: 2024-02-23T11:11:11-07:00
