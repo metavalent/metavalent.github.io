@@ -1,7 +1,3 @@
-
-
-https://www.youtube.com/watch?v=5-qwhozfYeQ&t=6438s
-
 ---
 title: 'First Commercial Moon Landing'
 author: metavalent
@@ -16,7 +12,7 @@ modified: 2024-02-23T11:11:11-07:00
 
 ### That's pretty metavalent, right?
 
-Flashback to "[Who Wants to be a Moonie?](https://metavalent.com/space/2004/10/10/who-wants-to-be-a-moonie.html)" post, 20 years ago.
+Another #ThatllNEVERHappen flashback to "[Who Wants to be a Moonie?](https://metavalent.com/space/2004/10/10/who-wants-to-be-a-moonie.html)" posted here 20 years ago.
 
 <!-- I spent far too much of my life seeking approval from self-appointed default consensus narrative gatekeepers who will *never* get it, because they don't wnat to get it. Done with that. -->
 
