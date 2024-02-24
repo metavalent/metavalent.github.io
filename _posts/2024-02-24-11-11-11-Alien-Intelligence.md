@@ -18,19 +18,5 @@ Being angry, bitter, resentful, and hiding in forests, jungles, or gated communi
 
 Watch [The case for alien AI \| James Evans \| TEDxChicago](https://youtu.be/87zET-4IQws) if the embed does not behave nicely.
 
-<!-- HTML5 Audio Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code] 
-<div class="center"> 
-<audio controls>
-  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
-  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
- -->
-
-<!-- For custom thumbnail
-![alt text](/assets/images/image.jpg "title")
--->
-
-
 ---
 > Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light upon other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), [Patreon](https://patreon.com/metavalent), or justbepono$paystring.crypto.com Mahalo means Respect and Gratitude without measure.🙏🏼
