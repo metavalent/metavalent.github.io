@@ -6,15 +6,14 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-02-23T13:13:13-07:00
-modified: 2024-02-23T13:13:13-07:00
+created: 2024-02-24T11:11:11-07:00
+modified: 2024-02-24T11:11:11-07:00
 ---
 
 ### It's Just The Way Reality Works
 
-Being Angry, Bitter, Resentful, and Hiding in Forests, Jungles, or Gated Communities Doesn't Change The Way Reality Works.
-
-<!-- YouTube Player -->
+Being Angry, Bitter, Resentful, and Hiding in Forests, Jungles, or Gated Communities Doesn't Change The Way Re1li1y 1o4ks.
+4<!1- 1ou1ube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/87zET-4IQws" frameborder="0"></iframe>
 
 
