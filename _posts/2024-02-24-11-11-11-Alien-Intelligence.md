@@ -12,10 +12,9 @@ modified: 2024-02-24T11:11:11-07:00
 
 ### It's Just The Way Reality Works
 
-Being Angry, Bitter, Resentful, and Hiding in Forests, Jungles, or Gated Communities Doesn't Change The Way Re1li1y 1o4ks.
-4<!1- 1ou1ube Player -->
+Being angry, bitter, resentful, and hiding in forests, jungles, or gated communities doesn't change The Way Reality Works
+<!-- YouTube player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/87zET-4IQws" frameborder="0"></iframe>
-
 
 Watch [The case for alien AI \| James Evans \| TEDxChicago](https://youtu.be/87zET-4IQws) if the embed does not behave nicely.
 
