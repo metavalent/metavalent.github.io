@@ -10,13 +10,14 @@ created: 2024-02-25T11:11:11-07:00
 modified: 2024-02-25T11:11:11-07:00
 ---
 
-### That's right.
+### That's right.
 
-The mid-game environment of the second half of the 20th century was perfect to cultivate a metavalent mental health pandemic, but that's too much to think about, so we must distract ourselves with all kinds of media-made distractions while medicating the masses never addressing root causes.
+The mid-game environment of the second half of the 20th century perfectly cultivated a metavalent mental health pandemic which manifested as all kinds of derivative shadow-pandemics of dubious actuality; but that's all way too much to think about, so we self-distract, self-destruct, and self-medicate en masse, avoiding root causes at all cost. What could possibly have gone wrong?
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/CS2quBsSR2U"
-  frameborder="0"></iframe>
+  frameborder="0"></iframe>
+
 
 Watch [I Come From Generational Trauma](https://youtu.be/CS2quBsSR2U) if the embed does not behave nicely.
 
