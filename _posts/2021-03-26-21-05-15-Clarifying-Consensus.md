@@ -26,9 +26,9 @@ Default consensus reality is a mere observation, not a creed or philosophy. Have
 
 ### A Collective Default Mode Network
 
-We observe that default consensus realities are a kind of *default mode network of \[common \| similar \| shared\] awareness* of the world. Conditions on planet Earth. Default consensus realities exist within families, tribes, villages, cities, counties, states, nations, and ultimately the world.
+We observe that default consensus realities are a kind of *default mode network* of \[common \| similar \| shared\] *awareness* of [the world \| conditions on planet Earth]. Default consensus realities exist within families, tribes, villages, cities, counties, states, nations, and ultimately the world.
 
-We observe that DCRs tend to be largely unconscious to most subjective participants in a given population. DCRs are shared assumptions and presumptions about *how the world is*, be they accurate or not.
+DCRs are shared assumptions and presumptions about *how the world is*, be they accurate or not. We observe that DCRs tend to be largely unconscious to most subjective participants in any given population.
 
 One current *default consensus reality* agrees that the sky is blue. Another prevalent default consensus reality is that we live in a world of conflict and strife. Both of those, appear to be empirically true, at the moment, from the perspective of a severely constrained biological sensory substrate. We are reminded that there are changes to the climate that could *completely change the color of the sky*. Similarly, there are changes to the way we interact with one another in a society that literally can cultivate *conditions on Earth as it is in heaven*. The 20<sup>th</sup> DCR considered both similarly likely; however, the utility of the latter greatly outweighed the former and occupied the minds and intentions of a vastly greater number of subjective observers.
 
