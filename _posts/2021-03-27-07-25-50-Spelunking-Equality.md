@@ -14,7 +14,7 @@ What is the nature of freedom, equality, in the context of Earth, 2021? If can, 
 
 > Have you discovered or learned something interesting or valuable here? Something that piqued your imagination, creativity, research, discovery, or other academic, philosophical, or spiritual interest? Let us know with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), or [Patreon](https://patreon.com/metavalent). Every action we take in this multiverse, however small, matters and makes a difference. So, thank you and blessings, in this very moment!
 
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/0gqwMZGynYs frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/0gqwMZGynYs" frameborder="0"></iframe>
 
 Watch [Japharii from BLM757 on Open-Carrying, working with Boogaloo Bois, Death of Comrade and more!](https://youtu.be/0gqwMZGynYs) if the embed does not behave nicely.
 
