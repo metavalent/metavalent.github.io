@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-02-09T11:11:11-07:00
-modified: 2024-02-09T11:11:11-07:00
+created: 2024-02-27T11:11:11-07:00
+modified: 2024-02-27T11:11:11-07:00
 ---
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
@@ -39,8 +39,10 @@ Your browser does not support the audio element.
 </audio>
  -->
 
-<!-- For custom thumbnail
+<!-- Custom thumbnail -->
 ![alt text](/assets/images/image.jpg "title")
+RESIZE:
+<img src="https://metavalent.com/assets/images/IMAGE.jpg" width="300" height="300">
 -->
 
 
