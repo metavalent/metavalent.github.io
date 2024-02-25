@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Clarifying Consensus
+layout: post
+author: metavalent
 published: true
 comments: true
 categories: metavalent
