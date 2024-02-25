@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Spelunking Freedom and Equality
+layout: post
+author: metavalent
 published: true
 comments: true
 categories: metavalent
 tags: metavalent
 created: 2021-03-27T07:25:50-07:00
-modified: null
+modified: 2024-02-25T13:07:34-07:00
 ---
 
 What is the nature of freedom, equality, in the context of Earth, 2021? If can, try consider these two videos, together, without prejudice or bias.
