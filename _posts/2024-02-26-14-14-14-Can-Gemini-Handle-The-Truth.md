@@ -1,4 +1,3 @@
-
 ---
 title: 'Can Gemini AI Handle the Truth?'
 author: metavalent
