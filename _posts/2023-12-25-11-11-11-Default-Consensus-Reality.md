@@ -10,7 +10,7 @@ created: 2023-12-25T11:11:11-07:00
 modified: 2023-12-25T11:11:11-07:00
 ---
 
-### Merry Christmas from the ever-metavalent Sean Cahill
+### Merry Christmas from the metavalent-minded Sean Cahill.
 
 <!-- YouTube Player -->
 <div class="center">

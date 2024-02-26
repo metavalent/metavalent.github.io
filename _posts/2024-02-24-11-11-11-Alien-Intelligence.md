@@ -10,7 +10,7 @@ created: 2024-02-24T11:11:11-07:00
 modified: 2024-02-24T11:11:11-07:00
 ---
 
-### It's Just The Way Reality Works
+### It's Just The Way Reality Works.
 
 Being angry, bitter, resentful, and hiding in forests, jungles, or gated communities doesn't change The Way Reality Works
 <!-- YouTube player -->

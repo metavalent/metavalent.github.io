@@ -12,7 +12,7 @@ modified: 2024-02-06T15:25:34-07:00
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
 
-### OSU and OFFensive Swarm-Enabled Tactics (OFFSET)
+### OSU and OFFensive Swarm-Enabled Tactics (OFFSET).
 
 > Research involving Oregon State University has shown that [a “swarm” of more than 100 autonomous ground and aerial robots can be supervised by one person](https://today.oregonstate.edu/news/one-person-can-supervise-%E2%80%98swarm%E2%80%99-100-unmanned-autonomous-vehicles-osu-research-shows) without subjecting the individual to an undue workload.
 

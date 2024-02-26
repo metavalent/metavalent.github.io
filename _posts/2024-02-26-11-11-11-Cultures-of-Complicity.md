@@ -1,5 +1,5 @@
 ---
-title: 'Cultural Complicity'
+title: 'Cultures of Complicity'
 author: metavalent
 layout: post
 published: true
@@ -10,11 +10,10 @@ created: 2024-02-26T11:11:11-07:00
 modified: 2024-02-26T11:11:11-07:00
 ---
 
-### 🙏 Now Do That One World-Leading Geriatric Psychiatry University Department circa 2008-2018.
+### 🙏 Now Do That One World-Leading Geriatric Psychiatry University Department circa 2008-2018. Thank you.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/GeAPtIdb4Qs" frameborder="0"></iframe>
-
 
 Watch [This Scientist catches FRAUD in Harvard and Stanford Research](https://youtu.be/GeAPtIdb4Qs) if the embed does not behave nicely.
 
