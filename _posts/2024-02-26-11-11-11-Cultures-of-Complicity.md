@@ -5,7 +5,7 @@ layout: post
 published: true
 comments: true
 categories: metavalent
-tags: metavalent, public trust and safety
+tags: metavalent, public trust and safety, medical reform
 created: 2024-02-26T13:13:13-07:00
 modified: 2024-02-26T13:13:13-7:00
 ---
@@ -15,7 +15,7 @@ modified: 2024-02-26T13:13:13-7:00
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/GeAPtIdb4Qs" frameborder="0"></iframe>
 
-Watch [This Scientist catches FRAUD in Harvard and Stanford Research](https://youtu.be/GeAPtIdb4Qs) if the embed does not behave nicely.
+Watch [This Scientist catches FRAUD in Harvard and Stanford Research](https://youtu.be/GeAPtIdb4Qs) if the embed does not behave nicely. Bonus commentary by an ethical psychologist on the pandemic of [breaches of informed consent](https://youtu.be/6r-YEv3917c?t=4m55s).
 
 <img src="https://metavalent.com/assets/images/Cultural.Complicity.png" width="150" height="150">
 
