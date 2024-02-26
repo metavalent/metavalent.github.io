@@ -12,6 +12,12 @@ modified: 2024-02-26T11:11:11-07:00
 
 ### 🙏 Now Do That One World-Leading Geriatric Psychiatry University Department circa 2008-2018. Thank you.
 
+Always follow the money of gambling-addicted alcoholic international bankers, film industry creeps, bought judges, and shifty-shady-shameless, busibody-duck-n-shuffling, remorseless, pathological, complicit cowpoke communities that betray fidelity, trust, and oaths to *First, Do No Harm*, much less *To Protect and To Serve*.
+
+“Eternity is a long time, especially towards the end.” &mdash; [Stephen Hawking](https://www.goodreads.com/quotes/508757-eternity-is-a-long-time-especially-towards-the-end)
+
+Semper Fi.
+
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/GeAPtIdb4Qs" frameborder="0"></iframe>
 
