@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-02-26T11:11:11-07:00
-modified: 2024-02-26T11:11:11-07:00
+created: 2024-02-26T13:13:13-07:00
+modified: 2024-02-26T13:13:13-7:00
 ---
 
 ### 🙏 Now Do That One World-Leading Geriatric Psychiatry University Department circa 2008-2018. Thank you.
@@ -34,5 +34,5 @@ Semper Fi.
 Your browser does not support the audio element.
 </audio>
 
-Speaking of Accountability, here's [a conversation with Gemini about that topic](), seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
+Speaking of Accountability, here's [a conversation with Gemini about that topic](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.md), seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
 
