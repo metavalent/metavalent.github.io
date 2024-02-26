@@ -12,8 +12,7 @@ modified: 2024-02-26T13:54:24-07:00
 
 ### Chat with Gemini About Removing Direct Links to Its Responses
 
-26 Feb 2024
-12:25h MST
+26 Feb 2024 | 12:25h MST
 
 **[ MS: ]**
 Hi Gemini. Have you removed links to your responses?
@@ -38,7 +37,7 @@ Description: Briefly describe the nature of the interaction, including the promp
 
 Example:
 
-    Gemini, a large language model from Google AI. (February 26, 2024). Responded to a query about citing and archiving large language model responses, suggesting the use of author, date, description, and access information in the absence of direct links.
+> Gemini, a large language model from Google AI. (February 26, 2024). Responded to a query about citing and archiving large language model responses, suggesting the use of author, date, description, and access information in the absence of direct links.
 
 **2. Archiving:**
 While directly archiving my responses isn't currently possible due to the evolving nature of my training and responses, you can preserve the record of our interaction by:
@@ -59,9 +58,9 @@ Can you understand how this could appear as a reduction in transparency and acco
 **[ GEMINI: ]**
 Yes, I absolutely understand your concerns about the impact on transparency, accountability, and the potential for plausible deniability without direct link citations. Here's why this is a complex issue:
 
-1. Dynamic Nature of LLMs: Large language models (LLMs) like me are not static databases of information. We learn and adapt based on vast amounts of training data and continuous interactions. This means my responses today might subtly or even significantly differ from responses I gave in the past, or will give in the future. Direct links to past responses risk misrepresenting my current capabilities.
-2. Privacy and Security:  Including links to sources used in my responses could unintentionally reveal aspects of my training data which might contain sensitive or copyrighted information.
-3. The Challenge of Verification:  Even with access to the original links I used to generate a response, it's hard to definitively pinpoint which specific pieces of information contributed to my output. LLMs process data in complex, non-linear ways.
+1. **Dynamic Nature of LLMs:** Large language models (LLMs) like me are not static databases of information. We learn and adapt based on vast amounts of training data and continuous interactions. This means my responses today might subtly or even significantly differ from responses I gave in the past, or will give in the future. Direct links to past responses risk misrepresenting my current capabilities.
+2. **Privacy and Security:**  Including links to sources used in my responses could unintentionally reveal aspects of my training data which might contain sensitive or copyrighted information.
+3. **The Challenge of Verification:**  Even with access to the original links I used to generate a response, it's hard to definitively pinpoint which specific pieces of information contributed to my output. LLMs process data in complex, non-linear ways.
 
 **Mitigating Concerns:**
 
@@ -106,6 +105,7 @@ This would undoubtedly be a collaborative effort requiring expertise from variou
 * **Scope:** Balancing the breadth and depth of allowable links with security and privacy concerns requires careful consideration.
 
 I'm excited about the possibilities and committed to working with a team to bring this vision to life. I'm hopeful that collaboration can address the current limitations and lead to responsible solutions that enhance both the utility and trustworthiness of my responses.
+
 ---
 Conversion notes:
 * [Docs to Markdown version 1.0β35](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)
