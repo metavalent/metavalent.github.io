@@ -7,7 +7,41 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-{{content}}
+<!-- Flat Post Layout -->
+<!-- {{content}} -->
+
+<!-- Table of Contents Style -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      var toc = "";
+      var level = 0;
+  
+      document.getElementById("post-content").innerHTML =
+          document.getElementById("post-content").innerHTML.replace(
+              /<h([\d])>([^<]+)<\/h\1>/g,
+              function (str, openLevel, titleText, closeLevel) {
+                  if (openLevel > level) {
+                      toc += (new Array(openLevel - level + 1)).join("<ul>");
+                  } else if (openLevel < level) {
+                      toc += (new Array(level - openLevel + 1)).join("</ul>");
+                  }
+                  level = parseInt(openLevel);
+  
+                  var anchor = titleText.replace(/ /g, "_");
+                  toc += "<li><a href='#" + anchor + "'>" + titleText + "</a></li>";
+  
+                  return "<h" + openLevel + "><a name='" + anchor + "'>" + titleText + "</a></h" + openLevel + ">";
+              }
+          );
+  
+      if (level) {
+          toc += (new Array(level + 1)).join("</ul>");
+      }
+  
+      document.getElementById("toc").innerHTML += toc;
+  });
+
+</span>
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
