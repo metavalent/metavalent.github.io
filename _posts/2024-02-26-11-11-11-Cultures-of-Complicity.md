@@ -33,6 +33,7 @@ Semper Fi.
   <source src="https://en.wikipedia.org/wiki/File:John_Philip_Sousa_-_U.S._Marine_Band_-_Semper_Fidelis_March.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
+</div>
 
 ---
 Speaking of Accountability, here's [a conversation with Gemini about that topic](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html), when seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
