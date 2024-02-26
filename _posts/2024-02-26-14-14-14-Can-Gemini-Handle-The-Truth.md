@@ -5,7 +5,7 @@ layout: post
 published: true
 comments: true
 categories: metavalent
-tags: metavalent
+tags: metavalent, ai
 created: 2024-02-26T14:14:14-07:00
 modified: 2024-02-26T14:14:14-07:0
 ---
