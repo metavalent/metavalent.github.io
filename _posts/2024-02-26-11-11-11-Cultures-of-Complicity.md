@@ -36,5 +36,5 @@ Your browser does not support the audio element.
 </div>
 
 ---
-Speaking of Accountability, here's [a conversation with Gemini about that topic](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html), when seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
+Speaking of accountability, here's a conversation with Gemini about [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html), when seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
 
