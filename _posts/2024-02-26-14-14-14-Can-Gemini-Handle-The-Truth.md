@@ -12,6 +12,8 @@ modified: 2024-02-26T14:14:14-07:0
 
 ### Chat with Gemini About "You Can't Handle the Truth" Scene
 
+This is a follow-up to [Cultures of Complicity](https://metavalent.com/metavalent/2024/02/26/11-11-11-Cultures-of-Complicity.html) and accompanies [Citations and Rudimentary AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html).
+
 26 Feb 2024 | 12:25h MST
 
 **[ MS: ]**

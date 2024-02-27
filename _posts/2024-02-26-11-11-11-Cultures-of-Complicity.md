@@ -26,6 +26,6 @@ Seems like the one screaming "[You can't handle the truth!](https://youtu.be/9Fn
 Semper Fi.
 
 ---
-Speaking of accountability, here's a conversation with Gemini about [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html), when seeking additional perspectives on the thesis of this post. Can Gemini handle the truth?
+<small>\[1\]</small> Speaking of accountability, [Can Gemini AI Handle the Truth?](https://metavalent.com/metavalent/2024/02/26/14-14-14-Can-Gemini-Handle-The-Truth.html), and a further evasions of [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html)
 
-“Eternity is a long time, especially towards the end.” &mdash; [Stephen Hawking](https://www.goodreads.com/quotes/508757-eternity-is-a-long-time-especially-towards-the-end)
+<small>\[2\]</small> “Eternity is a long time, especially towards the end.” &mdash; [Stephen Hawking](https://www.goodreads.com/quotes/508757-eternity-is-a-long-time-especially-towards-the-end)
