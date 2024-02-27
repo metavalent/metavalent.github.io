@@ -27,7 +27,7 @@ While [the truth upsets people sometimes](https://metavalent.com/metavalent/2024
 
 Semper Fi.
 
-*P.S DARVO is due for a update to include all forms of blame-shifting in cultures of complicity. Communal narcissitic triangulation, emotional, psychological, and social-engineering abuse, among others.*
+> *P.S. DARVO is overdue for a DSM update to include all forms of blame-shifting in cultures of complicity. Communal narcissitic triangulation, emotional, psychological, and social-engineering abuse, among others.*
 
 ---
 <small>\[1\]</small> Speaking of accountability, [Can Gemini AI Handle the Truth?](https://metavalent.com/metavalent/2024/02/26/14-14-14-Can-Gemini-Handle-The-Truth.html), and a further evasions of [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html)
