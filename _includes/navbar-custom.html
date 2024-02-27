@@ -20,39 +20,7 @@
 <a href="https://x.com/metavalent" target="_blank">
 <img src="https://metavalent.com/assets/images/x-icon.png" alt="Follow on X" title="Maybe permanently shut down, even though paid for, due to people with no sense of boundaries lecturing people about boundaries. People who lecture people to 'stay in your lane' who have no respect for any lanes whatsoever." width="36" height="36" /></a>
 
-    <!-- Table of Contents -->
-    <div class="entry">
-        <div id="post-content">
-        <script>
-            document.addEventListener("DOMContentLoaded", function() {
-                var toc = "";
-                var level = 0;
-            
-                document.getElementById("post-content").innerHTML =
-                    document.getElementById("post-content").innerHTML.replace(
-                        /<h([\d])>([^<]+)<\/h\1>/g,
-                        function (str, openLevel, titleText, closeLevel) {
-                            if (openLevel > level) {
-                                toc += (new Array(openLevel - level + 1)).join("<ul>");
-                            } else if (openLevel < level) {
-                                toc += (new Array(level - openLevel + 1)).join("</ul>");
-                            }
-                            level = parseInt(openLevel);
-            
-                            var anchor = titleText.replace(/ /g, "_");
-                            toc += "<li><a href='#" + anchor + "'>" + titleText + "</a></li>";
-            
-                            return "<h" + openLevel + "><a name='" + anchor + "'>" + titleText + "</a></h" + openLevel + ">";
-                        }
-                    );
-            
-                if (level) {
-                    toc += (new Array(level + 1)).join("</ul>");
-                }
-            
-                document.getElementById("toc").innerHTML += toc;
-            });
-        </div>
-    </div>
+<!-- Figure out how to place margin TOC here -->
+
 </span>
 
