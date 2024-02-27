@@ -12,6 +12,8 @@ modified: 2024-02-27T08:08:08-07:00
 
 ### But it has to be told.
 
+Especially in [Cultures of Complicity](https://metavalent.com/metavalent/2024/02/26/11-11-11-Cultures-of-Complicity.html).
+
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/ozwTHfCjHHI" frameborder="0"></iframe>
 
