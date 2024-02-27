@@ -21,9 +21,11 @@ Watch [This Scientist catches FRAUD in Harvard and Stanford Research](https://yo
 
 > Always follow the money of gambling-addicted alcoholic international bankers, film industry creeps, bought judges, and shifty-shady-shameless, busibody-duck-n-shuffling, remorseless, pathological, complicit cowpoke communities that betray fidelity, trust, and oaths to *First, Do No Harm*, much less *To Protect and To Serve*.
 
-Seems like the one screaming "[You can't handle the truth!](https://youtu.be/9FnO3igOkOk)" loudest is generally the one that can't handle the truth. While Jessup seems to make compelling, valid, and difficult-to-deal-with points in a world that still includes war, if he could have admitted a tragic mistake and shown some remorse, it might have redeemed him to some extent. But authoritarian control freaks of all kinds prefer to do the [DARVO](https://gender.stanford.edu/news/youve-been-darvoed-and-you-dont-even-know-it); screaming, berating, gaslighting, and bullying the person calling them on misbehavior. P.S DARVO is due for a update to include all forms of blame-shifting in cultures of complicity. Communal narcissitic triangulation, emotional, psychological, and social-engineering abuse, among others.
+While [the truth upsets people sometimes](https://metavalent.com/metavalent/2024-02-27-11-11-11-The-Truth-Upsets-People.html) and it seems like the one screaming "[You can't handle the truth!](https://youtu.be/9FnO3igOkOk)" loudest is generally the one that can't handle the truth. Ane while scornful screamers are good at making compelling, valid, and undeniably convoluted points in a world where *people are no damned good*, making war and such; if screamers could admit to tragic mistakes and show some remorse, it might begin a road to redemption. But authoritarian control freaks of all kinds prefer to dance the [DARVO](https://gender.stanford.edu/news/youve-been-darvoed-and-you-dont-even-know-it); screaming, berating, gaslighting, and bullying the person calling them on misbehavior.
 
 Semper Fi.
+
+*P.S DARVO is due for a update to include all forms of blame-shifting in cultures of complicity. Communal narcissitic triangulation, emotional, psychological, and social-engineering abuse, among others.*
 
 ---
 <small>\[1\]</small> Speaking of accountability, [Can Gemini AI Handle the Truth?](https://metavalent.com/metavalent/2024/02/26/14-14-14-Can-Gemini-Handle-The-Truth.html), and a further evasions of [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html)
