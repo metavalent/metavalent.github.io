@@ -7,10 +7,8 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-<!-- Flat Post Layout -->
-<!-- {{content}} -->
-
 <!-- Table of Contents Style -->
+<div id="post-content">
 <script>
   document.addEventListener("DOMContentLoaded", function() {
       var toc = "";
@@ -42,6 +40,10 @@ layout: default
   });
 
 </span>
+</div>
+
+<!-- Flat Post Layout -->
+<!-- {{content}} -->
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
