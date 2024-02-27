@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent, psychology, narcissism
-created: 2024-02-27T11:11:11-07:00
-modified: 2024-02-27T11:11:11-07:00
+created: 2024-02-28T11:11:11-07:00
+modified: 2024-02-28T11:11:11-07:00
 ---
 
 ### "It is like flaying someone alive."
