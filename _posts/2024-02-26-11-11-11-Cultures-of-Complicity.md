@@ -32,7 +32,7 @@ Semper Fi.
 ---
 <small>\[1\]</small> Speaking of accountability, [Can Gemini AI Handle the Truth?](https://metavalent.com/metavalent/2024/02/26/14-14-14-Can-Gemini-Handle-The-Truth.html), and a further evasions of [AI Academic Accountability](https://metavalent.com/metavalent/2024/02/26/13-13-13-AI-Academic-Accountability.html)
 
- <small>\[2\]</small>"\[A\] strategy of Deny, Attack, and Reverse Victim and Offender (DARVO) to confuse and silence victims \[of verbal, emotional, psychological, or physical\ abuse]."<sup>\[3\]</sup>
+ <small>\[2\]</small>"\[A\] strategy of Deny, Attack, and Reverse Victim and Offender (DARVO) to confuse and silence victims \[of verbal, emotional, psychological, or physical abuse\]."<sup>\[3\]</sup>
 
 <small>\[3\]</small> Sarah J. Harsey, Eileen L. Zurbriggen & Jennifer J. Freyd (2017). [Perpetrator Responses to Victim Confrontation: DARVO and Victim Self-Blame](https://www.tandfonline.com/doi/full/10.1080/10926771.2017.1320777), Journal of Aggression, Maltreatment & Trauma, 26:6, 644-663, DOI: 10.1080/10926771.2017.1320777
 
