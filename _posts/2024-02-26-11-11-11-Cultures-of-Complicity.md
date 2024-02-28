@@ -17,7 +17,7 @@ modified: 2024-02-26T13:13:13-7:00
 
 Watch [This Scientist catches FRAUD in Harvard and Stanford Research](https://youtu.be/GeAPtIdb4Qs) if the embed does not behave nicely. Bonus commentary by an ethical psychologist on the pandemic of [breaches of informed consent](https://youtu.be/6r-YEv3917c?t=4m55s).
 
-<img src="https://metavalent.com/assets/images/Cultural.Complicity.png" alt="Scientific Culture" style="width:34%;">
+<img class="center" src="https://metavalent.com/assets/images/Cultural.Complicity.png" alt="Scientific Culture" style="width:34%;">
 
 > Always follow-the-money of gambling-addicted alcoholic international bankers, film industry creeps, bought judges, and shifty-shady-shameless, busibody-duck-n-shuffling, remorseless, pathological, complicit cowpoke communities that betray fidelity, trust, and oaths to *First, Do No Harm*, much less *To Protect and To Serve*.
 
