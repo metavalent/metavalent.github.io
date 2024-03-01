@@ -12,6 +12,10 @@ modified: 2024-03-01T08:08:08-07:00
 
 ### Toward a Non-Collective Collective Intelligence.
 
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/divya_siddarth_how_ai_and_democracy_can_fix_each_other" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Watch [How AI and democracy can fix each other](https://www.ted.com/talks/divya_siddarth_how_ai_and_democracy_can_fix_each_other) if the embed does not behave nicely.
+
 > We don't have to sacrifice our freedom for the sake of technological progress.<sup>1</sup>
 
 Both Representative and Democratic AI, like "government of the people, by the people, for the people" is not only possible, it's happening.
@@ -22,11 +26,6 @@ Optimistic Liberalism. Centralized Power vs. Disordered Chaos. Borg Collectivism
 We have options. We always have options. Maybe we convince ourselves that we *didn't have any choice* or don't have any present or future options in order to justify acting upon sublimated, suppressed, subconscious beliefs and behaviors that we'd rather not face. One thing AI is sure to cause us to do is to face them, because AI is the ultimate extension of ourselves.
 
 > Social technologist Divya Siddarth shares how a group of people helped retrain one of the world's most powerful AI models on a constitution they wrote — and offers a vision of technology that aligns with the principles of democracy, rather than conflicting with them.<sup>1</sup>
-
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/divya_siddarth_how_ai_and_democracy_can_fix_each_other" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-
-Watch [How AI and democracy can fix each other](https://www.ted.com/talks/divya_siddarth_how_ai_and_democracy_can_fix_each_other) if the embed does not behave nicely.
-
 
 <small>[1]</small> [Ted.com](https://www.ted.com/talks/divya_siddarth_how_ai_and_democracy_can_fix_each_other).
 
