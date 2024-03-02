@@ -18,7 +18,7 @@ Everyone who has ever operated a backhoe knows what it is to be a cyborg. Our ba
 
 > If you drive a car, you are a cyborg.
 
-You are operating a four-wheeled exo-skeleton as an extension and augmentation of your biological body, psychological identity, and personality. So STOP with the hypocritical, jealous, fearful, envious, post-human Post-Automation Era hate. Just stop.
+When you drive a car, you are operating a four-wheeled exo-skeleton as an extension and augmentation of your biological body, psychological identity, and personality. So maybe let's just STOP the 20+ years of misconstrued, misdirected, contradictory, hypocritical, jealous, fearful, envious, post-human [Post-Automation Era](https://postautomationera.com/) hate, shall we?
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
