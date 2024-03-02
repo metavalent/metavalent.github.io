@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-03-02T08:08:08-07:00
-modified: 2024-03-02T08:08:08-07:00
+created: 2024-03-02T11:11:11-07:00
+modified: 2024-03-02T11:11:11-07:00
 ---
 
 ### Gretchen Morgenson: *These Are the Plunderers: How Private Equity Runs—and Wrecks—America*.
