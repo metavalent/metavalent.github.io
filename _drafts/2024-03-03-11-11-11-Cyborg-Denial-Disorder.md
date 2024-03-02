@@ -20,10 +20,12 @@ Everyone who has ever operated a backhoe knows what it is to be a cyborg. Our ba
 
 When you drive a car, you are operating a four-wheeled exo-skeleton as an extension and augmentation of your biological body, psychological identity, and personality. So maybe let's just STOP the 20+ years of misconstrued, misdirected, contradictory, hypocritical, jealous, fearful, envious, post-human [Post-Automation Era](https://postautomationera.com/) hate, shall we?
 
-<!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+#### Terrifying Cyborgs at Work. This is NOT Natural!
 
-Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
+<!-- Reddit embed -->
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1b429sj/this_guy_using_the_ladder_like_a_natural/">This guy using the ladder like a natural extension of his body</a><br> by<a href="https://www.reddit.com/user/16ap/">u/16ap</a> in<a href="https://www.reddit.com/r/nextfuckinglevel/">nextfuckinglevel</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+Watch [This guy using the ladder like a natural extension of his body](https://www.reddit.com/r/nextfuckinglevel/comments/1b429sj/this_guy_using_the_ladder_like_a_natural/) if the embed does not behave nicely.
 
 ---
 > Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light upon other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), [Patreon](https://patreon.com/metavalent), or justbepono$paystring.crypto.com Mahalo means Respect and Gratitude without measure.🙏🏼
