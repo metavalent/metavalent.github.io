@@ -12,6 +12,8 @@ modified: 2024-03-03T08:08:08-07:00
 
 ### What is AI's Solution?
 
+Maybe relax on the personality crucifixions and try to understand the message for a minute. Just a suggestion.
+
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/QhsuiMOHGiY?t=54s" frameborder="0"></iframe>
 
