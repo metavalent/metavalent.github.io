@@ -10,7 +10,7 @@ created: 2024-03-03T08:08:08-07:00
 modified: 2024-03-03T08:08:08-07:00
 ---
 
-### We have been Cyborgs for a Very, Very, Long Time.
+### Humans have been Cyborgs for a Very, Very, Long Time.
 
 Like all of prior human history, the most urgent adaptive imperative of the post-human [Post-Automation Era](https://postautomationera.com/) is to become increasingly *more human* on an increasingly ubiquitous scale.
 
