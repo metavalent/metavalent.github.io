@@ -12,6 +12,10 @@ modified: 2024-03-02T11:11:11-07:00
 
 ### Gretchen Morgenson: *These Are the Plunderers: How Private Equity Runs—and Wrecks—America*.
 
+Perhaps the most urgent imperative of the post-human [Post-Automation Era](https://postautomationera.com/) is to become increasingly *more human* on an increasingly ubiquitous scale.
+
+
+
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/shv9g-4xXww?t=34" frameborder="0"></iframe>
 
