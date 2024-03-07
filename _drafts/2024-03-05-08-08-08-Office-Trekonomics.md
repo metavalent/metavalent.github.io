@@ -1,5 +1,5 @@
 ---
-title: 'Interdependent Tribalism'
+title: 'Interdependent Tribalism?'
 author: metavalent
 layout: post
 published: true
@@ -10,7 +10,7 @@ created: 2024-03-05T08:08:08-07:00
 modified: 2024-03-05T08:08:08-07:00
 ---
 
-#### Rainn Wilson on Trek-o-nomics
+#### Rainn Wilson on Trek-o-nomics.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=1197s" frameborder="0"></iframe>
