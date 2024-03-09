@@ -17,7 +17,7 @@ modified: 2024-03-09T08:08:08-07:00
 
 Watch [How can we use AI to help build a new world? Quartet Preview](https://youtu.be/DHdIUu4pSM4) if the embed does not behave nicely.
 
-Just STOP the otherizing and demonizing, JL Peterson gang. This is not accurate. There are no monolothic "transhumanists." We are as diverse as you are.
+Just STOP the otherizing and demonizing, JL Peterson gang. This is not accurate. There are no monolithic "transhumanists." We are as diverse as you are.
 
 "The folks the principal people who are making the kind of the prognostications and the assumptions about where this is going and in fact influencing the debate about the future of AI all come from the text sector then that have got a they they live in a box that is different than the box that we live in they live around they they are their whole existence and their perspective is um kind of animated by uh a set of principles and assumptions about how Humanity works in the future of humanity and kind of the values and who you know what we're going to do that is just just uh not necessarily the best way to think of approach to take to to all of this."
 
