@@ -17,6 +17,8 @@ modified: 2024-03-10T11:11:11-07:00
 
 Watch [The turning point is in our consciousness \| Krishnamurti](https://youtu.be/JcOcV8uMbpP4k) if the embed does not behave nicely.
 
+#### Transcript
+
 > As we said, the turning point is in our consciousness. Our consciousness is a very complicated affair. Volumes have been written about it, both in the East and in the West. We are not aware of our own consciousness, and to examine that complicated consciousness one has to be free to look, to be choicelessly aware of its movement. And that is what we are going to do, together. When we use the word 'together,' it is not that the speaker is directing you to look at it in a particular way, or to listen to all the movement, inward movement of our consciousness.
 
 > We are together looking at consciousness, which is not yours or mine, theirs or his. *Consciousness* is common to all mankind. All mankind, whether they live in the Far East or Near East, West or in the far West, that consciousness with all its content, is common to all mankind. When you go to India or the Far East, there they suffer inwardly as well as outwardly, as here. They are anxious, uncertain, utterly, despairingly lonely, as you are here. They have no security. They are jealous, greedy, envious, suffering. And in the West it is the same thing. *So human consciousness is one whole*, it is not *your* consciousness or *mine*, it is the consciousness of humanity.
