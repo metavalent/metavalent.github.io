@@ -17,7 +17,7 @@ modified: 2024-03-10T11:11:11-07:00
 
 Watch [The turning point is in our consciousness \| Krishnamurti](https://youtu.be/JcOcV8uMbpP4k) if the embed does not behave nicely.
 
-#### Transcript
+### Transcript
 
 > As we said, the turning point is in our consciousness. Our consciousness is a very complicated affair. Volumes have been written about it, both in the East and in the West. We are not aware of our own consciousness, and to examine that complicated consciousness one has to be free to look, to be choicelessly aware of its movement. And that is what we are going to do, together. When we use the word 'together,' it is not that the speaker is directing you to look at it in a particular way, or to listen to all the movement, inward movement of our consciousness.
 
