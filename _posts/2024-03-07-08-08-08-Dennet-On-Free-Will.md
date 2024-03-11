@@ -17,7 +17,7 @@ modified: 2024-03-07T08:08:08-07:00
 
 Watch [The Most Important Philosophical Question Of Our Time](https://youtu.be/V-dQvkmFPbw) if the embed does not behave nicely.
 
-If a spectrum, like the rest of nature, the question then becomes, *what* are the units of measure, and *how* do we measure &ndash; similar to our investigation of will power &ndash; the "amount" and "capacity" of free will. What influences increase or decrease the amount of free will available to an individual, organization, or civilization? <!-- Not sure how Bobby missed this part. He seems kind of angry, no? -->
+If a spectrum, like the rest of nature, the question then becomes, *what* are the units of measure, and *how* do we measure &ndash; similar to our investigation of will power &ndash; the "amount" and "capacity" of free will? What influences increase or decrease the amount of free will available to an individual, organization, or civilization? <!-- Not sure how Bobby missed this part. He seems kind of angry, no? -->
 
 Free Will is how I personally *know* I'm accountable and responsible for every choice in my life. At the same time, I've learned the hard way that many of the poorest choices I've made in life were undeniably shaped by causal roots in experiences over which I had no control whatsoever. This is becoming increasingly clear through research that demonstrates causal connects between trauma, especially [childhood trauma](https://www.youtube.com/watch?v=3HjhLRyCoBA), and all kinds of [personality disorders](https://www.youtube.com/watch?v=fnJ9Bf7kMwc).
 
