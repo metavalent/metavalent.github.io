@@ -18,7 +18,7 @@ Watch [Video_Title](https://youtu.be/MmHqthzJER4) if the embed below does not be
 <div class="embed-container"><iframeloading="lazy" width="560" height="320" src="https://www.youtube.com/embed/MmHqthzJER4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 -->
 
-<iframe id="ytplayer" type="text/html "loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/MmHqthzJER4?autoplay=1"
   frameborder="0"></iframe>
 

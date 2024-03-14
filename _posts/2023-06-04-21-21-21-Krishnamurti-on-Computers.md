@@ -12,7 +12,7 @@ modified: 2023-06-04T21:35:45-07:00
 
 ### "When the computer takes over, what happens to our brains?"
 
-<iframe id="ytplayer" type="text/html "loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/psrP8jSt804?autoplay=1"
   frameborder="0"></iframe>
 

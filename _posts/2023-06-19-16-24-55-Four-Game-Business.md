@@ -31,7 +31,7 @@ Any kind of Inverse Inquisition can only create equally horrific outcomes. Patri
 May goodness have mercy on us all and may we show some of that mercy upon and for ourselves, as a tiny first step. Maybe.
 
 
-<iframe id="ytplayer" type="text/html "loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/0eF0fVxvZ3A?autoplay=1"
   frameborder="0"></iframe>
 

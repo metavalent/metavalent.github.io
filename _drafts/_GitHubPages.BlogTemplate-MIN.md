@@ -13,7 +13,7 @@ modified: 2024-03-11T11:11:11-07:00
 ### Heading / highlight.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading="lazy loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
 
 Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
 

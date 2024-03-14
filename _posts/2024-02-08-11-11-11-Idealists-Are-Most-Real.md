@@ -15,12 +15,12 @@ modified: 2024-02-08T11:11:11-07:00
 Cynicism is not superior, it is the end of meaning, and the end of meaning is the end of a meaningful, worthwhile life. When we are in this state, we already know this, however deep the recursive layers of denial, addiction, and misdirection may run. It's only a matter of time until the the base case collapses the recursive loops of deception and the material world manifests reality as it was from the beginning, is now, and ever shall be. Psychotic delusions of superiority and *winning* are perhaps the most vicious drug, amplifying the tragic toxic effects of all the others.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/loay2imHq5E" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/loay2imHq5E" frameborder="0"></iframe>
 
 Watch [Viktor Frankl on Why Idealists Are Real Realists](https://youtu.be/loay2imHq5E) if the embed does not behave nicely.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/OL8DyVusLeE" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/OL8DyVusLeE" frameborder="0"></iframe>
 
 Watch [Viktor Frankl\: Self-Actualization is not the goal](https://youtu.be/OL8DyVusLeE) if the embed does not behave nicely.
 

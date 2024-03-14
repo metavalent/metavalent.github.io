@@ -39,7 +39,7 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player
-<iframe id="ytplayer" type="text/html "loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/imA1lpOdEhQ?autoplay=1"
   frameborder="0"></iframe>
 -->

@@ -12,4 +12,4 @@ categories: [Uncategorized]
 
 The blog features such eminantly clueful observations as <a href="http://robertdreyfuss.com/blog/2006/07/more_evidence_americans_are_in.html">More Evindence that Americans [in general] are Insane, Ignorant, or Both</a>.
 
-<img SRC="http://service.bfast.com/bfast/serve?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0805076522&amp;bfmtype=book" BORDER="0 "loading="lazy" width="1" HEIGHT="1"/>
+<img SRC="http://service.bfast.com/bfast/serve?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0805076522&amp;bfmtype=book" BORDER="0 loading=”lazy” width="1" HEIGHT="1"/>

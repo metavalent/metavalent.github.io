@@ -17,7 +17,7 @@ modified: 2024-03-11T11:11:11-07:00
 <!-- Post Content -->
 
 <!-- Native HTML5 Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code]
-<video class="center "loading="lazy" width="560" height="320" controls>
+<video class="center loading=”lazy” width="560" height="320" controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
@@ -25,7 +25,7 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading="lazy loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
 
 
 Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
@@ -42,7 +42,7 @@ Your browser does not support the audio element.
 <!-- Custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 RESIZE:
-<img src="https://metavalent.com/assets/images/IMAGE.jpg "loading="lazy" width="300" height="300">
+<img src="https://metavalent.com/assets/images/IMAGE.jpg loading=”lazy” width="300" height="300">
 -->
 
 ---

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [Image, Uncategorized]
 ---
-<img src="http://static.flickr.com/31/62139938_94b4e251cd.jpg "loading="lazy" width="250" height="187" />
+<img src="http://static.flickr.com/31/62139938_94b4e251cd.jpg loading=”lazy” width="250" height="187" />
