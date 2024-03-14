@@ -15,7 +15,7 @@ modified: 2024-03-04T08:08:08-07:00
 Truth Just Keeps Walkin'.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
 
 <!-- What I get for not pasting title right away. Sigh. Okay. -->
 

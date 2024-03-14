@@ -13,7 +13,7 @@ modified: 2024-03-11T11:11:11-07:00
 ### Reflecting on Gregory Bateson's work,<sup>1</sup> what if Free Will is a kind of delicate and precious *Ecology of Mind* natural resource that requires, deserves, and even demands comprehensive ecological protection?
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/KuqSHi-yXAI" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/KuqSHi-yXAI" frameborder="0"></iframe>
 
 Watch [3 ways to defend your mind against social media distortions](https://youtu.be/KuqSHi-yXAI) if the embed does not behave nicely.
 

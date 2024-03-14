@@ -10,4 +10,4 @@ categories: [metavalent]
 
 [youtube http://www.youtube.com/watch?v=zEi3ZAYheT0&w=480&h=360]
 
-<a href="http://metavalent.files.wordpress.com/2011/12/avatar-project-2045.png" rel="attachment wp-att-1540"><img src="http://metavalent.com/wp-content/uploads/2011/12/avatar.project.2045-300x223.png" alt="" title="The Avatar Project: Russia 2045"loading="lazy" width="300" height="223" class="size-medium wp-image-1540" /></a>
+<a href="http://metavalent.files.wordpress.com/2011/12/avatar-project-2045.png" rel="attachment wp-att-1540"><img src="http://metavalent.com/wp-content/uploads/2011/12/avatar.project.2045-300x223.png" alt="" title="The Avatar Project: Russia 2045 "loading="lazy" width="300" height="223" class="size-medium wp-image-1540" /></a>

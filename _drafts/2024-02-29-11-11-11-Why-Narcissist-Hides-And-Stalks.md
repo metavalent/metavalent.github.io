@@ -15,7 +15,7 @@ modified: 2024-02-27T11:11:11-07:00
 "There's always this kind of comparison. They always need to know that they are on top, or that they are better than you in some way."
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/Toy88i-JQAs" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/Toy88i-JQAs" frameborder="0"></iframe>
 
 Watch [Why the narcissist hides and stalks you](https://youtu.be/Toy88i-JQAs) if the embed does not behave nicely.
 

@@ -15,7 +15,7 @@ modified: 2024-03-01T11:11:11-07:00
 I'm confused. Can someone please explain to me again how staying drunk, stoned, doped, drugged, high, and distraction-intoxicated 24/7 while maintaining a superficial Justification Of Being (J.O.B.) is the source of dignity and meaning in life? All manner of dysfunction and disorder are fine, so long as a person has a J.O.B., but a healthy person living a simple life on a modest fixed income is a problem and must be miserable?
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/PLjWIGzNqw8oJAuDeiltJo8_sYRxw_W5sK" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/PLjWIGzNqw8oJAuDeiltJo8_sYRxw_W5sK" frameborder="0"></iframe>
 
 Watch [Based Bass](https://music.youtube.com/playlist?list=PLjWIGzNqw8oJAuDeiltJo8_sYRxw_W5sK) if the embed does not behave nicely.
 

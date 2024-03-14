@@ -1,7 +1,7 @@
 ### Scott Santens in Conversation with Andrew Yang
 
 <p></p>
-<video class="center"loading="lazy" width="640" height="480" controls autoplay>
+<video class="center "loading="lazy" width="640" height="480" controls autoplay>
   <source src="https://youtu.be/p0AtC3QKtJM"> 
 Your browser does not support the video tag. Try [You Tube](https://youtu.be/p0AtC3QKtJM).
 </video>

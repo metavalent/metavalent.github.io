@@ -15,7 +15,7 @@ modified: 2024-03-13T13:13:13-07:00
 > "Two of these vids belong together, two of these vids are kind of the same." 🎵
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/F7FS1ULDgog" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/F7FS1ULDgog" frameborder="0"></iframe>
 
 Watch [SETI AIR: Xin Liu’s Inward Expeditions](https://youtu.be/F7FS1ULDgog) if the embed does not behave nicely.
 
@@ -26,7 +26,7 @@ It feels as if my entire life has changed in ways that I'm certain I can't yet i
 I submit this entry as *empirical subjective evidence* of the immeasurable effect of artistic "productivity," the experience of reaching, and of feeling reached. Like an anti-Agent-Smith *invisible hand* extended across an invisible river that we didn't even know we were in the process of crossing, ever so carefully, one focused-and-intentional foot in front of the other, across a narrow, single-log bridge. Yeah, that's the feeling. The *kind* of help that can be transmitted and received across the Global Brain dendrites and synapses of the Internet.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/jSssnLyXF_8" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/jSssnLyXF_8" frameborder="0"></iframe>
 
 Watch [Alicia Escott and Heidi Quante \| The Bureau of Linguistical Reality Performance Lecture](https://youtu.be/jSssnLyXF_8) if the embed does not behave nicely.
 

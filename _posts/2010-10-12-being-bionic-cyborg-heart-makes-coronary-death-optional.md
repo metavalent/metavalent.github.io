@@ -10,7 +10,7 @@ By the time she returned home, Verna, who received the device as part of a clini
 
 "It has transformed me," she said.
 
-<a href="http://news.yahoo.com/s/nm/20101012/hl_nm/us_heart_pump" target="_blank"><img src="http://metavalent.files.wordpress.com/2010/10/bionic-heart_.jpg" alt="" title="HeartMate II by Thoratec Corp"loading="lazy" width="399" height="284" align="center" /></a>
+<a href="http://news.yahoo.com/s/nm/20101012/hl_nm/us_heart_pump" target="_blank"><img src="http://metavalent.files.wordpress.com/2010/10/bionic-heart_.jpg" alt="" title="HeartMate II by Thoratec Corp "loading="lazy" width="399" height="284" align="center" /></a>
 
 The device, called HeartMate II and made by Thoratec Corp, was approved by U.S. health regulators in 2008 to keep patients alive while they waited for a heart transplant. But in January, it was approved for permanent use in patients who are ineligible for a transplant, expanding the number of potential recipients from a few thousand to tens of thousands, and potentially changing the landscape for the treatment of end-stage heart failure.
 

@@ -12,5 +12,5 @@ So, apparently rumor has it that the long anticipated <a href="http://www.squido
 
 So actually, it wasn't much of a leak, since the Creature Creator went live on <a href="http://spore.com/">spore.com</a> on Monday. You get to create these widgety things to share your creatures. Soon, trillions of tweenies of all ages will be unleashing an entire new wave of evolutionary sporacles into spore-space. Now, one question becomes how to permit trans-inter-dimensional travel and adaptation between WOW, SL, Spore, etc. We'll save uploading your <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell">ghost</a> to the shell of your choice for the second semester. :-)
 
-<div style="width:448px;background:transparent url('http://www.spore.com/static/war/images/content/widget/widget_back_complete.jpg') no-repeat top left;"><div><a href="http://www.spore.com"><img src="http://www.spore.com/css/blank.gif"loading="lazy" width="448" border="0" height="40" alt="spore.com" /></a></div></div>
+<div style="width:448px;background:transparent url('http://www.spore.com/static/war/images/content/widget/widget_back_complete.jpg') no-repeat top left;"><div><a href="http://www.spore.com"><img src="http://www.spore.com/css/blank.gif "loading="lazy" width="448" border="0" height="40" alt="spore.com" /></a></div></div>
 

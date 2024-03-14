@@ -13,7 +13,7 @@ modified: 2024-03-10T11:11:11-07:00
 ### "We as human beings are responsible for all this."
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/cOcV8uMbpP4" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center "loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/cOcV8uMbpP4" frameborder="0"></iframe>
 
 Watch [The turning point is in our consciousness \| Krishnamurti](https://youtu.be/JcOcV8uMbpP4k) if the embed does not behave nicely.
 

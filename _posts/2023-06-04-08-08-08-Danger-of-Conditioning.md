@@ -16,7 +16,7 @@ modified: 2023-06-04T09:09:09-07:00
 
 Good luck with that. I'm confident that will work out exactly as well as it has every other time. How could it be any other way?
 
-<iframe id="ytplayer" type="text/html"loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html "loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/XFaYQib__ZM?autoplay=1"
   frameborder="0"></iframe>
 
