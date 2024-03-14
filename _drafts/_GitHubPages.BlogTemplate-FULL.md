@@ -17,7 +17,7 @@ modified: 2024-03-11T11:11:11-07:00
 <!-- Post Content -->
 
 <!-- Native HTML5 Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code]
-<video class="center" loading="lazy" width="560" height="320" controls preload="none">
+<video class="center" width="560" height="320" controls preload="none">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
