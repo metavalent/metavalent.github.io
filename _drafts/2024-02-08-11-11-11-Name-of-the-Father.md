@@ -17,7 +17,7 @@ AND outcomes for single-father children are FAR superior to single-mother childr
 AND this bleeds over into a trillion adjacent situations where the man is essentially *always* presumed to be a malefactor at the slightest expression of female displeasure. Especially destructive in intergenerational narcissistic family dynamics; however, just because that's the nuclear impact of socially sanctioned and even promoted personality disorders doesn't mean there aren't thousands of lesser munitions doing even greater damage, because they are *tiny little* emotional and psychological attacks that leave people increasingly isolated and vulnerable. How to find out in "he said, she said" situations? Look at who improved in social status and standing and who was decimated. Cui bono? 
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/RlSwsE22nX0?autoplay=1"
   frameborder="0"></iframe>
 
@@ -30,7 +30,7 @@ Watch [What Representing Men in Divorce Taught Me About Fatherhood | Marilyn Yor
 We didn't start the fire, but guarantee we're putting it out once and for all.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/WPUe9IHlbwE?autoplay=1"
   frameborder="0"></iframe>
 
@@ -50,7 +50,7 @@ Twisting words by accusing you of twisting words. TONS of projection. Regardless
 EVERYTHING is the man's fault. Literally. Her: "If I'm not happy, it can *only* be your fault." Total objectification of the male. Always trading up to *higher status* because to them [the grass is *always* greener](https://youtu.be/ckiyVcmQTg4?t=15m10s).
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/ckiyVcmQTg4?autoplay=1"
   frameborder="0"></iframe>
 
@@ -63,7 +63,7 @@ Projection, projection, projection. DARVO and domination at all cost, including 
 > You'd like to think that narcissists would make proper adjustments after being inappropriate.  But instead, [they flip the script](https://youtu.be/dL4y53n7lno?t=13m10s) by reminding you that you need to shape up.  Dr. Les Carter highlights their most common requirements of you, even though they are the ones creating a mess in the first place.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/dL4y53n7lno?autoplay=1"
   frameborder="0"></iframe>
 
@@ -74,7 +74,7 @@ Watch [This Is What Narcissists Expect After Creating Turmoil](https://youtu.be/
 Unlikely, but possible. Maybe.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
   src="https://www.youtube.com/embed/vCZPSzSr7NQ?autoplay=1"
   frameborder="0"></iframe>
 

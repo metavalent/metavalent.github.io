@@ -15,12 +15,12 @@ modified: 2024-02-27T08:08:08-07:00
 Especially in [Cultures of Complicity](https://metavalent.com/metavalent/2024/02/26/11-11-11-Cultures-of-Complicity.html).
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/ozwTHfCjHHI" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/ozwTHfCjHHI" frameborder="0"></iframe>
 
 Watch [The truth upsets people sometimes but it has to be told (With the necessary tone) Jordan B. Peterson](https://youtu.be/ozwTHfCjHHI) if the embed does not behave nicely.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/9FnO3igOkOk" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/9FnO3igOkOk" frameborder="0"></iframe>
 
 Watch [You Can't Handle the Truth! - A Few Good Men (7/8) Movie CLIP (1992) HD](https://youtu.be/9FnO3igOkOk) if the embed does not behave nicely.
 

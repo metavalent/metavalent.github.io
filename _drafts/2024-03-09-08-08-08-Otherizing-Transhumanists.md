@@ -13,7 +13,7 @@ modified: 2024-03-09T08:08:08-07:00
 ### Heading / highlight.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/DHdIUu4pSM4" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/DHdIUu4pSM4" frameborder="0"></iframe>
 
 Watch [How can we use AI to help build a new world? Quartet Preview](https://youtu.be/DHdIUu4pSM4) if the embed does not behave nicely.
 

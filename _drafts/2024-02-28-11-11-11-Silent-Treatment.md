@@ -13,7 +13,7 @@ modified: 2024-02-27T11:11:11-07:00
 ### "It is like flaying someone alive."
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/WYo1enwGWXQ" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/WYo1enwGWXQ" frameborder="0"></iframe>
 
 Watch [Dr. Ramani reveals a common narcissistic tactic and why it is so painful](https://youtu.be/WYo1enwGWXQ) if the embed does not behave nicely.
 

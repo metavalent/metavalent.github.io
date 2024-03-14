@@ -13,14 +13,14 @@ modified: 2024-03-10T08:08:08-07:00
 ### Everything We Build Already Existed.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/Bm7YfElJfIA" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/Bm7YfElJfIA" frameborder="0"></iframe>
 
 Watch [What will happen to you in the age of AI?](https://youtu.be/Bm7YfElJfIA) if the embed does not behave nicely.
 
 #### Including AI, AGI, and the packet-switched Global Brain. David Bohm called this reflective, self-similar unfolding the [implicate order](https://metavalent.com/metavalent/2024/03/10/11-11-11-Nature-Of-Turning-Points.html).
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/LdwXb4xaKVGSZVob&t=3470" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/LdwXb4xaKVGSZVob&t=3470" frameborder="0"></iframe>
 
 Watch [An Excellent, Previously Unreleased Interview of David Bohm](https://youtu.be/LdwXb4xaKVGSZVob&t=3470) if the embed does not behave nicely.
 

@@ -17,7 +17,7 @@ Another #ThatllNEVERHappen flashback to "[Who Wants to be a Moonie?](https://met
 <!-- I spent far too much of my life seeking approval from self-appointed default consensus narrative gatekeepers who will *never* get it, because they don't wnat to get it. Done with that. -->
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/5-qwhozfYeQ?t=6438s" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/5-qwhozfYeQ?t=6438s" frameborder="0"></iframe>
 
 
 Watch [Intuitive Machines IM-1 Mission Landing Live Stream](https://youtu.be/5-qwhozfYeQ?t=6438s) if the embed does not behave nicely.
