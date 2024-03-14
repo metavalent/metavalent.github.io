@@ -21,7 +21,7 @@ Stephen: "I think the basic point is, everything has to have an evaluator, at so
 Carlos: "My approach to the 'emulation problem' was precisely to try to make mathematical equivalence more time-like. Unintended, maybe. That was part of the game I guess, that you were trying to make mathematical equivalence into something that is also a structure or in some kind of rewrite, slow, and you can take time-like measures. Observer-like measures, I mean."
 ([1:45:10](https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s))
 
-<iframe id="ytplayer" type="text/html loading="lazy" width="560" height="320"
+<iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/2-V3So3ipms?t=1h45m10s"
   frameborder="0"></iframe>
 
