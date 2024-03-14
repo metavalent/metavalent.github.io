@@ -12,7 +12,7 @@ modified: 2023-06-04T08:44:22-07:00
 
 ### An Uninvited TED Talk
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/TEDTalk-Draft.mp3?raw=true" type="audio/mpeg">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/TEDTalk-Draft.mp3?raw=true" type="audio/ogg">
 Your browser does not support the audio element.

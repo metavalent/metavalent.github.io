@@ -23,7 +23,7 @@ Watch [I Come From Generational Trauma](https://youtu.be/CS2quBsSR2U) if the emb
 
 <!-- HTML5 Audio Embed - GitHub LFS storage: append ?raw=true
 <div class="center"> 
-<audio controls>
+<audio controls preload="none">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
 Your browser does not support the audio element.

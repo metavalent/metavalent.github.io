@@ -31,7 +31,7 @@ Your browser does not support the video tag.
 -->
 
 <!-- HTML5 Embed - GitHub LFS storage: append ?raw=true  
-<audio controls>
+<audio controls preload="none">
   <source src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="audio/mpeg">
   <source src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="audio/ogg">
 Your browser does not support the audio element.
