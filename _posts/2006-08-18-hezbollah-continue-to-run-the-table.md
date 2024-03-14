@@ -16,7 +16,7 @@ Wow.  Mr. Barnett definitely seems to have one of the most unvarnished perspecti
 
 In short, if you're going to be PERCEIVED AS an effectively benevolent Global Imperialist, you have to think like SysAdmin of The World and mostly keep Leviathan in the box.  SysAdmin and Leviathan are Barnett's terminology, by the way. I know, it sounds crazy, but then, it is WAR management we're talking about, here.  Related links of interest:
 
-* Barnett's book: <imgloading="lazy" width="1" height="1" border="0" style="display:none;" src="http://service.bfast.com/bfast/serve?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0399153128&amp;bfmtype=book" /><a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0399153128&amp;bfmtype=book"><img border="0" align="middle" alt="A Future Worth Creating" src="http://images.barnesandnoble.com/images/9930000/9936068.gif" />Blueprint for Action: A Future Worth Creating</a>
+* Barnett's book: <img loading="lazy" width="1" height="1" border="0" style="display:none;" src="http://service.bfast.com/bfast/serve?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0399153128&amp;bfmtype=book" /><a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0399153128&amp;bfmtype=book"><img border="0" align="middle" alt="A Future Worth Creating" src="http://images.barnesandnoble.com/images/9930000/9936068.gif" />Blueprint for Action: A Future Worth Creating</a>
 
 * <a href="//cspanrm.fplive.net/cspan/project/ter/ter122004_barnett.rm')">A 2004 Barnett presentation</a>
 
