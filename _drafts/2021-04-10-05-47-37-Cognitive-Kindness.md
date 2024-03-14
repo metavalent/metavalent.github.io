@@ -19,4 +19,4 @@ modified: null
 
 [Watch here](https://youtu.be/E4IyZ0df3ks) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/E4IyZ0df3ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/E4IyZ0df3ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

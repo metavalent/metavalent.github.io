@@ -15,4 +15,4 @@ When we realize an entire life was one big dupe, and we are the cuck, the sucker
 
 <!-- Responsive video embed for YouTube, Vimeo, etc. Uncomment, if needed. -->
 
-<!-- <div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://youtu.be/-ul3Q1VP734" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
+<!-- <div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://youtu.be/-ul3Q1VP734" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->

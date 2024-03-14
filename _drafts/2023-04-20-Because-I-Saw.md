@@ -15,7 +15,7 @@ modified: 2023-04-20T19:36:03-07:00
 
 Watch [The Economics Of Self Commodification](https://youtu.be/JozVQPzHpIM) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JozVQPzHpIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JozVQPzHpIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <!-- 
 ![Economics Of Self Commodification](/assets/images/image.jpg "Economics Of Self Commodification")

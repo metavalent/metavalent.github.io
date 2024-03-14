@@ -42,7 +42,7 @@ Your browser does not support the audio element.
 <!-- Custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 RESIZE:
-<img src="https://metavalent.com/assets/images/IMAGE.jpg loading="lazy" width="300" height="300">
+<img src="https://metavalent.com/assets/images/IMAGE.jpg" loading="lazy" width="300" height="300">
 -->
 
 ---

@@ -45,7 +45,7 @@ Be *The* Self, that you are, that we all are.
 
 Watch [How To Get Back On Track After Slipping Up](https://youtu.be/dmgl_bT9_vc) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/dmgl_bT9_vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/dmgl_bT9_vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Too Much In-form-ation
 
@@ -53,7 +53,7 @@ Watch [How To Get Back On Track After Slipping Up](https://youtu.be/dmgl_bT9_vc)
 
 Watch [The Real Nature Of Kundalini](https://youtu.be/xDGestHEELU) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/xDGestHEELU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/xDGestHEELU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <hr />
 > "Dare to be naïve."  
 > &mdash; Richard Buckminster Fuller 

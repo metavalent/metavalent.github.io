@@ -16,4 +16,4 @@ MSM shipping fear pieces fear-mongering over who gets to cook up and serve out t
 
 Watch [NBC News Smears YouTubers For Competing With Them](https://youtu.be/sd8d7Hf0gMM) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/sd8d7Hf0gMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/sd8d7Hf0gMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

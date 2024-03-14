@@ -13,7 +13,7 @@ From the Endless Songs of Self-Inflicted Suffering Series.
 
 [Watch here](https://youtu.be/686SmDtBOu8) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/686SmDtBOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/686SmDtBOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Lyrics
 

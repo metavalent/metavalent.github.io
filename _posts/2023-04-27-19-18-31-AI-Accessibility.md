@@ -15,7 +15,7 @@ modified: 2023-04-27T19:38:11-07:00
 <!-- Generic Embed
 Watch [Video_Title](https://youtu.be/MmHqthzJER4) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframeloading="lazy" width="560" height="320" src="https://www.youtube.com/embed/MmHqthzJER4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/MmHqthzJER4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 -->
 
 <iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320"
@@ -23,7 +23,7 @@ Watch [Video_Title](https://youtu.be/MmHqthzJER4) if the embed below does not be
   frameborder="0"></iframe>
 
 <!-- HTML5 Embed - GitHub LFS storage: append ?raw=true  
-<videoloading="lazy" width="560" height="320" controls>
+<video controls preload="none" width="560" height="320" controls>
   <source src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="video/mp4">
   <source src=src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="video/webm">
 Your browser does not support the video tag.
