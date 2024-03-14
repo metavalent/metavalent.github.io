@@ -15,7 +15,7 @@ modified: 2024-02-24T10:10:10-07:00
 Being angry, bitter, resentful, and hiding in forests, jungles, or gated communities doesn't change The Way Reality Works. This was six years ago. Has it gotten better?
 
 <!-- YouTube player -->
-<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/HTGRMWhclgM" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/HTGRMWhclgM" frameborder="0"></iframe>
 
 Watch [Simon Sinek Dealing with Smartphone Disrespect](https://youtu.be/HTGRMWhclgM) if the embed does not behave nicely.
 

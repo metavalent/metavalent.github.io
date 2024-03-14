@@ -13,7 +13,7 @@ modified: 2024-03-11T11:11:11-07:00
 ### Reflecting on Gregory Bateson's work,<sup>1</sup> what if Free Will is a kind of delicate and precious *Ecology of Mind* natural resource that requires, deserves, and even demands comprehensive ecological protection?
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320" src="https://www.youtube.com/embed/KuqSHi-yXAI" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/KuqSHi-yXAI" frameborder="0"></iframe>
 
 Watch [3 ways to defend your mind against social media distortions](https://youtu.be/KuqSHi-yXAI) if the embed does not behave nicely.
 
@@ -29,7 +29,7 @@ Meanwhile, social media keeps on doing [what social media does](https://youtu.be
 
 Compare and contrast with [Daniel Dennet's take](https://metavalent.com/metavalent/2024/03/07/08-08-08-Dennet-On-Free-Will.html).
 
-<small>/[ 1 /] See Gregory Bateson's [Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology](https://www.goodreads.com/book/show/152435.Steps_to_an_Ecology_of_Mind).</small>
+<small>[ 1 ] See Gregory Bateson's [Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology](https://www.goodreads.com/book/show/152435.Steps_to_an_Ecology_of_Mind).</small>
 
 ---
 > Have you discovered or learned something interesting or valuable? Something that piqued your imagination, sparked creative insight, deepened research, enlivened discovery, or shed new light upon other academic, philosophical, or spiritual interest? Make it real with ETH 0x1eb2d6E3f26fBBF31B485bbe3e316D6dAd806632, Cashtag [$metavalent](https://cash.app/$metavalent), [Patreon](https://patreon.com/metavalent), or justbepono$paystring.crypto.com Mahalo means Respect and Gratitude without measure.🙏🏼

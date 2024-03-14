@@ -22,7 +22,7 @@ SOURCE CREDIT: [Christopher McFadden](https://interestingengineering.com/author/
 
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading=”lazy” width="560" height="320"
+<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/zq1ud7CBOaU?autoplay=1"
   frameborder="0"></iframe>
 
