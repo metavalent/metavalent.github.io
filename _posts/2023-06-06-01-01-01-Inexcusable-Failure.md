@@ -26,7 +26,7 @@ Maybe can watch [Lockdowns](https://web.archive.org/web/20230606162332/https://w
 
 ![The Biggest Policy Mistake in Modern Times](/assets/images/be70a39fd6b4dbc9b5521779ecb0e106.jpg) 
 
-<iframe id="ytplayer" type="text/html" width="560" height="320"
+<iframe id="ytplayer" type="text/html"loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/RzN5F8LCD0o?autoplay=1"
   frameborder="0"></iframe>
 

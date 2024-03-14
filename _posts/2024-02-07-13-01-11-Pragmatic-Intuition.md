@@ -17,17 +17,17 @@ If there is, it's [related to this](https://marshallmcluhanspeaks.com/soundbites
 "We are inquiring, together." &mdash; [J. Krishnamurti](https://link.springer.com/chapter/10.1007/978-3-031-40074-2_6)
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/BASeIjL0Gbc" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/BASeIjL0Gbc" frameborder="0"></iframe>
 
 Watch [People Don't See It - Anthony Hopkins On The Illusion Of Life](https://youtu.be/BASeIjL0Gbc) if the embed does not behave nicely.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/B-gIpaE-cLg" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/B-gIpaE-cLg" frameborder="0"></iframe>
 
 Watch [Ep #031 \| 3 Types of Intuition And How to Identify & Use Them in Your Life \| Sonia Choquette](https://youtu.be/B-gIpaE-cLg) if the embed does not behave nicely.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/https://youtu.be/KgzQuE1pR1w?t=5" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/https://youtu.be/KgzQuE1pR1w?t=5" frameborder="0"></iframe>
 
 Watch [Bill Hicks - It's Just A Ride](https://youtu.be/KgzQuE1pR1w?t=5) if the embed does not behave nicely. "No effort, no work, no job, no savings of money, a choice. Right now." &mdash; Bill Hicks.
 

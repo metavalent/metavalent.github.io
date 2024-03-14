@@ -26,7 +26,7 @@ However, let there appear an urgent opportunity to *appear* caring, and the narc
 
 Watch [Narcissism Virus Vaccine NOW: It Evades Your Immunity! Real Pandemic Is Here!](https://youtu.be/uczI-m4Zb9o) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/uczI-m4Zb9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uczI-m4Zb9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br />
 
 #### Is the Pandemic of Narcissism Reflected in COVID-19 Pandemic?
@@ -73,7 +73,7 @@ the purpose of citing these realities is the fact that these are not conspiracy 
 
 Watch [Being LEAST Wrong About COVID (w/Dr. Marty Makary)](https://youtu.be/bsns1dQApOM) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/bsns1dQApOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bsns1dQApOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br />
 
 > Do individual human doctors care about patients? Of course they do! People are not making an argument to *believe* any of the fear, uncertainty, and doubt surrounding the entire pandemic storyline. We are not suggesting that you accept any of these words as definitive, we are sharing a line of skeptical inquiry. For example, Dr. Monica Gandhi does clearly say, "[some people will still get sick](https://youtu.be/tvQ3iWbfHpo?t=10m42s)," but not hospital sick. Which was "the whole point of the vaccine," says [PBS's Hari Sreenivasan](https://youtu.be/tvQ3iWbfHpo?t=10m42s). Does it get any more obvious that the goal was not to protect humans so much as it was to *protect hospital profits*? People may still get sick, but hospital costs are not impacted. Raise the Mission Accomplished banner. Shareholders protected.

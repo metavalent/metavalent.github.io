@@ -9,4 +9,4 @@ categories: [Uncategorized]
 A humorous primer on what we might call Unintelligible Design
 
 Click to enlarge
-<a href="images/unintelligible.design.gif"><img src="images/unintelligible.design.gif" width="380"/></a>.
+<a href="images/unintelligible.design.gif"><img src="images/unintelligible.design.gif"loading="lazy" width="380"/></a>.

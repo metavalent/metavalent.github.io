@@ -7,4 +7,4 @@ comments: true
 categories: [Uncategorized]
 ---
 Yes, there are GREAT alternatives to the iPod!  Better, faster, longer battery life, cheaper.
-<a rel="nofollow" href="http://www.engadget.com/entry/1234000157071380/"><img src="http://img.engadget.com/common/images/3060000000057093.JPG?0.058854639703200595" border="0" width="100" height="170" /></a>
+<a rel="nofollow" href="http://www.engadget.com/entry/1234000157071380/"><img src="http://img.engadget.com/common/images/3060000000057093.JPG?0.058854639703200595" border="0"loading="lazy" width="100" height="170" /></a>

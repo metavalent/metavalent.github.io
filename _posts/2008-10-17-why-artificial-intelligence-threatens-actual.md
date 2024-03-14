@@ -9,6 +9,6 @@ tumblr_url: https://metavalent.tumblr.com/post/55059283/why-artificial-intellige
 
 Always worth noting [popular presentations](http://www.popsci.com/abby-seiff/article/2008-09/video-why-artificial-intelligence-threatens-actual-intelligence).
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/CNdAIPoh8a4&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1">
+<objectloading="lazy" width="425" height="344"><param name="movie" value="http://www.youtube.com/v/CNdAIPoh8a4&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1">
 <param name="allowFullScreen" value="true">
-<embed src="http://www.youtube.com/v/CNdAIPoh8a4&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<embed src="http://www.youtube.com/v/CNdAIPoh8a4&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true"loading="lazy" width="425" height="344"></embed></object>

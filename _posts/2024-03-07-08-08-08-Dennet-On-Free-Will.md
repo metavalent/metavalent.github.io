@@ -13,7 +13,7 @@ modified: 2024-03-07T08:08:08-07:00
 ### Does free will exist? Closer to truth seems: probably yes and no; both, and; across a wide spectrum of causes and conditions.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/V-dQvkmFPbw" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/V-dQvkmFPbw" frameborder="0"></iframe>
 
 Watch [The Most Important Philosophical Question Of Our Time](https://youtu.be/V-dQvkmFPbw) if the embed does not behave nicely.
 

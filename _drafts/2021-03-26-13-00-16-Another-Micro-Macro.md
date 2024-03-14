@@ -13,4 +13,4 @@ modified: 2021-03-26T13:05:47-07:00
 
 [Watch here](https://youtu.be/BvdyXzji6F8?t=4m10s) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/BvdyXzji6F8?t=4m10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://youtu.be/BvdyXzji6F8?t=4m10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

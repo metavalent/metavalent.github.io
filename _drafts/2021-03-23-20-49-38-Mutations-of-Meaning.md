@@ -16,4 +16,4 @@ FTP, what's happened, like in America as a whole, is that human institutions and
 
 We can do this, because the human species is simultaneously going through a _mutation in the meaning_ of what it actually means to be human, in and of itself. How much more fortunate could we be, than to be alive to bear witness to this epochal transition, in this very present moment? The [Post-Automation Era](https://PostAutomationEra.com).
 
-<div class="embed-container"><iframe width="560" height="315" src="https://youtu.be/464bg-DkPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://youtu.be/464bg-DkPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

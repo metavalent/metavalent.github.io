@@ -20,10 +20,10 @@ It's very disappointing, indeed, when people whom I regard as clearly and vastly
 
 So, I would greatly value the community's DELIBERATION (read: no knee jerk reactions or impulsive reactive screeds, please) to these mathematical expressions and graphical depictions. Thank you.
 
-<img src="http://metavalent.info/images/unified_field_equation.jpg" width="450" />
+<img src="http://metavalent.info/images/unified_field_equation.jpg"loading="lazy" width="450" />
 Source: MCU <a href="http://www.maharishicentraluniversity.org/images/super-conformal-gauge.gif">1</a> and <a href="http://www.maharishicentraluniversity.org/images/fock-space_equation.gif">2</a>.
 
-<img src="http://metavalent.info/images/uf_invin_full.jpg" width="450" />
+<img src="http://metavalent.info/images/uf_invin_full.jpg"loading="lazy" width="450" />
 Source: <a href="http://www.invincibility.org/foundation.html">Invincibility.Org</a>
 
 Bottom line: this could be the work of complete crackpots, or it could be the work of some damned brave pioneers. The truth has proven time and time again to be stranger than fiction; finding and *maintaining* a sustainable and adaptive balance between open mindedness and critical thinking continues to be a lifelong pursuit.

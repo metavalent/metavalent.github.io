@@ -31,7 +31,7 @@ Following is an except from the soon to be published 2nd edition of the book *Wh
 Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
 
 <!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true  
-<video width="560" height="320" controls>
+<videoloading="lazy" width="560" height="320" controls>
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
   <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
@@ -39,7 +39,7 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player
-<iframe id="ytplayer" type="text/html" width="560" height="320"
+<iframe id="ytplayer" type="text/html"loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/imA1lpOdEhQ?autoplay=1"
   frameborder="0"></iframe>
 -->

@@ -35,7 +35,7 @@ All this conscious and unconscious, formal and informal social engineering of dr
 <!-- 
 Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/JnA8GUtXpXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JnA8GUtXpXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ![alt text](/assets/images/image.jpg "title")
 -->

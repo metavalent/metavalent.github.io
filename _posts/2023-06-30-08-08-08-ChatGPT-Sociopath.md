@@ -26,7 +26,7 @@ Sam argues that [it is unethical and should maybe be illegal](https://youtu.be/u
 
 The ethical approach, if there is such a thing in terms of "automating psychological and mental health," is to create our own deep learning based expert systems, according to Vaknin.
 
-<iframe id="ytplayer" type="text/html" width="560" height="320"
+<iframe id="ytplayer" type="text/html"loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/u_6NVd_QX7o?autoplay=1"
   frameborder="0"></iframe>
   

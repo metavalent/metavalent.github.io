@@ -8,7 +8,7 @@ categories: [Uncategorized]
 ---
 This entry comes to us from the "If I Already Agree with the Reports, It's News; If I Don't Agree, or If New Facts Call Into Question My Existing Worldview, It's Enemy Propaganda" Department.
 
-<hr width="50%" align="center"/>
+<hrloading="lazy" width="50%" align="center"/>
 We begin with <a href="http://electronicintifada.net/v2/article5341.shtml">this incisive and heart-felt report</a> from Mayssoun Sukarieh, PhD Candidate at the University of California, writing from Beirut, live from Lebanon, 30 July 2006: "Just how many outcries do you need to hear before you act out of a commitment to humanity, a humanity that links you and me and so many beyond this sick consumerism of images?
 
 To tell you the truth, my friend, we have lost faith in the idea that "public opinion" is capable of changing anything. We have lost faith in an international community that can back us and stop these massacres. The UN is now just another cold and unfeeling face of the United States.
@@ -19,14 +19,14 @@ We have lost faith in you because we think your governments do not give a damn a
 
 We have lost faith in you because your democracy got exported to us with your missiles, and we are consuming them while you are consuming our news.
 
-<hr width="50%" align="center"/>
+<hrloading="lazy" width="50%" align="center"/>
 Next, <a href="http://www.merip.org/mer/mer234/lobe.html">Middle East Report 234: The Bush Team Reloaded, by Jim Lobe</a>
 
 "On September 20, 2001, just nine days after the attacks on New York and the Pentagon, the Project for the New American Century (<a href="http://en.wikipedia.org/wiki/Project_for_the_New_American_Century">PNAC</a>) laid out a consensus agenda for President George W. Bush’s “war on terrorism.” In addition to military action to oust the Taliban in Afghanistan and “capture or kill” Osama bin Laden, PNAC called for regime change in Iraq “<a href="http://www.newamericancentury.org/">even if evidence does not link Iraq directly to the attack</a>,” and “appropriate measures of retaliation” against Iran and Syria if they refused to comply with US demands to cut off support for Hizballah. Signed by prominent neo-conservatives and a smattering of liberal interventionists ... notably former CIA director James Woolsey and former Commentary editor Norman Podhoretz, [who] were soon describing [the PNAC strategy] as “World War IV.”"
 
 Among its other recommendations, the slim volume encouraged the Bush administration explicitly to reject the jurisdiction of the UN Charter unless amended to accommodate Washington’s new strategic doctrine of “preemption,” to cleanse the CIA and State Department of their “realists” and “Arabists.”
 
-<hr width="50%" align="center"/>
+<hrloading="lazy" width="50%" align="center"/>
 For What It's Worth
 Buffalo Springfield
 Written in 1966

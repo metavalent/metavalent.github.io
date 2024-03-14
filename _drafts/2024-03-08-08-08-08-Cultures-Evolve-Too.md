@@ -13,7 +13,7 @@ modified: 2024-03-03T08:08:08-07:00
 ### It's not just biology and it's not just your imagination.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/1598tCTdPrg" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center"loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/1598tCTdPrg" frameborder="0"></iframe>
 
 Watch [How to see clearly through deceptive emotions | Kristen Lindquist](https://youtu.be/1598tCTdPrg) if the embed does not behave nicely.
 

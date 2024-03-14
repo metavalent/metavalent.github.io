@@ -12,7 +12,7 @@ modified: 2023-05-17T21:09:58-07:00
 
 ### Is this the end of photography as we've known it?
 
-<iframe id="ytplayer" type="text/html" width="560" height="320"
+<iframe id="ytplayer" type="text/html"loading="lazy" width="560" height="320"
   src="https://www.youtube.com/embed/J1oEWiUsKgU?autoplay=1"
   frameborder="0"></iframe>
 

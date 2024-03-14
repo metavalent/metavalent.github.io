@@ -20,6 +20,6 @@ Democrats today are still supporting racist policies, by living in all white nei
 
 [Watch here](https://youtu.be/https://youtu.be/ky1l2slZqMc) if the embed below does not behave nicely. 
 
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/ky1l2slZqMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframeloading="lazy" width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/ky1l2slZqMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 

@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [metavalent, war on aging]
 ---
-<a href="http://metavalent.info/images/turning.80.fun.jpg"><img src="http://metavalent.info/images/turning.80.fun.jpg" width="400" alt="Click for full size" /></a><br />Caption Reads: I Never Thought Turning 80 Would Be So Much Fun!
+<a href="http://metavalent.info/images/turning.80.fun.jpg"><img src="http://metavalent.info/images/turning.80.fun.jpg"loading="lazy" width="400" alt="Click for full size" /></a><br />Caption Reads: I Never Thought Turning 80 Would Be So Much Fun!
 
 This is a scanned-in card from a local gift shop. Go ahead and laugh today, but when the gift card industry is stocking the shelves with "happy 90th and you're still HOT" and "happy 100th, as in percentage of perfection" ... I'm comfortable asserting that the societal change IS HAPPENING and HAS HAPPENED already; to an initial, if incremental extent.  Anyone who went shopping for Hallmark cards just 20 years ago ... let alone 30 or 40 ... will attest to the fact that you didn't see shelves overflowing with "Happy 100th Birthday" cards. I guarantee Hallmark only stocks those shelves because people buy that product ... and that means, the longevity shift is happening.  The key, as groups like the Methuselah Foundation and Kronos Longevity Research Institute rightly emphasize ... is extending HEALTHSPAN, not just lifespan; and that is precisely what the transhuman / posthuman movement is all about.
 
