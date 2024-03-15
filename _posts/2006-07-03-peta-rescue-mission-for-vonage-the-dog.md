@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-From a Motley Foolish piece entitled, <a href="http://news.yahoo.com/s/fool/20060703/bs_fool_fool/115194055606">Vonage On Hold</a>: "for every satisfied Samuel Adams sipper you have the Garden Botanika shopper and Vonage subscriber that gets burned.  That's a sticky situation because now you have upset your shareholders as well as your most faithful customers that believed in the cause enough to buy into the offering."  
+From a Motley Foolish piece entitled, <a href="https://news.yahoo.com/s/fool/20060703/bs_fool_fool/115194055606">Vonage On Hold</a>: "for every satisfied Samuel Adams sipper you have the Garden Botanika shopper and Vonage subscriber that gets burned.  That's a sticky situation because now you have upset your shareholders as well as your most faithful customers that believed in the cause enough to buy into the offering."  
 
 Somebody call PETA, quick.
 

@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-It's not a scientific poll, so it can safely be ignored, right?  <a href="http://www.cnn.com/POLLSERVER/results/21425.exclude.html">CNN.com QuickVote</a>.
+It's not a scientific poll, so it can safely be ignored, right?  <a href="https://www.cnn.com/POLLSERVER/results/21425.exclude.html">CNN.com QuickVote</a>.
 
 

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://space.com/adastra/adastra_tradesmen_050330.html">Help Wanted: Space Colonists Need To Be More Than Astronauts</a>
+<a href="https://space.com/adastra/adastra_tradesmen_050330.html">Help Wanted: Space Colonists Need To Be More Than Astronauts</a>

@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.forbes.com/technology/2006/08/08/aol-internet-update-cx_po_0808privacy.html"><img src="http://metavalent.info/images/forbes.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->YOUR private information, that is.  <a href="http://www.forbes.com/technology/2006/08/08/aol-internet-update-cx_po_0808privacy.html">Forbes.com reports</a>, "[AOL] inadvertently revealed to the world what 650,000 of its subscribers searched for as they browsed for online information. The searches often contained data that helped identify the users themselves, including <b>names, Social Security numbers</b> and local landmarks that they had looked up. 
+<!--Lead Photo --><a href="https://www.forbes.com/technology/2006/08/08/aol-internet-update-cx_po_0808privacy.html"><img src="https://metavalent.info/images/forbes.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->YOUR private information, that is.  <a href="https://www.forbes.com/technology/2006/08/08/aol-internet-update-cx_po_0808privacy.html">Forbes.com reports</a>, "[AOL] inadvertently revealed to the world what 650,000 of its subscribers searched for as they browsed for online information. The searches often contained data that helped identify the users themselves, including <b>names, Social Security numbers</b> and local landmarks that they had looked up. 
 
 ''This was a screw-up, and we're angry and upset about it,'' AOL spokesman Andrew Weinstein told The Associated Press."
 

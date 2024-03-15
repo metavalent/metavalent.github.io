@@ -6,5 +6,5 @@ author: metavalent
 comments: true
 categories: [physics]
 ---
-[youtube http://www.youtube.com/watch?v=qU1fixMAObI]
+[youtube https://www.youtube.com/watch?v=qU1fixMAObI]
 

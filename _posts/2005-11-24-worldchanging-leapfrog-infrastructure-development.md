@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.worldchanging.com/archives/003779.html">Another World Is Here: StarSight</a>, and it's utterly brilliant.
+<a href="https://www.worldchanging.com/archives/003779.html">Another World Is Here: StarSight</a>, and it's utterly brilliant.

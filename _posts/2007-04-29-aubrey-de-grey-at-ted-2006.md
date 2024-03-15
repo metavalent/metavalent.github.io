@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [metavalent, war on aging]
 ---
-[youtube http://www.youtube.com/watch?v=E8km1yC0n2A]
+[youtube https://www.youtube.com/watch?v=E8km1yC0n2A]

@@ -6,5 +6,5 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.pcworld.com/news/article/0,aid,118584,00.asp">PCWorld.com - SBC Tunes Into IP-Based TV</a>
-But we've all <a href="http://www.sbc.com/gen/press-room?pid=5838">heard this creepy song before.</a>
+<a href="https://www.pcworld.com/news/article/0,aid,118584,00.asp">PCWorld.com - SBC Tunes Into IP-Based TV</a>
+But we've all <a href="https://www.sbc.com/gen/press-room?pid=5838">heard this creepy song before.</a>

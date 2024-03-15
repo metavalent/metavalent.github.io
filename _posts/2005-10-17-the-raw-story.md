@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://rawstory.com/news/2005/CanExecutive_Branch_Decide_0923.html">Scholar says Bush has used obscure doctrine to extend power 95 times</a>
+<a href="https://rawstory.com/news/2005/CanExecutive_Branch_Decide_0923.html">Scholar says Bush has used obscure doctrine to extend power 95 times</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.reandev.com/taliban/">The American Taliban</a>
+<a href="https://www.reandev.com/taliban/">The American Taliban</a>

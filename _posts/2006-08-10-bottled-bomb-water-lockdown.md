@@ -26,7 +26,7 @@ General Jack D. Ripper: You know when fluoridation first began?
 
 Group Capt. Lionel Mandrake: I... no, no. I don't, Jack.
 
-General Jack D. Ripper: Nineteen hundred and forty-six. Nineteen forty-six, Mandrake. How does that coincide with your post-war Commie conspiracy, huh? It's incredibly obvious, isn't it? A foreign substance is introduced into our precious bodily fluids without the knowledge of the individual. Certainly without any choice. That's the way your hard-core Commie works (<a href="http://www.imdb.com/title/tt0057012/quotes">IMDb</a>).
+General Jack D. Ripper: Nineteen hundred and forty-six. Nineteen forty-six, Mandrake. How does that coincide with your post-war Commie conspiracy, huh? It's incredibly obvious, isn't it? A foreign substance is introduced into our precious bodily fluids without the knowledge of the individual. Certainly without any choice. That's the way your hard-core Commie works (<a href="https://www.imdb.com/title/tt0057012/quotes">IMDb</a>).
 
 It doesn't matter to today's lockdown that the actual threatening liquids are of KNOWN particular colors, consistencies, and quantities.
 
@@ -42,7 +42,7 @@ No, no, there is no room for DISCERNMENT in the land of equality.  People will b
 
 So, I'm sorry ma'am, but that SEALED bottle of CLEAR MOUNTAIN SPRING WATER is a TERRORIST THREAT to civilization.
 
-"We HOPE that these measures, which are being kept under review by the government, will need to be in place for a limited period only," <a href="http://news.bbc.co.uk/2/hi/uk_news/4778575.stm">the statement said</a>.
+"We HOPE that these measures, which are being kept under review by the government, will need to be in place for a limited period only," <a href="https://news.bbc.co.uk/2/hi/uk_news/4778575.stm">the statement said</a>.
 
 We hope?  We can only hope that the THREAT of fluoridated water is held in check by the geniuses at DHS, too.  
 

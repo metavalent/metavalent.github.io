@@ -11,4 +11,4 @@ Wow.  I have to say that Comcast is really smoking the competition here in Palo 
 2005-11-17 18:49:36 EST: 5895 / 351
 Your download speed : 5895 kbps or 736.9 KB/sec.
 Your upload speed : 351 kbps or 43.8 KB/sec.
-<a href="https://web.archive.org/web/*/http://awebcamdarkly.com/" /></a>
+<a href="https://web.archive.org/web/*/https://awebcamdarkly.com/" /></a>

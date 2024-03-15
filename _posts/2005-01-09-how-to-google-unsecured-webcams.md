@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Once again, Boing Boing has done an invaluable public service in teaching us all how to <a href="http://www.boingboing.net/2005/01/04/googling_unsecured_w.html">Google unsecured webcams</a>.  We didn't have enough distractions in our lives before this; good thing we found it in time!
+Once again, Boing Boing has done an invaluable public service in teaching us all how to <a href="https://www.boingboing.net/2005/01/04/googling_unsecured_w.html">Google unsecured webcams</a>.  We didn't have enough distractions in our lives before this; good thing we found it in time!

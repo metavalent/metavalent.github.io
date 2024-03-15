@@ -12,7 +12,7 @@ Yeah, so just gloss over the fine print below. Granted, <em>technically</em> and
 
 Don't you just <em>love</em> that word, anyway? Google. It's just so darned ... <em>googly</em> ... and it's still <em>so damned cute</em> every single time I say it or hear it. Great googly, oogly, boogly, koogle, oogly-moogly ... awww ... it's just like the most friendly and unquestionably loyal fluffy furry little puppy, isn't it? And after all, what could a cute and fluffily little waggily puppily ever do to harm something as vital and personal as your entire medical record, right?
 
-<blockquote><a href="http://www.google.com/health/">Google Health</a>
+<blockquote><a href="https://www.google.com/health/">Google Health</a>
 
 AUTHORIZATION
 
@@ -52,7 +52,7 @@ You may only use Google Health if you reside in the United States.
 
 3. Your Account and Use of Google Health
 
-You must provide accurate and complete registration information any time you register to use Google Health. You are responsible for the security of your passwords and for any use of your account. You must immediately notify Google of any unauthorized use of your password or account by following the instructions at this link: http://www.google.com/support/accounts/bin/answer.py?answer=48601.
+You must provide accurate and complete registration information any time you register to use Google Health. You are responsible for the security of your passwords and for any use of your account. You must immediately notify Google of any unauthorized use of your password or account by following the instructions at this link: https://www.google.com/support/accounts/bin/answer.py?answer=48601.
 
 Your use of Google Health and any content accessed through Google Health must comply with all applicable laws, regulations and ordinances, including any laws regarding the export of data or software.  You must be at least 18 years old to use Google Health.
 

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-This Modern Marvel of a <a href="http://www.discover.com/issues/nov-05/cover/">Time Machine</a> is equally long on WOW!
+This Modern Marvel of a <a href="https://www.discover.com/issues/nov-05/cover/">Time Machine</a> is equally long on WOW!

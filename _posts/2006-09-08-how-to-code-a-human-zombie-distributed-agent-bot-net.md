@@ -6,8 +6,8 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://blog.dreamhost.com/"></a>"Sometimes, the wisdom of crowds doesn’t work. Sometimes, the crowd is gaming you. It’s the tyranny of the well-organized minority."
+<a href="https://blog.dreamhost.com/"></a>"Sometimes, the wisdom of crowds doesn’t work. Sometimes, the crowd is gaming you. It’s the tyranny of the well-organized minority."
 
 Brilliant.  Just flat brilliant.  It's not often that you run into this caliber of illuminating metaperception with regard to seemingly insurmoutable, widespread, real world problems. 
 
-But then when you realize that <a href="http://blog.dreamhost.com/2006/09/08/i-am-your-shepherd/#comments">it was all a metadistraction</a>, oh, the disillusionment!
+But then when you realize that <a href="https://blog.dreamhost.com/2006/09/08/i-am-your-shepherd/#comments">it was all a metadistraction</a>, oh, the disillusionment!

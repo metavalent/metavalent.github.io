@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://software.newsforge.com/software/05/05/17/2114251.shtml?tid=132">NewsForge | One small business's year without Windows</a>
+<a href="https://software.newsforge.com/software/05/05/17/2114251.shtml?tid=132">NewsForge | One small business's year without Windows</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.gutenberg.org/files/10717/10717-8.txt"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">The Extant Odes of Pindar</a>
+<!--Lead Photo --><a href="https://www.gutenberg.org/files/10717/10717-8.txt"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">The Extant Odes of Pindar</a>

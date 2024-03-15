@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Is <a href="http://www.comics.com/comics/dilbert/archive/dilbert-20050108.html">Transformational Change</a>.
+Is <a href="https://www.comics.com/comics/dilbert/archive/dilbert-20050108.html">Transformational Change</a>.

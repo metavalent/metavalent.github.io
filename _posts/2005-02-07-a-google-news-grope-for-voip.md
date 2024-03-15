@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Stories related to the latest<a href="http://news.google.com/nwshp?hl=en&amp;gl=&amp;ncl=http://www.newsfactor.com/entsec/story.xhtml%3Fstory_title%3DVoIP-Security-Alliance-Forms%26story_id%3D30279%26category%3Dentsec">VoIP Alliance</a> (VoIPSA)
+Stories related to the latest<a href="https://news.google.com/nwshp?hl=en&amp;gl=&amp;ncl=https://www.newsfactor.com/entsec/story.xhtml%3Fstory_title%3DVoIP-Security-Alliance-Forms%26story_id%3D30279%26category%3Dentsec">VoIP Alliance</a> (VoIPSA)

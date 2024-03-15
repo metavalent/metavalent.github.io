@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://people.hazent.com/~adl/snort2c/h_page/">snort2c website</a>
+<a href="https://people.hazent.com/~adl/snort2c/h_page/">snort2c website</a>

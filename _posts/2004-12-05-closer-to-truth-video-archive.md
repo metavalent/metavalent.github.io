@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [education, society]
 ---
-<a href="http://www.closertotruth.com/videoarchive/index.html">Closer To Truth - Video Archive</a>
+<a href="https://www.closertotruth.com/videoarchive/index.html">Closer To Truth - Video Archive</a>
 
 Robert L. Kuhn guy is an amazingly gifted interviewer and has an unparalleled talent for contextualizing all kinds of complex subjects.  Here are a list of programs he's done, viewable on the internet.
 

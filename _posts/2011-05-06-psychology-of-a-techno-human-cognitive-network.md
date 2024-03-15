@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [cyborg, metavalent, neuro-cogno]
 ---
-Oh oh. The normals have found us (<a href="http://www.psychologytoday.com/blog/the-techno-human-condition/201105/the-techno-human-condition">Psychology Today</a>) . Time to break camp and move forward again.<blockquote>In short, augmented cognition.  Or, put another way, in a world where complexity is already overwhelming, and yet continues to accelerate, networked cognition is becoming increasingly critical: cognition as an emergent property of techno-human networks, rather than the individual Cartesian brains that we are all so proud of. 
+Oh oh. The normals have found us (<a href="https://www.psychologytoday.com/blog/the-techno-human-condition/201105/the-techno-human-condition">Psychology Today</a>) . Time to break camp and move forward again.<blockquote>In short, augmented cognition.  Or, put another way, in a world where complexity is already overwhelming, and yet continues to accelerate, networked cognition is becoming increasingly critical: cognition as an emergent property of techno-human networks, rather than the individual Cartesian brains that we are all so proud of. 
 
 [C]an components of a techno-human cognitive network (individual people, that is) understand the emergent cognitive products of that network?  Can they hope to modify the output of the network in ways that they might prefer, for example to pursue and achieve morally desirable ends?
 

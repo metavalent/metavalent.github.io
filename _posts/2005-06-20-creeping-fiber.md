@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www22.verizon.com/fiosforhome/channels/fios/root/package.asp">Verizon Fios - Packages &amp; Prices</a>
+<a href="https://www22.verizon.com/fiosforhome/channels/fios/root/package.asp">Verizon Fios - Packages &amp; Prices</a>

@@ -6,8 +6,8 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<ul><li></li><a href="http://www.accelerating.org/">Acceleration Studies Foundation (ASF)</a>
-<li></li><a href="http://www.futuresalon.org/">Future Salon</a>
-<li></li><a href="http://www.edge.org/">The Edge</a>
-<li></li><a href="http://www.ted.com/">TED</a></ul>
-And why not have some fun while you're at it?  Now taking predictions about the future prospects for this organization: <a href="http://www.profuturists.org/">The Association of Professional Futurists</a>.
+<ul><li></li><a href="https://www.accelerating.org/">Acceleration Studies Foundation (ASF)</a>
+<li></li><a href="https://www.futuresalon.org/">Future Salon</a>
+<li></li><a href="https://www.edge.org/">The Edge</a>
+<li></li><a href="https://www.ted.com/">TED</a></ul>
+And why not have some fun while you're at it?  Now taking predictions about the future prospects for this organization: <a href="https://www.profuturists.org/">The Association of Professional Futurists</a>.

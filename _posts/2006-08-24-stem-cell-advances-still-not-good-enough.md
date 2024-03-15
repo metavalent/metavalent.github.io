@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.mercurynews.com/mld/mercurynews/news/15348684.htm"><img src="http://metavalent.info/images/sanjose.merc.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->"Advanced Cell Technology, an Alameda biotech company, disclosed Wednesday in the journal Nature that it has developed <a href="http://www.mercurynews.com/mld/mercurynews/news/15348684.htm">a way to grow stem-cell lines from a single cell extracted from a human embryo</a>."
+<!--Lead Photo --><a href="https://www.mercurynews.com/mld/mercurynews/news/15348684.htm"><img src="https://metavalent.info/images/sanjose.merc.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->"Advanced Cell Technology, an Alameda biotech company, disclosed Wednesday in the journal Nature that it has developed <a href="https://www.mercurynews.com/mld/mercurynews/news/15348684.htm">a way to grow stem-cell lines from a single cell extracted from a human embryo</a>."
 
 ``This is an important breakthrough,'' if other scientists confirm the method works without harming embryos, said Arnold Kriegstein, who directs the Institute for Regeneration Medicine at the University of California-San Francisco.
 

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://finance.yahoo.com/columnist/archives/headlines/yourlife/2005/1">How Not to Ruin Your Life - Ben Stein on Yahoo! Finance</a>
+<a href="https://finance.yahoo.com/columnist/archives/headlines/yourlife/2005/1">How Not to Ruin Your Life - Ben Stein on Yahoo! Finance</a>

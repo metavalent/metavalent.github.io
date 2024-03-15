@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.businessweek.com/bwdaily/dnflash/dec2005/nf20051222_6928_db016.htm?campaign_id=rss_topStories"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" BUSINESSWEEK.COM
+<!--Lead Photo --><a href="https://www.businessweek.com/bwdaily/dnflash/dec2005/nf20051222_6928_db016.htm?campaign_id=rss_topStories"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/" BUSINESSWEEK.COM

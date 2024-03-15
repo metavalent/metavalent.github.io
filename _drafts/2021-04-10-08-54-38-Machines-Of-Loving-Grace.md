@@ -23,7 +23,7 @@ The sooner the better.
 &ndash; metavalent aʻohe mea
 <hr />
 ### All Watched Over by Machines of Loving Grace
-_(Source: [Brautigan.net](http://www.brautigan.net/machines.html))_
+_(Source: [Brautigan.net](https://www.brautigan.net/machines.html))_
 
 I like to think (and
 the sooner the better!)

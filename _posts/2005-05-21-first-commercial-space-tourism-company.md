@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://science.slashdot.org/article.pl?sid=05/05/21/1814213&amp;from=rss">Slashdot | First Commercial Space Tourism Company</a>
+<a href="https://science.slashdot.org/article.pl?sid=05/05/21/1814213&amp;from=rss">Slashdot | First Commercial Space Tourism Company</a>

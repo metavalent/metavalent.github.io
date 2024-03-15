@@ -24,4 +24,4 @@ Sermons like Mr. Boyd’s are hardly typical in today’s evangelical churches. 
 
 <blockquote>“I don’t think there’s a particular angle we have on society that others lack. All good, decent people want good and order and justice. Just don’t slap the label ‘Christian’ on it.”</blockquote>
 
-New York Times: <a href="http://www.nytimes.com/2006/07/30/us/30pastor.html?hp%26ex=1154232000%26en=fc81bfdd0ee7feb1%26ei=5094%26partner=homepage">Disowning Conservative Politics Is Costly for an Evangelical Pastor</a>
+New York Times: <a href="https://www.nytimes.com/2006/07/30/us/30pastor.html?hp%26ex=1154232000%26en=fc81bfdd0ee7feb1%26ei=5094%26partner=homepage">Disowning Conservative Politics Is Costly for an Evangelical Pastor</a>

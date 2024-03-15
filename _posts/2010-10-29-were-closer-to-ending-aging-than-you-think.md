@@ -7,4 +7,4 @@ comments: true
 categories: [metavalent, war on aging]
 ---
 
-Further reference: <a href="http://library.wolfram.com/infocenter/Conferences/7304/">Why We Die: Simulation of the Evolution of Senescence</a> (Wolfram Library)
+Further reference: <a href="https://library.wolfram.com/infocenter/Conferences/7304/">Why We Die: Simulation of the Evolution of Senescence</a> (Wolfram Library)

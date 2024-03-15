@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.cbsnews.com/stories/2005/12/28/60minutes/main1167418.shtml"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"
+<!--Lead Photo --><a href="https://www.cbsnews.com/stories/2005/12/28/60minutes/main1167418.shtml"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"

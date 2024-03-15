@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [metavalent, neuro-cogno, society]
 ---
-As we've said for years ... just gimme the I/O ports ...<blockquote>Researchers at the ATR Computational Neuroscience Laboratories succeeded in <a href="http://www.physorg.com/news148193433.html">processing and displaying images directly from the human brain</a>, they said in a study unveiled ahead of publication in the US magazine Neuron.
+As we've said for years ... just gimme the I/O ports ...<blockquote>Researchers at the ATR Computational Neuroscience Laboratories succeeded in <a href="https://www.physorg.com/news148193433.html">processing and displaying images directly from the human brain</a>, they said in a study unveiled ahead of publication in the US magazine Neuron.
 
 While the team for now has managed to reproduce only simple images from the brain, they said the technology could eventually be used to figure out dreams and other secrets inside people's minds.
 

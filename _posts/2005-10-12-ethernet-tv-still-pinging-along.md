@@ -7,4 +7,4 @@ comments: true
 categories: wp-import
 ---
 From Slashdot:
-<blockquote>Microsoft hopes its <a href="http://slashdot.org/article.pl?sid=05/10/11/2150259">Internet protocol television system</a> (IPTV) will also be used in India, China and other developing countries.</blockquote>
+<blockquote>Microsoft hopes its <a href="https://slashdot.org/article.pl?sid=05/10/11/2150259">Internet protocol television system</a> (IPTV) will also be used in India, China and other developing countries.</blockquote>

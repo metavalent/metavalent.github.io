@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [education, metavalent, society]
 ---
-[youtube http://www.youtube.com/watch?v=Y6bbMQXQ180]
+[youtube https://www.youtube.com/watch?v=Y6bbMQXQ180]

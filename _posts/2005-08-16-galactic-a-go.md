@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://science.slashdot.org/article.pl?sid=05/08/16/1752201&amp;tid=160&amp;tid=103&amp;tid=187">Slashdot | U.S. Okays Virgin Galactic Plans</a>
+<a href="https://science.slashdot.org/article.pl?sid=05/08/16/1752201&amp;tid=160&amp;tid=103&amp;tid=187">Slashdot | U.S. Okays Virgin Galactic Plans</a>

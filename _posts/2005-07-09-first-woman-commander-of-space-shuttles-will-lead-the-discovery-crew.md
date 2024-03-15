@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Reported by <a href="http://www.voanews.com/english/2005-07-08-voa19.cfm">VOA News</a>
+Reported by <a href="https://www.voanews.com/english/2005-07-08-voa19.cfm">VOA News</a>

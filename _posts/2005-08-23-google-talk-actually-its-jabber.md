@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-http://www.smashsworld.com/2005/08/im-on-google-talk-right-now.php
+https://www.smashsworld.com/2005/08/im-on-google-talk-right-now.php

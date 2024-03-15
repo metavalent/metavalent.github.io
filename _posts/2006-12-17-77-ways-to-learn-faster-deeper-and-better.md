@@ -6,5 +6,5 @@ author: metavalent
 comments: true
 categories: [neuro-cogno]
 ---
-<a href="http://oedb.org/library/college-basics/hacking-knowledge" target="_blank"><img src="http://img326.imageshack.us/img326/4621/clipboard01ut2.jpg" alt="OEDb" />
+<a href="https://oedb.org/library/college-basics/hacking-knowledge" target="_blank"><img src="https://img326.imageshack.us/img326/4621/clipboard01ut2.jpg" alt="OEDb" />
 Hacking Knowledge</a>

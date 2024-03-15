@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [metavalent, society]
 ---
-<a href="http://ieet.org/index.php/IEET/more/poll20070304/" target="_blank">Interesting</a>.
+<a href="https://ieet.org/index.php/IEET/more/poll20070304/" target="_blank">Interesting</a>.

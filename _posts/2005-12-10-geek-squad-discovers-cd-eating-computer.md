@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Wow, this is <a href="http://video.google.com/videoplay?docid=-6207939157641719018">a video worth enshrining</a>.
+Wow, this is <a href="https://video.google.com/videoplay?docid=-6207939157641719018">a video worth enshrining</a>.

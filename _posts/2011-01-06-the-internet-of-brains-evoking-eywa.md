@@ -16,6 +16,6 @@ Using the experimental microelectrodes, the scientists recorded brain signals as
 
 Later, they tried figuring out which brain signals represented each of the 10 words. When they compared any two brain signals – such as those generated when the man said the words "yes" and "no" – they were able to distinguish brain signals for each word 76 percent to 90 percent of the time.</blockquote>
 
-SOURCE: <a href="http://www.eurekalert.org/pub_releases/2010-09/uou-tbs090110.php" target="_blank">EUREKALERT</a>
+SOURCE: <a href="https://www.eurekalert.org/pub_releases/2010-09/uou-tbs090110.php" target="_blank">EUREKALERT</a>
 
 [gallery link="file"]

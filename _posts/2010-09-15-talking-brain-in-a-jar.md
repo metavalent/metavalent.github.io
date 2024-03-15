@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [bci, metavalent, neuro-cogno]
 ---
-Popular Science:<blockquote>By measuring the electrical signals made in certain parts of the brain when its thinking of certain words, researchers could create <a href="http://www.popsci.com/science/article/2010-09/researchers-translate-thoughts-speech-potentially-allowing-locked-patients-communicate">a means to translate thoughts into speech</a>.
+Popular Science:<blockquote>By measuring the electrical signals made in certain parts of the brain when its thinking of certain words, researchers could create <a href="https://www.popsci.com/science/article/2010-09/researchers-translate-thoughts-speech-potentially-allowing-locked-patients-communicate">a means to translate thoughts into speech</a>.
 
 In an effort to unlock the speech capacity in patients who cannot speak because of so-called “locked-in syndrome,” University of Utah researchers have successfully demonstrated that they can translate brain signals into words using electrode grids placed beneath the skull. Sort of.
 

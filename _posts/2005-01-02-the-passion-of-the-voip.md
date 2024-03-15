@@ -19,5 +19,5 @@ by Anonymous Coward on Sunday January 02, @03:34PM (#11239581)
 I wonder if my modem would work on VOIP. Data over voice over TCP/IP over POTS...
 
 <hr />
-Thanks again for great reprint material, <a href="http://www.slashdot.org/">Slashdot</a>. :)
+Thanks again for great reprint material, <a href="https://www.slashdot.org/">Slashdot</a>. :)
 

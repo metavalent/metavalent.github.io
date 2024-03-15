@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.nytimes.com/2005/05/16/national/class/HEALTH-FINAL.html">Class Matters - Social Class and Health Care in the United States of America - The New York Times - New York Times</a>
+<a href="https://www.nytimes.com/2005/05/16/national/class/HEALTH-FINAL.html">Class Matters - Social Class and Health Care in the United States of America - The New York Times - New York Times</a>

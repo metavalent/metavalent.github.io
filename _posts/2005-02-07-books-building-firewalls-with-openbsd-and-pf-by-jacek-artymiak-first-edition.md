@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Now that second edition is out, the first edition is <a href="http://www.devguide.net/books/openbsdfw-01-ed/index.htm">available as PDF download.</a>
+Now that second edition is out, the first edition is <a href="https://www.devguide.net/books/openbsdfw-01-ed/index.htm">available as PDF download.</a>

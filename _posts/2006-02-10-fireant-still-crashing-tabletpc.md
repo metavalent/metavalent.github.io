@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="https://web.archive.org/web/*/http://awebcamdarkly.com/"t blame them, because developing software is INSANELY DIFFICULT, but I do hope they do get around to it.
+<!--Lead Photo --><a href="https://web.archive.org/web/*/https://awebcamdarkly.com/"t blame them, because developing software is INSANELY DIFFICULT, but I do hope they do get around to it.

@@ -6,11 +6,11 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://sss.stanford.edu/coverage/powerpoints/"><img src="http://img147.imageshack.us/img147/5558/headersubpagevu7.gif" border="0" alt="0" align="left" /></a><!-- Commentary -->
+<!--Lead Photo --><a href="https://sss.stanford.edu/coverage/powerpoints/"><img src="https://img147.imageshack.us/img147/5558/headersubpagevu7.gif" border="0" alt="0" align="left" /></a><!-- Commentary -->
 
 
 
-<p>I'm super glad that <a href="http://sss.stanford.edu/coverage/powerpoints/">photos, audio-video, and powerpoints are here</a>, but still looking very much forward to transcripts and q&amp;a!</p>
+<p>I'm super glad that <a href="https://sss.stanford.edu/coverage/powerpoints/">photos, audio-video, and powerpoints are here</a>, but still looking very much forward to transcripts and q&amp;a!</p>
 <!-- Tags -->
-<div>tags: <a href="http://technorati.com/tag/metavalent" rel="tag">metavalent</a>, <a href="http://technorati.com/tag/extropian" rel="tag">extropian</a></div>
+<div>tags: <a href="https://technorati.com/tag/metavalent" rel="tag">metavalent</a>, <a href="https://technorati.com/tag/extropian" rel="tag">extropian</a></div>
 <!-- //End Tags -->

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://video.google.com/videoplay?docid=-7193470719293309352">Google Video</a> may not be good for much, but how else would we have re-discovered Wes?
+<a href="https://video.google.com/videoplay?docid=-7193470719293309352">Google Video</a> may not be good for much, but how else would we have re-discovered Wes?

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://stream-1.onstreammedia.com/content/mediaone/55/31382_300.mov"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Brave New TV</a>.
+<!--Lead Photo --><a href="https://stream-1.onstreammedia.com/content/mediaone/55/31382_300.mov"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Brave New TV</a>.

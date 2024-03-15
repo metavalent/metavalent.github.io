@@ -10,4 +10,4 @@ I would SO prefer to keep my attention on stuff like this.  The only reason this
 
 "In tests on rats, researchers at Johns Hopkins and the University of Michigan have developed a treatment that helps spinal cord nerves regrow after injury. The findings will be published in the July 18 issue of the Proceedings of the National Academy of Sciences. The study has implications for treating people who may face amputation of an arm after a violent injury in which nerves are wrenched from the spinal cord. The new treatment currently is under study for other types of traumatic spinal cord injury."
 
-<a href="http://www.sciencedaily.com/releases/2006/07/060718073559.htm">Scientists Coax Nerve Fibers To Regrow After Spinal Cord Injury</a>
+<a href="https://www.sciencedaily.com/releases/2006/07/060718073559.htm">Scientists Coax Nerve Fibers To Regrow After Spinal Cord Injury</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://moneycentral.msn.com/content/SavingandDebt/P111061.asp">MSN Money - 7 stages of lasting financial change</a>
+<a href="https://moneycentral.msn.com/content/SavingandDebt/P111061.asp">MSN Money - 7 stages of lasting financial change</a>

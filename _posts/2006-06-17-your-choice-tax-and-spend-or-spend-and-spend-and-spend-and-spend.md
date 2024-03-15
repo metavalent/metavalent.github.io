@@ -8,7 +8,7 @@ categories: wp-import
 ---
 "<em>Meanwhile</em>, first-quarter current account data show the <strong>U.S. for the first time is paying out more on its foreign liabilities than it earns on its overseas assets</strong>. This problem will only compound over time, Reik points out."
 
-Source: <a href="http://online.barrons.com/public/article/SB115028523078379989-FdOvdx3vgNH43tHMZz723k5itBQ_20070617.html?mod=9_0002_b_online_exclusives_weekend">Barron's Online - Up and Down Wall Street Daily</a>
+Source: <a href="https://online.barrons.com/public/article/SB115028523078379989-FdOvdx3vgNH43tHMZz723k5itBQ_20070617.html?mod=9_0002_b_online_exclusives_weekend">Barron's Online - Up and Down Wall Street Daily</a>
 
 I think the Dem's need to embrace the pejoratives used against them, the same way African American and other groups have coopted terms formerly used to disparage and dehumanize.
 

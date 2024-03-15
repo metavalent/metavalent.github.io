@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://thru.awebcamdarkly.com/tchotchkes/3vil.is.as.3vil.does.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">these images</a>.  Higher res on the way.
+<!--Lead Photo --><a href="https://thru.awebcamdarkly.com/tchotchkes/3vil.is.as.3vil.does.html"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">these images</a>.  Higher res on the way.

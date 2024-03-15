@@ -14,8 +14,8 @@ modified: 2021-08-03T13:04:31-10:00
 
 "We explore these ideas at all levels of biological organization—from societies of cells to animal societies to markets to machine-human hybrid societies."
 
-C4HOME | [Collective Computation Group @ SFI](http://c4.santafe.edu/)
+C4HOME | [Collective Computation Group @ SFI](https://c4.santafe.edu/)
 
-[![image](/assets/images/image_picker64494101080857153.png)](http://c4.santafe.edu/)
+[![image](/assets/images/image_picker64494101080857153.png)](https://c4.santafe.edu/)
 
-[![image](/assets/images/image_picker6252564109766000346.png)](http://c4.santafe.edu/)
+[![image](/assets/images/image_picker6252564109766000346.png)](https://c4.santafe.edu/)

@@ -33,6 +33,6 @@ Apr. 10 (Friday) - Mayor Gavin Newsom, "Cities and Time"
 May 25 (MONDAY) - Paul Romer, "A Theory of History, with an Application"
 
 NEWS: The Long Now videos now come with SUBTITLES in English and 
-other languages, and you can help.  Go to the dotSUB site <a href="http://dotsub.com/view/search/?q=%22long%20now%20foundation%22">here</a> to view subtitled SALT talks, or to add your own subtitling. Non-English languages especially welcome.
+other languages, and you can help.  Go to the dotSUB site <a href="https://dotsub.com/view/search/?q=%22long%20now%20foundation%22">here</a> to view subtitled SALT talks, or to add your own subtitling. Non-English languages especially welcome.
 
 High-quality videos of the talks and other benefits are available to Long Now members.  Membership, which costs $8/month ($96/year), helps support the series and other Long Now projects.  Joinable <a href="https://secure.longnow.org/members/">here</a>.

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-And new Survival of the Vicious tactics could be revealed in an experiment dubbed 43Best Blogs.  Find out more on the <a href="http://venturecapital.foundnews.com/how-to-play-bloggers-egos-43best-blogs/">CC Venture Capital Blog.</a>
+And new Survival of the Vicious tactics could be revealed in an experiment dubbed 43Best Blogs.  Find out more on the <a href="https://venturecapital.foundnews.com/how-to-play-bloggers-egos-43best-blogs/">CC Venture Capital Blog.</a>

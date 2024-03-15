@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Apparently, it's called <a href="http://www.masswerk.at/jsuix/">JS/UIX</a>.  Wow.
+Apparently, it's called <a href="https://www.masswerk.at/jsuix/">JS/UIX</a>.  Wow.

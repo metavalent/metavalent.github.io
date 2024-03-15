@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Interesting <a href="http://www.dragdropsitecreator.com/">drag-n-drop site creation</a>.
+Interesting <a href="https://www.dragdropsitecreator.com/">drag-n-drop site creation</a>.

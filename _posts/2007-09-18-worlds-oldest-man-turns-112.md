@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [metavalent, war on aging]
 ---
-<blockquote>"<a href="http://news.yahoo.com/s/afp/20070918/lf_afp/lifestylejapansenior">I want to live indefinitely</a>. I don't want to die," he said as he marked his birthday, Kyodo News reported.</blockquote>
+<blockquote>"<a href="https://news.yahoo.com/s/afp/20070918/lf_afp/lifestylejapansenior">I want to live indefinitely</a>. I don't want to die," he said as he marked his birthday, Kyodo News reported.</blockquote>
 
-Join the <a href="http://sens.org/">War on Aging</a>. Help to stop the world's leading indiscriminate killer disease.
+Join the <a href="https://sens.org/">War on Aging</a>. Help to stop the world's leading indiscriminate killer disease.

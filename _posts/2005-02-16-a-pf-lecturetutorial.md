@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://undeadly.org/cgi?action=article&amp;sid=20050216175904">A PF lecture/tutorial</a>
+<a href="https://undeadly.org/cgi?action=article&amp;sid=20050216175904">A PF lecture/tutorial</a>

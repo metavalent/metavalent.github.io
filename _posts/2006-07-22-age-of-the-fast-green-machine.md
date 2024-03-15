@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Reviewers claim that the <a href="http://news.com.com/Electric sports car packs a punch%2C but will it sell/2100-11389_3-6096377.html?tag=ne.gall.related">Electric sports car packs a punch, but will it sell?</a> CNET News.com
+Reviewers claim that the <a href="https://news.com.com/Electric sports car packs a punch%2C but will it sell/2100-11389_3-6096377.html?tag=ne.gall.related">Electric sports car packs a punch, but will it sell?</a> CNET News.com

@@ -45,7 +45,7 @@ lang: "en-US"
 avatar: https://avatars.githubusercontent.com/u/5589526?s=200&v=4
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g. http://example.com/
+url: "https://metavalent.com/" # the base hostname & protocol for your site, e.g. https://example.com/
 twitter_username: metavalent
 github_username:  metavalent
 

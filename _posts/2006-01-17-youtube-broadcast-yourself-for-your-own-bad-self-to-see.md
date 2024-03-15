@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://youtube.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">YouTube</a>.  Wow.
+<!--Lead Photo --><a href="https://youtube.com/"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">YouTube</a>.  Wow.

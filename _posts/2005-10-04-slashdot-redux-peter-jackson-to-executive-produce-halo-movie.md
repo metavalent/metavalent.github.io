@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Could definitely be worthwhile <a href="http://games.slashdot.org/article.pl?sid=05/10/04/191203&amp;tid=97&amp;tid=10">Peter Jackson to Executive Produce Halo Movie</a>
+Could definitely be worthwhile <a href="https://games.slashdot.org/article.pl?sid=05/10/04/191203&amp;tid=97&amp;tid=10">Peter Jackson to Executive Produce Halo Movie</a>

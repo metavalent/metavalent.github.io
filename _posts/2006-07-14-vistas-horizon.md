@@ -14,4 +14,4 @@ Although, even without such a surprise, 2007 will definitely be the year of Vist
 
 Add the presidential cycle into the mix, and you've got a fairly reasonable 18 month tech forecast. 
 
-<a href="http://chip.seekingalpha.com/article/13609">SeekingAlpha: Chip Stocks » Intel's New Core Processors Will Put the Hurt on AMD (AMD, INTC)</a>
+<a href="https://chip.seekingalpha.com/article/13609">SeekingAlpha: Chip Stocks » Intel's New Core Processors Will Put the Hurt on AMD (AMD, INTC)</a>

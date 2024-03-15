@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [diversion, histrionics, metavalent, society]
 ---
-WTF? Just found on <a href="http://groups.yahoo.com/search?query=singularity">Yahoo Groups</a>.
+WTF? Just found on <a href="https://groups.yahoo.com/search?query=singularity">Yahoo Groups</a>.
 
 SINGULARITYcc
 119 Members, Archives: Membership required

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Courtesy of <a href="http://www.zerosign.net/?p=61">zerosign.net</a>
+Courtesy of <a href="https://www.zerosign.net/?p=61">zerosign.net</a>

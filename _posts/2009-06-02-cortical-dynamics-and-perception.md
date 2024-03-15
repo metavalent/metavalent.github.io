@@ -5,7 +5,7 @@ date: '2009-06-02T10:02:00-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/116947364/cortical-dynamics-and-perception
 ---
-[Cortical Dynamics and Perception](http://metavalent.com/?p=1028)  
+[Cortical Dynamics and Perception](https://metavalent.com/?p=1028)  
 
 Cortical Dynamics and Perception
 

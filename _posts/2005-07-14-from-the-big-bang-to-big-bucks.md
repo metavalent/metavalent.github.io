@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The latest from human destiny shaper <a href="http://news.com.com/From+the+Big+Bang+to+big+bucks/2008-1082_3-5770732.html?part=rss&amp;tag=5770732&amp;subj=news"> Arno Penzias</a>
+The latest from human destiny shaper <a href="https://news.com.com/From+the+Big+Bang+to+big+bucks/2008-1082_3-5770732.html?part=rss&amp;tag=5770732&amp;subj=news"> Arno Penzias</a>

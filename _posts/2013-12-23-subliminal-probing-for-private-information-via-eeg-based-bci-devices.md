@@ -24,4 +24,4 @@ Our subliminal attacks have been carried out in a controlled setting to demonstr
 Future research directions include exploration of different pathways for improving the attack,
 such as more sophisticated hiding mechanisms and internal subliminal validation techniques. The
 findings presented in this work suggest that BCI software with the full access to raw EEG data of
-users constitutes a new attack vector to user privacy and user secrets (<a href="http://cryptome.org/2013/12/bci-privacy-attack.pdf" target="_blank">arXiv:1312.6052v1 [cs.CR] 20 Dec 2013</a>).</blockquote>
+users constitutes a new attack vector to user privacy and user secrets (<a href="https://cryptome.org/2013/12/bci-privacy-attack.pdf" target="_blank">arXiv:1312.6052v1 [cs.CR] 20 Dec 2013</a>).</blockquote>

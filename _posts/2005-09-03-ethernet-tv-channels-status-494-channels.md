@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Lunarbroadband has a <a href="http://www.lunarbroadband.com/media/webtv/">directory of Ethernet (internet) TV channels</a>
+Lunarbroadband has a <a href="https://www.lunarbroadband.com/media/webtv/">directory of Ethernet (internet) TV channels</a>

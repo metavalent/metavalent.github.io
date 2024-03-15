@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Surely we can find a way to tweak this into something the vulture capitalists will back! <a href="http://news.yahoo.com/s/ap/20050525/ap_on_hi_te/internet_ransom">Hackers Holding Computer Files 'Hostage' - Yahoo! News</a>
+Surely we can find a way to tweak this into something the vulture capitalists will back! <a href="https://news.yahoo.com/s/ap/20050525/ap_on_hi_te/internet_ransom">Hackers Holding Computer Files 'Hostage' - Yahoo! News</a>

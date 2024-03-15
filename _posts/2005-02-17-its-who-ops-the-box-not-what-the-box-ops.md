@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Regardless of OS, a computer is only <a href="http://linux.slashdot.org/comments.pl?sid=139779&amp;cid=11701985">as secure as the skills of its administrator.</a>
+Regardless of OS, a computer is only <a href="https://linux.slashdot.org/comments.pl?sid=139779&amp;cid=11701985">as secure as the skills of its administrator.</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.pencomputing.com/frames/linux_tpc.html">Yes!</a>
+<a href="https://www.pencomputing.com/frames/linux_tpc.html">Yes!</a>

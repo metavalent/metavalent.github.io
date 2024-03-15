@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [metavalent]
 ---
-After all, we can't have those <a href="http://www.cnn.com/video/#/video/sports/2007/07/14/vinci.italy.blade.runner.cnn">augmented semi-humans</a> showing us up now, can we?
+After all, we can't have those <a href="https://www.cnn.com/video/#/video/sports/2007/07/14/vinci.italy.blade.runner.cnn">augmented semi-humans</a> showing us up now, can we?
 
-<p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>
+<p class="poweredbyperformancing">Powered by <a href="https://scribefire.com/">ScribeFire</a>.</p>

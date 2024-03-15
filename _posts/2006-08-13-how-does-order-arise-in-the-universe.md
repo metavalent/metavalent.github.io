@@ -6,9 +6,9 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="LINKURL"><img src="http://metavalent.info/images/research.channel.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->With all the chaos and ignorance manifest in and among every human experience and societal systems, how can anything reasonable or organized ever stand a chance?  In <a href="http://researchchannel.org/prog/displayevent.asp?rid=3593">this episode of Closer To Truth</a>, two nobel laureates lend a measure of comfort and hope for those of us who can otherwise barely tolerate the seemingly accelerating disarray of our American dystopia.
+<!--Lead Photo --><a href="LINKURL"><img src="https://metavalent.info/images/research.channel.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->With all the chaos and ignorance manifest in and among every human experience and societal systems, how can anything reasonable or organized ever stand a chance?  In <a href="https://researchchannel.org/prog/displayevent.asp?rid=3593">this episode of Closer To Truth</a>, two nobel laureates lend a measure of comfort and hope for those of us who can otherwise barely tolerate the seemingly accelerating disarray of our American dystopia.
 
-One interesting parethetical observation: SUPERSTITIONS, while not exactly rampant, do plague science from within.  Scientists are not at all immune to purely superstitious clingings; albeit, said clingings are generally crafted in the elitest of highbrow lingo, which can further cloak their superstitionness to the quotidian querier (yes, it's <a href="http://dictionary.reference.com/browse/querier">a word</a>).  However, for those who can SPOT THE BULLSHIT FROM WITHIN, the opportunities for comparatively revelatory expansion are, perhaps, effectively endless.
+One interesting parethetical observation: SUPERSTITIONS, while not exactly rampant, do plague science from within.  Scientists are not at all immune to purely superstitious clingings; albeit, said clingings are generally crafted in the elitest of highbrow lingo, which can further cloak their superstitionness to the quotidian querier (yes, it's <a href="https://dictionary.reference.com/browse/querier">a word</a>).  However, for those who can SPOT THE BULLSHIT FROM WITHIN, the opportunities for comparatively revelatory expansion are, perhaps, effectively endless.
 
 Some highlights:
 
@@ -59,4 +59,4 @@ ROBERT L. KUHN: And it is superstition.
 MURRAY GELL-MANN: But, every once in a while, you come across an accepted
 idea that, [the vast majority of the scientific community says,] "you mustn’t think such-and-such-a-way, it’s just wrong," and when you look closely, you realize there’s no reason for it and it’s usually an opportunity to explain something that you couldn’t explain before.
 
-<a href="http://researchchannel.org/prog/displayevent.asp?rid=3593">Watch this 27 minute episode now</a>, on the ResearchChannel web site.
+<a href="https://researchchannel.org/prog/displayevent.asp?rid=3593">Watch this 27 minute episode now</a>, on the ResearchChannel web site.

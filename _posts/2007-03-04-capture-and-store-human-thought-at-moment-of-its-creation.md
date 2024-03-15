@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [Interesting Sites, metavalent, neuro-cogno, war on aging]
 ---
-<a href="http://www.hhmi.org/janelia/" title="external link"></a>Howard Hughes Medical Institute's <a href="http://www.hhmi.org/janelia/" target="_blank">Janelia Farm</a> has rounded up 300 of the world's top neuroscientists to make it happen.
+<a href="https://www.hhmi.org/janelia/" title="external link"></a>Howard Hughes Medical Institute's <a href="https://www.hhmi.org/janelia/" target="_blank">Janelia Farm</a> has rounded up 300 of the world's top neuroscientists to make it happen.

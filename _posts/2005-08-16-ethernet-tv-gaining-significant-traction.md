@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.opentv.com/">OpenTV - Enabling Richer Television</a>
+<a href="https://www.opentv.com/">OpenTV - Enabling Richer Television</a>

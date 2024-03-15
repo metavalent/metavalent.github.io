@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [bci, internet, metavalent]
 ---
-[youtube http://www.youtube.com/watch?v=Y8TEsoti3EI&hl=en_US&fs=1&rel=0&color1=0x402061&color2=0x9461ca]
+[youtube https://www.youtube.com/watch?v=Y8TEsoti3EI&hl=en_US&fs=1&rel=0&color1=0x402061&color2=0x9461ca]

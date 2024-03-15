@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://openid.net/">OpenID: an actually distributed identity system</a>
+<a href="https://openid.net/">OpenID: an actually distributed identity system</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://books.slashdot.org/article.pl?sid=05/02/16/2058234&amp;from=rss">Slashdot | Web Design on a Shoestring</a>
+<a href="https://books.slashdot.org/article.pl?sid=05/02/16/2058234&amp;from=rss">Slashdot | Web Design on a Shoestring</a>

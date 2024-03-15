@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.sics.se/~adam/contiki/apps/webbrowser.html">Possibly, anyway.</a>
+<a href="https://www.sics.se/~adam/contiki/apps/webbrowser.html">Possibly, anyway.</a>

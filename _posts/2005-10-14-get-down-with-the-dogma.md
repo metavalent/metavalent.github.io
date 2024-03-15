@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://jayandsilentbob.com/dogmer.html">Dogma Merchandise</a>
+<a href="https://jayandsilentbob.com/dogmer.html">Dogma Merchandise</a>

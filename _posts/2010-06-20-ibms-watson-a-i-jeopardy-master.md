@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [agi, metavalent]
 ---
-From The New York Times: <a href="http://nyti.ms/bCs8b6">What Is I.B.M.’s Watson?</a> 
+From The New York Times: <a href="https://nyti.ms/bCs8b6">What Is I.B.M.’s Watson?</a> 

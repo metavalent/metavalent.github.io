@@ -50,13 +50,13 @@ PREVIOUS GP-B UPDATES
 If you wish to read any of our previous updates, our GP-B Web site 
 includes a chronological archive of all the updates/highlights (with 
 photos and drawings) that we have posted over the past 8 years: 
-http://einstein.stanford.edu/highlights/hlindexmain.html
+https://einstein.stanford.edu/highlights/hlindexmain.html
 
 =============================
 OTHER LINKS THAT MAY INTEREST YOU
 =============================
 
-Our NEW AND IMPROVED GP-B Web site, http://einstein.stanford.edu 
+Our NEW AND IMPROVED GP-B Web site, https://einstein.stanford.edu 
 contains lots of information about the Gravity Probe B experiment, 
 general relativity, and the amazing technologies that were developed 
 to carry out this experiment.
@@ -64,10 +64,10 @@ to carry out this experiment.
 Video and/or audio of May 18, 2006 public lecture by Principal 
 Investigator, Professor Francis Everitt, on GP-B. You can view a 
 Flash video of the lecture in your Web browser: 
-http://einstein.stanford.edu/Media/Everitt_Brainstorm-flash.html You 
+https://einstein.stanford.edu/Media/Everitt_Brainstorm-flash.html You 
 can also download either a video or audio only copy of the lecture to 
 an iPod from the Stanford University iTunes U Web site: 
-http://itunes.stanford.edu, This Web page automatically launches the 
+https://itunes.stanford.edu, This Web page automatically launches the 
 Apple iTunes program on both Macintosh and Windows computers, with a 
 special Stanford on iTunes U "music store," containing free downloads 
 of Stanford lectures, performances, and events. Francis Everitt's 
@@ -77,20 +77,20 @@ version under the Audio tab; people with 5th generation (video)
 iPodfs can download the version under the Video tab.
 
 Visual tour of the GP-B spacecraft and payload from our GP-B Web 
-site: http://einstein.stanford.edu/content/vehicle_tour/index.html
+site: https://einstein.stanford.edu/content/vehicle_tour/index.html
 
 PDF file containing a 1/20 scale, paper model of the GP-B spacecraft 
 that you can download  print out, and assemble: 
-http://einstein.stanford.edu/content/paper_model.
+https://einstein.stanford.edu/content/paper_model.
 
 NASA's Marshall Space Flight Center also has a series of Web pages 
-devoted to GP-B:  http://www.gravityprobeb.com
+devoted to GP-B:  https://www.gravityprobeb.com
 
 The Harvard-Smithsonian Center for Astrophysics (Cambridge) and York 
 University (Toronto), with contributions from the Observatoire de 
 Paris, have been studying the motions of the guide star, IM Pegasi 
 for over a decade.  To find out more, visit: 
-http://www.yorku.ca/bartel/guidestar/. In addition, you'll find 
+https://www.yorku.ca/bartel/guidestar/. In addition, you'll find 
 information in the Extraordinary Technologies page-Telescope &amp; Guide 
 Star section on our Web site: 
-http://einstein.stanford.edu/TECH/technology1.html#telescope
+https://einstein.stanford.edu/TECH/technology1.html#telescope

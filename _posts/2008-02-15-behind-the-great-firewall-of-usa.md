@@ -6,5 +6,5 @@ author: metavalent
 comments: true
 categories: [histrionics, metavalent, society]
 ---
-... information may WANT to be freely accessible to all ... but it ain't. a quick slice of life from <a href="http://screencast.com/t/ZhXutaZc5">behind the Great Firewall of the USA</a>.
+... information may WANT to be freely accessible to all ... but it ain't. a quick slice of life from <a href="https://screencast.com/t/ZhXutaZc5">behind the Great Firewall of the USA</a>.
 

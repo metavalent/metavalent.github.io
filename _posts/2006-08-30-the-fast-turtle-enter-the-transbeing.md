@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.silkentiger.com/content.asp?category_id=4">The Fast Turtle - Enter: The Transbeing</a>
+<a href="https://www.silkentiger.com/content.asp?category_id=4">The Fast Turtle - Enter: The Transbeing</a>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.geocities.com/pkdlw/howtobuild.html">Philip K. Dick - How To Build A Universe That Doesn't Fall Apart Two Days Later (Essay)</a>
+<a href="https://www.geocities.com/pkdlw/howtobuild.html">Philip K. Dick - How To Build A Universe That Doesn't Fall Apart Two Days Later (Essay)</a>

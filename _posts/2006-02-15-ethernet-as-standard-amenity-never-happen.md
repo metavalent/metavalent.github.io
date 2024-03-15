@@ -13,4 +13,4 @@ From 1997-99 as we incrementally architected the concept and  topology of Ethern
 
 LA JOLLA, Calif., Feb. 14, 2006 /PRNewswire/ -- Regents La Jolla, nestled within the enviable enclave of La Jolla's Golden Triangle, is truly a unique gem in this locale which derives its name from the Spanish word "the jewel."  The Mediterranean-style resort condominiums are affordably priced from the high- $300,000s. Interior highlights include 9- to 12-foot volume [sic] ceilings, central air conditioning and heating, a full-size washer and dryer, and plush carpeting. Each home is also <b>wired for high-speed Ethernet</b> Internet access. A wood-burning fireplace is also available in selected homes.
 
-Web sites: http://www.cometoregentslajolla.com/ http://www.montecitopropertycompany.com/
+Web sites: https://www.cometoregentslajolla.com/ https://www.montecitopropertycompany.com/

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Please help stop the paranoid policy makers.  <a href="http://www.aopa.org/whatsnew/newsitems/2002/020621_homeland_security.html">Small airplanes are NOT the enemy</a>.
+Please help stop the paranoid policy makers.  <a href="https://www.aopa.org/whatsnew/newsitems/2002/020621_homeland_security.html">Small airplanes are NOT the enemy</a>.

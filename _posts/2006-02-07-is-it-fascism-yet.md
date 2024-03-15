@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.pbs.org/now/politics/wilkerson.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" dumb strongmen; to use the terminology of Alexander Hamilton and Col. Wilkerson, below.
+<!--Lead Photo --><a href="https://www.pbs.org/now/politics/wilkerson.html"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/" dumb strongmen; to use the terminology of Alexander Hamilton and Col. Wilkerson, below.
 
 Excerpts:
 
@@ -28,7 +28,7 @@ Alexander Hamilton [laid] down his markers about the dangers of a dictate-issuin
 
 DAVID BRANCACCIO: And if [dictatorship] were shown to work that might be one thing. 
 
-COLONEL WILKERSON: <strong>Dictatorships work on occasion. You're right. Dictatorships do work</strong> but I-- I'm like <a href="http://en.wikipedia.org/wiki/Ferdinand_Eberstadt">Ferdinand Eberstadt</a>. I'd prefer to see the squabble of democracy to the efficiency of dictators. 
+COLONEL WILKERSON: <strong>Dictatorships work on occasion. You're right. Dictatorships do work</strong> but I-- I'm like <a href="https://en.wikipedia.org/wiki/Ferdinand_Eberstadt">Ferdinand Eberstadt</a>. I'd prefer to see the squabble of democracy to the efficiency of dictators. 
 
 Biography
 

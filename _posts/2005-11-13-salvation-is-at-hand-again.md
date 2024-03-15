@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Yes, blogs are still poised to save the universe as we know it and provide infinite prosperity for all.  See <a href="http://www.librarystuff.net/new_archives/000850.html">Library Stuff: Weblogs, Inc</a>
+Yes, blogs are still poised to save the universe as we know it and provide infinite prosperity for all.  See <a href="https://www.librarystuff.net/new_archives/000850.html">Library Stuff: Weblogs, Inc</a>

@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [metavalent]
 ---
-<br /><a href="http://www.honoluluadvertiser.com/assets/gif/M179392713.GIF">Here's a graphical depictions</a> and <a href="http://tinyurl.com/2ljl3o">here's an article</a>.
+<br /><a href="https://www.honoluluadvertiser.com/assets/gif/M179392713.GIF">Here's a graphical depictions</a> and <a href="https://tinyurl.com/2ljl3o">here's an article</a>.
 
-<p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>
+<p class="poweredbyperformancing">Powered by <a href="https://scribefire.com/">ScribeFire</a>.</p>

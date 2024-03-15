@@ -18,4 +18,4 @@ THE PRESIDENT: I said I would talk to her tomorrow.
 
 END 11:38 A.M. MDT
 
-On the White House's OWN SITE!!! You can't <a href="http://www.whitehouse.gov/news/releases/2006/07/20060721-3.html">make this stuff up</a>, man!
+On the White House's OWN SITE!!! You can't <a href="https://www.whitehouse.gov/news/releases/2006/07/20060721-3.html">make this stuff up</a>, man!

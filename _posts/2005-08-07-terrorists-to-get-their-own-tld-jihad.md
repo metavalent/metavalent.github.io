@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Well, not exactly, but still, we should all run for cover now that<a href="http://politics.slashdot.org/article.pl?sid=05/08/07/2328200&amp;from=rss">Terrorists Move to Cyberspace</a>, right?
+Well, not exactly, but still, we should all run for cover now that<a href="https://politics.slashdot.org/article.pl?sid=05/08/07/2328200&amp;from=rss">Terrorists Move to Cyberspace</a>, right?

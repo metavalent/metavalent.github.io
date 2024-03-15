@@ -15,6 +15,6 @@ A little Science Friday fun for those Trailing Boomers who might recall that dre
 
 UPDATE: Can anyone help me to understand what THIS char is?<div align="center" style="font-size:200%;">ℑ</div> It's included in the embed string for the SciFri embedded player, above, apparently in service to stats server. Like this:
 
-<code>redirect.flv?http://media.libsyn.com/media/sciencefriday/lightning-081508.flv&amp;height=255<strong>ℑ</strong>=http://www.sciencefriday.com/video</code>
+<code>redirect.flv?https://media.libsyn.com/media/sciencefriday/lightning-081508.flv&amp;height=255<strong>ℑ</strong>=https://www.sciencefriday.com/video</code>
 
 Is that char right, or a typo? Thanks!

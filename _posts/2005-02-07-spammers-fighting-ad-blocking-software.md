@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Some folks are working on how to block the blockers at <a href="http://www.phpbuddy.com/article.php?id=20">PHPBuddy.com - Fighting Ad-Blocking Software</a>
+Some folks are working on how to block the blockers at <a href="https://www.phpbuddy.com/article.php?id=20">PHPBuddy.com - Fighting Ad-Blocking Software</a>

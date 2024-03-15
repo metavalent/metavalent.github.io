@@ -6,10 +6,10 @@ author: metavalent
 comments: true
 categories: [bloggers, internet, society]
 ---
-Excerpt from George Dvorsky about this time, last year (<a href="http://archives.betterhumans.com/Members/George/BlogPost/5299/Default.aspx">Feb, 2006</a>):<br />
+Excerpt from George Dvorsky about this time, last year (<a href="https://archives.betterhumans.com/Members/George/BlogPost/5299/Default.aspx">Feb, 2006</a>):<br />
 <blockquote>[T]hat the Homeland Security Department considers bloggers a potential threat really shouldn't come as a complete surprise; the military would likely shut down threatening and subversive blogs during times of war or civil unrest.<br />
  <br />
- <a href="http://www.technologyreview.com/TR/wtr_16337,323,p1.html"><img style="margin:0 10px 10px 0;float:left;cursor:pointer;" src="http://static.flickr.com/36/100602814_8281c03d48_t.jpg" alt="" border="0" /></a>It's during such episodes that control of information flow becomes tactically paramount -- so much so that nations often regress to <span style="font-style:italic;">de facto</span> authoritarianism and even totalitarianism. As a result, the state has the power to claim a monopoly on the memesphere, including extreme censorship and propaganda campaigns. <br />
+ <a href="https://www.technologyreview.com/TR/wtr_16337,323,p1.html"><img style="margin:0 10px 10px 0;float:left;cursor:pointer;" src="https://static.flickr.com/36/100602814_8281c03d48_t.jpg" alt="" border="0" /></a>It's during such episodes that control of information flow becomes tactically paramount -- so much so that nations often regress to <span style="font-style:italic;">de facto</span> authoritarianism and even totalitarianism. As a result, the state has the power to claim a monopoly on the memesphere, including extreme censorship and propaganda campaigns. <br />
  <br />
 
 Freedom of speech is a peacetime luxury. <br />

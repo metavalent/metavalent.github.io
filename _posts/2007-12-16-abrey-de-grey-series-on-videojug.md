@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [education, metavalent, science, war on aging]
 ---
-<br /><a href="http://www.videojug.com">VideoJug</a>: <a href="http://www.videojug.com/user/USEX0247">Aubrey de Grey</a>
+<br /><a href="https://www.videojug.com">VideoJug</a>: <a href="https://www.videojug.com/user/USEX0247">Aubrey de Grey</a>

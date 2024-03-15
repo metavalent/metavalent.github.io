@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [bci, forecasting, metavalent]
 ---
-May 18, 2010 <a href="http://www.vlab.org/article.html?aid=339">MIT/Stanford VLAB</a>:
+May 18, 2010 <a href="https://www.vlab.org/article.html?aid=339">MIT/Stanford VLAB</a>:
 <blockquote>Brain-Computer Interfacing (BCI) promises a quantum leap in human interaction with technology -- enabling our thoughts and emotions to control devices and enabling devices to know what we’re "really thinking" and feeling. Currently, there are more than 300 million brain toting people in the United States alone, making the opportunities for BCI products far-reaching.
 
 BCI is bringing fresh and often unexpected perspectives to established industries, from entertainment and transportation to medicine and information systems. In this emergent phase of consumer-related BCI, innovators are redefining sleep management, gaming, user interfacing, courtroom evidence, and national security—and this is only the beginning.

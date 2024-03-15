@@ -6,11 +6,11 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.infed.org/biblio/b-explrn.htm">david a. kolb on experiential learning</a>
+<a href="https://www.infed.org/biblio/b-explrn.htm">david a. kolb on experiential learning</a>
 
-<a href="http://reviewing.co.uk/research/experiential.learning.htm">Experiential Learning articles</a> and critiques of David Kolb's theory
+<a href="https://reviewing.co.uk/research/experiential.learning.htm">Experiential Learning articles</a> and critiques of David Kolb's theory
 
-<a href="http://www.algonquincollege.com/edtech/gened/styles.html">Learning Styles
+<a href="https://www.algonquincollege.com/edtech/gened/styles.html">Learning Styles
 </a>
 
-One way to <a href="http://www.my-ecoach.com/idtimeline/online.html">Apply Experiential Learning</a> principles.
+One way to <a href="https://www.my-ecoach.com/idtimeline/online.html">Apply Experiential Learning</a> principles.

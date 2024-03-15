@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="LINK_URL"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"</blockquote>
+<!--Lead Photo --><a href="LINK_URL"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"</blockquote>

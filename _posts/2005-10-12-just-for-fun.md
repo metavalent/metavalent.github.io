@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.athey-educational.co.uk/games/menu.htm">Athey Educational's Games Menu</a>
+<a href="https://www.athey-educational.co.uk/games/menu.htm">Athey Educational's Games Menu</a>

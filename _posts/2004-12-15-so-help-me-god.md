@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [histrionics, society]
 ---
-Where did this phrase in the <a href="http://www.pbs.org/newshour/inauguration/history.html">presidential inaugural oath</a> come from? 
+Where did this phrase in the <a href="https://www.pbs.org/newshour/inauguration/history.html">presidential inaugural oath</a> come from? 

@@ -6,8 +6,8 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Time</a>
+<img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Time</a>
 
-<img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Anger</a>, later?  
+<img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Anger</a>, later?  
 
 Nah, never mind.

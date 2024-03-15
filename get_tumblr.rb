@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 JekyllImport::Importers::Tumblr.run({
-      "url"            => "http://metavalent.tumblr.com",
+      "url"            => "https://metavalent.tumblr.com",
       "format"         => "html", # or "md"
       "grab_images"    => false,  # whether to download images as well.
       "add_highlights" => false,  # whether to wrap code blocks (indented 4 spaces) in a Liquid "highlight" tag

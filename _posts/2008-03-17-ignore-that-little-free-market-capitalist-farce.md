@@ -5,7 +5,7 @@ date: '2008-03-17T19:31:31-10:00'
 tags: []
 tumblr_url: https://metavalent.tumblr.com/post/29151314/ignore-that-little-free-market-capitalist-farce
 ---
-[Ignore that Little Free Market Capitalist Farce Behind the Curtain!](http://metavalent.info/?p=747)  
+[Ignore that Little Free Market Capitalist Farce Behind the Curtain!](https://metavalent.info/?p=747)  
 
 > “I am the great and powerful unfettered market!”
 

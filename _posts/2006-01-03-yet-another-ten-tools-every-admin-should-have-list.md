@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Actually, <a href="http://windowsconnected.com/blogs/joshs_blog/archive/2005/12/31/172.aspx">josh's weblog</a> has one of the better top ten lists that I've seen in a while.  Thanks, Josh.
+Actually, <a href="https://windowsconnected.com/blogs/joshs_blog/archive/2005/12/31/172.aspx">josh's weblog</a> has one of the better top ten lists that I've seen in a while.  Thanks, Josh.

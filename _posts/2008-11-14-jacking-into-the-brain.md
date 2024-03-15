@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [biohacking, metavalent, neuro-cogno, society, war on aging]
 ---
-So many times we've gesticulated, "<a href="http://metavalent.com/?p=746">Just Gimme the I/O Ports!</a>" 
+So many times we've gesticulated, "<a href="https://metavalent.com/?p=746">Just Gimme the I/O Ports!</a>" 
 
-We <a href="http://www.sciam.com/article.cfm?id=jacking-into-the-brain">can haz them</a> soon.
+We <a href="https://www.sciam.com/article.cfm?id=jacking-into-the-brain">can haz them</a> soon.

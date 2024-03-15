@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.cbsnews.com/stories/2005/12/28/60minutes/printable1168852.shtml">60 Minutes</a> ran an interesting interview on the future of longevity.  A great introduction to pragmatic extropianism.
+<a href="https://www.cbsnews.com/stories/2005/12/28/60minutes/printable1168852.shtml">60 Minutes</a> ran an interesting interview on the future of longevity.  A great introduction to pragmatic extropianism.

@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [metavalent]
 ---
-In <a href="http://www.jfs.tku.edu.tw/15-2/A04.pdf">Politics for the Neurocentric Age</a>, (Journal of Futures Studies, November 2010, 15(2): 51 - 70) Jake F. Dunagan delineates <em>Seven Modes of Neuropower</em>, tempered with the admonishment, "that we should be wary of falling into the latest 'magic bullet' mentality that sees neuroscience and neurotechnologies as the solution to all our problems, from health to law to selling more soup. The challenge for neuroscientists and ethicists is to create a nuanced and layered view of developments to temper the litany of hype, and to contextualize the rise of the brain sciences within larger psycho-social processes, shifting political-economies, and mythologies surrounding the brain and mind. My goal is to examine the process as it is occurring now — to continue to question the priorities and values that drive this research and its application in the future, with the goal of seeing neuroscience deliver its greatest benefit to the most people on Earth."
+In <a href="https://www.jfs.tku.edu.tw/15-2/A04.pdf">Politics for the Neurocentric Age</a>, (Journal of Futures Studies, November 2010, 15(2): 51 - 70) Jake F. Dunagan delineates <em>Seven Modes of Neuropower</em>, tempered with the admonishment, "that we should be wary of falling into the latest 'magic bullet' mentality that sees neuroscience and neurotechnologies as the solution to all our problems, from health to law to selling more soup. The challenge for neuroscientists and ethicists is to create a nuanced and layered view of developments to temper the litany of hype, and to contextualize the rise of the brain sciences within larger psycho-social processes, shifting political-economies, and mythologies surrounding the brain and mind. My goal is to examine the process as it is occurring now — to continue to question the priorities and values that drive this research and its application in the future, with the goal of seeing neuroscience deliver its greatest benefit to the most people on Earth."
 
 <strong>7 Modes of Neuropower</strong>
 
@@ -19,9 +19,9 @@ In <a href="http://www.jfs.tku.edu.tw/15-2/A04.pdf">Politics for the Neurocentri
 	<li>Ownership of the extended mind</li>
 	<li>Framing mind and metaphor</li>
 </ol>
-<img src="http://metavalent.com/assets/images/brainfMRI.jpg" alt="Functional MRI" />
+<img src="https://metavalent.com/assets/images/brainfMRI.jpg" alt="Functional MRI" />
 
-It's well worth the effort to <a href="http://www.jfs.tku.edu.tw/15-2/A04.pdf">read the paper</a>, to get to the nitty gritty of these Seven Modes.
+It's well worth the effort to <a href="https://www.jfs.tku.edu.tw/15-2/A04.pdf">read the paper</a>, to get to the nitty gritty of these Seven Modes.
 
 Dunagan adds, "Cognitive models are foundational to construction of political worldviews and systems. As old paradigms like rational-actor theory or individualist-isolationist models of thought give way to new models of behavioral economics or distributed cognition, political orders and possibilities change as well. Neuroscience will not only change the way we see and interact with our brains and minds, it will transform our political imaginations."
 

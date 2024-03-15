@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://firstlook.nytimes.com/?p=22"><img src="http://metavalent.info/images/nyt.timesreader.beta.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->My surprising initial reaction to <a href="http://firstlook.nytimes.com/?p=22">First Look - TimesReader - Sneak Peek 01</a>.
+<!--Lead Photo --><a href="https://firstlook.nytimes.com/?p=22"><img src="https://metavalent.info/images/nyt.timesreader.beta.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->My surprising initial reaction to <a href="https://firstlook.nytimes.com/?p=22">First Look - TimesReader - Sneak Peek 01</a>.
 
 My system:  Two year old Acer Travelmate C111ti; heavily battered and worn.  1GHz / 1GB / 60GB; XP, always patched to the gills, etc. :)  Lots of garbage installed all over the place, because I'm always trying out new desktop and network applications.
 
@@ -20,5 +20,5 @@ While other bugs might emerge over time, for now, it's a rare occasion worthy of
 
 <!-- Tags --><div align="right">
 
-<img src="http://metavalent.info/images/technorati.bug.10x10.jpg" align="absbottom" border="0"/> <a href="http://technorati.com/tag/metavalent" rel="tag">metavalent</a>, <a href="http://technorati.com/tag/web2.5" rel="tag">web2.5</a>, <a href="http://technorati.com/tag/web+2.5" rel="tag">web 2.5</a>, <a href="http://technorati.com/tag/new+york+times" rel="tag">new york times</a>
+<img src="https://metavalent.info/images/technorati.bug.10x10.jpg" align="absbottom" border="0"/> <a href="https://technorati.com/tag/metavalent" rel="tag">metavalent</a>, <a href="https://technorati.com/tag/web2.5" rel="tag">web2.5</a>, <a href="https://technorati.com/tag/web+2.5" rel="tag">web 2.5</a>, <a href="https://technorati.com/tag/new+york+times" rel="tag">new york times</a>
 </div><!-- //End Tags -->

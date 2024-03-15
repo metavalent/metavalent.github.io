@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [reprint]
 ---
-Just for the sake of replication, I'm cataloging this one here.  <a href="http://www.boingboing.net/2005/07/28/microsoft_genuine_ad.html">Boing Boing: Microsoft "Genuine Advantage" cracked in 24h: window.g_sDisableWGACheck='all'</a>
+Just for the sake of replication, I'm cataloging this one here.  <a href="https://www.boingboing.net/2005/07/28/microsoft_genuine_ad.html">Boing Boing: Microsoft "Genuine Advantage" cracked in 24h: window.g_sDisableWGACheck='all'</a>
 
 Thursday, July 28, 2005
 Microsoft "Genuine Advantage" cracked in 24h: window.g_sDisableWGACheck='all'

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="https://web.archive.org/web/*/http://awebcamdarkly.com/">Wake up</a>, people.
+<a href="https://web.archive.org/web/*/https://awebcamdarkly.com/">Wake up</a>, people.

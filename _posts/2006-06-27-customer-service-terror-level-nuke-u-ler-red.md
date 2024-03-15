@@ -6,11 +6,11 @@ author: metavalent
 comments: true
 categories: [histrionics, society]
 ---
-<!--Lead Photo --><a href="http://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg"><img src="http://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg" alt="0" border="0" /></a><!-- Commentary -->Live image from Customer Support.
+<!--Lead Photo --><a href="https://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg"><img src="https://img387.imageshack.us/img387/1850/laughingatyoumbe9mi.jpg" alt="0" border="0" /></a><!-- Commentary -->Live image from Customer Support.
 
-It's not <a href="http://www.msnbc.msn.com/id/13447232/">just AOL</a>.  It's not <a href="http://gabbly.com/https://web.archive.org/web/*/http://awebcamdarkly.com/">just Comcast</a>.  Across the board, the Customer Service Terror Level is Nuke-u-ler RED.
+It's not <a href="https://www.msnbc.msn.com/id/13447232/">just AOL</a>.  It's not <a href="https://gabbly.com/https://web.archive.org/web/*/https://awebcamdarkly.com/">just Comcast</a>.  Across the board, the Customer Service Terror Level is Nuke-u-ler RED.
 
-There is no such thing as Customer Service anymore.  <a href="http://www.signonsandiego.com/uniontrib/20050827/news_lz1ed27bottom.html">Lawsuits don't help</a>.  This has become an all out war and it's time to strike back with Shock and Awe.
+There is no such thing as Customer Service anymore.  <a href="https://www.signonsandiego.com/uniontrib/20050827/news_lz1ed27bottom.html">Lawsuits don't help</a>.  This has become an all out war and it's time to strike back with Shock and Awe.
 
 Customers are so irate over the dilapidated state of support, that they generally BEGIN the conversation by cussing out the poor sap on the other end of the phone.  This has created a veritable army of "service" reps who are steeled for such calls and BEGIN each call on the defensive, readied with an arsenal of accusations and seeminly relevant diversions designed to DEFEAT the customer in this battle, rather than HELP the customer in any historical understanding of the term.
 
@@ -91,7 +91,7 @@ Subject: Yahoo! ID Search Results
  | 
  | You can request a new password for your account
  | by going to the Forgot Password screen.
- | http://edit.my.yahoo.com/config/eval_forgot_pw
+ | https://edit.my.yahoo.com/config/eval_forgot_pw
  | 
  | Thank you for using Yahoo!
 
@@ -102,7 +102,7 @@ The Customer Service Terror Level is Nuke-u-ler RED.
 
 <hr />
 
-<!--Secondary Photo --><a href="LINKURL"><img src="http://img502.imageshack.us/img502/2940/nobodycaresmbe9kg.jpg" alt="0" border="0" /></a><!-- Commentary -->Oh wait!  It get's even better!  Here's the subsequent exchange:
+<!--Secondary Photo --><a href="LINKURL"><img src="https://img502.imageshack.us/img502/2940/nobodycaresmbe9kg.jpg" alt="0" border="0" /></a><!-- Commentary -->Oh wait!  It get's even better!  Here's the subsequent exchange:
 
 ------ Original Message ------
 Received: 07:14 AM PDT, 06/27/2006
@@ -125,7 +125,7 @@ INVALID PASSWORD -
 If you are unable to login to your Yahoo! account due to an Invalid
 Password error please visit:
 
-http://help.yahoo.com/help/us/edit/edit-10.html
+https://help.yahoo.com/help/us/edit/edit-10.html
 
 REQUEST A NEW PASSWORD -
 If the above information did not assist you, please attempt to request a
@@ -134,7 +134,7 @@ remind you of your current password.
 
 1) To request a new password visit:
 
-http://edit.yahoo.com/
+https://edit.yahoo.com/
 
 2) Click the Password lookup link and follow the instructions to request
 a new password.
@@ -229,6 +229,6 @@ USA
 
  | New and Improved Yahoo! Mail - better than ever!
  | PROTECTING THE PRIVACY AND SECURITY OF YOUR ACCOUNT -
- | http://security.yahoo.com/
+ | https://security.yahoo.com/
 
 ROTFLFMAO!!!!!!!!!!!!!!

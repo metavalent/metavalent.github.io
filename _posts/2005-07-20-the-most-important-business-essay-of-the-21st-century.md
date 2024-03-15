@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-28 Pages that could Change the World: <a href="http://www.edwardtufte.com/tufte/books_pp">Edward Tufte: Books - Essay: The Cognitive Style of Powerpoint</a>
+28 Pages that could Change the World: <a href="https://www.edwardtufte.com/tufte/books_pp">Edward Tufte: Books - Essay: The Cognitive Style of Powerpoint</a>

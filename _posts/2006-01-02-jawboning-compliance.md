@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://news.yahoo.com/s/ap/20060102/ap_on_hi_te/lords_of_file_sharing"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Creative Commons</a> model seeks to evolve and expand intellectual property rights in a way that empowers and protects individuals and content creators far into the yet-uncharted digital future.
+<!--Lead Photo --><a href="https://news.yahoo.com/s/ap/20060102/ap_on_hi_te/lords_of_file_sharing"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Creative Commons</a> model seeks to evolve and expand intellectual property rights in a way that empowers and protects individuals and content creators far into the yet-uncharted digital future.

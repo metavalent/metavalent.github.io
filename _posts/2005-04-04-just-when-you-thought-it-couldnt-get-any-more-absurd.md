@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://yro.slashdot.org/article.pl?sid=05/04/03/2229234&amp;from=rss">Slashdot | FCC Rules Telcos Need Not Provide Naked DSL</a>
+<a href="https://yro.slashdot.org/article.pl?sid=05/04/03/2229234&amp;from=rss">Slashdot | FCC Rules Telcos Need Not Provide Naked DSL</a>

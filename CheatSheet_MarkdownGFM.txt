@@ -25,8 +25,8 @@ IMAGES
 Format: ![Alt Text](url)
 
 LINKS
-http://github.com - automatic!
-[GitHub](http://github.com)
+https://github.com - automatic!
+[GitHub](https://github.com)
 
 LISTS
 Ordered / Unordered

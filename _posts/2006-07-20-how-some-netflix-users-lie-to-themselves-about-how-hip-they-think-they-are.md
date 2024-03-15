@@ -8,9 +8,9 @@ categories: wp-import
 ---
 You just can't feign vibrant eclectic taste, man.  You either have it, or you don't.  
 
-I have no idea what <a href="http://online.wsj.com/public/article/SB115255814013802582.html">these people are talking about</a>.  My wife and I have been an avid Netflix fan for years, our queues have around 50 to 80 movies at any given time, and <a href="http://metavalent.info/2006/06/netflix-fad-diversion-or-national.html">as I've written before</a>, the service has vastly expanded our horizons.  We each have two movies out at a time.  This two-timing stuff matters, as we'll see in a moment.
+I have no idea what <a href="https://online.wsj.com/public/article/SB115255814013802582.html">these people are talking about</a>.  My wife and I have been an avid Netflix fan for years, our queues have around 50 to 80 movies at any given time, and <a href="https://metavalent.info/2006/06/netflix-fad-diversion-or-national.html">as I've written before</a>, the service has vastly expanded our horizons.  We each have two movies out at a time.  This two-timing stuff matters, as we'll see in a moment.
 
-This WSJ.com story complaining that <a href="http://online.wsj.com/public/article/SB115255814013802582.html">Red Envelopes Gather Dust</a>, merely illustrates How Some Netflix Users Lie To Themselves About How Hip They Think They Are.
+This WSJ.com story complaining that <a href="https://online.wsj.com/public/article/SB115255814013802582.html">Red Envelopes Gather Dust</a>, merely illustrates How Some Netflix Users Lie To Themselves About How Hip They Think They Are.
 
 The key to this "problem" is actually possessing and exercising the sensibilities that these users THINK they are conveying to some apparently impressible outside observer by selecting variety beyond their actual ability to stretch and absorb, much less enjoy.
 

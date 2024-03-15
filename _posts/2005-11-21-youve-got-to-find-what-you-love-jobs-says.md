@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Some stuff is just worth saving.  This <a href="http://news-service.stanford.edu/news/2005/june15/jobs-061505.html">2005 Commencement address</a> by Steve Jobs is one good example.
+Some stuff is just worth saving.  This <a href="https://news-service.stanford.edu/news/2005/june15/jobs-061505.html">2005 Commencement address</a> by Steve Jobs is one good example.

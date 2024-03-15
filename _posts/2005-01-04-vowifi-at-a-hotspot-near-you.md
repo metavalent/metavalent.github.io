@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Check out the F1000 voice over wifi  phone from <a href="http://investorrelations.utstar.com/ReleaseDetail.cfm?ReleaseID=151788">UTStarcom</a>.  Service to be provided by <a href="http://vonage.com/">Vonage</a>.  Picture at <a href="http://www.engadget.com/entry/1234000053025857">Engadget</a>.
+Check out the F1000 voice over wifi  phone from <a href="https://investorrelations.utstar.com/ReleaseDetail.cfm?ReleaseID=151788">UTStarcom</a>.  Service to be provided by <a href="https://vonage.com/">Vonage</a>.  Picture at <a href="https://www.engadget.com/entry/1234000053025857">Engadget</a>.

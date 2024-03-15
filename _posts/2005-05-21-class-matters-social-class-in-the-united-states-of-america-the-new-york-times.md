@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The entire series, here: <a href="http://www.nytimes.com/pages/national/class/index.html">Class Matters - Social Class in the United States of America - The New York Times</a>
+The entire series, here: <a href="https://www.nytimes.com/pages/national/class/index.html">Class Matters - Social Class in the United States of America - The New York Times</a>

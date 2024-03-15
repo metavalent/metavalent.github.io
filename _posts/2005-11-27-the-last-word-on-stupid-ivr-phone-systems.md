@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.paulenglish.com/ivr/industry.html">Paul English</a> gets a well deserved 15 seconds of fame.
+<a href="https://www.paulenglish.com/ivr/industry.html">Paul English</a> gets a well deserved 15 seconds of fame.

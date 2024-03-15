@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Yahoo! News reporting <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/po/20050202/co_po/gaybuyingpowerexpectedtogrowin2005">gay buying power expected to grow to $610B</a> in 2005.
+Yahoo! News reporting <a href="https://news.yahoo.com/news?tmpl=story&amp;u=/po/20050202/co_po/gaybuyingpowerexpectedtogrowin2005">gay buying power expected to grow to $610B</a> in 2005.

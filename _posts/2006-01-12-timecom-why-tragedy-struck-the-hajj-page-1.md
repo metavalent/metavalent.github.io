@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Short Answer: Because <a href="http://www.time.com/time/world/article/0,8599,1148700,00.html">Millions of Morons</a> rush to throw rocks at the devil.
+Short Answer: Because <a href="https://www.time.com/time/world/article/0,8599,1148700,00.html">Millions of Morons</a> rush to throw rocks at the devil.

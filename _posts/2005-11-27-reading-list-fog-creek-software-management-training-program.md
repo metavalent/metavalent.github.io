@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-This corporate training program could well become more relevant than HBS or GSB drivel. <a href="http://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html">Reading List: Fog Creek Software Management Training Program</a>
+This corporate training program could well become more relevant than HBS or GSB drivel. <a href="https://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html">Reading List: Fog Creek Software Management Training Program</a>

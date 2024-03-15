@@ -14,7 +14,7 @@ Your
 
 Mind
 
-<a href="http://www.koobox.com/multimediakoobox.php">Koobox</a>
+<a href="https://www.koobox.com/multimediakoobox.php">Koobox</a>
 
 Save
 

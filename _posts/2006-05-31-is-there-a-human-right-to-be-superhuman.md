@@ -12,4 +12,4 @@ Brian Alexander's Take on HETHR:
 
 The coincidence was too remarkable to ignore."
 
-<a href="http://www.msnbc.msn.com/id/13054181/">Is there a human right to be superhuman?</a> -MSNBC.com
+<a href="https://www.msnbc.msn.com/id/13054181/">Is there a human right to be superhuman?</a> -MSNBC.com

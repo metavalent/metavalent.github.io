@@ -7,4 +7,4 @@ comments: true
 categories: [education, metavalent, space]
 ---
 <p>If 2+2 occurs in the cosmos and nobody adds them, is the sum still 4?</p>
-[youtube http://www.youtube.com/watch?v=9MV65airaPA&w=500&h=284]
+[youtube https://www.youtube.com/watch?v=9MV65airaPA&w=500&h=284]

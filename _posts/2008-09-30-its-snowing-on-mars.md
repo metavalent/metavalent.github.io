@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [metavalent, space]
 ---
-Enough said. <a href="http://computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9115839">NASA robot sends back evidence it's snowing on Mars</a>
+Enough said. <a href="https://computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9115839">NASA robot sends back evidence it's snowing on Mars</a>

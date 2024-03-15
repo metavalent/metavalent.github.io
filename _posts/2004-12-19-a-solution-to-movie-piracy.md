@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [internet]
 ---
-<a href="http://yro.slashdot.org/article.pl?sid=04/12/19/1712258&amp;from=rss">Slashdot | TorrentBits.org and SuprNova.org Go Dark</a>: 
+<a href="https://yro.slashdot.org/article.pl?sid=04/12/19/1712258&amp;from=rss">Slashdot | TorrentBits.org and SuprNova.org Go Dark</a>: 
 "This time with breaks! (Score:5, Insightful)
 by zmollusc (763634) Neutral on Sunday December 19, @10:10AM (#11131127)
 

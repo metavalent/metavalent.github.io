@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-For all the times you've wanted <a href="http://video.google.com/videoplay?docid=-7206607844378198999&amp;q=crash"> to kill your pos PC</a>
+For all the times you've wanted <a href="https://video.google.com/videoplay?docid=-7206607844378198999&amp;q=crash"> to kill your pos PC</a>
 
 Enjoy.

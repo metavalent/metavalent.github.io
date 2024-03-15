@@ -17,4 +17,4 @@ Join us to hear original participants recount what led up to the 1968 demo, the 
 Speakers include Bob Sproull (Sun Microsystems); Daniel Borel (Logitech, Inc.); Chuck House (Media X at Stanford University); Paul Saffo (technology forecaster); 1968 demo participants Bill English (formerly SRI), Jeff Rulifson (Sun Microsystems), Don Andrews (formerly SRI), and 
 Bill Paxton (University of California, Santa Barbara); Andy van Dam (Brown University); Christina Engelbart (The Doug Engelbart Institute); andAlan Kay (Viewpoints Research Institute).
 
-Tickets are available for purchase from the <a href="http://stanfordtickets.org/tickets/calendar/view.aspx?id=2324">Stanford Ticket Office online</a>, or by calling 650-725-2787, or at the Stanford Ticket Office at Tresidder Union.
+Tickets are available for purchase from the <a href="https://stanfordtickets.org/tickets/calendar/view.aspx?id=2324">Stanford Ticket Office online</a>, or by calling 650-725-2787, or at the Stanford Ticket Office at Tresidder Union.

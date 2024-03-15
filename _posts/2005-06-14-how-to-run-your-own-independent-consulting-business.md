@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Just Keep the <a href="http://www.comics.com/comics/dilbert/archive/dilbert-20050614.html">Status Quo</a>.
+Just Keep the <a href="https://www.comics.com/comics/dilbert/archive/dilbert-20050614.html">Status Quo</a>.

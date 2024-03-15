@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://slashdot.org/article.pl?sid=06/02/03/1715243"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"t global monopolization sort of ipso facto evil?
+<!--Lead Photo --><a href="https://slashdot.org/article.pl?sid=06/02/03/1715243"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"t global monopolization sort of ipso facto evil?

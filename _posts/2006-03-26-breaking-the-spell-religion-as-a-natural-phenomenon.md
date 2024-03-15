@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [booktv, education, society]
 ---
-<a href="http://booktv.org/General/index.asp?segID=6774&amp;schedID=420">Daniel Dennett</a> on BookTV. "The author describes religion as a cultural phenomenon that was developed by natural, evolutionary processes."
+<a href="https://booktv.org/General/index.asp?segID=6774&amp;schedID=420">Daniel Dennett</a> on BookTV. "The author describes religion as a cultural phenomenon that was developed by natural, evolutionary processes."

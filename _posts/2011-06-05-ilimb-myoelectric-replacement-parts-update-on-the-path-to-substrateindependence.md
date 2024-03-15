@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [cyborg, metavalent, posthuman, substrate independence]
 ---
-[youtube http://www.youtube.com/watch?v=fsakrBzTdoA&w=560&h=349]
+[youtube https://www.youtube.com/watch?v=fsakrBzTdoA&w=560&h=349]
 
-[youtube http://www.youtube.com/watch?v=8QJ_NIzVVSc&w=560&h=349]
+[youtube https://www.youtube.com/watch?v=8QJ_NIzVVSc&w=560&h=349]

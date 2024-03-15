@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.flickr.com/photos/slightclutter/sets/847243/show/">slight clutter's Hurricane Katrina slideshow on Flickr</a>
+<a href="https://www.flickr.com/photos/slightclutter/sets/847243/show/">slight clutter's Hurricane Katrina slideshow on Flickr</a>

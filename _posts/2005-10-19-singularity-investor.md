@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The purpose of <a href="http://singularityinvestor.com/">this website</a> is to demonstrate:
+The purpose of <a href="https://singularityinvestor.com/">this website</a> is to demonstrate:
 
    1. That exponential change is really taking place
    2. That exponential change is leading to a technological Singularity

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://news.zdnet.com/2036-2_22-6035707.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">A load of C.R.A.P.</a>  His acronym, not mine!
+<!--Lead Photo --><a href="https://news.zdnet.com/2036-2_22-6035707.html"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">A load of C.R.A.P.</a>  His acronym, not mine!

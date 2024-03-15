@@ -20,7 +20,7 @@ to ensure full funding currently rests upon votes in Congress on Senate Bill S.
 
 Please take a moment to help us SAVE ARECIBO.
 
-Clicking the link below will direct you to <a href="http://setiathome.berkeley.edu/arecibo_letter.php">a web page that allows you to print
+Clicking the link below will direct you to <a href="https://setiathome.berkeley.edu/arecibo_letter.php">a web page that allows you to print
 out letters</a> prepared for your Senators and Congressional Representative urging
 them to support Arecibo. Printing and mailing the letters is really easy, too!
 You will also have the chance to add a few personal thoughts, if you wish, to
@@ -42,7 +42,7 @@ search. Now, we need your help to ensure that our other most valuable resource
 - our eyes and ears to the cosmos - can continue to probe the universe as we
 seek to answer the question: Is there anybody out there?
 
-<a href="http://setiathome.berkeley.edu/arecibo_letter.php">http://setiathome.berkeley.edu/arecibo_letter.php</a>
+<a href="https://setiathome.berkeley.edu/arecibo_letter.php">https://setiathome.berkeley.edu/arecibo_letter.php</a>
 
 Thank you for your help,
 

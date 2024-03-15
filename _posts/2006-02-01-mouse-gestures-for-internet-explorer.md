@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.codeproject.com/atl/MouseGestures.asp"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Ralph Hare</a>, for this essential feature.
+<!--Lead Photo --><a href="https://www.codeproject.com/atl/MouseGestures.asp"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Ralph Hare</a>, for this essential feature.

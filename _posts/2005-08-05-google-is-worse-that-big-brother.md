@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://yro.slashdot.org/article.pl?sid=05/08/05/122217&amp;from=rss">Blacklists CNet Reporters</a> for exposing the harm it can do, even when turned against itself.
+<a href="https://yro.slashdot.org/article.pl?sid=05/08/05/122217&amp;from=rss">Blacklists CNet Reporters</a> for exposing the harm it can do, even when turned against itself.

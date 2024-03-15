@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Beware, humans of earth, of <a href="http://www.hammacher.com/publish/10913.asp">The Oculas at Hammacher Schlemmer</a>.
+Beware, humans of earth, of <a href="https://www.hammacher.com/publish/10913.asp">The Oculas at Hammacher Schlemmer</a>.

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://cbs.sportsline.com/nfl/playoffrace/bracket">2005-6 NFL Football Playoff Race</a>
+<a href="https://cbs.sportsline.com/nfl/playoffrace/bracket">2005-6 NFL Football Playoff Race</a>

@@ -8,7 +8,7 @@ categories: wp-import
 ---
 Possibly the most salient blog post I've ever read.
 
-<a href="http://squash.wordpress.com/2006/03/27/abandon-vista-we-dont-need-another-desktop-os/">Abandon Vista. We don’t need another desktop OS</a> 
+<a href="https://squash.wordpress.com/2006/03/27/abandon-vista-we-dont-need-another-desktop-os/">Abandon Vista. We don’t need another desktop OS</a> 
  <blockquote>The simple fact is we don't need another desktop operating system. We need an Everywhere OS.
 
 When was the last time you smacked your PC across the display because XP didn't look pretty enough or was lacking some key feature you needed. Don't ask me because I couldn't tell you.

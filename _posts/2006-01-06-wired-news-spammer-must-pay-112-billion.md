@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.wired.com/news/politics/0,69966-0.html?tw=rss.index"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"s only symbolic and spammers know that getting hit like this is about as likely as winning the lottery, so there is really no deterrent value to this at all.
+<!--Lead Photo --><a href="https://www.wired.com/news/politics/0,69966-0.html?tw=rss.index"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"s only symbolic and spammers know that getting hit like this is about as likely as winning the lottery, so there is really no deterrent value to this at all.

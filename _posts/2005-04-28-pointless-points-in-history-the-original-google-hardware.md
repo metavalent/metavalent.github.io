@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The Original <a href="http://web.archive.org/web/19990428233905/google.stanford.edu/googlehardware.html">Google Hardware</a>,  courtesy of The Wayback Machine.
+The Original <a href="https://web.archive.org/web/19990428233905/google.stanford.edu/googlehardware.html">Google Hardware</a>,  courtesy of The Wayback Machine.

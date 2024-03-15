@@ -19,10 +19,10 @@ Mechanical lung: Check
 Mechanical arm: Check
 Repeat as parts fail until biological majority of parts is falling faster than Florida's long-forgotten caucasian majority.
 <div class="youtube-video"></div><br /><br />
-New York Times: <a href="http://www.nytimes.com/2009/02/11/health/research/11arm.html?pagewanted=all">In New Procedure, Artificial Arm Listens to Brain</a>
+New York Times: <a href="https://www.nytimes.com/2009/02/11/health/research/11arm.html?pagewanted=all">In New Procedure, Artificial Arm Listens to Brain</a>
 
 
 
 
 
-<div style="margin-top:10px;height:15px;" class="zemanta-pixie"><a class="zemanta-pixie-a" href="http://reblog.zemanta.com/zemified/571cb783-24cb-4cdf-a99b-4de091f8ca19/" title="Zemified by Zemanta"><img style="border:medium none;float:right;" class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=571cb783-24cb-4cdf-a99b-4de091f8ca19" alt="Reblog this post [with Zemanta]"/></a><span class="zem-script more-related"></span></div>
+<div style="margin-top:10px;height:15px;" class="zemanta-pixie"><a class="zemanta-pixie-a" href="https://reblog.zemanta.com/zemified/571cb783-24cb-4cdf-a99b-4de091f8ca19/" title="Zemified by Zemanta"><img style="border:medium none;float:right;" class="zemanta-pixie-img" src="https://img.zemanta.com/reblog_e.png?x-id=571cb783-24cb-4cdf-a99b-4de091f8ca19" alt="Reblog this post [with Zemanta]"/></a><span class="zem-script more-related"></span></div>

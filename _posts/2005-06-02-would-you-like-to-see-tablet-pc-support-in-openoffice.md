@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Cast your votes <a href="http://www.openoffice.org/issues/show_bug.cgi?id=10738">here</a> to let the OO team know that Tablet PC is not "just a windows thing" anymore, thanks!
+Cast your votes <a href="https://www.openoffice.org/issues/show_bug.cgi?id=10738">here</a> to let the OO team know that Tablet PC is not "just a windows thing" anymore, thanks!
 
-<a href="http://www.openoffice.org/issues/show_bug.cgi?id=10738">Issue 10738</a>
+<a href="https://www.openoffice.org/issues/show_bug.cgi?id=10738">Issue 10738</a>
 

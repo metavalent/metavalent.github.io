@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-I'm super happy and not at all surprised. <a href="http://yro.slashdot.org/article.pl?sid=05/02/19/0114222&amp;from=rss">Slashdot | Blockbuster Sued Over Late Fees Claim</a>
+I'm super happy and not at all surprised. <a href="https://yro.slashdot.org/article.pl?sid=05/02/19/0114222&amp;from=rss">Slashdot | Blockbuster Sued Over Late Fees Claim</a>

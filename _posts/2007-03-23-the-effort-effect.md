@@ -8,7 +8,7 @@ categories: [metavalent, society, war on aging]
 ---
 Why do some people achieve their potential while equally talented others don't? Can old dogs ever learn new tricks? It's all about EFFORT.
 
-According to Stanford psychologist Carol Dweck, we’ll reach new heights if we learn to embrace the occasional tumble. Dweck says we can learn to <a href="http://www.stanfordalumni.org/news/magazine/2007/marapr/features/dweck.html" target="_blank">adopt a growth mind-set about any ability</a> -- from athleticism to leadership to emotional intelligence -- at any age, in any life stage.
+According to Stanford psychologist Carol Dweck, we’ll reach new heights if we learn to embrace the occasional tumble. Dweck says we can learn to <a href="https://www.stanfordalumni.org/news/magazine/2007/marapr/features/dweck.html" target="_blank">adopt a growth mind-set about any ability</a> -- from athleticism to leadership to emotional intelligence -- at any age, in any life stage.
 
 “Just being aware of the growth mind-set, and studying it and writing about it, I feel compelled to live it and to benefit from it,” says Dweck, who took up piano as an adult and learned to speak Italian in her 50s. “These are things that adults are not <em>supposed</em> to be good at learning.”
 

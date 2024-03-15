@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Fellow Stanford alum Jonah Eric Hsu has released <a href="http://www.jonahhsu.com/">The Blackberry EP.</a>  Check it out!
+Fellow Stanford alum Jonah Eric Hsu has released <a href="https://www.jonahhsu.com/">The Blackberry EP.</a>  Check it out!

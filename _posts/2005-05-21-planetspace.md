@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.planetspace.org/">PLANETSPACE</a>
+<a href="https://www.planetspace.org/">PLANETSPACE</a>

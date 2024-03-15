@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [education, metavalent, physics, space]
 ---
-For those who have been too busy to keep track, our colleagues at GP-B have indeed overcome innumerable obstacles over the course of "the <a href="http://einstein.stanford.edu/RESOURCES/aboutus-index.html">longest running, continuous physics research program</a> at both Stanford and NASA."
+For those who have been too busy to keep track, our colleagues at GP-B have indeed overcome innumerable obstacles over the course of "the <a href="https://einstein.stanford.edu/RESOURCES/aboutus-index.html">longest running, continuous physics research program</a> at both Stanford and NASA."
 
 As is so often the case in science, the political battles required to sustain sufficient resources to complete the work to the highest possible degree of accuracy and integrity often dissipate vast amounts of energy that could have been far better spent improving the work itself. Unfortunately, it is indeed arguable that we don't seem to be collectively intelligent enough or creative enough to devise and implement a better system for designing, funding, and executing fundamental research.
 
@@ -22,7 +22,7 @@ Subject: Thanks for your continued support of GP-B
 
 All,
 
-Since May 23, 2008, when I sent out our most recent GP-B email status update and posted the same information on our webiste (<a href="http://einstein.stanford.edu">http://einstein.stanford.edu</a>), I've received too many email responses to reply to each one individually.
+Since May 23, 2008, when I sent out our most recent GP-B email status update and posted the same information on our webiste (<a href="https://einstein.stanford.edu">https://einstein.stanford.edu</a>), I've received too many email responses to reply to each one individually.
 
 Thus, on behalf of the GP-B team, I wish to thank all of you, collectively, who expressed support for GP-B, and assure you that, in the words of Mark Twain, "...Rumors of the demise of GP-B are greatly exaggerated."
 
@@ -46,7 +46,7 @@ GP-B Public Affairs
 NASA - Stanford - Lockheed Martin
    Gravity Probe B Program
 "Testing Einstein's Universe"
- http://einstein.stanford.edu
+ https://einstein.stanford.edu
 
 Bob Kahn
 Public Affairs Coordinator &amp; Webmaster

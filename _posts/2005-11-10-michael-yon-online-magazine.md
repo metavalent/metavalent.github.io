@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The <a href="http://www.michaelyon.blogspot.com/">Michael Yon : Online Magazine</a> is just worth bookmarking and passing on.  Every now and then the mainstream does catch hold of something worthwhile.
+The <a href="https://www.michaelyon.blogspot.com/">Michael Yon : Online Magazine</a> is just worth bookmarking and passing on.  Every now and then the mainstream does catch hold of something worthwhile.

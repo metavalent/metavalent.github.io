@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://undeadly.org/cgi?action=article&amp;sid=20050509162643">Using OpenBSD for an Encrypted File Server</a>: "Using OpenBSD for an Encrypted File Server"
+<a href="https://undeadly.org/cgi?action=article&amp;sid=20050509162643">Using OpenBSD for an Encrypted File Server</a>: "Using OpenBSD for an Encrypted File Server"

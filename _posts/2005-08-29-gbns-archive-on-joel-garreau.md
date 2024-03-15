@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://www.gbn.com/ArticleDisplayServlet.srv?aid=31222">GBN: GBN Presents Joel Garreau</a>
+<a href="https://www.gbn.com/ArticleDisplayServlet.srv?aid=31222">GBN: GBN Presents Joel Garreau</a>

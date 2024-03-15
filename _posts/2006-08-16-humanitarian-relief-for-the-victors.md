@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://c-span.org/watch/"><img src="http://metavalent.info/images/humanitarian.bombings.jpg" border="0" alt="alms for the rich" /></a><!-- Commentary -->
+<!--Lead Photo --><a href="https://c-span.org/watch/"><img src="https://metavalent.info/images/humanitarian.bombings.jpg" border="0" alt="alms for the rich" /></a><!-- Commentary -->
 Alms for the poor victors!  Alms for the poor victors!  This is precisely the kind of arrogant hypocrisy that Israel's opponents find revolting.  Frankly, over the past several years I increasingly identify with anti-Israeli sentiment.  The more that I question what I was taught as a child in Sunday school, read the history, and simply OBSERVE Israel's behavior, the more I oppose both it's objectives and it's means.  
 
 I understand that, under prevalent conspiracy doctrine, this makes me a Terrorist Sympathizer and therefore Suspect of The State.  I won't count on ever flying on a U.S. commercial airliner without coming under closer scrutiny.  I won't expect my credit score to reflect my true record of consistency.  I understand that, by stating publicly that I OPPOSE ISRAEL and that the 1948 partitioning was hogwash, "they" will put me on "the watchlist."  Oh well.  See that old fashioned quotation from the increasingly irrelevant Patrick Henry, above.

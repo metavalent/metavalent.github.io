@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-The military's <a href="http://news.ufl.edu/2005/08/23/morphing-planes/">next generation of airborne drones</a> won't be just small and silent they'll also dive between buildings, zoom under overpasses and land on apartment balconies.  <a href="http://hardware.slashdot.org/article.pl?sid=05/08/24/1610253">More </a>at /.
+The military's <a href="https://news.ufl.edu/2005/08/23/morphing-planes/">next generation of airborne drones</a> won't be just small and silent they'll also dive between buildings, zoom under overpasses and land on apartment balconies.  <a href="https://hardware.slashdot.org/article.pl?sid=05/08/24/1610253">More </a>at /.

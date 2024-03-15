@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href=""><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"t it?
+<!--Lead Photo --><a href=""><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"t it?
 
 Extreme Networks and Light Reading Present Triple Play Service Roll Out Strategies for Carrier Ethernet Networks
 
@@ -21,9 +21,9 @@ The cost economies of Ethernet, coupled with the tremendous investment carriers 
    Webinar Details:
    Title: Using Metro Ethernet to Deliver FTTH Triple-Play Services
    When: Tuesday, March 21, 2006, 7AM PT / 10AM ET Where: To register, visit
-   http://www.lightreading.com/webinar.asp?doc_id=27668
+   https://www.lightreading.com/webinar.asp?doc_id=27668
    Who: Moderated by Stan Hubbard, senior analyst, Heavy Reading. Extreme
    Networks speaker: Peter Lunk, senior product manager for service provider
    marketing
 
-For more on Extreme Networks' Carrier Ethernet solutions, visit: http://www.multidimensionalethernet.com/ .
+For more on Extreme Networks' Carrier Ethernet solutions, visit: https://www.multidimensionalethernet.com/ .

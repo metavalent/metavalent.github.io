@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Wow.  This is just plain worth archiving.  A great poke in the eye with a sharp shtick for racists and neo supremecists of all colors and creeds: <a href="http://www.blackpeopleloveus.com/testimonials.html">Black People Love Us!</a>
+Wow.  This is just plain worth archiving.  A great poke in the eye with a sharp shtick for racists and neo supremecists of all colors and creeds: <a href="https://www.blackpeopleloveus.com/testimonials.html">Black People Love Us!</a>

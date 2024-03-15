@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-I wrote essays about this topic almost two years before anyone in the presss ever brought it up and I'll have much more to say on this at a later date. <a href="http://www.nytimes.com/2005/08/28/technology/28digi.html?ex=1126238400&amp;en=13b49aa516412fde&amp;ei=5070&amp;8hpib">Google Anything, So Long as It's Not Google - New York Times</a>
+I wrote essays about this topic almost two years before anyone in the presss ever brought it up and I'll have much more to say on this at a later date. <a href="https://www.nytimes.com/2005/08/28/technology/28digi.html?ex=1126238400&amp;en=13b49aa516412fde&amp;ei=5070&amp;8hpib">Google Anything, So Long as It's Not Google - New York Times</a>

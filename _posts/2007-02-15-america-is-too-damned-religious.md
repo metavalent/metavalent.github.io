@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [histrionics, society]
 ---
-On NPR's Intelligence Squared: <a href="http://www.npr.org/templates/story/story.php?storyId=7422542" target="_blank">America Is Too Damn Religious</a>
+On NPR's Intelligence Squared: <a href="https://www.npr.org/templates/story/story.php?storyId=7422542" target="_blank">America Is Too Damn Religious</a>

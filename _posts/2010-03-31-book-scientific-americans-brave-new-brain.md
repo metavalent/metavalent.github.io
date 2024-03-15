@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [bci, books]
 ---
-<a href="http://www.wiley.com/WileyCDA/PressRelease/pressReleaseId-71537.html">Brave New Brain</a>:<blockquote>How Neuroscience, Brain-Machine Interfaces, Neuroimaging, Psychopharmacology, Epigenetics, the Internet, and Our Own Minds are Stimulating and Enhancing the Future of Mental Power</blockquote>
+<a href="https://www.wiley.com/WileyCDA/PressRelease/pressReleaseId-71537.html">Brave New Brain</a>:<blockquote>How Neuroscience, Brain-Machine Interfaces, Neuroimaging, Psychopharmacology, Epigenetics, the Internet, and Our Own Minds are Stimulating and Enhancing the Future of Mental Power</blockquote>

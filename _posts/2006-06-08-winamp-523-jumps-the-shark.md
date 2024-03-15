@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-I guess it was only a matter of time before AOL ruined Winamp; still, it's a disappointment to see this fine, nostalgic player finally <a href="http://en.wikipedia.org/wiki/Jump_the_shark">jump the shark</a>.  I can't even bear to link to the site, it's so bad.  While Winamp has gradually become more and more bloated over time, it was forced to keep pace with other players and in doing so did a reasonable job of not exceeding the competitor's Feature-To-Crap Ratio.  
+I guess it was only a matter of time before AOL ruined Winamp; still, it's a disappointment to see this fine, nostalgic player finally <a href="https://en.wikipedia.org/wiki/Jump_the_shark">jump the shark</a>.  I can't even bear to link to the site, it's so bad.  While Winamp has gradually become more and more bloated over time, it was forced to keep pace with other players and in doing so did a reasonable job of not exceeding the competitor's Feature-To-Crap Ratio.  
 
 Enter Winamp 5.23 with an FTCR well below 20%.  Bloated with more than 80% crap, Winamp 5.23 features no less than seven screaming <font color="#FF0000">NEW! NEW! NEW!</font> bloated crap items.  Moreover, in the side-by-side feature comparision, the Lite version is reduced to 3  out of 25 possible "features" while the other free version all exceed 20.  For historic users of Winamp, this is clearly the quantum leap in uber-bloat and <font color="#FF0000">NEW! NEW! NEW!</font> AOL noise that we've dreaded ever since the acquistion.  So, if you're a long time fan of Winamp, like I am, I'd suggest staying with 5.2 until we can find a reasonable replacement.  
 

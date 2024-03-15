@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Surely this falls within the anti-code-bloat policies for developers.  <a href="http://extensionroom.mozdev.org/more-info/tabx">Extension Room :: Tab X</a>
+Surely this falls within the anti-code-bloat policies for developers.  <a href="https://extensionroom.mozdev.org/more-info/tabx">Extension Room :: Tab X</a>

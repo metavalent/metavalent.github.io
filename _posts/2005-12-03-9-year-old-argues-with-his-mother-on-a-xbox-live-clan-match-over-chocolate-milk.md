@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Wow.  Just wow.  My bet is that this scenario is FAR more prevalent in America today than anyone would dare imagine.  Watch this 3 minute clip and draw your own conclusion.  <a href="http://video.google.com/videoplay?docid=-7153152098207965240">Google Video</a>
+Wow.  Just wow.  My bet is that this scenario is FAR more prevalent in America today than anyone would dare imagine.  Watch this 3 minute clip and draw your own conclusion.  <a href="https://video.google.com/videoplay?docid=-7153152098207965240">Google Video</a>

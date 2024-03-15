@@ -8,7 +8,7 @@ tumblr_url: https://metavalent.tumblr.com/post/98029852448/neuroscienceincollege
 ---
 <iframe loading="lazy" width="400" height="300" id="youtube_iframe" src="https://www.youtube.com/embed/N6S9OidmNZM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[neuroscienceincollege](http://neuroscienceincollege.tumblr.com/post/12947526710/neuroscience-and-free-will-the-video-is-about-an):
+[neuroscienceincollege](https://neuroscienceincollege.tumblr.com/post/12947526710/neuroscience-and-free-will-the-video-is-about-an):
 
 > **Neuroscience and Free Will**
 > 

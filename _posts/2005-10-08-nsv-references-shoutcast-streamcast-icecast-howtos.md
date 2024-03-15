@@ -6,5 +6,5 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<ul><li><a href="http://nsv.no-ip.com/">NSV Information - Nullsoft Video Capture</a>
-</li> <li><a href="http://www.scvi.net/ref.htm#Shoutcast%20setup">Shoutcast, Streamcast, Icecast</a></li></ul>
+<ul><li><a href="https://nsv.no-ip.com/">NSV Information - Nullsoft Video Capture</a>
+</li> <li><a href="https://www.scvi.net/ref.htm#Shoutcast%20setup">Shoutcast, Streamcast, Icecast</a></li></ul>

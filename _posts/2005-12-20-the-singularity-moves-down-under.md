@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://www.theaustralian.news.com.au/common/story_page/0,5744,17557088%255E5001986,00.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"
+<!--Lead Photo --><a href="https://www.theaustralian.news.com.au/common/story_page/0,5744,17557088%255E5001986,00.html"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/"

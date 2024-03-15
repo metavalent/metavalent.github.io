@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: [biotech, metavalent, science, war on aging]
 ---
-On Dec 6, Wired Magazine reported:<blockquote><a href="http://www.wired.com/medtech/stemcells/news/2007/12/biotech_bank">A new source of $750 million in funding</a> could soon become available for the perennially cash-starved biotech industry, particularly stem cell firms.
+On Dec 6, Wired Magazine reported:<blockquote><a href="https://www.wired.com/medtech/stemcells/news/2007/12/biotech_bank">A new source of $750 million in funding</a> could soon become available for the perennially cash-starved biotech industry, particularly stem cell firms.
 
 The California Institute for Regenerative Medicine will hold its first meeting to discuss a biotech loan program on Dec. 12 in Los Angeles, with a teleconference location in San Francisco.
 

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://slashdot.org/article.pl?sid=05/04/27/0422250&amp;from=rss">Slashdot | Microsoft to Introduce PDF competitor 'Metro'</a>
+<a href="https://slashdot.org/article.pl?sid=05/04/27/0422250&amp;from=rss">Slashdot | Microsoft to Introduce PDF competitor 'Metro'</a>

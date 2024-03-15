@@ -6,6 +6,6 @@ author: metavalent
 comments: true
 categories: [metavalent]
 ---
-<a href="http://news.bbc.co.uk/2/hi/technology/6291746.stm">Runbot unravels mystery of walking</a>.
+<a href="https://news.bbc.co.uk/2/hi/technology/6291746.stm">Runbot unravels mystery of walking</a>.
 
-<p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>
+<p class="poweredbyperformancing">Powered by <a href="https://scribefire.com/">ScribeFire</a>.</p>

@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Actually, I consider this a fairly reasonable price to <a href="http://news.yahoo.com/s/ap/spacewalk_for_sale">step out of the capsule, if you dare</a>.
+Actually, I consider this a fairly reasonable price to <a href="https://news.yahoo.com/s/ap/spacewalk_for_sale">step out of the capsule, if you dare</a>.

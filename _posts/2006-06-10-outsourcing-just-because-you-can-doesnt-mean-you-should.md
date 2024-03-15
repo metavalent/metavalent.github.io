@@ -6,7 +6,7 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-Once in awhile, a Slashdot echo is justified.  This is one of those whiles: <a href="http://it.slashdot.org/article.pl?sid=06/06/10/0828228">Techies Asked To Train Foreign Replacements</a>.  When will American Labor grow a spine again?  Risk severance pay?  WTF?  Below is a basic recipe for helping the bean counters better quantify and understand the costs of such bomabastic tactics.  Like any recipe, the cook must season to taste; omit or add ingredients as appropriate to the specific sitation.  The basics:
+Once in awhile, a Slashdot echo is justified.  This is one of those whiles: <a href="https://it.slashdot.org/article.pl?sid=06/06/10/0828228">Techies Asked To Train Foreign Replacements</a>.  When will American Labor grow a spine again?  Risk severance pay?  WTF?  Below is a basic recipe for helping the bean counters better quantify and understand the costs of such bomabastic tactics.  Like any recipe, the cook must season to taste; omit or add ingredients as appropriate to the specific sitation.  The basics:
 
 1. Don't live in denial.  If you are polite, you will not somehow save your job while everyone else is eliminated.  This is a common affliction.  We think that businesses will behave with the same sensible social reciprocity which which our friends and other social organizations behave.  However, the bean counters are serious, and therefore, you must be serious.  Not mean, not vindictive, but SERIOUS in the way you respond.
 

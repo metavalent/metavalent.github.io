@@ -6,9 +6,9 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-42. It's just like 12, 22, and 32, but with a 4.  Oh, and it just happens to be the <a href="http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything">Answer to Life, The Universe and Everything</a> which just happens to be <a href="http://www.imdb.com/title/tt0371724/">coming out in theaters</a> during the same month that you hit the mark.  Pure coincidence; I'm sure of it.
+42. It's just like 12, 22, and 32, but with a 4.  Oh, and it just happens to be the <a href="https://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything">Answer to Life, The Universe and Everything</a> which just happens to be <a href="https://www.imdb.com/title/tt0371724/">coming out in theaters</a> during the same month that you hit the mark.  Pure coincidence; I'm sure of it.
 
-What better than a <a href="http://www.speedwagon.com/kevin/shownews.pl">Kevin Cronin update</a> to mark the occasion?
+What better than a <a href="https://www.speedwagon.com/kevin/shownews.pl">Kevin Cronin update</a> to mark the occasion?
 
 <blockquote>3/22/2005
 
@@ -32,4 +32,4 @@ What better than a <a href="http://www.speedwagon.com/kevin/shownews.pl">Kevin C
 
     KC
 
-    NOTE: Pictures from the studio are now on the <a href="http://www.speedwagon.com/reo-pictures.php">REO Picture Page</a>.</blockquote>
+    NOTE: Pictures from the studio are now on the <a href="https://www.speedwagon.com/reo-pictures.php">REO Picture Page</a>.</blockquote>

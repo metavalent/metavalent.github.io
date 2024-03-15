@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-This is six months old, but still reminds us that the opportunites in this Web 2.0 space are still very new; to wit, <a href="http://www.siliconvalleywatcher.com/mt/archives/2005/06/were_off_to_the.php">SiliconValleyWatcher.com: First RSS focused VC fund is announced--$100m</a>
+This is six months old, but still reminds us that the opportunites in this Web 2.0 space are still very new; to wit, <a href="https://www.siliconvalleywatcher.com/mt/archives/2005/06/were_off_to_the.php">SiliconValleyWatcher.com: First RSS focused VC fund is announced--$100m</a>

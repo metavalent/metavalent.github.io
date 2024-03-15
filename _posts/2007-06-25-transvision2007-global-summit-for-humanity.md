@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: [events, metavalent, society]
 ---
-[youtube http://www.youtube.com/watch?v=T_t1119H7dI]
+[youtube https://www.youtube.com/watch?v=T_t1119H7dI]

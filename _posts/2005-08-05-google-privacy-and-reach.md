@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<a href="http://news.com.com/Googles+balancing+act/2100-1032_3-5787483.html">Google balances privacy, reach?</a> - CNET News.com
+<a href="https://news.com.com/Googles+balancing+act/2100-1032_3-5787483.html">Google balances privacy, reach?</a> - CNET News.com

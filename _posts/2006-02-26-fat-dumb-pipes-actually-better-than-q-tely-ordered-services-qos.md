@@ -6,4 +6,4 @@ author: metavalent
 comments: true
 categories: wp-import
 ---
-<!--Lead Photo --><a href="http://news.yahoo.com/s/ap/20060226/ap_on_hi_te/net_neutrality"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Future of the Internet</a>, right?  Sadly, probably not.
+<!--Lead Photo --><a href="https://news.yahoo.com/s/ap/20060226/ap_on_hi_te/net_neutrality"><img src="https://web.archive.org/web/*/https://awebcamdarkly.com/">Future of the Internet</a>, right?  Sadly, probably not.

@@ -8,4 +8,4 @@ categories: [neuro-cogno, society, war on aging]
 ---
 
 
-<p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>
+<p class="poweredbyperformancing">Powered by <a href="https://scribefire.com/">ScribeFire</a>.</p>

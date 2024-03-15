@@ -10,4 +10,4 @@ categories: [biohacking, cyborg, metavalent]
 
 Finally, someone else articulating this truth with the scientific authority that might be better heard and received.
 
-[youtube http://www.youtube.com/watch?v=Bo00HFpygqs&w=560&h=315]
+[youtube https://www.youtube.com/watch?v=Bo00HFpygqs&w=560&h=315]
