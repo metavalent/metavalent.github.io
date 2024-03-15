@@ -15,7 +15,7 @@ modified: 2024-02-25T11:11:11-07:00
 The mid-game environment of the second half of the 20th century perfectly cultivated a metavalent mental health pandemic which manifested as all kinds of derivative shadow-pandemics of dubious actuality; but that's all way too much to think about, so we self-distract, self-destruct, and self-medicate en masse, avoiding root causes at all cost. What could possibly have gone wrong?
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/CS2quBsSR2U"
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/CS2quBsSR2U"
   frameborder="0"></iframe>
 
 

@@ -27,35 +27,6 @@ Following is an except from the soon to be published 2nd edition of the book *Wh
 
 ![Two-thirds Singularity](/assets/images/dc2a28f9b13398e6d1050c33e7f4c7da.jpg) 
 
-<!-- Default Video Embed
-Watch [Video_Title](https://youtu.be/JnA8GUtXpXY) if the embed below does not behave nicely. 
-
-<!-- Native HTML5 Embed - GitHub LFS storage: append ?raw=true  
-<video controls preload="none" width="560" height="320" controls>
-  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
-  <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
-Your browser does not support the video tag.
-</video>
--->
-
-<!-- YouTube Player
-<iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320"
-  src="https://www.youtube.com/embed/imA1lpOdEhQ?autoplay=1"
-  frameborder="0"></iframe>
--->
-
-<!-- Maybe HTML5 Audio Embed - GitHub LFS storage: append ?raw=true  
-<audio controls preload="none">
-  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/mpeg">
-  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
--->
-
-<!-- For custom thumbnail
-![alt text](/assets/images/image.jpg "title")
--->
-
 <p></p>
 <p></p>
 <p></p>

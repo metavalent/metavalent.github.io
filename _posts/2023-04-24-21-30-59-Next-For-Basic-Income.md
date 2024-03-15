@@ -13,7 +13,7 @@ modified: 2023-04-24T22:14:59-07:00
 ### Scott Santens in Conversation with Andrew Yang
 
 <p></p>
-<iframe id="ytplayer" type="text/html" loading="lazy" width="640" height="480"
+<iframe loading="lazy" id="ytplayer" type="text/html" width="640" height="480"
   src="https://www.youtube.com/embed/p0AtC3QKtJM?autoplay=1"
   frameborder="0"></iframe>
 <p></p>

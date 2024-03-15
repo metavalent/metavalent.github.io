@@ -13,7 +13,7 @@ modified: 2023-12-24T21:34:07-07:00
 ### Alcides Moreno.
 
 <div class="center">
-<iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320"
+<iframe loading="lazy" id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/XEyV8o2dp7M?autoplay=1"
   frameborder="0"></iframe>
 </div>

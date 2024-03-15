@@ -15,7 +15,7 @@ modified: 2024-03-03T08:08:08-07:00
 Maybe relax on the personality crucifixions and try to understand the message for a minute. Just a suggestion.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/QhsuiMOHGiY?t=54s" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/QhsuiMOHGiY?t=54s" frameborder="0"></iframe>
 
 Watch [Marianne Williamson's Main Takeaways](https://youtu.be/QhsuiMOHGiY?t=54s) if the embed does not behave nicely.
 

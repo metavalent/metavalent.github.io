@@ -14,11 +14,11 @@ modified: 2024-03-01T11:11:11-07:00
 
 Extending and augmenting human understanding and intelligence, Being Cyborg, doesn't mean the end of Being Human. In fact, it might be the real beginning.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/esther_perel_the_secret_to_desire_in_a_long_term_relationship loading="lazy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe loading="lazy" src="https://embed.ted.com/talks/lang/en/esther_perel_the_secret_to_desire_in_a_long_term_relationship" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 Watch [The secret to desire in a long-term relationship](https://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship) if the embed does not behave nicely.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved loading="lazy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe loading="lazy" src="https://embed.ted.com/talks/lang/en/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 Watch [Rethinking infidelity ... a talk for anyone who has ever loved](https://www.ted.com/talks/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved) if the embed does not behave nicely.
 

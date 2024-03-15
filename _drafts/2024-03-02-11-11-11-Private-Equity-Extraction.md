@@ -15,7 +15,7 @@ modified: 2024-03-02T11:11:11-07:00
 Maybe relax on the personality crucifixions and try to understand the message for a minute. Just a suggestion.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/shv9g-4xXww?t=34" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/shv9g-4xXww?t=34" frameborder="0"></iframe>
 
 Watch [How private equity conquered America | The Chris Hedges Report](https://youtu.be/shv9g-4xXww?t=34) if the embed does not behave nicely.
 

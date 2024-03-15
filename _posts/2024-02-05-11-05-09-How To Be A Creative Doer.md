@@ -16,7 +16,7 @@ modified: 2024-02-05T12:43:10-07:00
 
 <div class="center">
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320"
+<iframe loading="lazy" id="ytplayer" type="text/html" width="560" height="320"
   src="https://www.youtube.com/embed/JpYA7WXkHyI?autoplay=1"
   frameborder="0"></iframe>
 </div>

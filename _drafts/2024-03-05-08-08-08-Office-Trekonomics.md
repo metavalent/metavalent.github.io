@@ -13,7 +13,7 @@ modified: 2024-03-05T08:08:08-07:00
 #### Rainn Wilson on Trek-o-nomics.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=1197s" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=1197s" frameborder="0"></iframe>
 
 Watch [Rainn Wilson on a Star Trek future, Shrute Bucks, and creating a kinder society](https://youtu.be/uznfsuCuFio?t=1197s) if the embed does not behave nicely.
 
@@ -22,14 +22,14 @@ Watch [Rainn Wilson on a Star Trek future, Shrute Bucks, and creating a kinder s
 <!-- Yeah. That sounds *kind* and healthy. Great work. Brilliant. -->
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=417" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=417" frameborder="0"></iframe>
 
 Watch [Rainn Wilson on a Star Trek future, Shrute Bucks, and creating a kinder society](https://youtu.be/uznfsuCuFio?t=417) if the embed does not behave nicely.
 
 > "What has happened on planet Earth that allows humanity to go out in the Enterprise and explore space?"
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=507" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/uznfsuCuFio?t=507" frameborder="0"></iframe>
 
 Watch [Rainn Wilson on a Star Trek future, Shrute Bucks, and creating a kinder society](https://youtu.be/uznfsuCuFio?t=507) if the embed does not behave nicely.
 

@@ -14,7 +14,7 @@ modified: 2023-06-17T10:06:03-05:00
 
 "Every form of deception and corruption. This is what we call living. It's our daily existence. Nobody can cheat us of that."
 
-<iframe id="ytplayer" type="text/html" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/ui8iWfLu3Zo?autoplay=1"
+<iframe loading="lazy" id="ytplayer" type="text/html" width="560" height="320" src="https://www.youtube.com/embed/ui8iWfLu3Zo?autoplay=1"
   frameborder="0"></iframe>
 
 Watch [We have separated living from dying | Krishnamurti](https://youtu.be/JnA8GUtXpXY) if the embed does not behave nicely.

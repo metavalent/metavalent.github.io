@@ -15,7 +15,7 @@ modified: 2024-03-11T11:11:11-07:00
 Sure seems like intergenerational trauma on a civilization scale. As abused children abuse their children, nearly exterminated people seek to exterminate others.
 
 <!-- YouTube Player -->
-<iframe id="ytplayer" type="text/html" class="center" loading="lazy" width="560" height="320" src="https://www.youtube.com/embed/g4QjBpn8bpl" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/g4QjBpn8bpl" frameborder="0"></iframe>
 
 Watch [Ubiquity Chartres Academy Community Call, February 2024](https://youtu.be/g4QjBpn8bpl) if the embed does not behave nicely[.](https://www.biblegateway.com/passage/?search=Proverbs%207&version=VOICE)
 

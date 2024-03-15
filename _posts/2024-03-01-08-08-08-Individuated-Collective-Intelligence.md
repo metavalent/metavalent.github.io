@@ -12,7 +12,7 @@ modified: 2024-03-01T08:08:08-07:00
 
 ### Toward a Non-Collective Collective Intelligence.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/divya_siddarth_how_ai_and_democracy_can_fix_each_other loading="lazy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe loading="lazy" src="https://embed.ted.com/talks/lang/en/divya_siddarth_how_ai_and_democracy_can_fix_each_other" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 Watch [How AI and democracy can fix each other](https://www.ted.com/talks/divya_siddarth_how_ai_and_democracy_can_fix_each_other) if the embed does not behave nicely.
 
