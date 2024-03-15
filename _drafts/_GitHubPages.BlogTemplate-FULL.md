@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-03-11T08:08:08-07:00
-modified: 2024-03-11T11:11:11-07:00
+created: 2024-03-15T08:08:08-07:00
+modified: 2024-03-15T11:11:11-07:00
 ---
 
 <!-- Manual create timestamp if needed { date --iso-8601=seconds } -->
@@ -17,18 +17,18 @@ modified: 2024-03-11T11:11:11-07:00
 <!-- Post Content -->
 
 <!-- Native HTML5 Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code]
-<video class="center" width="560" height="320" controls preload="none">
+<video controls preload="none" class="center" width="560" height="320">
   <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.mp4?raw=true" type="video/mp4">
-  <source src=src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
+  <source src="https://github.com/metavalent/metavalent.github.io/blob/gh-pages/assets/audio-video/FILENAME.webm?raw=true" type="video/webm">
 Your browser does not support the video tag.
 </video>
 -->
 
 <!-- YouTube Player -->
-<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/yYsVeYzbik" frameborder="0"></iframe>
+<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/0123456789" frameborder="0"></iframe>
 
 
-Watch [Video_Title](https://youtu.be/JyYsVeYzbik) if the embed does not behave nicely.
+Watch [Video_Title](https://youtu.be/0123456789) if the embed does not behave nicely.
 
 <!-- HTML5 Audio Embed - To use GitHub LFS storage be sure to append [code]?raw=true[/code] 
 <div class="center"> 
