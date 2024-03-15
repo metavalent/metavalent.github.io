@@ -9,5 +9,8 @@
         "Neuro",
         "paystring",
         "ytplayer"
+    ],
+    "github-actions.workflows.pinned.workflows": [
+        "dynamic/pages/pages-build-deployment"
     ]
 }
