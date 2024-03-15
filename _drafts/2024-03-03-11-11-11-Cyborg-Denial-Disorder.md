@@ -25,14 +25,14 @@ When you drive a car, you are operating a four-wheeled exo-skeleton as an extens
 #### Terrifying Cyborgs at Work. This is NOT Natural!
 
 <!-- Reddit embed -->
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1b429sj/this_guy_using_the_ladder_like_a_natural/">This guy using the ladder like a natural extension of his body</a><br> by<a href="https://www.reddit.com/user/16ap/">u/16ap</a> in<a href="https://www.reddit.com/r/nextfuckinglevel/">nextfuckinglevel</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1b429sj/this_guy_using_the_ladder_like_a_natural/">This guy using the ladder like a natural extension of his body</a><br> by<a href="https://www.reddit.com/user/16ap/">u/16ap</a> in<a href="https://www.reddit.com/r/nextfuckinglevel/">nextfuckinglevel</a></blockquote><script async src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 Watch [This guy using the ladder like a natural extension of his body](https://www.reddit.com/r/nextfuckinglevel/comments/1b429sj/this_guy_using_the_ladder_like_a_natural/) if the embed does not behave nicely.
 
 #### I'm Sorry. Did I Fail to Emphasize, Long, Long, Long, Long, Long, Long Time?
 
 <!-- Reddit embed -->
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1b46902/boys_from_the_banna_tribe_casually_walking_around/">Boys from the Banna tribe casually walking around on stilts </a><br> by<a href="https://www.reddit.com/user/Bihema/">u/Bihema</a> in<a href="https://www.reddit.com/r/nextfuckinglevel/">nextfuckinglevel</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1b46902/boys_from_the_banna_tribe_casually_walking_around/">Boys from the Banna tribe casually walking around on stilts </a><br> by<a href="https://www.reddit.com/user/Bihema/">u/Bihema</a> in<a href="https://www.reddit.com/r/nextfuckinglevel/">nextfuckinglevel</a></blockquote><script async src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 Watch [Boys from the Banna tribe casually walking around on stilts](https://www.reddit.com/r/nextfuckinglevel/comments/1b46902/boys_from_the_banna_tribe_casually_walking_around/) if the embed does not behave nicely.
 
