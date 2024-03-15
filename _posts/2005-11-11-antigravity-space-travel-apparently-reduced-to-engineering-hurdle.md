@@ -4,7 +4,7 @@ title: Antigravity Space Travel Apparently Reduced to Engineering Hurdle
 date: 2005-11-11 10:09
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=6,960,975.WKU.&amp;OS=PN/6,960,975&amp;RS=PN/6,960,975">United States Patent: 6,960,975</a>, granted Nov 1, 2005, describes:
 

@@ -4,7 +4,7 @@ title: How Does Order Arise in the Universe?
 date: 2006-08-13 09:54
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="LINKURL"><img src="http://metavalent.info/images/research.channel.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->With all the chaos and ignorance manifest in and among every human experience and societal systems, how can anything reasonable or organized ever stand a chance?  In <a href="http://researchchannel.org/prog/displayevent.asp?rid=3593">this episode of Closer To Truth</a>, two nobel laureates lend a measure of comfort and hope for those of us who can otherwise barely tolerate the seemingly accelerating disarray of our American dystopia.
 

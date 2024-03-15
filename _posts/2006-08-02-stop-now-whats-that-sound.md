@@ -4,7 +4,7 @@ title: Stop, Now, What's that Sound?
 date: 2006-08-02 15:28
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 This entry comes to us from the "If I Already Agree with the Reports, It's News; If I Don't Agree, or If New Facts Call Into Question My Existing Worldview, It's Enemy Propaganda" Department.
 

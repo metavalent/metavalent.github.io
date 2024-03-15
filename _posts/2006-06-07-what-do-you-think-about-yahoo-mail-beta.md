@@ -4,7 +4,7 @@ title: What do you think about Yahoo Mail Beta?
 date: 2006-06-07 09:54
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 A very quick report on Yahoo Mail Beta (YMB) and Firefox.  I don't use IE frequently enough to comment on YMB on IE, but with Firefox, I can say that it's a still too much of a resource hog.  I love the new mail interface, but I generally have 10 or 15  tabs open at any given time, and in this environment, YMB is excruciatingly slow.  
 

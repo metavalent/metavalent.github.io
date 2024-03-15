@@ -4,7 +4,7 @@ title: Racism in New Orleans
 date: 2005-09-05 20:55
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 On the first or second day after Katrina there was a picture on CNN of an isolated white man's carcass who had just been beaten to the very verge of, if not entirely to death.
 

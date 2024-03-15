@@ -4,7 +4,7 @@ title: Is it Fascism, Yet?
 date: 2006-02-07 11:34
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.pbs.org/now/politics/wilkerson.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/" dumb strongmen; to use the terminology of Alexander Hamilton and Col. Wilkerson, below.
 

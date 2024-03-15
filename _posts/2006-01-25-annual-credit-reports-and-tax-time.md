@@ -4,7 +4,7 @@ title: Annual Credit Reports and Tax Time
 date: 2006-01-25 13:21
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="https://www.annualcreditreport.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">SCORE</a> (FICO, etc.), which is different from the detailed report and a bit of a scam, but still at least $50 cheaper than what it used to cost to do this every year and certainly much more time efficient than the old way!
 

@@ -4,7 +4,7 @@ title: Shopping For Nine Eleven Cards in the Hallmark Aisle
 date: 2006-09-08 13:46
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.time.com/time/magazine/article/0,9171,1531303,00.html"><img src="http://img401.imageshack.us/img401/1420/1101060911400nk0.jpg" alt="0" align="left" border="0" /></a><!-- Commentary -->IMHO, Time Magazine just happened to create one of the more poetically accurate covers of the Nine Eleven Fifth Anniversary Media Frenzy. Sure, this week is as good as any to think about these things; however, by reducing the events of that day to a national Hallmark Anti-Holiday, we dishonor both the lives lost and the memories of their survivors. My bet is that the vast majority will look at that cover in the grocery store checkout line, mind their own business rather than dare pick up a copy, and move on. The problem is that the only way out of the mess we're in as a society is to pay attention to our surroundings, to  daily embody a deep sense of personal responsibility for our environment, and fulfill our duty as brother's keeper each and every day -- if we are to become a better nation.
 

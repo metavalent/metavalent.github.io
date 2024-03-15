@@ -4,7 +4,7 @@ title: VG - Kicking the Dog
 date: 2006-06-11 13:53
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Man, am I ever getting so tired of all the piling on over Vonage (VG).  This is just another case of punishing the pioneers.  NOBODY would be enjoying the huge advances in VOIP today if it were not for Vonage.  This it the company that created enough competitive pressure on incumbent cable operators to force them to step up and offer VOIP, as well.  Without that motivation, the odds of Comcast and others offering VOIP before 2010 drop precipitously.  Even our good buddy Jim Cramer has dubbed the company "Vonage the Dog" and takes every opportunity to kick the dog under the table.  I've been a very happy Vonage customer since 2002 and was among the early adopters who booted SBC for good and I've never looked back.  
 

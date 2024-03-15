@@ -4,7 +4,7 @@ title: Your Choice - TAX and Spend =or= SPEND and Spend ... and Spend ... and Sp
 date: 2006-06-17 21:14
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "<em>Meanwhile</em>, first-quarter current account data show the <strong>U.S. for the first time is paying out more on its foreign liabilities than it earns on its overseas assets</strong>. This problem will only compound over time, Reik points out."
 

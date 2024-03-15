@@ -4,7 +4,7 @@ title: Abandon Vista
 date: 2006-03-31 07:48
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Possibly the most salient blog post I've ever read.
 

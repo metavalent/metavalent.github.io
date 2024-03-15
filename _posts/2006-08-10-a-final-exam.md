@@ -4,7 +4,7 @@ title: A Final Exam?
 date: 2006-08-10 06:10
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://video.google.com/videoplay?docid=8718728501056290731"><img src="http://img112.imageshack.us/img112/5322/2237cf7.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->Perhaps this is where TSA workers come from.  Hey, I'm just saying what millions of people think every day, but they're AFRAID to say it.
 

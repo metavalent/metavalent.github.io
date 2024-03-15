@@ -4,7 +4,7 @@ title: Bush Smacks Down Soldier's Questions
 date: 2006-07-23 16:21
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 President Bush: "Thanks for giving me a chance to visit and have a little lunch with you. God bless you all."
 

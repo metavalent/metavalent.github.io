@@ -4,7 +4,7 @@ title: MyAndOnlyMy Southwest.Com
 date: 2006-07-26 11:42
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><img src="http://metavalent.info/images/customer.service.jpg" border="0" alt="0" /><!-- Commentary -->In today's War on Customer Service Terrorism report, we feature the illustrious Southwest Airlines.  As is often the case in this erratic series of reports, the story begins with a highly esteemed, respected company.  A company I've done business with for some time, often years, based upon many happy transactions and an ongoing commitment to value.  So when the Customer Service Terrorists strike, it's almost always completely unexpected and often explosively disruptive; hence, Terrorism.  To be even more precise, what we are seeing is a War On Customers via Service Terrorism.
 

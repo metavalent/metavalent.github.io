@@ -4,7 +4,7 @@ title: New, Unimproved Bush iGod Strategy
 date: 2006-08-25 06:26
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.thenation.com/doc/20060814/schell"><img src="http://metavalent.info/images/the.nation.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->Writing for The Nation, Jonathan Schell  says it's <a href="http://www.thenation.com/doc/20060814/schell">Too Late for Empire</a> and, I might add, for what I've come to refer to as the Bush administration's imperialist Global Occupation Doctrine <a href="http://www.whitehouse.gov/nsc/nss.html">(iGOD) Strategy</a>.
 

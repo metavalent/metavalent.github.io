@@ -4,7 +4,7 @@ title: The Upgraded Digital Divide - Are We Developing New Technologies Faster t
 date: 2005-09-26 15:23
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://knowledge.wharton.upenn.edu/article/1292.cfm">The Upgraded Digital Divide: Are We Developing New Technologies Faster than Consumers Can Use Them? - Knowledge@Wharton</a>
 

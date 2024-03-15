@@ -4,7 +4,7 @@ title: Who or What Shoved Push?
 date: 2006-07-08 17:11
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <div>"<a href="http://www.kurzweilai.net/meme/frame.html?main=/articles/art0678.html">Push Singh</a> was a young MIT post doc making important contributions to AI with his Open Mind Common Sense project, a Web-based approach to acquire common sense knowledge from the general public. He was also one of KurzweilAI.net's big thinkers. He will be missed by us, and by many others."
 

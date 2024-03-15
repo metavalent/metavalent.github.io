@@ -4,7 +4,7 @@ title: Neighborly Use of Intellectual Property
 date: 2006-03-10 10:18
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.fastcompany.com/resources/networking/teten-allen/010906.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"  
 

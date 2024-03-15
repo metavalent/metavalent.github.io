@@ -4,7 +4,7 @@ title: Networking a military field unit overseas
 date: 2005-12-21 21:24
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.networkworld.com/columnists/2005/121905nutter.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"m searching for some advice.
 

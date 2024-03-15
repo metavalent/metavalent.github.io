@@ -4,7 +4,7 @@ title: Singularity Investor
 date: 2005-10-19 13:37
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 The purpose of <a href="http://singularityinvestor.com/">this website</a> is to demonstrate:
 

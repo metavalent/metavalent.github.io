@@ -4,7 +4,7 @@ title: Subscribe by Email
 date: 2005-11-17 15:21
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Just what we need ... MORE CHICKLETS!  Now you can subscribe to any Atom or RSS using feedBLITZ.  Look for feedBLITZ in a chicklet box near you.
 

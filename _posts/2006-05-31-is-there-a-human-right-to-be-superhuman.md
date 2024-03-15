@@ -4,7 +4,7 @@ title: Is there a human right to be superhuman?
 date: 2006-05-31 17:34
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Brian Alexander's Take on HETHR:
 

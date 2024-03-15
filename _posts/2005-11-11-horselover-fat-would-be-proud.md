@@ -4,7 +4,7 @@ title: Horselover Fat would be proud
 date: 2005-11-11 10:02
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "Among a fringe community of paranoids, aluminum helmets serve as the protective measure of choice against invasive radio signals. We investigate the efficacy of three aluminum helmet designs on a sample group of four individuals. Using a $250,000 network analyser, we find that although on average all helmets attenuate invasive radio frequencies in either directions (either emanating from an outside source, or emanating from the cranium of the subject), certain frequencies are in fact greatly amplified. These amplified frequencies coincide with radio bands reserved for government use according to the Federal Communication Commission (FCC). Statistical evidence suggests the use of helmets may in fact enhance the government's invasive abilities. We theorize that the <a href="http://people.csail.mit.edu/rahimi/helmet/">government may in fact have started the helmet craze for this reason</a>."
 

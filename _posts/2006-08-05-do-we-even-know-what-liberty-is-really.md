@@ -4,7 +4,7 @@ title: Do We Even Know What LIBERTY Is?  Really?
 date: 2006-08-05 15:11
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 The philosophy of Liberty is based on Self-Ownership.  <a href="http://famguardian.org/Subjects/Freedom/Articles/PhilosophyOfLiberty-english.swf">Watch this simple, but elegant and hard-hitting flash animation</a> to understand our right to life, liberty, and property - and our responsibility to think, speak, and act accordingly.
 

@@ -4,7 +4,7 @@ title: Are Scientists the Biggest Laggards?
 date: 2006-08-13 15:16
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://blogs.nature.com/nature/peerreview/trial/"><img src="http://metavalent.info/images/nature.peer.review.logo.jpg" align="left" border="0" alt="0" /></a><!-- Commentary -->It wouldn't be the first time. I remember being virtually laughed out of the room at Xerox PARC in 1997 for insisting that what would come to be called the Ethernet First Mile needed to be built immediately; that broadband, and beyond, were absolutely vital to the advancement of the internet.
 

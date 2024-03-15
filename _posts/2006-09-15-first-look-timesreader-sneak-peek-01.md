@@ -4,7 +4,7 @@ title: First Look - TimesReader - Sneak Peek 01
 date: 2006-09-15 14:07
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://firstlook.nytimes.com/?p=22"><img src="http://metavalent.info/images/nyt.timesreader.beta.logo.jpg" border="0" alt="0" align="left" /></a><!-- Commentary -->My surprising initial reaction to <a href="http://firstlook.nytimes.com/?p=22">First Look - TimesReader - Sneak Peek 01</a>.
 

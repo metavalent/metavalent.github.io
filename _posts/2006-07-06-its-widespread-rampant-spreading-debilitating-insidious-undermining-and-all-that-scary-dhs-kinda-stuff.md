@@ -4,7 +4,7 @@ title: It's Widespread, Rampant, Spreading, Debilitating, Insidious, Undermining
 date: 2006-07-06 15:01
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 What is it THIS time?  I mean, besides the utterly out of control, credit-card crazy, SpendAndSpend and SpendAndSpendAndSpendAndSpend Republicans.  Sure, tax may be the devil but Spend is the Beast that consumeth the world.
 

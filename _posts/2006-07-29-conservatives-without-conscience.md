@@ -4,7 +4,7 @@ title: Conservatives Without Conscience
 date: 2006-07-29 14:38
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://tinyurl.com/opqw2"><img src="http://img118.imageshack.us/img118/332/193420mnv4.jpg" border="0" alt="0" /></a><!-- Commentary -->When the banter is all stripped away, it's not difficult to confess that both major political parties have been taken over by extreme factions within their own ranks.  Howard Dean is certainly NOT a valid representative of my own small-d democratic-leaning views.
 

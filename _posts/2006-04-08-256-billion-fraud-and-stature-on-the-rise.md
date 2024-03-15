@@ -4,7 +4,7 @@ title: $2.56 BILLION Fraud and Stature on the Rise?
 date: 2006-04-08 18:18
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Yahoo News reporting <a href="http://news.yahoo.com/s/ap/20060408/ap_on_hi_te/aol_shareholder_lawsuit">Judge OKs $2.65 BILLION AOL Class-Action Settlement</a> and yet, "the Internet provider has risen in stature with the recent boom in online advertising." 
 

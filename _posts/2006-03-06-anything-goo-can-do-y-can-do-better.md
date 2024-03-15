@@ -4,7 +4,7 @@ title: Anything Goo Can Do Y! Can Do Better
 date: 2006-03-06 19:33
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://help.yahoo.com/help/us/ysearch/tips/index.html"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Search.Yahoo.Com</a> the default Y! page.  People prefer the simplicity of that landing page for search, with the option to add modules to suit their needs.  
 

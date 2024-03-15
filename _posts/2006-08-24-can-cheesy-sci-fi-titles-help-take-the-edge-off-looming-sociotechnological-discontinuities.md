@@ -4,7 +4,7 @@ title: Can Cheesy Sci-Fi Titles Help Take the Edge Off Looming Sociotechnologica
 date: 2006-08-24 14:17
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.forbes.com/2006/08/17/06egang_Robots_land.html"><img src="http://metavalent.info/images/forbes.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->Granted, this is from Forbes, so you have to look past the cheesy Saturday morning B-Sci-Fi title, <a href="http://www.forbes.com/2006/08/17/06egang_Robots_land.html?partner=globalnews_newsletter">The Robots Are Coming</a>.  Still, it's better than nothing in terms of getting investors to begin realizing that there is this emerging interdisciplinary mashup of scientific and technological capabilities that are on the verge of producing INTENTIONAL human-initiated and possibly human-directed evolutionary change.
 

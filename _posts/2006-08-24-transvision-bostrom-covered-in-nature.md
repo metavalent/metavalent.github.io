@@ -4,7 +4,7 @@ title: Transvision & Bostrom covered in Nature
 date: 2006-08-24 20:09
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://ieet.org/index.php/IEET/more/727/"><img src="http://metavalent.info/images/ieet.logo.jpg" align="left" border="0" alt="0" /></a><!-- Commentary -->Dr. Nick Bostrom: "I don’t think healthy people are going to be attracted by mechanical or electronic enhancements in the near future. You can get most or all of the same benefits from having the same device outside the body. If you want to access Google, you don’t have to have a fibre-optic cable wired into your visual cortex. You can just have a computer screen. That saves you a trip to the surgeon, and it’s easier to upgrade." 
 

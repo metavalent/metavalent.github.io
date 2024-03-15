@@ -4,7 +4,7 @@ title: The Silent Social Prejudices
 date: 2005-12-06 13:58
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Among the many seemingly acceptable social prejudices, looking down upon <a href="http://lifestyle.msn.com/FamilyandParenting/RaisingKids/Article.aspx?cp-documentid=133134&amp;GT1=7461">stay at home dads</a> is still prevalent. "Apparently there’s something about seeing a dad with his kids during the day, when other men are at the office or power-lunching with peers or co-workers," writes Kristopher Kaiyala, "Fresh out of the business world, enjoying but slightly wary of my new lifestyle, I just wasn’t prepared to deal with a culture that I was sure would look down on me for shopping for organic winter-squash baby food instead of attending an editorial meeting."
 

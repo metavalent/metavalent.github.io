@@ -4,7 +4,7 @@ title: The Future is Here - Welcome to the CARN-Age!
 date: 2006-08-28 16:13
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 C'mon and join the joyous jamboree! Now that Jebus has changed His mind -- for confirmation, just ask your local fundamentalist flip-flopper who THEN screamed "charge" and NOW cries "retreat" -- it is finally time for all good RepubliCARNs to take full ownership of their share of the CARN-Age.
 

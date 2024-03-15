@@ -4,7 +4,7 @@ title: CIA Factbook and clocke envy - An Easter Odyssey
 date: 2006-04-16 15:03
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 This Easter, the neurochemical network in my head that might pass in other brains for a "soul" is grotesquely contorted with envy for Rage Boy, Chris Locke, clocke.  It's the least I could do, considering the holiday and all.
 

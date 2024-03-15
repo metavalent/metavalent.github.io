@@ -4,7 +4,7 @@ title: An Illustrated Guide to IPsec
 date: 2006-06-06 13:17
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Alas, yeah, and behold ... for it was between and beyond the Ringing In and Wringing Out of the GW Bush Beast, that ENCRYPTION did protect the least of the Earth from the soul-devouring jaws of the tyrant.  With its <a href="http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster">flying spaghetti-inspired code</a> and <a href="http://www.unixwiz.net/techtips/iguide-ipsec.html">tangled, noodly implementation</a> did ENCRYPTION deliver them, through and beyond this Thousand Years of Darkness that is, was, and always will be, today.
 

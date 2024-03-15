@@ -4,7 +4,7 @@ title: Latest Blow to Privacy is Tremendous Boon for Spammers
 date: 2006-01-09 16:09
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.americansdeserveprivacy.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"s the email I received today, from a service that many people use in order to prevent SPAMMERS and other scumbags from harvesting our domain ownership information.  Once again, in the name of make-believe-security, internet privacy is taking a tremendous hit.  In actuality, all this will do is push domains away from .US and keep them in .com and other unregulated TLD space:
 

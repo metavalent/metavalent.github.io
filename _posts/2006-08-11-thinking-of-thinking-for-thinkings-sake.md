@@ -4,7 +4,7 @@ title: Thinking of Thinking for Thinking's Sake
 date: 2006-08-11 10:24
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://researchchannel.org/prog/displayevent.asp?rid=2358"><img src="http://metavalent.info/images/closer.to.truth.logo.jpg" align="left" border="0" alt="0" /></a><!-- Commentary -->For a "new millennium," the world is sure a bloody mess, these days, proving once again that newer is not always better.  Even really smart people get disappointed, aggravated, and yeah, even PISSED OFF at the rampant ignorance and stupidity.
 

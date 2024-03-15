@@ -4,6 +4,6 @@ title: Class Matters - Social Class in the United States of America - The New Yo
 date: 2005-05-21 22:50
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 The entire series, here: <a href="http://www.nytimes.com/pages/national/class/index.html">Class Matters - Social Class in the United States of America - The New York Times</a>

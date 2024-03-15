@@ -4,7 +4,7 @@ title: How Benevolent Are You?
 date: 2006-07-21 16:44
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 As Spidey taught us, "With great arrogance, comes great condescention."  Or maybe that's just the way I remember it.  Do you dare question MY powers of recollection!?
 

@@ -4,7 +4,7 @@ title: Longevity Answer Isn’t Just in Genes
 date: 2006-09-01 05:13
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.nytimes.com/2006/08/31/health/31age.html"><img src="http://metavalent.info/images/nyt.logo.153x23.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->Connecting with the lowest common denominator 12 year-old reading level demographic with a series on the new "age." I'm not criticizing, we DEFINITELY need 12 year olds on our side!
 <ul><li></li><a href="http://www.nytimes.com/2006/08/31/health/31age.html?ex=1314676800&amp;en=085f572cc0fe23aa&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">Live Long? Die Young? Answer Isn’t Just in Genes</a>

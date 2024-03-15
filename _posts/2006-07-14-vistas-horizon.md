@@ -4,7 +4,7 @@ title: Vista's Horizon
 date: 2006-07-14 12:52
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Intel Core 2 chips appear just in time for Vista.
 

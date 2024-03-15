@@ -4,7 +4,7 @@ title: Remote Control Androids
 date: 2006-07-21 11:16
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Snagged this one off the KurzweilAI feed, <a href="http://metavalent.info/#ai">below</a>.  If you haven't <a href="http://metavalent.info/#ai">scrolled down</a>, why not <a href="http://metavalent.info/#ai">give it a try</a>?
 

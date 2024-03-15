@@ -4,7 +4,7 @@ title: Outsourcing - Just Because You CAN, Doesn't Mean You Should
 date: 2006-06-10 12:51
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Once in awhile, a Slashdot echo is justified.  This is one of those whiles: <a href="http://it.slashdot.org/article.pl?sid=06/06/10/0828228">Techies Asked To Train Foreign Replacements</a>.  When will American Labor grow a spine again?  Risk severance pay?  WTF?  Below is a basic recipe for helping the bean counters better quantify and understand the costs of such bomabastic tactics.  Like any recipe, the cook must season to taste; omit or add ingredients as appropriate to the specific sitation.  The basics:
 

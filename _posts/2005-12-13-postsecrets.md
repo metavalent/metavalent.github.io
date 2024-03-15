@@ -4,7 +4,7 @@ title: PostSecrets
 date: 2005-12-13 14:35
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Time</a>
 

@@ -4,7 +4,7 @@ title: Murdoch all up in My Space's face
 date: 2005-10-11 02:17
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Rupert Murdoch, who recently spent £332.85m on the youth networking site MySpace.com, issued a "change or die" warning to an audience of US editors earlier this year. Admitting that the media industry had been "remarkably, unaccountably complacent", he described the shift in attitudes as "a revolution in the way young people are accessing news".
 

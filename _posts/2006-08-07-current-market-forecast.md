@@ -4,7 +4,7 @@ title: Current Market Forecast
 date: 2006-08-07 06:00
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Okay, I'm going to start tossing out my Market Forecasts every so randomly often and we'll see what kind of moronomaven I turn out to be.  As of today, August 7, 2006:
 

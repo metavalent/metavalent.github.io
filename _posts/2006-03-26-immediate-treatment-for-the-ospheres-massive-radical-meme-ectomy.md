@@ -4,7 +4,7 @@ title: Immediate Treatment for the O'Spheres - Massive Radical Meme-Ectomy
 date: 2006-03-26 12:41
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Who are these O'Spheres, anyway? Are they reincarnated Irish gangsters from Tammany Hall, now taking revenge on the web? Suddenly, everything became an O'Sphere ... blogosphere, biosphere, memeosphere, gayosphere, gameosphere, i'm-so-much-more-in-the-know-than-you-o-sphere.  
 

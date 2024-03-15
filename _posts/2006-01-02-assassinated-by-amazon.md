@@ -4,7 +4,7 @@ title: Assassinated by Amazon
 date: 2006-01-02 12:59
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Amazon has assassinated my account and still refuses to give me any reason.
 

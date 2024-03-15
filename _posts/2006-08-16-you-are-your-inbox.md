@@ -4,7 +4,7 @@ title: You ARE Your INBOX
 date: 2006-08-16 06:05
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://online.wsj.com/article/moving_on_zaslow.html?mod=djemtct"><img src="http://metavalent.info/images/wsj.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary --><a href="http://online.wsj.com/article/moving_on_zaslow.html?mod=djemtct">Hoarders vs. Deleters: How You Handle Your Email Inbox Says a Lot About You</a>.
 

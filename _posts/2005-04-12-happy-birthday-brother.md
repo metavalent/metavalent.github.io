@@ -4,7 +4,7 @@ title: Happy Birthday, Brother
 date: 2005-04-12 00:40
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 42. It's just like 12, 22, and 32, but with a 4.  Oh, and it just happens to be the <a href="http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything">Answer to Life, The Universe and Everything</a> which just happens to be <a href="http://www.imdb.com/title/tt0371724/">coming out in theaters</a> during the same month that you hit the mark.  Pure coincidence; I'm sure of it.
 

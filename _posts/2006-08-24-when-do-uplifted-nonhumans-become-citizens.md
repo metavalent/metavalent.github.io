@@ -4,7 +4,7 @@ title: When do uplifted nonhumans become citizens?
 date: 2006-08-24 19:59
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 In <a href="http://ieet.org/index.php/IEET/more/718/">When do uplifted nonhumans become citizens?</a> George Dvorsky explains that, "We don’t have tiers of citizenship in liberal democracies—to do so would be a form of apartheid. I think it would be an extremely bad idea to start “demoting” uplifted nonhumans or psychological delayed humans based on some personhood metric. It’s a binary concept - you’re either an equal citizen under the law or you’re not a citizen." 
 

@@ -4,7 +4,7 @@ title: Islamism, Totalitarians Play "Respect for Culture, Tradition" Card
 date: 2006-03-01 11:00
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://news.bbc.co.uk/2/hi/europe/4763520.stm"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/".
 

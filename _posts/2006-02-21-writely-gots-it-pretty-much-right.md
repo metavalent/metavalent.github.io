@@ -4,7 +4,7 @@ title: Writely gots it pretty much Right
 date: 2006-02-21 19:32
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.writely.com/"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">word processor</font> in a web browser.
  

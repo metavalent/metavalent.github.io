@@ -4,7 +4,7 @@ title: Killer Cartoons
 date: 2006-02-09 15:33
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.humaneventsonline.com/sarticle.php?id=12146"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">art-inspired global violence</a>.
 

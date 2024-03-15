@@ -4,7 +4,7 @@ title: We Now Return You To News That Matters
 date: 2006-07-19 07:01
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I would SO prefer to keep my attention on stuff like this.  The only reason this blog has been inundated by ranting about the War on Customer Service Terrorism is that the terrorists have been on the attack more than usual, of late.  It's MUCH more METAVALENT to dwell on Things That Matter, such as this, from ScienceDaily.com.
 

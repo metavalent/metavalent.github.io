@@ -4,7 +4,7 @@ title: Police State - Paranoia or Perspicacity?
 date: 2005-02-21 06:13
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 So this <a href="http://www.infowars.com/alexjones.html">Alex Jones</a> guy just keeps getting more and more traction.  You gotta' admit, he's definitely an entertaining guy.  But do his messages have even the slightest substance to them?
 

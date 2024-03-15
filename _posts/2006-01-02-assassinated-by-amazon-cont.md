@@ -4,7 +4,7 @@ title: Assassinated by Amazon, con't
 date: 2006-01-02 13:29
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Interesting correlation.  My Amazon account was assassinated just about a week after I installed a whole bunch of links to Amazon materials on several blogs and websites.  By assassinating my account, those links stay intact, driving traffic to Amazon, but Amazon will never have to track or PAY ME for those referrels.  Oh, and all this just happened to take place a week before Christmas, the busiest click-through time of the year.
 

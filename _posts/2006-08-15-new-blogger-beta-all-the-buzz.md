@@ -4,7 +4,7 @@ title: New Blogger Beta All The Buzz
 date: 2006-08-15 09:02
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://buzz.blogger.com/2006/08/blogger-in-beta.html"><img src="http://metavalent.info/images/blogger.beta.buzz.logo.jpg" align="left" border="0" alt="0" /></a><!-- Commentary -->A new <a href="http://buzz.blogger.com/2006/08/blogger-in-beta.html">Blogger Beta</a> is out.  At first glance, it looks like some great new improvements.  As quickly as I tend to critique the 3vi1 corporate GOOG beast; I still try to be as fair as my significant subjective biases allow.  
 

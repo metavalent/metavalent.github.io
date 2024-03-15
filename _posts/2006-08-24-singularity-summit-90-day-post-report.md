@@ -4,7 +4,7 @@ title: Singularity Summit, 90-Day Post Report
 date: 2006-08-24 18:10
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://sss.stanford.edu/coverage/powerpoints/"><img src="http://img147.imageshack.us/img147/5558/headersubpagevu7.gif" border="0" alt="0" align="left" /></a><!-- Commentary -->
 

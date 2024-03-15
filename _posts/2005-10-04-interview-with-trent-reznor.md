@@ -4,7 +4,7 @@ title: Interview with Trent Reznor
 date: 2005-10-04 16:46
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Could <a href="http://www.sltrib.com/portlet/article/html/fragments/print_article.jsp?article=3069586">Trent be growing up?</a>  Anathema!
 

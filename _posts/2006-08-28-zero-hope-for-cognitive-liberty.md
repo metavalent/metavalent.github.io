@@ -4,7 +4,7 @@ title: Zero Hope for Cognitive Liberty?
 date: 2006-08-28 10:35
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://metavalent.info/images/bonghits.4jesus.jpg"><img src="http://metavalent.info/images/bonghits.4jesus.jpg" align="left" border="0" alt="0" /></a><!-- Commentary -->In a society that is actually wasting tax dollars on <a href="http://blogs.wsj.com/washwire/2006/08/27/from-cigars-to-bongs/">this kind of foolishness</a>.  This is worse than pitiful.  I can't even think of a word or phrase that is sufficiently embarrassed and repulsed at the same time.  What a waste.
 

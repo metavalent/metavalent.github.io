@@ -4,7 +4,7 @@ title: That's Comcastic!
 date: 2005-11-17 16:06
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Wow.  I have to say that Comcast is really smoking the competition here in Palo Alto.  If you're fortunate enough to live close to a CO and pay twice as much, you can get similar speeds out of DSL, but for the short term, nothing even comes close to cable for residential broadband in the South Peninsula of Silicon Valley.
 

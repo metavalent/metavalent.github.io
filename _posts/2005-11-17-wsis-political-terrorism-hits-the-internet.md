@@ -4,7 +4,7 @@ title: WSIS - Political Terrorism Hits The Internet
 date: 2005-11-17 07:34
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Earlier, I posted on <a href="http://metavalent.stumbleupon.com/">SU</a> a comment that this <a href="http://itu.org/wsis/">WSIS noise</a> is flat out dangerous. There is no reason on earth to fragment core Internet functions or for the U.S. to offshore any root operations. This is nothing more than an obsolete organization (ITU) trying to avoid certain death as the old telco model becomes increasingly obsolete. There is nothing "unfair" about the way the U.S. blessed the entire planet with the Internet and the internationalist wannabes are a danger to the continuity of the Internet. I'm a fairly strong blue-state democrat-leaning type, in general, but this kind of stupidity makes me wax absolutely republicanesque! Anathema!
 

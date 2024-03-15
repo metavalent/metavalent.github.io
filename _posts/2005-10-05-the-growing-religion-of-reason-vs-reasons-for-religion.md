@@ -4,7 +4,7 @@ title: The Growing Religion of Reason vs. Reasons for Religion
 date: 2005-10-05 14:04
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I wonder how many people have read BOTH of these books? Regardless of on which side you find yourself, isn't it interesting that sites like Amazon encourage us to continue basking in our own side of the debate instead of suggesting books that might widen our world view?
 

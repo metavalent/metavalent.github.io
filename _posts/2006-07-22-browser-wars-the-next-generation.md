@@ -4,7 +4,7 @@ title: Browser Wars, the Next Generation
 date: 2006-07-22 12:23
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Cut to the chase: The <a href="http://www.extremetech.com/article2/0,1697,1990855,00.asp#acid2">Acid Test</a> results for new browsers.
 

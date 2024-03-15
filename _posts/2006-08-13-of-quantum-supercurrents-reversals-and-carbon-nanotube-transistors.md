@@ -4,7 +4,7 @@ title: Of Quantum Supercurrents, Reversals, and Carbon Nanotube Transistors
 date: 2006-08-13 14:11
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Another ResearchChannel pointer. We start with: <a href="http://researchchannel.org/prog/displayevent.asp?rid=3595">Will Computers Take a Quantum Leap?</a>
 

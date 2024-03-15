@@ -4,7 +4,7 @@ title: The Growing Inequality in America
 date: 2006-06-15 13:29
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Nothing is as simple as it seems.  Perhaps the most valuable part of this Economist special report is the great bibliography with direct links to PDF source documents.
 

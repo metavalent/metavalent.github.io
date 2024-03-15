@@ -4,7 +4,7 @@ title: Correction - AOL *can* give it away ...
 date: 2006-08-02 05:25
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://online.wsj.com/article/SB115412097857520761.html"><img src="http://metavalent.info/images/wsj.logo.gif" border="0" alt="0" align="left" /></a><!-- Commentary -->Looks like <a href="http://metavalent.info/2006/07/aol-cant-even-give-it-away.html">I was wrong again</a>.  Mea culpa.
 

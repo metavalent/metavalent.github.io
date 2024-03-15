@@ -4,7 +4,7 @@ title: PETA Rescue Mission for Vonage The Dog
 date: 2006-07-03 14:51
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 From a Motley Foolish piece entitled, <a href="http://news.yahoo.com/s/fool/20060703/bs_fool_fool/115194055606">Vonage On Hold</a>: "for every satisfied Samuel Adams sipper you have the Garden Botanika shopper and Vonage subscriber that gets burned.  That's a sticky situation because now you have upset your shareholders as well as your most faithful customers that believed in the cause enough to buy into the offering."  
 

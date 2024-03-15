@@ -4,7 +4,7 @@ title: Book - Devil's Game
 date: 2006-07-29 09:45
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a HREF="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=41606204&amp;bfpid=0805076522&amp;bfmtype=book"><img SRC="http://images.barnesandnoble.com/images/10260000/10267336.gif" BORDER="0" ALT="Devil's Game: How the United States Helped Unleash Fundamentalist Islam"/>Devil's Game: How the United States Helped Unleash Fundamentalist Islam.</a>
 

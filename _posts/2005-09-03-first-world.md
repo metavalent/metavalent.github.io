@@ -4,7 +4,7 @@ title: First World?
 date: 2005-09-03 16:03
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "I am absolutely disgusted. After the tsunami our people, even the ones who lost everything, wanted to help the others who were suffering," said Sajeewa Chinthaka, 36, as he watched a cricket match in Colombo, Sri Lanka.
 

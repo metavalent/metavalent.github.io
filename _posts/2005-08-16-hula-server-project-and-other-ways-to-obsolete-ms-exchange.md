@@ -4,7 +4,7 @@ title: Hula Server Project and other ways to Obsolete MS Exchange
 date: 2005-08-16 20:46
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://hula-project.org/Hula_Server">Hula Project - Hula</a>
 

@@ -4,7 +4,7 @@ title: An Infinite Number of Yahoos at an Infinite Number of Keyboards
 date: 2006-07-18 18:00
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Please click on any of the screen shots below to get full res image.  Here's how it works:
 

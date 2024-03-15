@@ -4,7 +4,7 @@ title: Innovators Unite! Starve Out the Vulture Capitalists
 date: 2006-03-26 13:26
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Finally, we may have them right where we want them. Just keep doing what you're doing, changing the world, and if at all possible do not take any VC money and certainly do not take it on their terms. At the very least, MAKE THEM SWEAT.  Remember, they need you much more than you need them.  You are the Innovators, you can always create the next new thing.  They only have money, which is nothing without an engine of innovation to keep it growing.
 

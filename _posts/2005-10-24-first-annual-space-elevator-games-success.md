@@ -4,7 +4,7 @@ title: First Annual Space Elevator Games - SUCCESS!
 date: 2005-10-24 10:22
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I was privileged this weekend to put in three 14 hour days volunteering with the <a href="http://www.spaceward.org"> Spaceward Foundation</a>'s inaugural Space Elevator Games 2005.  This event was the Kitty Hawk for the coming era of safe, reliable, lowcost, quotidian access to space.  By augmenting traditional rocket-based lift systems with the <a href="http://www.spectrum.ieee.org/aug05/1690">space elevator</a>, or "train to space" as the Russians envisioned in the 1940's, the pace of space development will increase rapidly as cost-per-pound of payload drops by a factor of 100 or more.  Here are a few of the post-games write-ups:
 <ul><li></li><a href="http://www.mercurynews.com/mld/mercurynews/living/health/12982700.htm?source=rss&amp;channel=mercurynews_local">San Jose Mercury News</a>

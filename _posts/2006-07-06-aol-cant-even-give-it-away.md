@@ -4,7 +4,7 @@ title: AOL Can't Even Give It Away
 date: 2006-07-06 07:14
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Herb Greenberg might be too modest to yelp I TOLD YOU SO, but I'm not.
 

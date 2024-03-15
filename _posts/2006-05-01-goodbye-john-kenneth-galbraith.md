@@ -4,7 +4,7 @@ title: Goodbye, John Kenneth Galbraith
 date: 2006-05-01 05:26
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I've been too busy to keep up with the blog over recent weeks, but this item certainly deserves special mention.  In terms of socioeconopolitical significance, the April 29, 2006 loss of <a href="http://en.wikipedia.org/wiki/John_Kenneth_Galbraith">John Kenneth Galbraith</a> is on par with the loss of <a href="http://en.wikipedia.org/wiki/Daniel_Patrick_Moynihan">Daniel Patrick Moynihan</a>, in 2003.  These two men were champions the Authentic American Ideal and both deserve at least a few minutes of your research attention, today.  
 

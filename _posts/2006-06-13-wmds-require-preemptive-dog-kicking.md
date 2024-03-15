@@ -4,7 +4,7 @@ title: WMD's Require Preemptive Dog Kicking
 date: 2006-06-13 11:43
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 If I read the comments correctly -- well, maybe not correctly but at least politely antagonistically, as is many a successful blogger's way to fixate more eyeballs -- the Preemptive Dog Kicking of VG was necessary in order to smoke out industry terrorists who could, at any moment, launch cable industry WMD's in the form of a VOIP price war, thereby initiating and accelearting an inevitable race to the bottom of Lake Wobegin (the evil anti-lake of Wobegon, of course).
 

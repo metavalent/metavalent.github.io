@@ -4,7 +4,7 @@ title: Akbar Ahmed on Q & A - C-SPAN's New Interview Series
 date: 2006-08-14 08:06
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://qanda.org/Program/?ProgramID=1090"><img src="http://metavalent.info/images/qanda.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->PROGRAM NOTE: "Akbar Ahmed discusses Islamic fundamentalism, why he believes some terrorists act in the name of Islam and his goal to spread the peaceful teachings of Islam to younger generations."
 

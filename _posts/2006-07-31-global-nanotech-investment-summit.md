@@ -4,7 +4,7 @@ title: Global Nanotech Investment Summit
 date: 2006-07-31 13:03
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://www.nsti.org/NanoInvestor2006/"><img src="http://img515.imageshack.us/img515/8571/logonanotechforinvestors2006ce5.gif"/></a>Not that it's nearly as monumental as the Monday Night Football channel change, but for what it's worth.
 

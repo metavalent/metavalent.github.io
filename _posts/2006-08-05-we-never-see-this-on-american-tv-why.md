@@ -4,7 +4,7 @@ title: We NEVER see this on American TV. Why?
 date: 2006-08-05 15:05
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Journalists who <a href="http://brasscheck.com/videos/middleeast/me5.html">ask questions</a>. Is that too much to ask for?  Wow.  Just wow.  Please watch the videos on this pages.  These are not wild-eyed lunatic anti-semites, these are current and former U.S. Government Officials asking Israeli Officials how it is that they can justify doing to the Palestinians what was done to them by Nazis.  
 

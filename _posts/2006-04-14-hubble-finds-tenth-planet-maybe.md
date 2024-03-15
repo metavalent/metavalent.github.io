@@ -4,7 +4,7 @@ title: Hubble Finds 'Tenth Planet' -- Maybe
 date: 2006-04-14 16:38
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 The question is, do astronomers add Xena as a tenth planet, or DROP PLUTO as a planet because it's part of the Kuiper Belt?  Personally, if the Kuiper Belt is orbiting Neptune, that strikes me as more reasonably considered a very complex kind of moon system; but then, that's probably why nobody is asking me how to handle this one. :)
 

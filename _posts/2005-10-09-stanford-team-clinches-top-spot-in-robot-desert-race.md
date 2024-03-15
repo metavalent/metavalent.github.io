@@ -4,7 +4,7 @@ title: Stanford team clinches top spot in robot desert race
 date: 2005-10-09 18:37
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Sebastian Thrun, leader of the Stanford team, said the victory was a win for the automobile's future, predicting that all cars would one day be able to drive themselves. "These vehicles just haven't achieved world records, they've made history," said DARPA director Tony Tether.
 <a href="http://today.reuters.com/news/newsarticle.aspx?type=technologyNews&amp;storyid=2005-10-09T224716Z_01_YUE854701_RTRUKOC_0_US-ROBOT-RACE.xml">Stanford team clinches top spot in robot desert race</a>

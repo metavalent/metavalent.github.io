@@ -4,7 +4,7 @@ title: Beyond When Pigs Fly
 date: 2006-07-15 14:11
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://www.wired.com/wired/archive/14.07/posts.html?pg=4">[Experimental pig number] 78-6 is, in fact, only mostly dead</a> – the common term for her state is, believe it or not, suspended animation. Long the domain of <a href="http://www.wired.com/wired/archive/14.07/posts.html?pg=4">transhumanist nut-jobs</a> [like metavalent], cryogenic suspension may be just two years away from clinical trials on humans (presuming someone can solve the sticky ethical problems). Trauma surgeons can’t wait – saving people with serious wounds, like gunshots, is always a race against the effects of blood loss. When blood flow drops, toxins accumulate; just five minutes of low oxygen levels causes brain death.
 

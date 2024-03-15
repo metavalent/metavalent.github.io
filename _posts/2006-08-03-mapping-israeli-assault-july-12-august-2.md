@@ -4,7 +4,7 @@ title: Mapping Israeli Assault - July 12-August 2
 date: 2006-08-03 12:54
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I don't know if the idea of "proportionate response" really helps the debate when one is seeking to annhilate another -- for whatever reason -- but if nothing else, the maps here help to provide a better context for what is happening.
 

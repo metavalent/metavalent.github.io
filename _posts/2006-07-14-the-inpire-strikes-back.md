@@ -4,7 +4,7 @@ title: The INpire Strikes Back?
 date: 2006-07-14 11:59
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "The Quake 4 graph needs to be taken into consideration when looking at the DivX results and vice-versa. Core 2 Extreme not only produces the fastest DivX time but also churns out a decent Quake 4 framerate <em>at the same time</em>. "
 

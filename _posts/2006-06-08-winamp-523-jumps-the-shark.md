@@ -4,7 +4,7 @@ title: Winamp 5.23 Jumps The Shark
 date: 2006-06-08 06:34
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 I guess it was only a matter of time before AOL ruined Winamp; still, it's a disappointment to see this fine, nostalgic player finally <a href="http://en.wikipedia.org/wiki/Jump_the_shark">jump the shark</a>.  I can't even bear to link to the site, it's so bad.  While Winamp has gradually become more and more bloated over time, it was forced to keep pace with other players and in doing so did a reasonable job of not exceeding the competitor's Feature-To-Crap Ratio.  
 

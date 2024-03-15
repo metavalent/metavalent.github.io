@@ -4,7 +4,7 @@ title: Splitting the Root - It's Too Late
 date: 2005-12-02 18:02
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://www.circleid.com/posts/splitting_the_root_its_too_late/"><img src="http://www.circleid.com/images/logo.gif" border="0" /></a>Wow, John Levine has it right on when he says, "Now that the split root genie is out of the bottle, is there any way to get it back in? Not that I can see. Let's hope that users in China and other countries with their own private roots figure out that there's more to the net than their DNS shows them."
 

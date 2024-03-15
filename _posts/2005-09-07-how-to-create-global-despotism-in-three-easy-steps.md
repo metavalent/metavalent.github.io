@@ -4,7 +4,7 @@ title: How to Create Global Despotism in Three Easy Steps
 date: 2005-09-07 19:53
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Step One:  Cave in to communist regime in the name of winning business.
 Step Two:  Communist regime gains global market dominance.

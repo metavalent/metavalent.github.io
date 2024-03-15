@@ -4,7 +4,7 @@ title: Humanitarian Relief for the Victors?
 date: 2006-08-16 07:12
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://c-span.org/watch/"><img src="http://metavalent.info/images/humanitarian.bombings.jpg" border="0" alt="alms for the rich" /></a><!-- Commentary -->
 Alms for the poor victors!  Alms for the poor victors!  This is precisely the kind of arrogant hypocrisy that Israel's opponents find revolting.  Frankly, over the past several years I increasingly identify with anti-Israeli sentiment.  The more that I question what I was taught as a child in Sunday school, read the history, and simply OBSERVE Israel's behavior, the more I oppose both it's objectives and it's means.  

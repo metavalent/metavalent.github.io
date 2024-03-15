@@ -4,7 +4,7 @@ title: Abundant Adsenselessness
 date: 2005-10-29 23:22
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 And for another anecdotal adsenselessness example, see this very blog.  After <a href="https://web.archive.org/web/*/http://awebcamdarkly.com/">the entry from Joel on Software</a>, I became curious about adsense and went and signed up, put the code on this page, and what kind of ads do we see?  Shit.  Literally.  
 

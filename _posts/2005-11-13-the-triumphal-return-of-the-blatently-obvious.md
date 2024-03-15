@@ -4,7 +4,7 @@ title: The Triumphal Return of the Blatently Obvious
 date: 2005-11-13 19:55
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 In <a href="http://www.computerworld.com/blogs/node/1299">The consumerization of IT</a>, the geniuses at Gartner now proclaim, "Consumer IT will affect every enterprise" said David Mitchell Smith, vice president and Gartner Fellow. "Attempts by enterprises to deny this are doomed to failure, just as previous attempts to deny Wi-Fi, 'smart' mobile phones, the Internet and even the PC itself failed." 
 

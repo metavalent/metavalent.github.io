@@ -4,7 +4,7 @@ title: Sending E-Mail from Your PHP Applications
 date: 2005-02-16 10:51
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 The mail() Function
 

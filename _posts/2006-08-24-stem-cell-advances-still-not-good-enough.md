@@ -4,7 +4,7 @@ title: Stem Cell Advances *Still* Not Good Enough?
 date: 2006-08-24 06:26
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.mercurynews.com/mld/mercurynews/news/15348684.htm"><img src="http://metavalent.info/images/sanjose.merc.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->"Advanced Cell Technology, an Alameda biotech company, disclosed Wednesday in the journal Nature that it has developed <a href="http://www.mercurynews.com/mld/mercurynews/news/15348684.htm">a way to grow stem-cell lines from a single cell extracted from a human embryo</a>."
 

@@ -4,7 +4,7 @@ title: Dvorak at PC Magazine - Xbox 360 to the Rescue
 date: 2005-11-16 12:51
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "This is genius, and the best example of integration I have seen. Note that this came from game designers and not from business software developers. <a href="http://www.pcmag.com/article2/0,1895,1885621,00.asp">The sooner we realize that creativity is centered in the game business, the better off the entire industry will be</a>."
 

@@ -4,7 +4,7 @@ title: Running out of Young Guns?  No problem, Send Retirees.
 date: 2006-08-23 09:52
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.boston.com/news/world/middleeast/articles/2006/08/23/up_to_2500_discharged_marines_face_recall_to_duty/"><img src="http://metavalent.info/images/boston.com.logo.gif" align="left" border="0" alt="0" /></a><!-- Commentary -->You thought you'd paid your dues.  You thought you had earned the right to a civilian life.  In the words of an old commercial, "not exactly."
 

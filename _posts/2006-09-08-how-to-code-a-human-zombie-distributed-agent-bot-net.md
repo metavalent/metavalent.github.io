@@ -4,7 +4,7 @@ title: How to Code a Human Zombie (Distributed Agent) Bot Net
 date: 2006-09-08 22:16
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://blog.dreamhost.com/"></a>"Sometimes, the wisdom of crowds doesn’t work. Sometimes, the crowd is gaming you. It’s the tyranny of the well-organized minority."
 

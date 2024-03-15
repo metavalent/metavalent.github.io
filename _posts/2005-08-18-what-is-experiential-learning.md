@@ -4,7 +4,7 @@ title: what is experiential learning?
 date: 2005-08-18 07:12
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <a href="http://www.infed.org/biblio/b-explrn.htm">david a. kolb on experiential learning</a>
 

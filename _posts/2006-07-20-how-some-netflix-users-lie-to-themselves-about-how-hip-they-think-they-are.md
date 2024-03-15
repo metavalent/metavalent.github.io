@@ -4,7 +4,7 @@ title: How Some Netflix Users Lie To Themselves About How Hip They Think They Ar
 date: 2006-07-20 15:29
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 You just can't feign vibrant eclectic taste, man.  You either have it, or you don't.  
 

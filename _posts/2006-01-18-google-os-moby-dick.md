@@ -4,7 +4,7 @@ title: Google OS = Moby Dick
 date: 2006-01-18 11:47
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Richard MacManus adds a voice of reason to the google mania. The higher the climb, the further the fall, and when the growing prevalence of massive click fraud in the AdSense program goes mainstream, there will be half as many millionaires at Crayola-themed Logo headquarters.  But don't worry, the billionaires are all safe.
 

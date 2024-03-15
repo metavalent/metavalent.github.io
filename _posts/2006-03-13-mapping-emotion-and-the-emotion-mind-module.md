@@ -4,7 +4,7 @@ title: Mapping Emotion and the Emotion Mind-Module
 date: 2006-03-13 16:54
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.gresham.ac.uk/event.asp?PageId=45&amp;EventId=457"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"re not talking about subjective experience and engineering conciousness here -- that will come later.
 

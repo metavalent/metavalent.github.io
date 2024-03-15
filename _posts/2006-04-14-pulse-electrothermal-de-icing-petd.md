@@ -4,7 +4,7 @@ title: Pulse Electrothermal De-icing (PETD)
 date: 2006-04-14 13:03
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 CNET News.com reporting <a href="http://news.com.com/A%20high-tech%20way%20to%20defrost/2100-11395_3-6061333.html">A high-tech way to defrost</a>, I'm surprised the article doesn't mention the potential for the leading edge of airplane wings, particularly in smaller aircraft, even though <a href="http://news.com.com/1606-2_3-6061327.html?tag=ne.vid">the very first thing the video shows</a> is the leading edge of a wing.
 

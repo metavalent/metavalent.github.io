@@ -4,7 +4,7 @@ title: Thru a Synchrotron Brightly
 date: 2006-03-02 05:45
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.eurekalert.org/pub_releases/2006-03/lti-msp030106.php"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"  
 

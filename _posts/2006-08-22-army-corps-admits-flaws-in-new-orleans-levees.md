@@ -4,7 +4,7 @@ title: Army Corps Admits Flaws in New Orleans Levees
 date: 2006-08-22 06:00
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 It's hurricanes Katrina and Rita week.  In the New York Times, <a href="http://levees.org/facts/sources/nytimes1.htm">Army Corps Admits Flaws in New Orleans Levees</a>: "Call it a mea culpa, or call it a dry recognition, or admission, or whatever — but we're not ducking our accountability and responsibility in this.'" The chief engineer of the Army Corps, Lt. Gen. Carl A. Strock, said the report showed that "we missed something in the design," particularly in the construction of the drainage canal floodwalls that caused <a href="http://levees.org/">so much of the flooding</a>.
 

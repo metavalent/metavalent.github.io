@@ -4,7 +4,7 @@ title: Ten tech-related YouTube clips you shouldn't miss
 date: 2006-07-22 14:43
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 This entire <a href="http://news.com.com/2300-1026_3-6095928.html">CNET feature</a> is more than worthy of exploration, but you just CAN'T MISS what I hereby dub a <a href="http://youtube.com/watch?v=SIn_J_jxf-o&amp;search=net%20neutrality">YouTube Investigative Series</a> on Net Neutrality. Obviously, to use Senator Stevens tech jargon, the U-Tube is one of the more popular of the various interwebnet Tubes that make up the large interTube net.
 

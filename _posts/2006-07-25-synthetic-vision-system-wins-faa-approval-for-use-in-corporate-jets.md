@@ -4,7 +4,7 @@ title: Synthetic Vision System Wins FAA Approval for use in Corporate Jets
 date: 2006-07-25 07:27
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "[T]his week, <a href="http://www.technologyreview.com/read_article.aspx?id=17196">Gulfstream became the first executive plane maker to offer the [synthetic vision] system</a>, which displays a computer-generated view of the terrain ahead -- even in heavy fog or cloud, when the ground can be invisible to the most advanced infra-red sensors.  [The] SVS will result in more accurate tactical flight decisions by pilots and ultimately increased safety."
 

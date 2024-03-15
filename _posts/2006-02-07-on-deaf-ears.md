@@ -4,7 +4,7 @@ title: On Deaf Ears
 date: 2006-02-07 21:12
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 LA Times reporting <a href="http://www.latimes.com/news/nationworld/nation/la-na-coretta8feb08,0,7796896.story?coll=la-home-headlines">Bush Gets an Earful at Coretta King's Funeral</a>, but if the words fall on deaf ears, they'll be of no effect.  Nevertheless, I was fortunate to catch the moment on C-SPAN and it was truly one of the great political moments I've ever seen on television.  I could barely believe I was seeing and hearing it as the courageous Joseph Lowery took the podium:<blockquote>The most overtly partisan remarks came from the Rev. Joseph Lowery, a King protege and longtime Bush critic, who noted Coretta King's opposition to the war in Iraq and criticized Bush's commitment to boosting the poor.
 

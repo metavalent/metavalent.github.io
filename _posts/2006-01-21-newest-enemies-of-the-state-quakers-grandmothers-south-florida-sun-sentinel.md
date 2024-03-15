@@ -4,7 +4,7 @@ title: Newest Enemies of the State - Quakers, grandmothers
 date: 2006-01-21 11:04
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Last month, South Florida jouralist Howard Goodman wrote, "We fought the big "isms" of the 20th Century -- Communism, Nazism -- because, high among the things we hated about them, was that they spied on ordinary citizens, squelched dissent and made everyone paranoid of outside enemies and unconventional neighbors."
 

@@ -4,7 +4,7 @@ title: AAAS warns Pat Robertson
 date: 2005-12-03 08:27
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 In response to the latest <a href="http://www.cnn.com/2005/US/11/10/religion.robertson.reut/">Robertson Retardation</a>.
 

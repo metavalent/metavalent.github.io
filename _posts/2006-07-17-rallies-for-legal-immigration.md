@@ -4,7 +4,7 @@ title: Rallies For LEGAL Immigration
 date: 2006-07-17 05:38
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.peopleoftheusa.com/"><img src="http://img89.imageshack.us/img89/8186/header02hf0.jpg" border="0" alt="0" /></a><!-- Commentary -->ORMOND BEACH, Fla., July 17 /PRNewswire/ -- A group of concerned citizens known as People of the USA (<a href="http://www.peopleoftheusa.com/">http://www.peopleoftheusa.com/</a>) have joined together to battle against illegal immigration. Larry Zdun, the group founder, said, "PeopleoftheUSA.com was formed to promote the deportation of illegal immigrants and terrorists from the United States. That is our purpose. We are here to stay and we won't stop fighting for the American citizens."
 

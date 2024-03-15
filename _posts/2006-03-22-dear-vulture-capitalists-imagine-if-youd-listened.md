@@ -4,7 +4,7 @@ title: Dear Vulture Capitalists - Imagine If You'd Listened
 date: 2006-03-22 09:11
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href=""><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/"t it?
 

@@ -4,7 +4,7 @@ title: Treatments for Future Shock, Salves for The Singularity, Opiates of the E
 date: 2005-10-20 11:50
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <ul><li></li><a href="http://www.accelerating.org/">Acceleration Studies Foundation (ASF)</a>
 <li></li><a href="http://www.futuresalon.org/">Future Salon</a>

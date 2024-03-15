@@ -4,7 +4,7 @@ title: Stress and Ulcers
 date: 2005-10-04 14:22
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 EVERYONE knows that stress causes ulcers, right?
 

@@ -4,7 +4,7 @@ title: The Iran Plans
 date: 2006-04-09 16:55
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <!--Lead Photo --><a href="http://www.newyorker.com/printables/fact/060417fa_fact"><img src="https://web.archive.org/web/*/http://awebcamdarkly.com/">Would President Bush go to war to stop Tehran from getting the bomb?</a> by SEYMOUR M. HERSH
 

@@ -4,7 +4,7 @@ title: Who Is Really To Blame?
 date: 2006-07-16 00:20
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 <div align="center"><a href="http://en.wikipedia.org/wiki/British_Mandate_of_Palestine"><img src="http://img154.imageshack.us/img154/2927/300pxpalestinemandateensign19271948svglv1.png" /></a>
 

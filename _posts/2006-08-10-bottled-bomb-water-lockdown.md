@@ -4,7 +4,7 @@ title: Bottled Bomb Water Lockdown
 date: 2006-08-10 06:19
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 It's in the water.  And the ketchup packets that go with your McDonald's fries that you JUST GOT, RIGHT THERE IN THE AIRPORT.  And the Starbucks cup that you are DRINKING FROM ... yeah, *that* might be a bomb, too.
 

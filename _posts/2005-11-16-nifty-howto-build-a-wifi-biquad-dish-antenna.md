@@ -4,7 +4,7 @@ title: Nifty HowTo - Build a WiFi biquad dish antenna
 date: 2005-11-16 13:37
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 From Engadget, "Biquad antennas can be built from common materials, which is nice because you don't have to scrounge around for the perfectly-sized soup can."
 

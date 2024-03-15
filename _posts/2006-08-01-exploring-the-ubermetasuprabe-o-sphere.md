@@ -4,7 +4,7 @@ title: Exploring the UberMetaSupraBe-O-Sphere
 date: 2006-08-01 17:55
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 Humanity's expanding contextual awareness is definitely reaching either an asymptote, an inflection point, a quantum jump, or similar discontinuity.  The buzzword of the day is <a href="http://mindstalk.net/vinge/vinge-sing.html">singularity</a>, though <a href="http://yudkowsky.net/">Eliezer Yudkowsky</a>'s intelligence explosion is probably a more accurate term.  Yet, the expansion of contexual awareness is more than that, as well.
 

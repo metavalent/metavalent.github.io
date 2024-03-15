@@ -4,7 +4,7 @@ title: Koo-Koo-Ka-Koobox
 date: 2006-07-04 14:58
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 A Groovy Declaration of Independence from The Windows Empire
 

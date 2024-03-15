@@ -4,7 +4,7 @@ title: Psst! Hey you ... give ya' $5,000 for your 'spare' kidney
 date: 2005-12-05 11:05
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 As some dystopian authors predicted, poor people are being targeted with campaigns for them to sell their own body parts.   The fact that these public forums are happening IN PUBLIC is a likely indicator that the problem must be way out of hand, already.
 

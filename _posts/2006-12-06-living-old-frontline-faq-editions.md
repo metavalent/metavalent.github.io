@@ -4,7 +4,7 @@ title: Living Old - Frontline & FAQ Editions
 date: 2006-12-06 20:16
 author: metavalent
 comments: true
-categories: [Uncategorized]
+categories: wp-import
 ---
 "Even though I'm 94, I still have ambitions," Estelle Strongin, a 94-year old financial advisor still works every day.
 
