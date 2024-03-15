@@ -25,7 +25,7 @@ Watch [Video_Title](https://youtu.be/MmHqthzJER4) if the embed below does not be
 <!-- HTML5 Embed - GitHub LFS storage: append ?raw=true  
 <video controls preload="none" width="560" height="320" controls>
   <source src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="video/mp4">
-  <source src=src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="video/webm">
+  <source src="https://youtu.be/MmHqthzJER4) if the embed below does no" type="video/webm">
 Your browser does not support the video tag.
 </video>
 -->
