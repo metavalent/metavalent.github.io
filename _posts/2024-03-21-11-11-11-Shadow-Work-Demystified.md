@@ -21,6 +21,10 @@ Welcome to the club.
 
 Watch [The Manipulation Expert: You're Being Manipulated! Use Jealousy To Manipulate People! Robert Greene](https://youtu.be/yrwSOMFZvHY) if the embed does not behave nicely.
 
+> The moment you open your mouth to speak, you are essentially [not telling the truth](https://youtu.be/yrwSOMFZvHY). &mdash; Robert Greene
+
+That's right. Because by definition, the deepest truth is both verbally inexpressible and existentially inescapable. Hence, until we can face this simple, tautological, galling inevitable verity, there is zero hope for living a life even approximating a sense of genuine integrity. It is what it is, and what it is is *way* beyond petty games of winning and losing. Resistance is never futile; however, it can be eternally self-defeating and self-destructive when that which is opposed is eternal.
+
 <!-- YouTube Player -->
 <iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/iBBqjGd3fHQ" frameborder="0"></iframe>
 
