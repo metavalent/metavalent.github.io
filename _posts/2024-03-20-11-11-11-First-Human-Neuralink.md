@@ -6,8 +6,8 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-03-21T11:11:11-07:00
-modified: 2024-03-21T11:11:11-07:00
+created: 2024-03-20T11:11:11-07:00
+modified: 2024-03-20T11:11:11-07:00
 ---
 
 ### Serendipity, coincidence, providence, or all of the above?
