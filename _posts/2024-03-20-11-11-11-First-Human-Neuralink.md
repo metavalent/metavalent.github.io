@@ -14,7 +14,7 @@ modified: 2024-03-20T11:11:11-07:00
 
 Free-will or not, TFW your first-cousin's son &ndash; whom you've never met or spoken to yet &ndash; posts this on the same day you finish your own lifetime-in-the-making book project describing the *reality* of the [Post-Automation Era](https://postautomationera.com/) that your own Default Consensus Culture mocked you about with "that'll never happen," for decades is ... wait for it ... literally inexpressible Bliss.
 
-Can't wait till he's walking again ... On Earth as it is in Heaven. Godspeed, blissful first cousin once removed (one generation newer edition)!
+Can't wait till he's walking again ... On Earth as it is in Heaven. Godspeed, blissful first cousin once removed (one generation newer, improved edition)!
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/OMIeGGjYtG">https://t.co/OMIeGGjYtG</a></p>&mdash; Neuralink (@neuralink) <a href="https://twitter.com/neuralink/status/1770563939413496146?ref_src=twsrc%5Etfw">March 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
