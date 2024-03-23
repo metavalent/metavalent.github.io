@@ -33,3 +33,42 @@ var sectionHeight = function() {
   
     $('img').on('load', sectionHeight);
   });
+
+// Implement infinite scroll on default.html liquid {{content}}
+const container = document.getElementById('infinite-scroll-container');
+const observer = new IntersectionObserver(handleIntersection, { threshold: 0.8 });
+
+function handleIntersection(entries) {
+  const [entry] = entries;
+  if (entry.isIntersecting) {
+    loadMoreContent();
+  }
+}
+
+observer.observe(container.lastElementChild); // Observe the last child element initially
+
+let isLoading = false; // Flag to avoid multiple requests
+
+async function loadMoreContent() {
+  if (isLoading) return; // Exit if already loading
+
+  isLoading = true;
+
+  // Simulate fetching data from an API (replace with your actual logic)
+  const newData = await fetch('your-api-endpoint')
+    .then(response => response.json())
+    .then(data => data.items); // Replace with your data structure
+
+  // Process and append the new data to the container
+  const newContent = newData.map(item => `<div class="item">${item.content}</div>`);
+  container.innerHTML += newContent.join('');
+
+  isLoading = false;
+
+  // Optionally, observe the newly added element for further loading
+  observer.observe(container.lastElementChild);
+}
+
+// Call loadMoreContent initially to populate the page
+loadMoreContent();
+
