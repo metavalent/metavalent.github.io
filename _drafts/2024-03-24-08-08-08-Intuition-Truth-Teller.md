@@ -16,7 +16,7 @@ modified: 2024-03-24T08:08:08-07:00
 
 Link to ["We have intuition for a reason. I stopped listening to mine."](https://www.linkedin.com/posts/richroll_we-have-intuition-for-a-reason-i-stopped-activity-7176602429256343554-Bodn) if the embed does not behave nicely.
 
-\#MeToo with the deepest possible respect, regard, and reverence. It's taking a long time to return and retune, and that's okay. Even if it takes the rest of our lives, that's okay. The shiniest prizes can be the most tarnished and the fanciest looking neighborhoods can be the most grotesque places of all.
+\#MeToo with the deepest possible respect, regard, and reverence. It's taking a long time to return and retune with the truth of intuition after decades of gaslighting allowed by self-inflicted naïveté that I alone must own, and that's okay. Even if it takes the rest of our lives, that's okay. The shiniest prizes can be the most tarnished and the fanciest looking neighborhoods can be the most grotesque places of all.
 
 There seems a bright intuitive irony illuminating the eminently vindictive passive-aggressive aspects of "[polite society](https://www.youtu.be/3U0P1t3QRKQ)" in the so-called natural world expressed in the fact that the very quotation, "*In a time of deceit, telling the truth is a revolutionary act*," is so widely misattributed to George Orwell.
 
