@@ -34,7 +34,7 @@ var sectionHeight = function() {
     $('img').on('load', sectionHeight);
   });
 
-// Implement infinite scroll on default.html liquid {{content}}
+// Implement infinite scroll on default.html liquid {{content}} - didn't work
 const container = document.getElementById('infinite-scroll-container');
 const observer = new IntersectionObserver(handleIntersection, { threshold: 0.8 });
 
