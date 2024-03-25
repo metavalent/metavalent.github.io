@@ -25,7 +25,7 @@ Your browser does not support the video tag.
 -->
 
 <!-- YouTube Player -->
-<iframe loading="lazy" id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/0123456789" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/0123456789" frameborder="0" loading="lazy"></iframe>
 
 
 Watch [Video_Title](https://youtu.be/0123456789) if the embed does not behave nicely.
@@ -42,7 +42,7 @@ Your browser does not support the audio element.
 <!-- Custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
 RESIZE:
-<img loading="lazy" src="https://metavalent.com/assets/images/IMAGE.jpg" width="300" height="300">
+<img src="https://metavalent.com/assets/images/IMAGE.jpg" alt="" width="300" height="300" loading="lazy">
 -->
 
 ---
