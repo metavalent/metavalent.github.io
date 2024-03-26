@@ -12,7 +12,7 @@ modified: 2024-03-26T11:11:11-07:00
 
 ### Actions Speak Louder than Words
 
-Salient: On the "[glory age[(https://youtu.be/GkC1BYzK4NA?t=4285)]" of science and what happens when Science [sacrifices its moral compass](https://youtu.be/GkC1BYzK4NA?t=1h13m10s) to Mammon.
+Salient: On the "[glory age](https://youtu.be/GkC1BYzK4NA?t=4285)" of science and what happens when Science [sacrifices its moral compass](https://youtu.be/GkC1BYzK4NA?t=1h13m10s) to Mammon.
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/GkC1BYzK4NA" frameborder="0" loading="lazy"></iframe>
