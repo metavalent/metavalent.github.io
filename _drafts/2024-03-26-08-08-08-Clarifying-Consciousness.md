@@ -10,14 +10,17 @@ created: 2024-03-26T08:08:08-07:00
 modified: 2024-03-26T11:11:11-07:00
 ---
 
-### Actions Speak Louder than Words
+### On the Doing of Being and Being of Doing
 
-Salient: On the "[glory age](https://youtu.be/GkC1BYzK4NA?t=4285)" of science and what happens when Science [sacrifices its moral compass](https://youtu.be/GkC1BYzK4NA?t=1h13m10s) to Mammon.
+Maybe consider dropping the doobies and get back to being a good "Do &ndash; Be." You know, make your *actions* match your *words* again. Better yet, make your *thoughts* match your words; which are the origin of actions. If you can't manage your own thoughts, what hope is there to ever manage any other aspect of life?
 
 <!-- YouTube Player -->
 <iframe id="ytplayer" type="text/html" class="center" width="560" height="320" src="https://www.youtube.com/embed/GkC1BYzK4NA" frameborder="0" loading="lazy"></iframe>
 
 Watch [The Darien Gap & Postmodernism \| Bret Weinstein \| EP 434](https://youtu.be/GkC1BYzK4NA) if the embed does not behave nicely.
+
+* On the "[glory age](https://youtu.be/GkC1BYzK4NA?t=4285)" of science and what happens when Science [sacrifices its moral compass](https://youtu.be/GkC1BYzK4NA?t=1h13m10s) to Mammon.
+* What does it mean to "[be religious](https://youtu.be/GkC1BYzK4NA?t=1h15m)" from a biological-evolutionary perspective?
 
 <!-- Custom thumbnail
 ![alt text](/assets/images/image.jpg "title")
