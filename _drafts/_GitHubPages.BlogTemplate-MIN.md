@@ -18,7 +18,7 @@ modified: 2024-03-15T11:11:11-07:00
 Watch [Video_Title](https://youtu.be/0123456789) if the embed does not behave nicely.
 
 <!-- Custom thumbnail
-![alt text](/assets/images/image.jpg "title")
+![alt text](../assets/images/image.jpg "title")
 RESIZE:
 <img src="https://metavalent.com/assets/images/IMAGE.jpg" alt="" width="300" height="300" loading="lazy">
 -->

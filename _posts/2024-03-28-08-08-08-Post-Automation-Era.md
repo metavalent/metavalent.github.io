@@ -6,13 +6,13 @@ published: true
 comments: true
 categories: metavalent
 tags: metavalent
-created: 2024-03-28T08:08:08-07:00
+created: 2024-03-28T11:11:11-07:00
 modified: 2024-03-28T11:11:11-07:00
 ---
 
 ### Toward a World That Works for Everyone
 
-[![Book - The Post-Automation Era: Toward a World That Works for Everyone](/assets/images/PostAutomationEraBookCover.jpg)](https://www.amazon.com/dp/1732930031)
+[![Book - The Post-Automation Era: Toward a World That Works for Everyone](../assets/images/PostAutomationEraBookCover.jpg)](https://www.amazon.com/dp/1732930031)
 
 Direct link to [The Post-Automation Era: Toward a World That Works for Everyone](https://www.amazon.com/dp/1732930031) if embed above doesn't behave nicely.
 
